@@ -17,9 +17,24 @@ interface Message {
   sources?: Source[];
 }
 
+const hard_code_user_names = [
+  'John Doe',
+  'Jane Smith',
+  'Alice Johnson',
+  'Bob Brown',
+  'Charlie Davis',
+  'Diana Evans',
+  'Ethan Foster',
+  'Fiona Green',
+  'George Harris',
+  'Hannah Ives'
+];
+
+
 export default function Home() {
   const [prompt, setPrompt] = useState('');
   const [messages, setMessages] = useState<Message[]>([]);
+  const [error, setError] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
@@ -30,48 +45,61 @@ export default function Home() {
     e.preventDefault();
     if (!prompt.trim()) return;
 
-    // Sample sources with excerpts
-    const sampleSources: Source[] = [
-      {
-        name: 'Income Tax Department',
-        tag: 'official',
-        excerpt: 'New tax regime is the default tax regime for the assessee being an Individual',
-        sourcelink: 'https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1'
-      },
-      {
-        name: 'Department of Revenue',
-        tag: 'official',
-        excerpt: 'New tax regime offers lower tax rates without exemptions and deductions, aimed at simplifying the tax structure.',
-        sourcelink: 'https://dor.gov.in/'
-      },
-      {
-        name: 'India Code',
-        tag: 'official',
-        excerpt: 'The Income Tax Act of 1961 provides the legislative framework for taxation of income in India.',
-        sourcelink: 'https://www.indiacode.nic.in/'
-      },
-      {
-        name: 'Clear Tax',
-        tag: '+3',
-        excerpt: 'The revised tax slabs under the new regime for FY 2025-26',
-        sourcelink: 'https://cleartax.in/s/income-tax-slabs'
-      }
-    ];
+    const randomUserName = hard_code_user_names[Math.floor(Math.random() * hard_code_user_names.length)];
 
     const userMessage: Message = {
       role: 'user',
       content: prompt
     };
 
-    const assistantMessage: Message = {
-      role: 'assistant',
-      content: "<Model response for the query> \n \n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat, libero nec lobortis venenatis, arcu nunc blandit dolor, et varius dui ex id elit. Proin enim ante, auctor id volutpat a, pulvinar ut sapien. Curabitur fringilla elementum turpis ut luctus. Nam lorem eros, tristique nec felis vitae, dignissim mollis lacus. Quisque fringilla molestie justo non maximus. Sed vel scelerisque nisl, eget ornare urna. Phasellus euismod purus quis odio auctor sodales. Proin a turpis facilisis lorem maximus euismod vitae at magna. Cras posuere luctus tortor et bibendum. Nullam suscipit erat est, ac dignissim felis mollis vel. Aenean eget urna a ante consectetur vulputate placerat at metus. Suspendisse scelerisque in dolor ut egestas. Nam at fringilla urna, vel dignissim purus. Cras consectetur fermentum urna, nec mattis augue sodales in. Morbi consequat dictum odio. ",
-      sources: sampleSources
-    };
+    // DEBUG
+    console.log('User message:', userMessage);
 
-    setMessages(prev => [...prev, userMessage, assistantMessage]);
+    const updatedMessages = [...messages, userMessage];
+
+    setMessages(updatedMessages);
     setPrompt('');
+    setError(null);
+
+    try {
+
+      // DEBUG
+      console.log('Sending messages to backend:', updatedMessages);
+
+      const res = await fetch('/api/query', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          prompt,
+          history: updatedMessages,
+          user_name: randomUserName
+        })
+      });
+
+      // DEBUG
+      console.log('Response from backend:', res);
+
+      if (!res.ok) {
+        const errData = await res.json();
+        throw new Error(errData.error || 'Failed to get a response from backend');
+      }
+
+      const data = await res.json();
+
+      const assistantMessage: Message = {
+        role: 'assistant',
+        content: data.response,
+        sources: data.sources
+      };
+
+      setMessages(prev => [...prev, assistantMessage]);
+    } catch (err: any) {
+      console.error('Fetch error:', err.message);
+      setError(err.message || 'Something went wrong. Please try again.');
+    }
   };
+
+
 
   return (
     <div className="min-h-screen bg-white flex flex-col">
@@ -89,6 +117,11 @@ export default function Home() {
 
       {/* Chat Messages */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 mt-16 mb-24 overflow-auto">
+        {error && (
+          <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-6" role="alert">
+            <strong className="font-bold">Error:</strong> <span className="block sm:inline">{error}</span>
+          </div>
+        )}
         {messages.length === 0 ? (
           <div className="flex flex-col items-center justify-center min-h-[60vh]">
             <p className="text-2xl text-gray-900">

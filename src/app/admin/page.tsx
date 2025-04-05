@@ -1,65 +1,115 @@
 // src/app/admin/page.tsx
 'use client';
+import { createClient } from '@supabase/supabase-js';
+import { useEffect, useState } from 'react';
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
+import relativeTime from "dayjs/plugin/relativeTime";
+import { Trash2 } from "lucide-react";
 
-import { useState } from 'react';
+dayjs.extend(utc);
+dayjs.extend(timezone);
+dayjs.extend(relativeTime);
+
+const supabase = createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+);
 
 interface UserQuery {
-    userId: string;
-    userName: string;
-    prompt: string;
-    timestamp: string;
-    department: string;
+    user_id: string;
+    user_name: string;
+    // department: string;
+    user_prompt: string;
+    created_at: string;
 }
 
 interface Document {
     id: string;
-    name: string;
-    uploadedBy: string;
-    uploadDate: string;
-    size: string;
-    status: 'processing' | 'ready' | 'error';
+    filename: string;
+    upload_time: string;
+    filesize: number;
+    status: 'uploaded' | 'processing' | 'ready' | 'error';
 }
+
 
 export default function AdminDashboard() {
     const [activeTab, setActiveTab] = useState<'queries' | 'documents'>('queries');
     const [dragActive, setDragActive] = useState(false);
+    const [queries, setQueries] = useState<UserQuery[]>([]);
+    const [documents, setDocuments] = useState<Document[]>([]);
+
+    const fetchDocuments = async () => {
+        const { data, error } = await supabase
+            .from('uploaded_files')
+            .select('*')
+            .order('upload_time', { ascending: false });
+        if (error) {
+            console.error("Error fetching documents:", error);
+        } else {
+            setDocuments(data as Document[]);
+        }
+    };
+
+
+    useEffect(() => {
+        const fetchQueries = async () => {
+            const { data, error } = await supabase
+                .from('queries')
+                .select('*')
+                .order('created_at', { ascending: false });
+            if (error) {
+                console.error("Error fetching queries:", error);
+            } else {
+                setQueries(data);
+            }
+        };
+
+        if (activeTab === 'queries') {
+            fetchQueries();
+        } else if (activeTab === 'documents') {
+            fetchDocuments();
+        }
+    }, [activeTab]);
+
 
     // Sample data
-    const recentQueries: UserQuery[] = [
-        {
-            userId: "U123",
-            userName: "John Doe",
-            prompt: "What are the new tax implications for remote workers?",
-            timestamp: "2024-02-23 14:30",
-            department: "Finance"
-        },
-        {
-            userId: "U124",
-            userName: "Jane Smith",
-            prompt: "How do we handle international client payments?",
-            timestamp: "2024-02-23 14:15",
-            department: "Sales"
-        }
-    ];
+    // const recentQueries: UserQuery[] = [
+    //     {
+    //         user_id: "U123",
+    //         user_name: "John Doe",
+    //         user_prompt: "What are the new tax implications for remote workers?",
+    //         timestamp: "2024-02-23 14:30",
+    //         department: "Finance"
+    //     },
+    //     {
+    //         user_id: "U124",
+    //         user_name: "Jane Smith",
+    //         user_prompt: "How do we handle international client payments?",
+    //         timestamp: "2024-02-23 14:15",
+    //         department: "Sales"
+    //     }
+    // ];
 
-    const documents: Document[] = [
-        {
-            id: "D1",
-            name: "Internal_Tax_Guidelines_2024.pdf",
-            uploadedBy: "Admin",
-            uploadDate: "2024-02-22",
-            size: "2.4 MB",
-            status: "ready"
-        },
-        {
-            id: "D2",
-            name: "Client_Confidential_Procedures.docx",
-            uploadedBy: "Admin",
-            uploadDate: "2024-02-21",
-            size: "1.8 MB",
-            status: "processing"
-        }
-    ];
+    // const documents: Document[] = [
+    //     {
+    //         id: "D1",
+    //         filename: "Internal_Tax_Guidelines_2024.pdf",
+    //         uploadedBy: "Admin",
+    //         upload_time: "2024-02-22",
+    //         filesize: "2.4 MB",
+    //         status: "ready"
+    //     },
+    //     {
+    //         id: "D2",
+    //         filename: "Client_Confidential_Procedures.docx",
+    //         uploadedBy: "Admin",
+    //         upload_time: "2024-02-21",
+    //         filesize: "1.8 MB",
+    //         status: "processing"
+    //     }
+    // ];
 
     const handleDrag = (e: React.DragEvent) => {
         e.preventDefault();
@@ -78,6 +128,36 @@ export default function AdminDashboard() {
         const files = Array.from(e.dataTransfer.files);
         // Handle file upload logic here
         console.log("Files to upload:", files);
+    };
+
+    const handleDelete = async (id: string) => {
+        const doc = documents.find(d => d.id === id);
+        if (!doc) return;
+
+        const confirm = window.confirm(`Delete "${doc.filename}"?`);
+        if (!confirm) return;
+
+        try {
+            const res = await fetch('/api/delete', {
+                method: 'POST',
+                body: JSON.stringify({ id: doc.id, filename: doc.filename }),
+                headers: { 'Content-Type': 'application/json' }
+            });
+
+            const data = await res.json();
+
+            if (!res.ok) {
+                alert(`Failed to delete: ${data.error}`);
+                console.log(`Failed to delete: ${data.error}`);
+                return;
+            }
+
+            setDocuments(docs => docs.filter(d => d.id !== id)); // Optimistic UI update
+            fetchDocuments(); // Refresh the document list
+        } catch (err) {
+            console.error("Delete error:", err);
+            alert("Something went wrong while deleting.");
+        }
     };
 
     return (
@@ -124,23 +204,23 @@ export default function AdminDashboard() {
                     <div className="space-y-6">
                         <h2 className="text-lg font-medium text-gray-900">Recent User Queries</h2>
                         <div className="bg-white shadow rounded-lg divide-y divide-gray-200">
-                            {recentQueries.map((query) => (
-                                <div key={query.userId} className="p-6">
+                            {queries.map((query) => (
+                                <div key={query.user_id} className="p-6">
                                     <div className="flex items-center justify-between">
                                         <div className="flex items-center space-x-3">
                                             <div className="flex-shrink-0">
                                                 <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-                                                    <span className="text-blue-800">{query.userName[0]}</span>
+                                                    <span className="text-blue-800">{query.user_name[0]}</span>
                                                 </div>
                                             </div>
                                             <div>
-                                                <p className="text-sm font-medium text-gray-900">{query.userName}</p>
-                                                <p className="text-sm text-gray-500">{query.department}</p>
+                                                <p className="text-sm font-medium text-gray-900">{query.user_name}</p>
+                                                {/* <p className="text-sm text-gray-500">{query.department}</p> */}
                                             </div>
                                         </div>
-                                        <span className="text-sm text-gray-500">{query.timestamp}</span>
+                                        <span className="text-sm text-gray-500">{dayjs.utc(query.created_at).tz("Asia/Kolkata").format("hh:mm A, DD/MM/YYYY")} ({dayjs.utc(query.created_at).tz("Asia/Kolkata").fromNow()})</span>
                                     </div>
-                                    <p className="mt-4 text-gray-600">{query.prompt}</p>
+                                    <p className="mt-4 text-gray-600">{query.user_prompt}</p>
                                 </div>
                             ))}
                         </div>
@@ -160,11 +240,51 @@ export default function AdminDashboard() {
                         >
                             <input
                                 type="file"
-                                multiple
+                                accept="application/pdf"
                                 className="hidden"
                                 id="file-upload"
-                                onChange={(e) => console.log("Files:", e.target.files)}
+                                onChange={async (e) => {
+                                    const files = e.target.files;
+                                    if (!files || files.length === 0) {
+                                        console.warn("No file selected.");
+                                        return;
+                                    }
+
+                                    const file = files[0];
+                                    console.log("Selected file:", file);
+
+                                    if (file.type !== 'application/pdf') {
+                                        alert(`File "${file.name}" is not a PDF.`);
+                                        return;
+                                    }
+
+                                    const formData = new FormData();
+                                    formData.append('file', file);
+
+                                    try {
+                                        const res = await fetch('/api/upload', {
+                                            method: 'POST',
+                                            body: formData,
+                                        });
+
+                                        const data = await res.json();
+                                        console.log("Upload response:", data);
+
+                                        if (!res.ok) {
+                                            alert(`Upload failed: ${data.error}`);
+                                            console.log(`Upload failed: ${data.error}`);
+                                        } else {
+                                            console.log("File uploaded successfully!");
+                                            fetchDocuments(); // Refresh the document list
+                                        }
+                                    } catch (err) {
+                                        console.error("Upload error:", err);
+                                        alert("Something went wrong during upload.");
+                                    }
+                                }}
                             />
+
+
                             <label
                                 htmlFor="file-upload"
                                 className="cursor-pointer inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
@@ -177,7 +297,7 @@ export default function AdminDashboard() {
                         {/* Documents List */}
                         <div className="bg-white shadow rounded-lg divide-y divide-gray-200">
                             {documents.map((doc) => (
-                                <div key={doc.id} className="p-4 flex items-center justify-between">
+                                <div key={doc.id} className="p-4 flex items-center justify-between hover:bg-gray-50 rounded-md">
                                     <div className="flex items-center space-x-4">
                                         <div className="flex-shrink-0">
                                             <svg className="h-8 w-8 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -185,20 +305,29 @@ export default function AdminDashboard() {
                                             </svg>
                                         </div>
                                         <div>
-                                            <p className="text-sm font-medium text-gray-900">{doc.name}</p>
+                                            <p className="text-sm font-medium text-gray-900">{doc.filename}</p>
                                             <p className="text-sm text-gray-500">
-                                                Uploaded {doc.uploadDate} • {doc.size}
+                                                Uploaded {dayjs.utc(doc.upload_time).tz("Asia/Kolkata").format("DD MMM YYYY, hh:mm A")} • {(doc.filesize / (1024 * 1024)).toFixed(2)} MB
                                             </p>
                                         </div>
                                     </div>
-                                    <span className={`px-2 py-1 text-xs rounded-full ${doc.status === 'ready'
-                                        ? 'bg-green-100 text-green-800'
-                                        : doc.status === 'processing'
-                                            ? 'bg-yellow-100 text-yellow-800'
-                                            : 'bg-red-100 text-red-800'
-                                        }`}>
-                                        {doc.status}
-                                    </span>
+                                    <div className="flex items-center space-x-2">
+                                        <span className={`px-2 py-1 text-xs rounded-full ${doc.status === 'ready'
+                                            ? 'bg-green-100 text-green-800'
+                                            : doc.status === 'processing'
+                                                ? 'bg-yellow-100 text-yellow-800'
+                                                : 'bg-red-100 text-red-800'
+                                            }`}>
+                                            {doc.status}
+                                        </span>
+                                        <button
+                                            onClick={() => handleDelete(doc.id)}
+                                            className="text-gray-400 hover:text-red-600 transition duration-150 ease-in-out"
+                                            title="Delete"
+                                        >
+                                            <Trash2 className="w-5 h-5" />
+                                        </button>
+                                    </div>
                                 </div>
                             ))}
                         </div>
