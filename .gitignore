@@ -40,10 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# intermediary files
+# project specific
 processing/*
 data/*
 test.py
 backend/__pycache__/
 backend/.env
 final/*
+.vscode/
