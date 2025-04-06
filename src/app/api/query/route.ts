@@ -33,7 +33,7 @@ export async function POST(req: NextRequest) {
             return NextResponse.json({ error: 'Failed to save query' }, { status: 500 });
         }
 
-        console.log('DEBUG', prompt, user_name);
+        // console.log('DEBUG', prompt, user_name);
 
         const response = await fetch('http://localhost:8000/api/query', {
             method: 'POST',

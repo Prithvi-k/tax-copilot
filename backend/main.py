@@ -47,6 +47,8 @@ async def query_llm(query_req: QueryRequest):
 
         formatted_sources = []
         for src in raw_sources:
+            is_web_source = src["chapter_name"].startswith("Web Source")
+
             formatted_sources.append(
                 {
                     "chapter_name": src.get("chapter_name", "Indian Tax Code"),
@@ -54,9 +56,11 @@ async def query_llm(query_req: QueryRequest):
                         "name",
                         src.get("chapter_name", "Unknown Title") + " | Indian Tax Code",
                     ),
-                    "excerpt": src.get("excerpt", "Excerpt available."),
-                    "tag": src.get("tag", "official"),
-                    "sourcelink": f"https://github.com/Prithvi-k/tax-copilot/blob/main/data/{src.get('chapter_name', 'TAX_CODE_2025')}.pdf",
+                    "excerpt": src.get("excerpt", "Excerpt unavailable."),
+                    "tag": "web" if is_web_source else "official",
+                    "sourcelink": src["sourcelink"]
+                    if is_web_source
+                    else f"https://github.com/Prithvi-k/tax-copilot/blob/main/data/{src.get('chapter_name', 'TAX_CODE_2025')}.pdf",
                 }
             )
 

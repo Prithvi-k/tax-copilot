@@ -131,45 +131,76 @@ export default function Home() {
                   </h2>
                 ) : (
                   <div className="space-y-6">
+                    {/* Sources section with official and web sources separated */}
                     {message.sources && (
-                      <div className="flex flex-wrap gap-3">
-                        {message.sources.map((source, idx) => (
-                          <a
-                            key={idx}
-                            href={source.sourcelink} // Navigate to the source link
-                            target="_blank" // Open in a new tab
-                            rel="noopener noreferrer" // Security best practice
-                            className="group relative cursor-pointer no-underline"
-                          >
-                            {/* Base tag (always visible) */}
-                            <div className={`flex items-center rounded-full px-4 py-2 ${source.tag === 'official'
-                              ? 'bg-blue-50'
-                              : 'bg-green-50'
-                              }`}>
-                              <span className="text-sm text-gray-900">{source.name}</span>
-                              <span className={`ml-2 px-2 py-0.5 rounded-full text-xs ${source.tag === 'official'
-                                ? 'bg-blue-600 text-white'
-                                : 'bg-green-600 text-white'
-                                }`}>
-                                {source.tag}
-                              </span>
-                            </div>
+                      <div className="flex flex-col gap-3">
+                        {/* Official sources row */}
+                        <div className="flex flex-wrap gap-3">
+                          {message.sources
+                            .filter(source => source.tag === 'official')
+                            .map((source, idx) => (
+                              <a
+                                key={idx}
+                                href={source.sourcelink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="group relative cursor-pointer no-underline"
+                              >
+                                {/* Base tag (always visible) */}
+                                <div className="flex items-center rounded-full px-4 py-2 bg-blue-50">
+                                  <span className="text-sm text-gray-900">{source.name}</span>
+                                  <span className="ml-2 px-2 py-0.5 rounded-full text-xs bg-blue-600 text-white">
+                                    {source.tag}
+                                  </span>
+                                </div>
 
-                            {/* Expanded box (visible on hover) */}
-                            <div className="invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 absolute top-0 left-0 right-0 bg-white border border-gray-200 rounded-lg shadow-lg p-4 min-w-[300px] z-20">
-                              <div className="flex items-center justify-between mb-2">
-                                <span className="font-medium text-gray-900">{source.name}</span>
-                                <span className={`px-2 py-0.5 rounded-full text-xs ${source.tag === 'official'
-                                  ? 'bg-blue-600 text-white'
-                                  : 'bg-green-600 text-white'
-                                  }`}>
-                                  {source.tag}
-                                </span>
-                              </div>
-                              <p className="text-sm text-gray-600">{source.excerpt}</p>
-                            </div>
-                          </a>
-                        ))}
+                                {/* Expanded box (visible on hover) */}
+                                <div className="invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 absolute top-0 left-0 right-0 bg-white border border-gray-200 rounded-lg shadow-lg p-4 min-w-[300px] z-20">
+                                  <div className="flex items-center justify-between mb-2">
+                                    <span className="font-medium text-gray-900">{source.name}</span>
+                                    <span className="px-2 py-0.5 rounded-full text-xs bg-blue-600 text-white">
+                                      {source.tag}
+                                    </span>
+                                  </div>
+                                  <p className="text-sm text-gray-600">{source.excerpt}</p>
+                                </div>
+                              </a>
+                            ))}
+                        </div>
+
+                        {/* Web sources row */}
+                        <div className="flex flex-wrap gap-3">
+                          {message.sources
+                            .filter(source => source.tag === 'web')
+                            .map((source, idx) => (
+                              <a
+                                key={idx}
+                                href={source.sourcelink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="group relative cursor-pointer no-underline"
+                              >
+                                {/* Base tag (always visible) */}
+                                <div className="flex items-center rounded-full px-4 py-2 bg-green-50">
+                                  <span className="text-sm text-gray-900">{source.name}</span>
+                                  <span className="ml-2 px-2 py-0.5 rounded-full text-xs bg-green-600 text-white">
+                                    {source.tag}
+                                  </span>
+                                </div>
+
+                                {/* Expanded box (visible on hover) */}
+                                <div className="invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 absolute top-0 left-0 right-0 bg-white border border-gray-200 rounded-lg shadow-lg p-4 min-w-[300px] z-20">
+                                  <div className="flex items-center justify-between mb-2">
+                                    <span className="font-medium text-gray-900">{source.name}</span>
+                                    <span className="px-2 py-0.5 rounded-full text-xs bg-green-600 text-white">
+                                      {source.tag}
+                                    </span>
+                                  </div>
+                                  <p className="text-sm text-gray-600">{source.excerpt}</p>
+                                </div>
+                              </a>
+                            ))}
+                        </div>
                       </div>
                     )}
                     {/* <p className="text-gray-900 text-lg">

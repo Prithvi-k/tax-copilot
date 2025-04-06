@@ -8,6 +8,8 @@ from groq import Groq
 from googlesearch import search
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+import tldextract
+from urllib.parse import urlparse
 
 # === CONFIG ===
 load_dotenv()
@@ -92,7 +94,7 @@ def query_faiss(index, metadata, query, api_key, model, top_k=3):
 
 def build_prompt_from_results(query, faiss_results, web_results):
     prompt = "You are a helpful assistant specialized in Indian taxation law.\n"
-    prompt += "Use the following excerpts from legal chapters and Google search results to answer the question. Cite all relevant sources including chapters , sections and websites\n\n"
+    prompt += "Use the following excerpts from legal chapters and Google search results to answer the question. Cite all relevant sources including chapters, sections, and websites.\n\n"
 
     # Sort faiss_results by score and take only the top 3
     sorted_faiss = sorted(faiss_results, key=lambda x: x["score"])
@@ -101,15 +103,19 @@ def build_prompt_from_results(query, faiss_results, web_results):
     for r in top_faiss:
         prompt += f"From {r['chapter']}:\n{r['text']}\n\n"
 
-    # Take only the top 3 web results
+    # Take only the top 3 web results (using the dictionary keys)
     top_web = web_results[:3]
 
-    for i, (url, snippet) in enumerate(top_web, 1):
-        prompt += f"Web Source {i} ({url}):\n{snippet}\n\n"
+    for i, result in enumerate(top_web, 1):
+        title = result["title"]
+        snippet = result["snippet"]
+        url = result["url"]
+        prompt += f"Web Source {i} ({title} - {url}):\n{snippet}\n\n"
 
     prompt += f"Question: {query}\nAnswer:"
 
     return prompt
+
 
 
 def ask_taxcopilot(
@@ -144,22 +150,35 @@ def extract_snippet_from_url(url, max_length=500):
     try:
         response = requests.get(url, timeout=10)
         soup = BeautifulSoup(response.text, "html.parser")
+
+        # Get title
+        title_tag = soup.find("title")
+        title = title_tag.get_text().strip() if title_tag else "No Title"
+
+        # Get snippet
         paragraphs = soup.find_all("p")
         text = " ".join([p.get_text() for p in paragraphs])
-        return text[:max_length]
+        snippet = text[:max_length]
+
+        return {"title": title, "snippet": snippet}
     except Exception as e:
         print(f"❌ Error extracting {url}: {e}")
-        return ""
+        return None
 
 
 def get_google_search_results(query, num_results=3):
     results = []
     for url in search(query, num_results=num_results):
-        snippet = extract_snippet_from_url(url)
-        if snippet:
-            results.append((url, snippet))
+        data = extract_snippet_from_url(url)
+        if data:
+            results.append(
+                {"url": url, "title": data["title"], "snippet": data["snippet"]}
+            )
     return results
 
+def get_website_name(url: str) -> str:
+    extracted = tldextract.extract(url)
+    return extracted.domain.capitalize()
 
 # === MAIN ===
 def run_full_pipeline(QUERY: str):
@@ -167,7 +186,11 @@ def run_full_pipeline(QUERY: str):
     MODEL = "sentence-transformers/all-MiniLM-l6-v2"
     CHAPTER_CSV = "src.csv"
     CHAPTER_FOLDER = "chapter_files"
+
+    # Step 1: Top Chapters
     chapters = get_top_chapters(CHAPTER_CSV, QUERY, API_KEY, MODEL)
+
+    # Step 2: FAISS search
     all_results = []
     for chapter in chapters:
         index, metadata = build_faiss_for_chapter(
@@ -175,28 +198,38 @@ def run_full_pipeline(QUERY: str):
         )
         all_results.extend(query_faiss(index, metadata, QUERY, API_KEY, MODEL))
 
+    # Step 3: Google results
     google_results = get_google_search_results(QUERY)
+
+    # Step 4: Prompt and LLM response
     final_prompt = build_prompt_from_results(QUERY, all_results, google_results)
     answer = ask_taxcopilot(final_prompt)
 
+    # Step 5: Format sources
     sorted_faiss = sorted(all_results, key=lambda x: x["score"])[:3]
     sources = []
+
     for item in sorted_faiss:
         sources.append(
             {
                 "chapter_name": item["chapter"],
-                "name": "Tax Code",
+                # "name": "Tax Code",
                 "excerpt": item["text"],
             }
         )
 
-    for i, (url, snippet) in enumerate(google_results[:3], 1):
+    for i, result in enumerate(google_results[:3], 1):
+        website_name = get_website_name(result["url"])
         sources.append(
-            {"chapter_name": f"Web Source {i}", "name": url, "excerpt": snippet}
+            {
+                "chapter_name": f"Web Source {i}",
+                "name": website_name,
+                "sourcelink": result["url"],
+                "excerpt": result["snippet"],
+            }
         )
 
     print("Answer:", answer)
     print("Sources:", sources)
 
     return answer.strip(), sources
-
