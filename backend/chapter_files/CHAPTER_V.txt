@@ -1,0 +1,347 @@
+143
+
+CHAPTER V
+INCOME OF OTHER PERSONS, INCLUDED IN TOTAL INCOME OF ASSESSEE
+96. All income arising to any person by virtue of transfer,––
+5
+
+(a) whether revocable or not, and whether effected before or after the
+commencement of this Act; and
+
+Transfer of
+income without
+transfer of
+assets.
+
+(b) where there is no transfer of assets from which such income arises,
+shall be chargeable to income-tax as the income of the transferor and shall be
+included in his total income.
+10
+
+97. (1) All income arising to any person by virtue of a revocable transfer of
+assets shall be chargeable to income-tax as income of the transferor and shall be
+included in his total income.
+
+Chargeability of
+income in
+transfer of
+assets.
+
+(2) The provisions of sub-section (1) shall not apply, if such transfer—
+15
+
+(a) is by way of trust which is not revocable during the lifetime of the
+beneficiary; or
+(b) and in case of any other transfer, is not revocable during the lifetime
+of the transferee,
+and the transferor does not derive any direct or indirect benefit from such income
+in cases referred to in clauses (a) and (b).
+
+20
+
+(3) Irrespective of the provisions of sub-section (2), all income arising to any
+person by virtue of such transfer shall be chargeable to income-tax as income of
+the transferor as and when the power to revoke such transfer arises, and shall than
+be included in his total income.
+98. For the purposes of sections 96 and 97, and this section,—
+
+25
+
+(a) “transfer” includes any settlement, trust, covenant, agreement or
+arrangement;
+
+“Transfer” and
+“revocable
+transfer”
+defined.
+
+(b) a transfer shall be considered to be revocable, if––
+(i) it contains any provision for the direct or indirect re-transfer of
+the whole or any part of the income or assets to the transferor; or
+30
+
+(ii) it, in any way, gives the transferor a right to re-assume power
+directly or indirectly over the whole or any part of the income or
+assets.
+99. (1) The total income of any individual, for a tax year, shall include the
+income arising directly or indirectly,––
+
+35
+
+(a) to the spouse,—
+
+40
+
+(i) by way of salary, commission, fees or any other form of
+remuneration, whether in cash or kind, from a concern in which such
+individual has a substantial interest but shall not exclude income solely
+attributable to the application of technical or professional knowledge,
+experience and professional qualification of the spouse;
+(ii) from assets transferred directly or indirectly to him or her by such
+individual otherwise than for adequate consideration or in connection with
+an agreement to live apart, subject to the provisions of section 25(a);
+
+45
+
+(iii) from assets transferred directly or indirectly to any person or
+association of persons otherwise than for adequate consideration to the
+extent to which the income from such assets is for the immediate or
+deferred benefit of the spouse;
+
+Income of
+individual to
+include income
+of spouse, minor
+child, etc.
+
+144
+(b) to the son’s wife,––
+(i) from assets transferred directly or indirectly on or after the
+1st June, 1973, to her by such individual, otherwise than for adequate
+consideration; or
+(ii) from assets transferred directly or indirectly on or after the
+1st June, 1973, to any person or association of persons otherwise than
+for adequate consideration to the extent to which the income from such
+assets is for the immediate or deferred benefit of the son’s wife;
+(c) to the minor child of the individual but shall not include in the total
+income of the individual where the income arising or accruing to the minor
+child is from manual work done by such child, or from activities where his
+skill, talent, specialised knowledge or experience is applied, or where such
+minor child is suffering from disability of the nature specified in section 154.
+(2) If the asset transferred under sub-section (1)(a) or (b) is invested by the
+spouse or son’s wife, in any business or capital contributed as a partner in a firm,
+or, as the case may be, for being admitted to the benefits of partnership in a firm,
+then, the income to be included in the hands of the individual for the tax year shall
+be as follows:––
+
+5
+
+10
+
+15
+
+𝐶
+
+A=B×( )
+𝐷
+
+where,––
+
+20
+
+A = Income to be included in the hands of individual for the tax year;
+B = Income and interest or both, arising to the spouse or son’s wife
+from the business or the firm, as applicable during the tax year;
+C = Value of such assets invested, or contributed as capital by the
+spouse or son’s wife as on the first day of the tax year;
+
+25
+
+D = Total investment or total capital contribution, as the case may be,
+by the spouse or son’s wife as on the day for which A is being computed.
+(3) Where a property owned by an individual is converted into property
+belonging to the Hindu undivided family of which he is a member, through––
+(a) the act of impressing such separate property with the character of
+property belonging to the family; or
+
+30
+
+(b) throwing it into the common stock of the family; or
+(c) transfer, directly or indirectly to the family,
+without adequate consideration, then, irrespective of any other provision of this Act
+or any other law in force for computing the total income of such individual,––
+
+35
+
+(i) the individual shall be deemed to have transferred such property,
+through the family, to the members of such family for being held jointly, and
+the income derived from such property or part thereof, shall be deemed to be
+income of the individual;
+(ii) upon partition (whether partial or total) of the family, the income
+derived from such property as is received by the spouse of the individual on
+partition, shall be deemed to arise to the spouse from assets transferred
+indirectly to the spouse and the provisions of sub-section (1)(a) shall apply;
+(iii) the income referred to in clauses (i) and (ii) shall, on being included
+in the total income of the individual, be excluded from the total income of
+the family or, the spouse.
+(4) The provisions of sub-section (3) shall not apply where the property of
+the individual has been converted into property belonging to the family on or before
+the 31st December, 1969.
+
+40
+
+45
+
+145
+
+(5) In this section,––
+(a) for sub-section (1)(a),––
+
+5
+
+(i) the income referred to in that clause shall be included in the
+hands of either of the spouse whose total income before such inclusion
+is greater; and
+(ii) such income, once included in the total income of either
+spouse, for a tax year, shall not be included in the income of the other
+spouse for any succeeding tax year, unless the Assessing Officer is so
+satisfied, after giving the other spouse an opportunity of being heard;
+
+10
+
+15
+
+20
+
+(iii) “substantial interest in a concern” means,—
+(A) in case of a company, if its shares (not being shares
+entitled to a fixed rate of dividend whether with or without a
+further right to participate in profits) carrying not less than 20%
+of the voting power are, at any time during the tax year, owned
+beneficially by the individual or jointly with one or more of his
+relatives;
+(B) in any other case, if such person is entitled, or such
+person and one or more of his relatives are jointly entitled, to
+atleast 20% of the profits of such concern at any time during the
+tax year;
+(b) for sub-section (1)(d), income of minor child shall be included—
+(i) in the income of that parent whose total income before such
+inclusion is greater in case where the marriage of his parents subsists; or
+
+25
+
+(ii) in the income of the parent who maintains such child during
+the tax year in case where marriage of his parents does not subsist,
+and such income, once included in the total income of either parent, for a tax year,
+shall not be included in the income of the other parent for any succeeding tax year,
+unless the Assessing Officer is so satisfied, after giving the other parent an
+opportunity of being heard;
+
+30
+
+(c) for sub-section (3), “property” includes––
+(i) interest in property; or
+(ii) movable or immovable property; or
+(iii) proceeds of sale of such property and any money, property or
+investment representing such proceeds; or
+
+35
+
+(iv) where property is converted into any other property by any
+method, such other property;
+(d) for this section, “income” includes loss.
+
+40
+
+45
+
+100. Where, income of a person, other than the assessee, arising from any
+asset, or income from membership of a firm, is included in the total income of the
+assessee under this Chapter or under section 25(a), then, irrespective of anything
+to the contrary contained in any other law in force,––
+(a) such person, in whose name such asset stands, shall be liable to pay,
+that portion of the tax levied on the assessee which is attributable to the
+income so included, upon service of notice of demand by the Assessing
+Officer in this behalf;
+(b) where any such asset is held jointly by more than one person, they
+shall be jointly and severally liable to pay such tax; and
+(c) the provisions of Chapter XIX-D shall apply accordingly.
+
+Liability of
+person in respect
+of income
+included in
+income of
+another person.
+
+146
+
+CHAPTER VI
+AGGREGATION OF INCOME
+Total
+income.
+
+101. In computing the total income of an assessee, there shall be included all
+income on which no income-tax is payable under Chapter XVIIA-4.
+
+Unexplained
+credits.
+
+102. (1) Where any sum is found credited in the books of account maintained
+by the assessee for any tax year, and––
+
+5
+
+(a) the assessee offers no explanation about the nature and source of
+such credit; or
+(b) the explanation offered by assessee is not satisfactory in the opinion
+of the Assessing Officer,
+
+10
+
+then, the sum so credited shall be charged to income-tax as income of the assessee
+of that tax year.
+(2) If the sum so credited consists of loan or borrowing, or any such amount,
+by whatever name called, the explanation offered by such assessee shall be deemed
+to be not satisfactory, unless,—
+
+15
+
+(a) the person in whose name such credit is recorded in the books of
+such assessee also offers an explanation about the nature and source of such
+sum so credited; and
+(b) such explanation, in the opinion of the Assessing Officer referred to
+in sub-section (1), has been found to be satisfactory.
+
+20
+
+(3) If the assessee is a company (not being a company in which the public are
+substantially interested), and the sum so credited consists of share application
+money, share capital, share premium, or any such amount, by whatever name
+called, the explanation offered by such assessee company shall be deemed to be
+not satisfactory, unless—
+
+25
+
+(a) the person, being a resident in whose name such credit is recorded
+in the books of such company also offers an explanation about the nature and
+source of such sum so credited; and
+(b) such explanation, in the opinion of the Assessing Officer referred to
+in sub-section (1), has been found to be satisfactory.
+
+30
+
+(4) Nothing contained in sub-section (2) or (3) shall apply if the person, in
+whose name the sum referred to in those sub-sections is recorded, is a venture capital
+fund or a venture capital company as referred to in Schedule V (Table: Sl. No. 6).
+Unexplained
+investment.
+
+103. Where in any tax year, any investment has been made by the assessee which
+is not recorded in the books of account, if any, maintained by such assessee, or, the
+Assessing Officer finds that the amount of such investment exceeds the amount recorded
+in such books of account where the investment is found recorded, and the assessee––
+
+35
+
+(a) offers no explanation about the nature and source of such
+investment, or such excess amount, as the case may be; or
+(b) the explanation offered by the assessee, is not satisfactory in the
+opinion of the Assessing Officer,
+
+40
+
+then, the value of such investment, or such excess amount, as the case may be, shall
+be deemed to be the income of the assessee of that tax year.
+Unexplained
+asset.
+
+104. (1) Where in any tax year, any asset has been found to be owned by or
+belonging to the assesse which is not recorded in the books of account, if any,
+maintained by such assessee, or the Assessing Officer finds that the amount of such
+asset exceeds the amount recorded in such books of account where the asset is
+found recorded, and the assesse––
+
+45
+
+

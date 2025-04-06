@@ -1,0 +1,1434 @@
+190
+
+(a) at the Indian rate of tax or the rate of tax of the said country, whichever
+is the lower; or
+(b) at the Indian rate of tax, if both the rates are equal.
+(2) If any non-resident person is assessed on his share in the income of a
+registered firm assessed as resident in India in any tax year and such share includes
+any income accruing or arising outside India during that tax year (and which is not
+deemed to accrue or arise in India) in a country with which there is no agreement
+under section 159 for the relief or avoidance of double taxation and he proves that
+he has paid income-tax by deduction or otherwise under the law in force in that
+country in respect of the income so included he shall be entitled to a deduction from
+the Indian income-tax payable by him of a sum calculated on such doubly taxed
+income so included,––
+
+5
+
+10
+
+(a) at the Indian rate of tax or the rate of tax of the said country, whichever
+is the lower; or
+(b) at the Indian rate of tax, if both the rates are equal.
+
+15
+
+(3) In this section,—
+(a) “income-tax” in relation to any country includes any excess profits tax
+or business profits tax charged on the profits by the Government of any part of
+that country or a local authority in that country;
+(b) “Indian income-tax” means income-tax charged as per this Act;
+
+20
+
+(c) “Indian rate of tax” means the rate determined by dividing Indian
+income-tax after deduction of any relief due under the provisions of this Act but
+before deduction of any relief due under this section, by the total income; and
+(d) “rate of tax of the said country” means income-tax and super-tax
+actually paid in the said country as per the corresponding laws in force in the
+said country after deduction of all relief due, but before deduction of any relief
+due in the said country in respect of double taxation, divided by the whole
+amount of the income as assessed in the said country.
+
+25
+
+CHAPTER X
+SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX
+Computation of
+income from
+international
+transaction and
+specified
+domestic
+transaction
+having regard to
+arm’s length
+price.
+
+30
+
+161. (1) Any income arising from an international transaction or a specified
+domestic transaction shall be determined having regard to the arm’s length price.
+(2) Any allowance for any expense or interest arising from an international
+transaction or a specified domestic transaction shall also be determined having regard to
+the arm’s length price.
+
+35
+
+(3) If in an international transaction or specified domestic transaction, two or more
+associated enterprises enter into a mutual agreement or arrangement for––
+(a) allocation or apportionment of any cost or expense incurred or to be
+incurred in connection with a benefit, service or facility provided or to be provided
+to any one or more of such enterprises; or
+(b) any contribution to any cost or expense incurred or to be incurred in
+connection with a benefit, service or facility provided or to be provided to any one
+or more of such enterprises,
+
+40
+
+191
+
+the cost or expense allocated or apportioned to, or, contributed by, any such
+enterprise shall be determined having regard to the arm’s length price of such
+benefit, service or facility.
+5
+
+10
+
+(4) The provisions of this section shall not apply if the determination under
+sub-section (1) or (2) or (3) has the effect of reducing the income chargeable to tax
+or increasing the loss, computed on the basis of entries made in the books of account
+in respect of the tax year in which the international transaction or specified domestic
+transaction was entered.
+162. (1) In this Chapter, “associated enterprise”, in relation to another
+enterprise, means an enterprise—
+(a) which participates, directly or indirectly, or through one or more
+intermediaries, in the management or control or capital of the other
+enterprise; or
+
+15
+
+20
+
+(b) in respect of which one or more persons who participate, directly or
+indirectly, or through one or more intermediaries, in its management or control
+or capital, are the same persons who participate, directly or indirectly, or
+through one or more intermediaries, in the management or control or capital
+of the other enterprise.
+(2) Without affecting the generality of the provisions of sub-section (1), two
+enterprises shall be deemed to be associated enterprises if, at any time during the
+tax year,—
+(a) one enterprise holds, directly or indirectly, shares carrying
+at least 26% of the voting power in the other enterprise; or
+
+25
+
+(b) any person or enterprise holds, directly or indirectly, shares carrying
+at least 26% of the voting power in each of such enterprises; or
+(c) a loan advanced by one enterprise to the other enterprise constitutes
+at least 51% of the book value of the total assets of the other enterprise; or
+(d) one enterprise guarantees at least 10% of the total borrowings of the
+other enterprise; or
+
+30
+
+35
+
+40
+
+45
+
+(e) more than half of the board of directors or members of the governing
+board, or one or more executive directors or executive members of the
+governing board of one enterprise, are appointed by the other enterprise; or
+(f) more than half of the directors or members of the governing board, or
+one or more of the executive directors or members of the governing board, of
+each of the two enterprises are appointed by the same person or persons; or
+(g) the manufacture or processing of goods or articles or business carried
+out by one enterprise is wholly dependent on the use of know-how, patents,
+copyrights, trademarks, licences, franchises or any other business or
+commercial rights of similar nature, or any data, documentation, drawing or
+specification relating to any patent, invention, model, design, secret formula
+or process, of which the other enterprise is the owner or in respect of which
+the other enterprise has exclusive rights; or
+(h) 90% or more of the raw materials and consumables required for the
+manufacture or processing of goods or articles carried out by one enterprise,
+are supplied by the other enterprise, or by persons specified by the other
+enterprise, and the prices and other conditions relating to the supply are
+influenced by such other enterprise; or
+
+Meaning of
+associated
+enterprise.
+
+192
+
+(i) the goods or articles manufactured or processed by one enterprise, are
+sold to the other enterprise or to persons specified by the other enterprise, and
+the prices and other conditions relating thereto are influenced by such other
+enterprise; or
+(j) where one enterprise is controlled by an individual, the other
+enterprise is also controlled by such individual or his relative or jointly by such
+individual and relative of such individual; or
+(k) where one enterprise is controlled by a Hindu undivided family, the
+other enterprise is controlled by a member of such Hindu undivided family or
+by a relative of a member of such Hindu undivided family or jointly by such
+member and his relative; or
+
+5
+
+10
+
+(l) where one enterprise is a firm, association of persons or body of
+individuals, the other enterprise holds at least 10% interest in such firm,
+association of persons or body of individuals; or
+(m) there exists between the two enterprises, any relationship of mutual
+interest, as prescribed.
+
+15
+
+(3) In relation to a specified domestic transaction entered into by an assessee,
+associated enterprise shall also include—
+(a) other units or undertakings or businesses of such assessee in respect
+of a transaction referred to in section 122 or 140(9);
+
+20
+
+(b) any other person referred to in section 140(13) or 205(4) in respect
+of a transaction referred to therein; and
+(c) other units, undertakings, enterprises or business of such assessee, or
+other person referred to in section 140(13) in respect of a transaction referred
+to in section 144 or the transactions referred to in Chapter VIII to which the
+provisions of section 140(9) or (13) are applicable.
+Meaning of
+international
+transaction.
+
+25
+
+163. (1) In this Chapter, “international transaction” means a transaction
+between two or more associated enterprises, one of which is necessarily a
+non-resident, and includes—
+(a) the purchase, sale, transfer, lease or use of tangible property,
+including building, transportation vehicle, machinery, equipment, tools, plant,
+furniture, commodity or any other article, product or thing;
+(b) the purchase, sale, transfer, lease or use of intangible property,
+including the transfer of ownership or the provision of use of rights regarding
+land use, copyrights, patents, trademarks, licences, franchises, customer list,
+marketing channel, brand, commercial secret, know-how, industrial property
+right, exterior design or practical and new design or any other business or
+commercial rights of similar nature;
+
+30
+
+35
+
+(c) capital financing, lending and borrowing of money, including,––
+(i) any type of long-term or short-term borrowing, lending or
+guarantee; or
+(ii) purchase or sale of marketable securities; or
+(iii) any type of advance, payments or deferred payment or
+receivable or any other debt arising during the course of business;
+
+40
+
+193
+
+(d) provision of services, including provision of market research, market
+development, marketing management, administration, technical service,
+repairs, design, consultation, agency, scientific research, legal or accounting
+service;
+5
+
+10
+
+15
+
+(e) a transaction of business restructuring or reorganisation, entered into
+by an enterprise with an associated enterprise, irrespective of the fact that it
+has any bearing on the profit, income, losses or assets of such enterprises at
+the time of the transaction or at any future date;
+(f) a mutual agreement or arrangement between two or more associated
+enterprises for the allocation or apportionment of, or any contribution to, any
+cost or expense incurred or to be incurred in connection with a benefit,
+service or facility provided or to be provided to any one or more of such
+enterprises; and
+(g) any other transaction having a bearing on the profits, income, losses
+or assets of such enterprises.
+(2) A transaction entered into by an enterprise with a person other than an
+associated enterprise (“other person”) shall, for sub-section (1), be deemed to be an
+international transaction entered into between two associated enterprises, if—
+
+20
+
+(a) there exists a prior agreement in relation to the relevant transaction
+between such other person and the associated enterprise; or
+(b) the terms of the relevant transaction are determined, in substance,
+between such other person and the associated enterprise,
+and the enterprise or the associated enterprise or both of them are non-residents,
+irrespective of whether the other person is a non-resident or not.
+
+25
+
+(3) The expression “intangible property” shall include the following,—
+(a) marketing related intangible assets, such as, trademarks, trade names,
+brand names, logos;
+
+30
+
+(b) technology related intangible assets, such as, process patents, patent
+applications, technical documentation such as laboratory notebooks, technical
+know-how;
+(c) artistic related intangible assets, such as, literary works and
+copyrights, musical compositions, copyrights, maps, engravings;
+
+35
+
+(d) data processing related intangible assets, such as, proprietary
+computer software, software copyrights, automated databases, and integrated
+circuit masks and masters;
+(e) engineering related intangible assets, such as, industrial design,
+product patents, trade secrets, engineering drawing and schematics, blueprints,
+proprietary documentation;
+
+40
+
+(f) customer related intangible assets, such as, customer lists, customer
+contracts, customer relationship, open purchase orders;
+(g) contract related intangible assets, such as, favourable supplier,
+contracts, licence agreements, franchise agreements, non-compete
+agreements;
+
+45
+
+(h) human capital related intangible assets, such as, trained and
+organised work force, employment agreements, union contracts;
+
+194
+
+(i) location related intangible assets, such as, leasehold interest, mineral
+exploitation rights, easements, air rights, water rights;
+(j) goodwill related intangible assets, such as, institutional goodwill,
+professional practice goodwill, personal goodwill of professional, celebrity
+goodwill, general business going concern value;
+
+5
+
+(k) methods, programmes, systems, procedures, campaigns, surveys,
+studies, forecasts, estimates, customer lists or technical data; and
+(l) any other similar item that derives its value from its intellectual
+content rather than its physical attributes.
+Meaning of
+specified
+domestic
+transaction.
+
+164. In this Chapter, “specified domestic transaction” in case of an assessee
+means any of the following transactions, not being an international transaction—
+
+10
+
+(a) any transaction referred to in section 122;
+(b) any transfer of goods or services referred to in section 140(9);
+(c) any business transacted between the assessee and other person as
+referred to in section 140(13);
+
+15
+
+(d) any transaction, referred to in any other section under Chapter VIII
+or section 144, to which provisions of section 140(9) or (13) are applicable;
+(e) any business transacted between the persons referred to in
+section 205(4);
+(f) any other transaction as prescribed,
+
+20
+
+and where the aggregate of such transactions entered into by the assessee in a tax
+year exceeds a sum of twenty crore rupees.
+Determination of
+arm's length
+price.
+
+165. (1) The arm’s length price in relation to an international transaction or
+specified domestic transaction shall be determined by any of the following methods,
+being the most appropriate method––
+
+25
+
+(a) comparable uncontrolled price method;
+(b) resale price method;
+(c) cost plus method;
+(d) profit split method;
+(e) transactional net margin method;
+
+30
+
+(f) such other method as prescribed by the Board.
+(2) The most appropriate method referred to in sub-section (1) shall be,––
+(a) selected having regard to the nature of transaction or class of
+transaction or class of associated enterprise or functions performed by such
+enterprises or such other relevant factors as the Board may prescribe;
+
+35
+
+(b) applied for determination of arm’s length price in such manner as
+prescribed.
+(3) The arm’s length price shall be—
+(a) in case, only one price is determined by the most appropriate
+method,––
+(i) the price determined by that method; or
+
+40
+
+195
+
+5
+
+(ii) the price at which the international transaction or specified
+domestic transaction has actually been undertaken, if the variation
+between the arm’s length price so determined and price at which the
+international transaction or specified domestic transaction has actually
+been undertaken does not exceed such percentage not exceeding 3% of
+the latter, notified by the Central Government in this behalf; or
+(b) in case, more than one price is determined by the most appropriate
+method, the price determined in such manner as prescribed.
+
+10
+
+15
+
+(4) The Assessing Officer, during the course of any proceeding for the
+assessment of income, may proceed to determine the arm’s length price in relation
+to an international transaction or specified domestic transaction as per
+sub-sections (1), (2) and (3) if, on the basis of material or information or document
+in his possession, he is of the opinion that—
+(a) the price charged or paid in an international transaction or specified
+domestic transaction has not been determined as per sub-sections (1), (2) and (3); or
+(b) any information and document relating to an international transaction
+or specified domestic transaction has not been kept and maintained by the
+assessee as per section 168(1); or
+
+20
+
+(c) the information or data used in determination of the arm’s length
+price by the assessee is not reliable or correct; or
+(d) the assessee has failed to furnish, within the specified time, any
+information or document which he was required to furnish by a notice issued
+under section 171(2).
+
+25
+
+30
+
+(5) The Assessing Officer, before determining the arm’s length price under
+sub-section (4), shall give a notice calling upon the assessee to show cause, on the
+date and time to be specified in the notice, why the arm’s length price should not be
+determined on the basis of material or information or document in his possession.
+(6) The Assessing Officer, on determination of arm’s length price under
+sub-section (4), may compute the total income of the assessee having regard to the
+arm’s length price so determined.
+(7) No deduction shall be allowed under section 144 or under Chapter VIII in
+respect of income by which the total income of the assessee is enhanced after
+computation of income under sub-section (6).
+
+35
+
+40
+
+(8) When the total income of an associated enterprise is computed under
+sub-section (6) on determination of the arm’s length price paid to another associated
+enterprise from which tax has been deducted or was deductible under the provisions of
+Chapter XIX-B, the income of the other associated enterprise shall not be recomputed
+by reason of such determination of arm’s length price in the case of the first mentioned
+enterprise.
+166. (1) Where,—
+(a) the assessee has entered into an international transaction or specified
+domestic transaction in any tax year; and
+(b) the Assessing Officer considers it necessary or expedient so to do,
+
+45
+
+50
+
+he may refer the determination of the arm’s length price in relation to such
+transaction to the Transfer Pricing Officer, with the previous approval of the
+Principal Commissioner or Commissioner.
+(2) No reference under sub-section (1) for computation of the arm's length price
+in relation to an international transaction or a specified domestic transaction shall be
+made, if the Transfer Pricing Officer has declared that option exercised by the assessee
+in sub-section (9) in relation to such transaction is valid for such tax year.
+
+Reference to
+Transfer Pricing
+Officer.
+
+196
+
+(3) If any reference for an international transaction or a specified domestic
+transaction under sub-section (1), in respect of a tax year, for which the option is
+declared valid under sub-section (9) is made before or after such declaration by the
+Transfer Pricing Officer, the provisions of sub-section (1) shall have the effect as if
+no reference is made for such transaction.
+
+5
+
+(4) Where a reference is made under sub-section (1), the Transfer Pricing
+Officer shall serve a notice on the assessee requiring him to produce or cause to be
+produced on a date specified therein, any evidence on which the assessee may rely
+in support of the determination made by him of the arm’s length price in relation to
+such transaction.
+
+10
+
+(5) Where,—
+(a) any international transaction or specified domestic transaction, other
+than an international transaction or a specified domestic transaction referred
+under sub-section (1); or
+(b) any international transaction or a specified domestic transaction that
+the assessee has not included in the report under section 172,
+
+15
+
+comes to the notice of the Transfer Pricing Officer during the course of the
+proceedings before him, the provisions of this Chapter shall apply as if such
+transaction is a transaction referred to him under sub-section (1).
+(6) On the date specified in the notice under sub-section (4), or as soon
+thereafter as may be,––
+
+20
+
+(a) after hearing such evidence as the assessee may produce, including
+any information or documents referred to in section 171(2);
+(b) after considering such evidence as the Transfer Pricing Officer may
+require on any specified points; and
+
+25
+
+(c) after taking into account all relevant materials which he has gathered,
+the Transfer Pricing Officer shall, by order in writing, determine the arm’s length
+price in relation to the international transaction or specified domestic transaction as
+per section 165(4) and send a copy of his order to the Assessing Officer and to the
+assessee.
+
+30
+
+(7) Where a reference was made under sub-section (1), an order under
+sub-section (6) may be made at any time before sixty days before the expiry of
+limitation period referred to in section 286, or 296, for making the order of assessment
+or reassessment or recomputation or fresh assessment.
+(8) If the period of limitation available to the Transfer Pricing Officer for
+making an order under sub-section (6) is less than sixty days in the circumstances
+referred to in section 286(3)(b) or (i) ,such remaining period shall be extended to
+sixty days and the aforesaid period of limitation shall be deemed to have been
+extended accordingly.
+
+35
+
+(9) The arm’s length price, being determined in relation to the international
+transaction or the specified domestic transaction under sub-section (6) for any tax
+year shall apply to similar international transaction or specified domestic transaction
+for the two consecutive tax years immediately following such tax year, on fulfilment
+of the following conditions:––
+
+40
+
+(a) the assessee exercises an option or options to the above effect for the
+said two consecutive tax years;
+
+45
+
+(b) such option or options are exercised in such form, manner and within
+such period as prescribed; and,
+
+197
+
+(c) the Transfer Pricing Officer shall, within one month from the end of
+the month in which such option or options are exercised, by an order in
+writing, declare that such option or options are valid subject to the conditions,
+as prescribed.
+5
+
+(10) The provisions of sub-section (9) shall not apply to any proceedings
+under Chapter XVI-B.
+(11) On receipt of the order under sub-section (6), the Assessing Officer shall
+compute the total income of the assessee under section 165(6) in conformity with
+the arm’s length price as so determined by the Transfer Pricing Officer.
+
+10
+
+15
+
+(12) Irrespective of anything contained in sub-section (11), where the Transfer
+Pricing Officer has declared an option exercised by the assessee as valid option
+under sub-section (9), he shall examine and determine the arm’s length price in
+relation to such similar transaction for two consecutive tax years immediately
+following such tax year, in the order referred to in sub-section (4) and on receipt of
+such order, the Assessing Officer shall proceed to recompute the total income of the
+assessee for the said two consecutive tax years as per the provisions of section 288.
+(13) For rectifying any mistake apparent from the record, the Transfer Pricing
+Officer,––
+
+20
+
+(a) may amend any order passed by him under sub-section (6), and the
+provisions of section 287 shall, so far as may be, apply accordingly; and
+(b) shall send a copy of such order to the Assessing Officer who shall
+thereafter amend the order of assessment in conformity with such order of the
+Transfer Pricing Officer.
+
+25
+
+(14) The Transfer Pricing Officer may exercise all or any of the powers
+specified in section 246(1)(a) to (d) or 252(1)(a) or 253 for the purposes of
+determining the arm’s length price under this section.
+(15) If any difficulty arises in giving effect to the provisions of
+sub-sections (9) and (12), the Board may, with the prior approval of the Central
+Government, issue guidelines for the purpose of removing such difficulty.
+
+30
+
+35
+
+40
+
+(16) No guideline under sub-section (15) shall be issued after the expiration
+of two years from the 1st April, 2026.
+(17) Every guideline issued by the Board under sub-section (15) shall be laid
+before each House of Parliament while it is in session for a total period of thirty
+days which may be comprised in one session or in two or more successive sessions,
+and if, before the expiry of the session immediately following the session or the
+successive session aforesaid, both houses agree in making any modification in such
+guideline or both Houses agree that the guideline, should not be issued, the guideline
+shall thereafter have effect only in such modified form or be of no effect, as the case
+may be; so, however, that any such modification or annulment shall be without
+prejudice to the validity of anything previously done under that guideline.
+(18) In this section, “Transfer Pricing Officer” means a Joint Commissioner
+or Deputy Commissioner or Assistant Commissioner authorised by the Board to
+perform all or any of the functions of an Assessing Officer specified in sections 165
+and 171 in respect of any person or class of persons.
+
+45
+
+167. (1) The determination of—
+(a) income referred to in section 9(2); or
+(b) arm’s length price under section 165 or 166,
+shall be subject to safe harbour rules.
+(2) For the purposes of sub-section (1), the Board may make rules for safe harbour.
+
+50
+
+(3) In this section, “safe harbour” means circumstances in which the incometax authorities shall accept,––
+
+Power of Board
+to make safe
+harbour rules.
+
+198
+
+(a) the transfer price; or
+(b) the income, deemed to accrue or arise under section 9(2),
+declared by the assessee.
+Advance pricing
+agreement.
+
+168. (1) The Board, with the approval of the Central Government, may enter
+into an advance pricing agreement with any person, determining the—
+
+5
+
+(a) arm’s length price or specifying the manner in which the arm’s length
+price is to be determined, in relation to an international transaction to be
+entered into by that person;
+(b) income referred to in section 9(2), or specifying the manner in which the
+said income is to be determined, as is reasonably attributable to the operations
+carried out in India by or on behalf of that person, being a non-resident.
+
+10
+
+(2) The manner of determination of the arm’s length price referred to in
+sub-section (1)(a) or (b) may include, respectively,––
+(a) the methods referred to in section 165(1); or
+(b) the methods provided by rules made under this Act,
+
+15
+
+with such adjustments or variations, as may be necessary or expedient so to do.
+(3) Irrespective of anything contained in section 165 or 166 or the methods
+provided by rules made under this Act,––
+(a) the arm’s length price of any international transaction; or
+(b) the income referred to in sub-section (1)(b),
+
+20
+
+in respect of which the advance pricing agreement has been entered into, shall be
+determined as per the advance pricing agreement so entered.
+(4) The agreement referred to in sub-section (1) shall be valid for such period
+not exceeding five consecutive tax years as specified in the agreement.
+(5) The advance pricing agreement entered into shall be binding—
+
+25
+
+(a) on the person in whose case, and in respect of the transaction in
+relation to which, the agreement has been entered into; and
+(b) on the Principal Commissioner or Commissioner, and the income-tax
+authorities subordinate to him, in respect of the said person and the said transaction.
+(6) The agreement referred to in sub-section (1) shall not be binding if there is
+a change in law or facts having bearing on the agreement so entered.
+
+30
+
+(7) The Board may, with the approval of the Central Government, by an order,
+declare an agreement to be void ab initio, if it finds that the agreement has been
+obtained by the person by fraud or misrepresentation of facts.
+(8) Upon declaring the agreement void ab initio,—
+
+35
+
+(a) all the provisions of the Act shall apply to the person as if such
+agreement had never been entered into;
+(b) irrespective of anything contained in the Act, the period beginning
+with the date of such agreement and ending on the date of order under
+sub-section (7) shall be excluded for the purpose of computing any period of
+limitation under this Act; and
+(c) if immediately after the exclusion of the aforesaid period, the period
+of limitation, referred to in any provision of this Act, is less than sixty days,
+such remaining period shall be extended to sixty days and the aforesaid period
+of limitation shall be deemed to be extended accordingly.
+(9) For the purposes of this section, the Board may prescribe a scheme
+specifying therein the manner, form, procedure and any other matter in respect of
+the advance pricing agreement.
+
+40
+
+45
+
+199
+
+(10) The agreement referred to in sub-section (1), may, subject to such
+conditions, procedure and manner as prescribed, provide for determining the––
+
+5
+
+(a) arm’s length price or specify the manner in which the arm’s length
+price shall be determined in relation to the international transaction entered
+into by the person;
+(b) income referred to in section 9(2), or specifying the manner in which
+the said income is to be determined, as is reasonably attributable to the
+operations, transactions and activities carried out in India by or on behalf of
+that non-resident person,
+
+10
+
+15
+
+20
+
+during any period not exceeding four tax years preceding the first of the tax
+years referred to in sub-section (4).
+(11) Where an application is made by a person for entering into an agreement
+referred to in sub-section (1), the proceedings shall be deemed to be pending in the
+case of the person for the purposes of this Act till such agreement is entered into, or
+such proceedings are closed as per rules prescribed.
+169. (1) If a return of income for any tax year covered by an advance pricing
+agreement has been furnished by any person, before the date of entering into the
+said agreement, he shall, irrespective of anything to the contrary contained in
+section 263, furnish a modified return, in accordance with and limited to the
+agreement, in respect of such tax years, within three months from the end of the
+month in which the agreement was entered into.
+
+Effect to
+advance pricing
+agreement.
+
+(2) Except as provided in this section, all other provisions of this Act shall apply
+accordingly as if the modified return is a return furnished under section 263.
+25
+
+(3) Where a modified return is furnished under sub-section (1), and assessment
+or reassessment proceedings, in respect of a tax year to which the agreement applies,
+were initiated before the filing of such return then,––
+(a) if such proceedings have been completed, the Assessing Officer shall
+pass an order modifying the total income of the relevant tax year; or
+
+30
+
+(b) if such proceedings are pending on the date of filing of modified
+return, the Assessing Officer shall proceed to complete them,
+as per the agreement after taking into consideration the modified return so furnished.
+(4) Irrespective of anything contained in section 275 or 286 or 296,—
+
+35
+
+(a) the order in respect of a case falling under sub-section (3)(a) shall be
+passed within one year from the end of the financial year in which the modified
+return under sub-section (1) is furnished;
+(b) in respect of a case falling under sub-section (3)(b), the period of limitation
+as provided in section 275 or 286 or section 296 for completion of pending
+assessment or reassessment proceedings shall be extended by twelve months.
+(5) In this section,—
+
+40
+
+(a) “agreement” means an agreement referred to in section 168(1);
+(b) the assessment or reassessment proceedings for a tax year shall be
+deemed to have been completed where—
+(i) an assessment or reassessment order has been passed; or
+
+45
+
+(ii) no notice has been issued under section 270(8) till the expiry
+of the limitation period provided under the said section.
+170. (1) An assessee shall make a secondary adjustment in every case where
+primary adjustment of one crore rupees or more to transfer price—
+(a) has been made on his own in his return of income;
+(b) made by the Assessing Officer has been accepted by him;
+
+Secondary
+adjustment in
+certain cases.
+
+200
+
+(c) is determined by an advance pricing agreement entered into by him
+under section 168;
+(d) is made as per the safe harbour rules made under section 167; or
+(e) is arising as a result of resolution of an assessment by way of the
+mutual agreement procedure under an agreement entered into under
+section 159 for avoidance of double taxation.
+
+5
+
+(2) The excess money or part thereof available with its associated enterprise shall
+be deemed to be an advance made by the assessee to such associated enterprise if––
+(a) as a result of primary adjustment to the transfer price, there is an
+increase in the total income or reduction in the loss, as the case may be, of the
+assessee; and
+
+10
+
+(b) such excess money or part thereof is not repatriated to India within
+the time as prescribed.
+(3) The excess money or part thereof referred to in sub-section (2) may be
+repatriated from any of the associated enterprises of the assessee which is not a
+resident in India.
+
+15
+
+(4) The interest on advance as referred to in sub-section (2) shall be computed
+in such manner as prescribed.
+(5) Without prejudice to the provisions of sub-section (2), where the excess
+money or part thereof has not been repatriated within the prescribed time, the
+assessee may, at his option, pay additional income-tax at the rate of 18% on such
+excess money or part thereof, as the case may be.
+(6) The tax on the excess money or part thereof so paid by the assessee under
+sub-section (5) shall be treated as the final payment of tax in respect of the excess
+money or part thereof not repatriated and no further credit thereof shall be claimed
+by the assessee or by any other person in respect of tax so paid.
+
+20
+
+25
+
+(7) Deduction under any other provision of this Act shall not be allowed to the
+assessee in respect of the amount on which tax has been paid as per sub-section (5).
+(8) In a case where the additional income-tax referred to in sub-section (5) is paid by
+the assessee, he shall not be required to make secondary adjustment under sub-section (1) 30
+and compute interest under sub-section (4) from the date of payment of such tax.
+(9) In this section,—
+(a) “arm’s length price” shall have the meaning assigned to it in
+section 173(a);
+(b) “excess money” means the difference between the arm’s length price
+determined in primary adjustment and the price at which the international
+transaction has actually been undertaken;
+
+Maintenance,
+keeping and
+furnishing of
+information and
+document by
+certain persons.
+
+35
+
+(c) “primary adjustment” to a transfer price, means the determination of
+transfer price as per the arm’s length principle resulting in an increase in the total
+income or reduction in the loss, as the case may be, of the assessee;
+
+40
+
+(d) “secondary adjustment” means an adjustment in the books of account of
+the assessee and its associated enterprise to reflect that the actual allocation of
+profits between the assessee and its associated enterprise are consistent with the
+transfer price determined as a result of primary adjustment, thereby removing the
+imbalance between cash account and actual profit of the assessee.
+
+45
+
+171. (1) Every person,––
+(a) who has entered into an international transaction or specified
+domestic transaction; or
+(b) is a constituent entity of an international group,
+
+201
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+shall keep and maintain such information and document in respect thereof and for
+such period and in such manner, as prescribed.
+(2) The Assessing Officer or the Commissioner (Appeals) may, during any
+proceeding under this Act, require any person referred to in sub-section (1)(a) to
+furnish any information or document referred therein within ten days from the date
+of receipt of a notice issued in this regard.
+(3) The Assessing Officer or the Commissioner (Appeals) may, on an
+application made by such person, extend the period of ten days by a further period
+not exceeding thirty days.
+(4) Every person referred to in sub-section (1)(b) shall furnish the information
+and document referred to in sub-section (1) to the authority prescribed under
+section 511(1), in such manner, on or before such date, as prescribed.
+(5) In this section,—
+(a) “constituent entity” shall have the meaning assigned to it in
+section 511 (10)(d);
+(b) “international group” shall have the meaning assigned to it in
+section 511 (10)(g).
+172. Every person who has entered into an international transaction or
+specified domestic transaction during a tax year shall obtain a report from an
+accountant and furnish such report on or before the specified date in the prescribed
+form duly signed and verified in the manner as prescribed by such accountant and
+setting forth such particulars as prescribed.
+
+173 In this section and sections 161, 162, 163, 165, 171 and 172, unless the
+context otherwise requires,—
+(a) “arm’s length price” means a price which is applied or proposed to
+be applied in a transaction between persons other than associated enterprises,
+in uncontrolled conditions;
+(b) “enterprise” means a person (including a permanent establishment of such
+person) who is, or has been, or is proposed to be, engaged in any activity relating to––
+(i) the production, storage, supply, distribution, acquisition or
+control of articles or goods; or
+(ii) know-how, patents, copyrights, trade-marks, licences, franchises
+or any other business or commercial rights of similar nature; or
+(iii) any data, documentation, drawing or specification relating to
+any patent, invention, model, design, secret formula or process of which
+the other enterprise is the owner or in respect of which the other
+enterprise has exclusive rights; or
+(iv) provision of services of any kind; or
+(v) carrying out any work in pursuance of a contract; or
+(vi) investment or providing loan; or
+(vii) business of acquiring, holding, underwriting or dealing with
+shares, debentures or other securities of any other body corporate,
+whether such activity or business is carried on, directly or through one or more of
+its units or divisions or subsidiaries, or whether such unit or division or subsidiary
+is located at the same place where the enterprise is located or at a different place
+or places;
+(c) “permanent establishment”, referred to in clause (b), includes a fixed place
+of business through which the business of the enterprise is wholly or partly carried on;
+
+Report from an
+accountant to be
+furnished by
+persons entering
+into international
+transaction or
+specified
+domestic
+transaction.
+Definitions of
+certain terms
+relevant to
+determination of
+arm’s length
+price, etc.
+
+202
+(d) “specified date” means the date one month before the due date for
+furnishing the return of income under section 263 (1) for the relevant tax year;
+(e) “transaction” includes an arrangement, understanding or action in
+concert,—
+(i) whether or not such arrangement, understanding or action is formal
+or in writing; or
+
+5
+
+(ii) whether or not such arrangement, understanding or action is
+intended to be enforceable by legal proceeding.
+Avoidance of
+income-tax by
+transactions
+resulting in
+transfer of
+income to
+non-residents.
+
+174. (1) Where there is a transfer of assets before and after the commencement
+of this Act, and by virtue or in consequence of it,––
+
+10
+
+(a) either alone; or
+(b) in conjunction with associated operations,
+any income becomes payable to a non-resident, the provisions of this section shall apply.
+(2) If any person (“first mentioned person”), by means of any transfer referred
+to in sub-section (1), either alone or in conjunction with associated operations,
+acquires any rights,––
+
+15
+
+(a) by virtue of which he has, within the meaning of this section, power
+to enjoy, whether forthwith or in the future, any income of a non-resident; and
+(b) such income would have been chargeable to income-tax if it were
+such first mentioned person’s income,
+
+20
+
+then, that income shall, whether or not it would have been chargeable to income-tax
+under any other provisions of this Act, be deemed to be the income of such first
+mentioned person for all the purposes of this Act.
+(3) If any such first mentioned person receives or is entitled to receive any
+capital sum,––
+
+25
+
+(a) the payment of which is in any way connected with the transfer or
+any associated operations; and
+(b) whether before or after any such transfer,
+then any income, which has become the income of a non-resident by virtue or in
+consequence of such transfer, either alone or in conjunction with associated
+operations, shall be deemed to be the income of such first mentioned person for all
+the purposes of this Act, whether or not it would have been chargeable to
+income-tax under any other provisions of this Act.
+(4) Where any person has been charged to income-tax on any income deemed
+to be his under the provisions of this section and that income is subsequently
+received by him, whether as income or in any other form, it shall not again be
+deemed to form part of his income for the purposes of this Act.
+
+30
+
+35
+
+(5) The provisions of this section shall not apply if the first mentioned person in
+sub-section (2) or (3) shows to the satisfaction of the Assessing Officer that—
+(a) neither the transfer nor any associated operation had for its purpose
+or for one of its purposes the avoidance of liability to taxation; or
+
+40
+
+(b) the transfer and all associated operations were bona fide commercial
+transactions and were not designed for the purpose of avoiding liability to taxation.
+(6) In this section,—
+(a) references to assets representing any assets, income or accumulations
+of income include references to shares in or obligation of any company to
+which, or obligation of any other person to whom, those assets, that income or
+those accumulations are or have been transferred;
+(b) any body corporate incorporated outside India shall be treated as if it
+were a non-resident;
+
+45
+
+50
+
+203
+
+(c) a person shall be deemed to have power to enjoy the income of a nonresident if—
+
+5
+
+(i) the income is in fact so dealt with by any person as to be
+calculated at some point of time and, whether in the form of income or
+not, to ensure for the benefit of the first mentioned person in
+sub-section (2) or (3); or
+(ii) the receipt or accrual of the income operates to increase the
+value to such first mentioned person of any assets held by him or for his
+benefit; or
+
+10
+
+(iii) such first mentioned person receives or is entitled to receive at
+any time any benefit provided or to be provided out of that income or
+out of moneys which are or shall be available for the purpose by reason
+of the effect or successive effects of the associated operations on that
+income and assets which represent that income; or
+
+15
+
+(iv) such first mentioned person has power by means of the
+exercise of any power of appointment or power of revocation or
+otherwise to obtain for himself, whether with or without the consent of
+any other person, the beneficial enjoyment of the income; or
+
+20
+
+(v) such first mentioned person is able, in any manner whatsoever and
+whether directly or indirectly, to control the application of the income;
+
+25
+
+(d) in determining whether a person has power to enjoy income, regard
+shall be had to the substantial result and effect of the transfer and any
+associated operations, and all benefits which may at any time accrue to such
+person as a result of the transfer and any associated operations shall be taken
+into account irrespective of the nature or form of the benefits.
+(7) In this section,—
+(a) “assets” includes property or rights of any kind and “transfer” in
+relation to rights includes the creation of those rights;
+
+30
+
+(b) “associated operation” in relation to any transfer, means an operation
+of any kind effected by any person in relation to—
+(i) any of the assets transferred; or
+(ii) any assets representing, whether directly or indirectly, any of
+the assets transferred; or
+(iii) the income arising from any such assets; or
+
+35
+
+(iv) any assets representing, whether directly or indirectly, the
+accumulations of income arising from any such assets;
+(c) “benefit” includes a payment of any kind;
+(d) “capital sum” means—
+
+40
+
+(i) any sum paid or payable by way of a loan or repayment of a
+loan; and
+(ii) any other sum paid or payable otherwise than as income, being
+a sum, which is not paid or payable for full consideration in money or
+money’s worth.
+
+45
+
+175 (1) Where the owner of any securities (hereinafter referred to as “the
+owner”) sells or transfers such securities and buys back or reacquires them or buys
+or acquires any similar securities, any interest that becomes payable in respect of
+such securities,––
+(a) is receivable by a person other than the owner, shall be deemed, for
+all purposes of this Act, to be the income of the owner; and
+
+Avoidance of
+tax by certain
+transactions in
+securities.
+
+204
+
+(b) shall not be the income of the other person,
+irrespective of whether it would have been chargeable to income-tax under any other
+provision of this Act.
+(2) Where similar securities as referred to in sub-section (1) are bought or
+acquired, the owner shall not be under greater liability to income-tax than he would
+if the original securities had been bought back or reacquired.
+
+5
+
+(3) If any person has had a beneficial interest in any securities at any time
+during a tax year, and the result of any transaction relating to such securities or the
+income from it is that, in respect of such securities within such year,––
+(a) either no income is received by him; or
+
+10
+
+(b) the income received by him is less than what would have been if the
+income from such securities had accrued from day to day and been
+apportioned accordingly,
+the income from such securities for such year shall be deemed to be the income of
+such person.
+
+15
+
+(4) The provisions of sub-sections (1), (2) and (3) shall not apply if the owner,
+or the person who has had a beneficial interest in the securities, proves to the
+satisfaction of the Assessing Officer that—
+(a) there has been no avoidance of income-tax; or
+(b) the avoidance of income-tax was exceptional and not systematic and
+also that in any of the three preceding years any avoidance of income-tax by a
+transaction of the nature referred to in sub-sections (1), (2) or (3) was not there
+in his case.
+(5) If a person carrying on a business which consists wholly or partly in
+dealing in securities, buys or acquires any securities and sells back or retransfers the
+securities, then, if the result of the transaction is that interest in respect of the
+securities receivable by him is not deemed to be his income by reason of the
+provisions contained in sub-section (1), no account shall be taken of the transaction
+in computing the profits arising from or loss sustained in the business for any of the
+purposes of this Act.
+
+20
+
+25
+
+30
+
+(6) The provisions of sub-section (5) shall have effect, subject to any necessary
+modifications, as if references to selling back or retransferring the securities
+included references to selling or transferring similar securities.
+(7) The Assessing Officer may, by notice in writing, require any person to
+provide within specified time, which shall not be less than twenty-eight days, details
+in respect of all securities of which such person was the owner or in which he had a
+beneficial interest at any time during the period specified in the notice, for the
+purposes of this section and for the purpose of discovering whether income-tax has
+been borne in respect of the interest on all those securities.
+
+35
+
+40
+
+(8) If—
+(a) any person buys or acquires any securities or unit within three
+months before the record date;
+(b) such person sells or transfers—
+(i) such securities within three months after such date; or
+(ii) such unit within nine months after such date;
+
+45
+
+(c) the dividend or income on such securities or unit received or
+receivable by such person is exempt,
+then, the loss, if any, arising to him on account of such purchase and sale of
+securities or unit, to the extent such loss does not exceed dividend or income
+received or receivable on such securities or unit, shall be ignored for the purposes
+of computing his income chargeable to tax.
+
+50
+
+205
+
+(9) If—
+(a) any person buys or acquires any securities or unit within three
+months before the record date;
+5
+
+(b) such person is allotted additional securities or unit without any
+payment on the basis of holding of such securities or unit on such date;
+(c) such person sells or transfers all or any of the securities or unit
+referred to in clause (a) within nine months after such date, while continuing
+to hold all or any of the additional securities or unit referred to in clause (b),
+
+10
+
+15
+
+then, the loss, if any, arising to him on account of such purchase and sale of all or
+any of such securities or unit shall be ignored for the purposes of computing his
+income chargeable to tax.
+(10) Irrespective of any other provision of this Act, loss ignored as per
+sub-section (9) shall be deemed to be the cost of purchase or acquisition of such
+additional securities or unit referred to in sub-section (9)(b) as are held by him on
+the date of such sale or transfer.
+(11) In this section,—
+(a) “interest” includes a dividend;
+(b) “record date” means such date as may be fixed by—
+(i) a company;
+
+20
+43 of 1961.
+
+(ii) a Mutual Fund or the Administrator of the specified
+undertaking or the specified company referred to in the Explanation to
+section 10(35) of the Income-tax Act, 1961; or
+(iii) a business trust defined in section 2(21); or
+
+25
+15 of 1992.
+
+(iv) an Alternative Investment Fund defined in regulation 2(1)(b)
+of the Securities and Exchange Board of India (Alternative Investment
+Funds) Regulations, 2012, made under the Securities and Exchange
+Board of India Act, 1992,
+for the purposes of entitlement of the holder of the securities or unit to receive
+dividend, income, or additional securities or unit without any consideration;
+
+30
+
+35
+
+(c) “securities” includes stocks and shares;
+(d) securities shall be deemed to be similar if they entitle their holders to
+the same rights against the same persons as to capital and interest and the same
+remedies for the enforcement of those rights, irrespective of any difference in
+the total nominal amounts of the respective securities or in the form in which
+they are held or in the manner in which they can be transferred;
+(e) “unit” shall mean,—
+(i) a unit of a business trust defined in section 2(21);
+(ii) a unit defined in section 208(3)(c); or
+
+40
+
+(iii) beneficial interest of an investor in an Alternative Investment
+Fund, referred to in clause (b)(iv), and shall include shares or partnership
+interests.
+176. (1) The Central Government may, by notification specify any country or
+territory outside India, as a notified jurisdictional area, having regard to the lack of
+effective exchange of information with such jurisdiction.
+
+45
+
+(2) Irrespective of anything contrary in this Act, if an assessee enters into a
+transaction where one of the parties to the transaction is a person located in a notified
+jurisdictional area, then,—
+(a) all the parties to the transaction shall be deemed to be associated
+enterprises within the meaning of section 162;
+
+Special
+measures in
+respect of
+transactions with
+persons located
+in notified
+jurisdictional
+area.
+
+206
+
+(b) any transaction of the nature described in section 163(1) and (2)
+shall be deemed to be an international transaction within the meaning of
+section 163,
+and the provisions of sections161, 162, 163, 165 except the benefit of variation
+specified in sections 165(3)(a)(ii), 166, 167, 171, 172 and 173 shall apply
+accordingly.
+
+5
+
+(3) Irrespective of anything to the contrary in this Act, no deduction shall
+be allowed—
+(a) for any payment made to any financial institution located in a notified
+jurisdictional area, unless the assessee furnishes an authorisation in the
+prescribed form authorising the Board or any other income-tax authority
+acting on its behalf to seek relevant information from the said financial
+institution on behalf of such assessee; and
+(b) for any other expenditure or allowance (including depreciation)
+arising from the transaction with a person located in a notified jurisdictional
+area, unless the assessee maintains such other documents and furnishes such
+information as prescribed, in this behalf.
+(4) Irrespective of anything to the contrary in this Act, if, in any tax year, the
+assessee has received or credited any sum from any person located in a notified
+jurisdictional area and—
+
+10
+
+15
+
+20
+
+(a) the assessee does not provide any explanation about the source of the
+said sum in the hands of such person or in the hands of the beneficial owner
+(if such person is not the beneficial owner of the said sum); or
+(b) the explanation provided by the assessee, in the opinion of the
+Assessing Officer, is not satisfactory,
+
+25
+
+then such sum shall be deemed to be the income of the assessee for that tax year.
+(5) Irrespective of anything to the contrary in this Act, if any person located
+in a notified jurisdictional area is entitled to receive any sum or income or amount
+on which tax is deductible under Chapter XIX-B, the tax shall be deducted at the
+highest of the following rates––
+
+30
+
+(a) at the rate or rates in force;
+(b) at the rate specified in the relevant provisions of this Act;
+(c) at the rate of 30%.
+(6) In this section,—
+(a) “person located in a notified jurisdictional area” shall include,—
+
+35
+
+(i) a person who is resident of the notified jurisdictional area;
+(ii) a person, not being an individual, which is established in the
+notified jurisdictional area; or
+(iii) a permanent establishment of a person not falling in sub-clause (i)
+or (ii), in the notified jurisdictional area;
+
+40
+
+(b) “permanent establishment” shall have the meaning assigned to it in
+section 173(c);
+(c) “transaction” shall have meaning assigned to it in section 173(e).
+Limitation on
+interest
+deduction in
+certain cases.
+
+177. (1) Irrespective of anything contrary in this Act, any expenditure by way
+of interest or similar payment in respect of excess interest, as specified in
+sub-section (4), shall not be deductible in computation of income chargeable under
+the head “Profits and gains of business or profession”, if,—
+
+45
+
+207
+
+(a) it is paid or payable by an Indian company or a permanent
+establishment of a foreign company in India, in respect of any debt issued by
+an associated enterprise which is a non-resident; and
+(b) the sum of such expenditure in a tax year exceeds one crore rupees.
+5
+
+(2) Where a lender, not being an associated enterprise, has issued a debt
+referred to in sub-section (1), such debt shall be deemed to have been issued by an
+associated enterprise if an associated enterprise has—
+(a) provided an implicit or explicit guarantee to the lender in respect of
+such debt; or
+
+10
+
+(b) deposited a corresponding and matching funds with such lender.
+(3) The provisions of this section shall not apply to—
+(a) interest paid in respect of a debt issued by a lender which is a permanent
+establishment in India of a non-resident engaged in the business of banking;
+
+15
+
+(b) an Indian company or a permanent establishment of a foreign
+company which is engaged in the business of banking or insurance or a
+Finance Company located in any International Financial Services Centre, or
+such class of non-banking financial companies as notified by the Central
+Government in this behalf.
+(4) In sub-section (1), the “excess interest” means––
+
+20
+
+(a) In total interest paid or payable in excess of 30% of earnings before
+interest, taxes, depreciation and amortisation of the borrower in the tax year; or
+(b) interest paid or payable to associated enterprises for that tax year,
+whichever is less.
+
+25
+
+(5) Interest expenditure not wholly deducted against income under the head
+“Profits and gains of business or profession” for any tax year shall be—
+(a) carried forward to the following tax year or years; and
+(b) allowed as a deduction against the profits and gains, if any, of any
+business or profession carried on by it and assessable for such tax year, to the
+extent of maximum allowable interest expenditure as per sub-section (4).
+
+30
+
+(6) The interest expenditure referred to in sub-section (5) shall not be carried
+forward for more than eight tax years immediately succeeding the tax year for which
+the excess interest expenditure was first computed.
+(7) In this section,—
+
+35
+
+40
+50 of 2019.
+
+(a) “debt” means any loan, financial instrument, finance lease, financial
+derivative, or any arrangement that gives rise to interest, discounts or other
+finance charges that are deductible in the computation of income chargeable
+under the head “Profits and gains of business or profession”;
+(b) “Finance Company” means a finance company as defined in
+regulation 2(1)(e) of the International Financial Services Centres Authority
+(Finance Company) Regulations, 2021 made under the International Financial
+Services Centres Authority Act, 2019 and which satisfies such conditions and
+carries on such activities, as prescribed;
+(c) “permanent establishment” shall have the meaning assigned to it in
+section 173(c).
+
+

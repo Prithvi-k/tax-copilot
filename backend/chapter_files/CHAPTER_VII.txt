@@ -1,0 +1,1034 @@
+147
+
+(a) offers no explanation about the nature and source of acquisition of
+such asset, or such excess amount, as the case may be; or
+(b) the explanation offered by the assessee, is not satisfactory in the
+opinion of the Assessing Officer,
+5
+
+then, the value of such asset, or such excess amount, as the case may be, shall be
+deemed to be the income of the assessee of the tax year in which such asset has
+been found to be owned by, or belonging to, the assessee.
+(2) In this section, “asset” includes money, bullion, jewellery, virtual digital
+asset or other valuable article.
+
+10
+
+105. (1) Where any expenditure has been incurred by the assessee in any tax
+year, and––
+
+Unexplained
+expenditure.
+
+(a) the assessee offers no explanation about the source of such
+expenditure or part thereof; or
+15
+
+(b) the explanation offered by the assessee is not satisfactory in the
+opinion of the Assessing Officer,
+then, the amount covered by such expenditure or part thereof, shall be deemed to
+be the income of the assessee for that tax year.
+(2) Irrespective of any other provision of this Act, the amount deemed as
+income in sub-section (1) shall not be allowed as a deduction under this Act.
+
+20
+
+106. (1) Where any amount (including interest thereof) is borrowed or repaid
+through a negotiable instrument or a hundi, other than an account payee cheque, or
+through any mode as specified by the Board in this behalf, the amount so borrowed
+or repaid shall be deemed to be the income of the person borrowing or repaying,
+as the case maybe, for the tax year in which the amount was borrowed or repaid.
+
+25
+
+(2) Where the amount borrowed under sub-section (1) has been deemed to be
+the income of any person, such person shall not be liable to be assessed again in
+respect of such amount under that sub-section on repayment of such amount.
+107. Income referred to in sections 102, 103, 104, 105 and 106 shall be
+charged to tax as per the provisions of section 195.
+
+30
+
+Amount
+borrowed or
+repaid through
+negotiable
+instrument,
+hundi, etc.
+
+Charge of tax.
+
+CHAPTER VII
+SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES
+
+35
+
+108. (1) Unless provided otherwise in this Act, for any tax year, if net result
+of computation from any source under any head of income (other than “Capital
+gains”) is a loss, then assessee shall be entitled to set off such loss against his
+income from any other source under the same head for that tax year.
+
+Set off of losses
+under the same
+head of income.
+
+(2) Any loss, as a result of computation made under sections 72 to 90, for any
+tax year, arising from transfer of a capital asset as arrived at under a similar
+computation made for the tax year in respect of any other capital asset being,––
+40
+
+(a) a long-term capital asset, shall be set off only against gains, if any,
+from transfer of another long-term capital asset; and
+(b) a short-term capital asset, shall be set off against gains, if any, from
+transfer of any capital asset.
+
+45
+
+109. (1) Subject to the provisions of this Chapter, for any tax year, if income
+computed under any head of income (other than “Capital gains”) is a loss, such
+loss shall be set off against income of the assessee under any other head, including
+“Capital gains”, if any, assessable for that tax year, subject to the following
+conditions:––
+
+Set off of losses
+under any other
+head of income.
+
+148
+(a) loss under the head “Profits and gains of business or profession”
+shall not be set off against income chargeable under the head “Salaries”; and
+(b) loss under the head “Income from house property” shall be set off
+to the extent of two lakh rupees against income under any other head;
+(2) For any tax year, the loss under the head “Capital gains” shall not be set
+off against income under any other head.
+Carry
+forward and
+set off of
+loss from
+house
+property.
+
+110. (1) The unabsorbed loss from house property for any tax year shall
+be carried forward to the subsequent tax year, and shall be set off only against
+income from house property, if any, computed for such subsequent tax year,
+and so on.
+
+10
+
+(2) The unabsorbed loss from house property referred to in sub-section (1)
+shall be carried forward to the following tax year, not being more than eight tax
+years immediately succeeding the tax year in which such loss was first computed.
+(3) In this section, “unabsorbed loss from house property” means, loss
+computed under the head “Income from house property” for the tax year, which
+has not been, or is not wholly, set off against income from any other head, under
+section 107, for the said tax year.
+
+Carry
+forward and
+set off of
+loss from
+Capital
+gains.
+
+5
+
+111. (1) The unabsorbed capital loss for any tax year shall be carried forward
+to the subsequent tax year and shall be set off in the manner provided in
+sub-section (2).
+
+15
+
+20
+
+(2) The unabsorbed capital loss arising from transfer of capital asset, being––
+(a) a long-term capital asset, may be set off only against capital gains,
+if any, from transfer of any other long-term capital asset during the
+subsequent tax year and so on; and
+(b) a short-term capital asset, shall be set off against capital gains, if
+any, from transfer of any other capital asset during the subsequent tax year
+and so on.
+(3) The unabsorbed capital loss referred to in sub-section (1), shall be carried
+forward to the following tax year, not being more than eight tax years immediately
+succeeding the tax year in which such loss was first computed.
+
+25
+
+30
+
+(4) In this section, “unabsorbed capital loss” means loss computed under the
+head “Capital gains” for any tax year, which has not been, or is not wholly, set off
+under section 108 for the said tax year.
+Carry
+forward and
+set off of
+business
+loss.
+
+112. (1) The unabsorbed business loss (other than loss from speculation
+business) for any tax year shall be carried forward to the subsequent tax year and
+shall be set off only against the profits and gains of business or profession, carried
+on by him and assessable for that tax year, if any, computed for such subsequent
+tax year, and so on.
+(2) The unabsorbed business loss referred to in sub-section (1), shall be
+carried forward to the following tax year, not being more than eight tax years
+immediately succeeding the tax year in which such loss was first computed.
+
+35
+
+40
+
+(3) The unabsorbed business loss referred to in sub-section (1) shall first be
+allowed to be set off before allowing set off of any carried forward allowance under
+section 33(11) or 45(7).
+(4) In this section, “unabsorbed business loss” means, loss computed under
+the head “Profits and gains of business or profession” (other than loss from
+speculation business) for the tax year, which has not been, or is not wholly, set off
+against income from any other head, under section 109 for the said tax year.
+
+45
+
+149
+
+113. (1) Any loss computed from a speculation business carried on by the
+assessee, during any tax year, shall be set off only against profits and gains, if any,
+of another speculation business for the said tax year.
+5
+
+10
+
+(2) The unabsorbed speculation business loss for any tax year shall be carried
+forward to the subsequent tax year and shall be set off only against the profits and
+gains of speculation business, if any, computed for such subsequent tax year, and
+so on.
+
+Set off and carry
+forward of
+losses from
+speculation
+business.
+
+(3) The unabsorbed speculation business loss referred to in sub-section (2)
+shall not be carried forward for more than four tax years immediately succeeding
+the tax year in which such loss was first computed.
+(4) The unabsorbed speculation business loss referred to in sub-section (2)
+shall first be allowed to be set off before allowing set off of any carried forward
+allowance under section 33(11) or 45(7).
+(5) In this section,––
+
+15
+
+20
+
+25
+
+(a) where any part of the business of the assessee (being a company)
+consist of purchase and sale of shares of other companies, then the assessee
+shall be deemed to be carrying on a speculation business, to the extent to
+which its business consists of purchase and sale of such shares;
+(b) “unabsorbed speculation business loss” means any loss computed
+in respect of a speculation business carried on by the assessee during the tax
+year, which has not been, or is not wholly, set off against profits and gains,
+if any, of another speculation business under sub-section (1) for the said tax
+year.
+(6) The provisions of sub-section (5)(a) shall not apply to an assessee, being
+a company, if—
+(a) its gross total income consists mainly of income which is chargeable
+under the heads “Income from house property”, “Capital gains” or “Income
+from other sources”; or
+
+30
+
+(b) its principal business is of trading in shares or banking or the
+granting of loans and advances.
+114. (1) Any loss computed from a specified business carried on by the
+assessee, during any tax year, shall be set off only against profits and gains, if any,
+of any other specified business for the said tax year.
+
+35
+
+(2) The unabsorbed loss from the specified business for any tax year shall be
+carried forward to the subsequent tax year and shall be set off only against the
+profits and gains of any specified business, if any, computed for such subsequent
+tax year, and so on.
+(3) In this section,––
+
+40
+
+(a) “specified business” means any specified business referred to in
+section 46;
+
+45
+
+(b) “unabsorbed loss from the specified business” means, any loss
+computed in respect of a specified business carried on by the assessee during
+the tax year, which has not been, or is not wholly, set off against profits and
+gains, if any, of another specified business under sub-section (1) for the said
+tax year.
+
+Set off and carry
+forward of
+losses from
+specified
+business.
+
+150
+Set off and
+carry forward of
+losses from
+specified
+activity.
+
+115. (1) Any loss incurred by the assessee in the specified activity during
+any tax year, shall not be set off against the income, if any, from any source other
+than specified activity for the said tax year.
+(2) The unabsorbed loss from the specified activity for any tax year shall be
+carried forward to the subsequent tax year and shall be set off,––
+
+5
+
+(a) only against the income from specified activity, if any, computed
+for such subsequent tax year, and so on; and
+(b) only when the specified activity is carried on by the assessee in that
+tax year.
+(3) The unabsorbed loss from the specified activity referred to in
+sub-section (2) shall not be carried forward for more than four tax years
+immediately succeeding the tax year in which such loss was first computed.
+
+10
+
+(4) In this section,––
+(a) “income by way of stake money” means the gross amount of prize
+money received by the owner of race horses participating in horse races on
+their winning a particular position in such race;
+(b) “loss incurred by the assessee in the specified activity” means the
+amount by which the income by way of stake money, if any, falls short of
+the expenditure, not being capital expenditure, incurred wholly and
+exclusively for maintaining race horses;
+
+15
+
+20
+
+(c) “race horse” means a horse upon which wagering or betting may
+be lawfully made in a horse race;
+(d) “specified activity” means the activity of owning and maintaining
+race horses;
+(e) “unabsorbed loss from the specified activity” means any loss
+computed in respect of the specified activity carried on by the assessee
+during the tax year, which has not been, or is not wholly, set off against
+income, if any, of the specified activity under sub-section (1) for the said tax
+year.
+Treatment of
+accumulated
+losses and
+unabsorbed
+depreciation in
+amalgamation or
+demerger, etc.
+
+116. (1) Where there has been an amalgamation of,—
+
+25
+
+30
+
+(a) a company owning an industrial undertaking or a ship or a hotel
+with another company; or
+(b) a banking company referred to in section 5(c) of the Banking
+Regulation Act, 1949 with a specified bank; or
+(c) one or more public sector company with one or more other public
+sector company; or
+(d) an erstwhile public sector company with one or more company or
+companies, if the share purchase agreement entered into under strategic
+disinvestment restricted immediate amalgamation of the said public sector
+company and the amalgamation is carried out within five years from the end
+of the tax year in which the restriction on amalgamation in the share
+purchase agreement ends,
+then, irrespective of anything in any other provision of this Act, the accumulated
+loss and unabsorbed depreciation of the amalgamating company shall be deemed
+to be the loss or, allowance for unabsorbed depreciation of the amalgamated
+company for the tax year in which the amalgamation was effected, and other
+provisions of this Act relating to set off and carry forward of loss and allowance
+for depreciation shall apply accordingly.
+
+10 of 1949.
+35
+
+40
+
+45
+
+151
+
+5
+
+(2) The accumulated loss and the unabsorbed depreciation of the
+amalgamating company, in case of an amalgamation referred to in
+sub-section (1)(d), which is deemed to be the loss or, as the case may be, the
+unabsorbed depreciation of the amalgamated company, shall not exceed the
+accumulated loss and unabsorbed depreciation of the public sector company as on
+the date on which it ceases to be a public sector company due to such
+strategic disinvestment.
+(3) For sub-section 1(d),—
+
+18 of 2013.
+
+10
+
+(a) “control” shall have the same meaning as assigned to it in
+section 2(27) of the Companies Act, 2013;
+(b) “erstwhile public sector company” means a company which was a
+public sector company in earlier tax years and ceases to be so due to strategic
+disinvestment by the Government;
+
+15
+
+(c) “strategic disinvestment” means sale of shareholding by the
+Central Government or State Government or a public sector company, in a
+public sector company or in a company, which results in—
+(i) reduction of its shareholding to below 51%; and
+(ii) transfer of control to the buyer;
+
+20
+
+(d) for clause(c)(i), the reduction of shareholding shall apply only
+where shareholding of the Central Government or the State Government or
+the public sector company exceeded 51% before the sale of shareholding;
+(e) the transfer of control referred to in clause (c)(ii) may be effected
+by the Central Government or the State Government or the public sector
+company or any two or all of them.
+
+25
+
+(4) Irrespective of anything contained in sub-section (1), the accumulated
+loss shall not be set off or carried forward and the unabsorbed depreciation shall
+not be allowed in the assessment of the amalgamated company unless,—
+(a) the amalgamating company—
+
+30
+
+(i) has been engaged in the business, in which the accumulated
+loss occurred or depreciation remains unabsorbed, for three or
+more years;
+(ii) has held continuously as on the date of the amalgamation, at
+least three-fourths of the book value of fixed assets held by it two years
+preceding the date of amalgamation;
+
+35
+
+(b) the amalgamated company—
+(i) holds continuously for a minimum five years from the date of
+amalgamation at least three-fourths of the book value of fixed assets
+of the amalgamating company acquired in a scheme of amalgamation;
+
+40
+
+(ii) continues the business of the amalgamating company for a
+minimum five years from the date of amalgamation;
+(iii) fulfils such other conditions as prescribed to ensure the
+revival of the business of the amalgamating company or to ensure that
+the amalgamation is for genuine business purpose.
+
+45
+
+(5) If any of the conditions laid down in sub-section (4) are not complied
+with, the set off of loss or allowance of depreciation made in any tax year in the
+hands of the amalgamated company shall be treated as the income of the
+amalgamated company chargeable to tax for the year in which the
+non-compliance occurs.
+
+152
+
+(6) Irrespective of anything contained in any other provisions of this Act, in
+the case of a demerger, the accumulated loss and the allowance for unabsorbed
+depreciation of the demerged company shall,—
+(a) if directly relatable to the undertakings transferred to the resulting
+company, be allowed to be carried forward and set off in the hands of the
+resulting company;
+
+5
+
+(b) if not directly relatable to the undertakings transferred to the
+resulting company, be apportioned between the demerged company and the
+resulting company in the same proportion in which the assets of the
+undertakings have been retained by the demerged company and transferred
+to the resulting company, and shall be allowed to be carried forward and set
+off in the hands of the demerged company or the resulting company, as
+applicable.
+
+10
+
+(7) The Central Government may, by notification, specify such conditions
+to ensure that the demerger is for genuine business purposes.
+
+15
+
+(8) If there has been a business reorganisation where, a firm is succeeded
+by a company fulfilling the conditions laid down in section 70(1)(zd) or a
+proprietary concern is succeeded by a company fulfilling the conditions laid down
+in section 70(1)(zf), then, irrespective of anything contained in this Act, the
+accumulated loss and the unabsorbed depreciation of the predecessor firm or the
+proprietary concern, shall be deemed to be the loss or allowance for depreciation
+of the successor company for the tax year in which business reorganisation was
+effected and other provisions of this Act relating to set off and carry forward of
+loss and allowance for depreciation shall apply.
+
+20
+
+(9) If any of the conditions laid down in section 70(1)(zd) or (zf) are not
+complied with, the set off of loss or allowance of depreciation made in any tax
+year in the hands of the successor company, shall be deemed to be the income of
+the company chargeable to tax in the year in which the non-compliance occurs.
+(10) If there has been reorganisation of business whereby a private company
+or unlisted public company is succeeded by a limited liability partnership
+fulfilling the conditions laid down in section 70(1)(ze), then, irrespective of
+anything contained in any other provision of this Act, the accumulated loss and
+the unabsorbed depreciation of the predecessor company, shall be deemed to be
+the loss or allowance for depreciation of the successor limited liability partnership
+for the tax year in which business reorganisation was effected and other provisions
+of this Act relating to set off and carry forward of loss and allowance for
+depreciation shall apply accordingly.
+(11) If any of the conditions laid down in section 70(1)(ze) are not complied
+with, the set off of loss or allowance of depreciation made in any tax year in the
+hands of the successor limited liability partnership, shall be deemed to be the
+income of the limited liability partnership chargeable to tax in the year in which
+the non-compliance occurs.
+(12) For any amalgamation referred to in sub-section (1) or reorganisation
+of business referred to in sub-section (8) or (10) effected on or after the
+1st April, 2025, any loss forming part of the accumulated loss of the predecessor
+entity, being—
+
+25
+
+30
+
+35
+
+40
+
+45
+
+(i) the amalgamating company; or
+(ii) the firm or proprietary concern; or
+(iii) the private company or unlisted public company,
+as the case may be, which is deemed to be the loss of the successor entity, being—
+
+50
+
+153
+
+(a) the amalgamated company; or
+(b) the successor company; or
+(c) the successor limited liability partnership,
+5
+
+as the case may be, shall be carried forward for not more than eight tax years
+immediately succeeding the tax year for which such loss was first computed for
+the original predecessor entity.
+(13) In this section,—
+
+10
+
+15
+
+(a) “accumulated loss” means so much of the loss of the predecessor
+firm or the proprietary concern or the private company or unlisted public
+company before conversion into limited liability partnership or the
+amalgamating company or the demerged company, under the head “Profits
+and gains of business or profession” (excluding loss in a speculation
+business) which would have been eligible for carry forward and set off to
+such predecessor under section 112, had the reorganisation of business or
+conversion or amalgamation or demerger not occurred.
+(b) “industrial undertaking” means any undertaking which is
+engaged in—
+(i) the manufacture or processing of goods; or
+(ii) the manufacture of computer software; or
+
+20
+
+25
+
+(iii) the business of generation or distribution of electricity or
+any other form of power; or
+(iv) the business of providing telecommunication services,
+whether basic or cellular, including radio paging, domestic satellite
+service, network of trunking, broadband network and internet
+services; or
+(v) mining; or
+(vi) the construction of ships, aircrafts or rail systems;
+
+30
+
+(c) “original predecessor entity” means predecessor entity in respect
+of the first amalgamation for sub-section (1) or first business reorganisation
+for sub-sections (8) and (10), as the case may be.
+
+35
+
+(d) “specified bank” means the State Bank of India constituted under
+the State Bank of India Act, 1955 or a corresponding new bank constituted
+under section 3 of the Banking Companies (Acquisition and Transfer of
+Undertakings) Act, 1970 or under section 3 of the Banking Companies
+(Acquisition and Transfer of Undertakings) Act, 1980;
+
+23 of 1955.
+5 of 1970.
+40 of 1980.
+
+40
+
+(e) “unabsorbed depreciation” means so much of the allowance for
+depreciation of the predecessor firm or the proprietary concern or the private
+company or unlisted public company before conversion into limited liability
+partnership or the amalgamating company or the demerged company, which
+remains to be allowed and which would have been allowed to such
+predecessor under this Act, had the reorganisation of business or conversion
+or amalgamation or demerger not occurred.
+117. (1) Irrespective of anything contained in section 2(6)(a) to (c) or
+section 116, where there has been an amalgamation of,—
+
+45
+
+10 of 1949.
+
+(a) one or more banking company with—
+(i) any other banking institution under a scheme sanctioned and
+brought into force by the Central Government under section 45(7) of
+the Banking Regulation Act, 1949; or
+
+Treatment of
+accumulated
+losses and
+unabsorbed
+depreciation in
+scheme of
+amalgamation in
+certain cases
+
+154
+
+(ii) any other banking institution or a company following a
+strategic disinvestment, wherein the amalgamation occurs within five
+years from the end of the tax year during which such disinvestment is
+carried out; or
+(b) one or more corresponding new bank or banks with any other
+corresponding new bank under a scheme brought into force by the Central
+Government under section 9 of the Banking Companies (Acquisition and
+Transfer of Undertakings) Act, 1970 or under section 9 of the Banking
+Companies (Acquisition and Transfer of Undertakings) Act, 1980, or
+both; or
+
+5
+
+5 of 1970.
+40 of 1980.
+10
+
+(c) one or more Government company or companies with any other
+Government company under a scheme sanctioned and brought into force by
+the Central Government under section 16 of the General Insurance Business
+(Nationalisation) Act, 1972,
+the accumulated loss and unabsorbed depreciation of such banking company or
+companies or amalgamating corresponding new bank or banks or amalgamating
+Government company or companies, shall be deemed to be the loss or, allowance
+for depreciation of the banking institution or company or amalgamated
+corresponding new bank or amalgamated Government company for the tax year
+in which the scheme of amalgamation was brought into force and other provisions
+of this Act relating to set off and carry forward of loss and allowance for
+depreciation shall apply accordingly.
+(2) Where any scheme of such amalgamation is brought into force on or
+after the 1st April, 2025, any loss forming part of the accumulated loss of the
+predecessor entity, being—
+
+57 of 1972.
+15
+
+20
+
+25
+
+(i) the banking company or companies;
+(ii) the amalgamating corresponding new bank or banks; or
+(iii) the amalgamating Government company or companies,
+as the case may be, which is deemed to be the loss of the successor entity, being—
+(a) the banking institution or company; or
+
+30
+
+(b) the amalgamated corresponding new bank or banks; or
+(c) the amalgamated Government company or companies,
+as the case may be, shall be carried forward in the hands of the successor entity
+for not more than eight tax years immediately succeeding the tax year for which
+such loss was first computed for original predecessor entity.
+
+35
+
+(3) In this section,—
+(a) “accumulated loss” means so much of the loss of the amalgamating
+banking company or companies or amalgamating corresponding new bank
+or banks or amalgamating Government company or companies under the
+head “Profits and gains of business or profession” (excluding losses of a
+speculation business) which such amalgamating company or companies
+would have been entitled to carry forward and set off under section 112 had
+the amalgamation not occurred;
+
+40
+
+(b) “banking company” shall have the same meaning as assigned to it
+in section 5(c) of the Banking Regulation Act, 1949;
+
+45 10 of 1949.
+
+(c) “banking institution” shall have the same meaning as assigned to it
+in section 45(15) of the Banking Regulation Act, 1949;
+
+10 of 1949.
+
+155
+(d) “corresponding new bank” shall have the same meaning as
+assigned to it in section 2(d) of the Banking Companies (Acquisition and
+Transfer of Undertakings) Act, 1970, or section 2(b) of the Banking
+Companies (Acquisition and Transfer of Undertakings) Act, 1980;
+
+5 of 1970.
+40 of 1980.
+5
+57 of 1972.
+
+18 of 2013.
+10
+57 of 1972.
+
+(e) “general insurance business” shall have the same meaning as
+assigned to it in section 3(g) of the General Insurance Business
+(Nationalisation) Act, 1972;
+(f) “Government company” means a Government company as defined
+in section 2(45) of the Companies Act, 2013, engaged in the general
+insurance business and established under section 4 or 5 or 16 of the General
+Insurance Business (Nationalisation) Act, 1972;
+(g) “original predecessor entity” means predecessor entity in respect
+of the first amalgamation;
+
+15
+
+(h) “strategic disinvestment” shall have the meaning assigned to it in
+section 116(3)(c);
+
+20
+
+(i) “unabsorbed depreciation” means the allowance for depreciation of
+the amalgamating banking company or companies or amalgamating
+corresponding new bank or banks or amalgamating Government company
+or companies which remains to be allowed and which would have been
+allowed to such entity, had the amalgamation not occurred.
+
+25
+
+118. (1) In a case of a co-operative bank, where amalgamation takes place
+during the tax year, the accumulated business loss and unabsorbed depreciation,
+if any, of the predecessor co-operative bank, shall be allowed to be set off against
+the income of the assessee, being a successor co-operative bank for that tax year,
+as if the business reorganisation had not taken place and all other provisions of
+this Act relating to set off and carry forward of loss and allowance for
+depreciation, shall apply accordingly.
+(2) In case of a co-operative bank where demerger takes place during the tax
+year, and where the accumulated loss or unabsorbed depreciation––
+
+30
+
+35
+
+40
+
+(a) is directly relatable to the undertaking transferred, the whole of
+such loss and depreciation shall be allowed to be carried forward and set off
+against the income of the resulting co-operative bank; and
+(b) is not directly relatable to the undertaking transferred, then such
+loss and depreciation shall first be apportioned between the demerged
+co-operative bank and the resulting co-operative bank in the same
+proportion in which assets of the undertaking are distributed between the
+demerged co-operative bank and the resulting co-operative bank, and be
+allowed to be carried forward and set off against their respective incomes.
+(3) The accumulated loss shall be carried forward only up to eight tax years
+immediately succeeding the tax year in which such loss was first computed in the
+hands of the predecessor-in-business.
+(4) The provisions of this section shall apply, if—
+(a) the predecessor co-operative bank—
+
+45
+
+(i) has been engaged in the business of banking for three or more
+years; and
+(ii) has held at least three-fourths of the book value of fixed
+assets as on the date of the business reorganisation, continuously for
+two years before to the date of business reorganisation;
+
+Carry forward
+and set off of
+losses and
+unabsorbed
+depreciation in
+business
+reorganisation
+of co-operative
+banks.
+
+156
+
+(b) the successor co-operative bank,—
+(i) holds at least three-fourths of the book value of fixed assets
+of the predecessor co-operative bank acquired through business
+reorganisation, continuously for a minimum five years immediately
+succeeding the date of business reorganisation;
+
+5
+
+(ii) continues the business of the predecessor co-operative bank
+for a minimum five years from the date of business reorganisation; and
+(iii) fulfils such other conditions, as prescribed, to ensure the
+revival of the business of the predecessor co-operative bank or to
+ensure that the business reorganisation is for genuine business
+purpose.
+
+10
+
+(5) The Central Government may, by notification, specify such other
+conditions as it may consider necessary, other than the condition referred to in
+sub-section (4)(b)(iii), for the purposes of ensuring that the specified business
+reorganisation is for genuine business purposes.
+
+15
+
+(6) In a case where any of the conditions referred to in sub-section (4) or (5)
+are not complied with, the set off of accumulated business loss or unabsorbed
+depreciation made in any tax year in the hands of the successor co-operative bank
+shall be deemed to be the income of the successor co-operative bank chargeable
+to tax for the year in which such conditions are not complied with.
+
+20
+
+(7) The period commencing from the beginning of the tax year and ending
+on the date immediately preceding the date of business reorganisation, and the
+period commencing from the date of such business reorganisation and ending with
+the tax year, shall be deemed to be two different tax years for the purposes of
+set off and carry forward of loss and allowance for depreciation.
+
+25
+
+(8) In this section,––
+(a) “accumulated business loss” means so much of the loss of
+amalgamating co-operative bank or demerged co-operative bank as referred
+to in section 112 in the hands of predecessor co-operative bank, which such
+predecessor co-operative bank would have been entitled to carry forward
+and set off under the said section, as if the business reorganisation had not
+taken place;
+(b) “amalgamated co-operative bank”, “amalgamating co-operative
+bank”, “amalgamation”, “business reorganisation”, “demerged co-operative
+bank”, “demerger”, “predecessor co-operative bank”, “successor
+co-operative bank” and “resulting co-operative bank” shall have the
+meanings respectively assigned to them in section 65;
+(c) “unabsorbed depreciation” means so much of the allowance for
+depreciation in the hands of amalgamating co-operative bank or demerged
+co-operative bank, which remains to be allowed and which would have been
+allowed to such banks, if the business reorganisation had not taken place.
+Carry forward
+and set off of
+losses not
+permissible in
+certain cases.
+
+119. (1) In case of change in constitution of a firm during a tax year, such
+firm shall not be entitled to carry forward and set off so much of the loss
+proportionate to the share of retired or deceased partner as reduced by his share
+of profit, if any, from the firm for that tax year.
+(2) If any person carrying on any business or profession has been succeeded
+in such capacity by another person, otherwise than by inheritance, nothing in this
+Chapter shall entitle any person other than the person incurring the loss to have it
+carried forward and set off against his income.
+
+30
+
+35
+
+40
+
+45
+
+157
+
+5
+
+(3) In case of change in shareholding of a company, not being a company in
+which public are substantially interested, during any tax year, loss brought
+forward from any preceding tax year shall not be allowed to be set off against the
+income of the said tax year and subsequent tax years unless the following
+conditions are satisfied:––
+
+10
+
+(a) if the beneficial owners of shares of the company carrying at least
+51% of voting power, as on the last day of tax year in which loss was
+incurred, shall continue to be the beneficial owner of shares carrying at least
+51% of voting power, as on the last day of the tax year in which such change
+in shareholding takes place; or
+(b) even if conditions referred to in clause (a) are not satisfied in case
+of a company, being an eligible start-up referred to in section 140,—
+
+15
+
+(i) all shareholders of the company holding shares carrying
+voting power, as on the last day of tax year in which loss was incurred,
+continue to hold those shares as on the last day of the tax year in which
+such change in shareholding takes place; and
+(ii) such loss was incurred during the first ten years beginning
+from the year of incorporation of the company.
+(4) The provisions of sub-section (3) shall not apply––
+
+20
+
+25
+
+31 of 2016.
+
+30
+
+(a) where a change in the voting power and shareholding takes place
+in the tax year referred to in that sub-section due to death of shareholder or
+transfer of shares by way of gift to any relative of the shareholder; or
+(b) where change in shareholding of Indian company, being a
+subsidiary of foreign company, takes place due to amalgamation or
+demerger of the foreign company and 51% of the shareholders of
+amalgamating or demerged foreign company are shareholders of
+amalgamated or resulting foreign company; or
+(c) where change in shareholding takes place in a tax year consequent
+to a resolution plan approved under the Insolvency and Bankruptcy
+Code, 2016 and a reasonable opportunity of being heard was afforded to the
+jurisdictional Principal Commissioner or Commissioner; or
+(d) to a company, its subsidiary and subsidiary of such subsidiary, if––
+
+18 of 2013.
+
+35
+
+40
+18 of 2013.
+
+45
+
+50
+
+(i) the Board of Directors of such company were suspended by
+the Tribunal on an application moved by the Central Government
+under section 241 of the Companies Act, 2013 and new directors were
+appointed by the Central Government under section 242 of the said
+Act; and
+(ii) the change in shareholding of such company and its
+subsidiary, and subsidiary of such subsidiary has taken place
+consequent to a resolution plan approved by the Tribunal under
+section 242 of the Companies Act, 2013 and a reasonable opportunity
+of being heard was afforded to the jurisdictional Principal
+Commissioner or Commissioner; or
+(e) to a company to the extent that a change in the shareholding has
+taken place during the tax year on account of relocation referred to in
+section 70(2); or
+(f) to an erstwhile public sector company where ultimate holding
+company of such company, immediately after the completion of strategic
+disinvestment, continues to hold, directly or through its subsidiary or
+subsidiaries, at least 51% of the voting power of such company in aggregate.
+
+158
+
+(5) Irrespective of anything contained in sub-section (4), if the conditions
+specified in sub-section 4(f) is not complied with in any tax year after the
+completion of strategic disinvestment, the provisions of sub-section (3) shall
+apply for such tax year and subsequent tax years.
+(6) In this section,—
+
+5
+
+(a) a company shall be a subsidiary of another company, if such other
+company holds more than half in nominal value of the equity share capital
+of the company;
+(b) the expression “erstwhile public sector company” shall have the
+meaning assigned to it in section 116(3)(b);
+
+10
+
+(c) “strategic disinvestment” shall have the meaning assigned to it in
+section 116(3)(c);
+(d) “Tribunal” shall have the same meaning as assigned to it in
+section 2(90) of the Companies Act, 2013.
+No set off of
+losses against
+undisclosed
+income
+consequent to
+search,
+requisition and
+survey.
+
+120. (1) Irrespective of anything to the contrary contained in any other
+provision of this Act, any loss, whether brought forward or otherwise or
+unabsorbed depreciation, shall not be allowed to be set off against any undisclosed
+income which is included in the total income of any tax year, consequent to a
+search conducted under section 247 or a requisition under section 248 or a survey
+conducted under section 253, not being a survey under section 253(4).
+
+18 of 2013.
+15
+
+20
+
+(2) In this section, the expression “undisclosed income” for any tax year
+shall have the meaning assigned to it in section 301.
+Submission of
+return for losses.
+
+121. Irrespective of anything contained in this Chapter, no loss which has
+not been determined in pursuance of a return filed under section 263(1), shall be
+carried forward and set off under section 111(1) and 111(2), or 112(1), or 113(2),
+or 114(2) or 115(1).
+
+25
+
+CHAPTER VIII
+DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME
+A.—General
+Deductions to
+be made in
+computing total
+income.
+
+121. (1) In computing the total income of an assessee, the deductions
+specified in this Chapter shall be allowed from his gross total income, as per and
+subject to the provisions of this Chapter.
+
+30
+
+(2) The aggregate amount of the deductions under this Chapter shall not, in
+any case, exceed the gross total income of the assessee.
+(3) If the deduction under section 133 or 135 or 137 or 138 or 141 or 142
+or 143 is admissible in computing the total income of an association of persons or
+a body of individuals, no deduction under the same provision shall be made in
+relation to the share of income of a member of such association of persons or body
+of individuals while computing the total income of such member.
+
+35
+
+(4) Irrespective of anything to the contrary contained in any of the provisions
+of this Chapter under the heading “Deductions in respect of certain incomes”,
+where, in the case of an assessee, any amount of profits and gains of an
+undertaking or unit or enterprise or eligible business is claimed and allowed as a
+deduction under those provisions for any tax year,––
+
+40
+
+(a) deduction in respect of, and to the extent of, such profits and gains
+shall not be allowed under any other provision of this Act for such tax year; and
+
+45
+
+(b) shall in no case exceed the profits and gains of such undertaking
+or unit or enterprise or eligible business.
+
+

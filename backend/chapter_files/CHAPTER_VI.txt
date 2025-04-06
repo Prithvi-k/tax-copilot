@@ -1,0 +1,187 @@
+146
+
+CHAPTER VI
+AGGREGATION OF INCOME
+Total
+income.
+
+101. In computing the total income of an assessee, there shall be included all
+income on which no income-tax is payable under Chapter XVIIA-4.
+
+Unexplained
+credits.
+
+102. (1) Where any sum is found credited in the books of account maintained
+by the assessee for any tax year, and––
+
+5
+
+(a) the assessee offers no explanation about the nature and source of
+such credit; or
+(b) the explanation offered by assessee is not satisfactory in the opinion
+of the Assessing Officer,
+
+10
+
+then, the sum so credited shall be charged to income-tax as income of the assessee
+of that tax year.
+(2) If the sum so credited consists of loan or borrowing, or any such amount,
+by whatever name called, the explanation offered by such assessee shall be deemed
+to be not satisfactory, unless,—
+
+15
+
+(a) the person in whose name such credit is recorded in the books of
+such assessee also offers an explanation about the nature and source of such
+sum so credited; and
+(b) such explanation, in the opinion of the Assessing Officer referred to
+in sub-section (1), has been found to be satisfactory.
+
+20
+
+(3) If the assessee is a company (not being a company in which the public are
+substantially interested), and the sum so credited consists of share application
+money, share capital, share premium, or any such amount, by whatever name
+called, the explanation offered by such assessee company shall be deemed to be
+not satisfactory, unless—
+
+25
+
+(a) the person, being a resident in whose name such credit is recorded
+in the books of such company also offers an explanation about the nature and
+source of such sum so credited; and
+(b) such explanation, in the opinion of the Assessing Officer referred to
+in sub-section (1), has been found to be satisfactory.
+
+30
+
+(4) Nothing contained in sub-section (2) or (3) shall apply if the person, in
+whose name the sum referred to in those sub-sections is recorded, is a venture capital
+fund or a venture capital company as referred to in Schedule V (Table: Sl. No. 6).
+Unexplained
+investment.
+
+103. Where in any tax year, any investment has been made by the assessee which
+is not recorded in the books of account, if any, maintained by such assessee, or, the
+Assessing Officer finds that the amount of such investment exceeds the amount recorded
+in such books of account where the investment is found recorded, and the assessee––
+
+35
+
+(a) offers no explanation about the nature and source of such
+investment, or such excess amount, as the case may be; or
+(b) the explanation offered by the assessee, is not satisfactory in the
+opinion of the Assessing Officer,
+
+40
+
+then, the value of such investment, or such excess amount, as the case may be, shall
+be deemed to be the income of the assessee of that tax year.
+Unexplained
+asset.
+
+104. (1) Where in any tax year, any asset has been found to be owned by or
+belonging to the assesse which is not recorded in the books of account, if any,
+maintained by such assessee, or the Assessing Officer finds that the amount of such
+asset exceeds the amount recorded in such books of account where the asset is
+found recorded, and the assesse––
+
+45
+
+147
+
+(a) offers no explanation about the nature and source of acquisition of
+such asset, or such excess amount, as the case may be; or
+(b) the explanation offered by the assessee, is not satisfactory in the
+opinion of the Assessing Officer,
+5
+
+then, the value of such asset, or such excess amount, as the case may be, shall be
+deemed to be the income of the assessee of the tax year in which such asset has
+been found to be owned by, or belonging to, the assessee.
+(2) In this section, “asset” includes money, bullion, jewellery, virtual digital
+asset or other valuable article.
+
+10
+
+105. (1) Where any expenditure has been incurred by the assessee in any tax
+year, and––
+
+Unexplained
+expenditure.
+
+(a) the assessee offers no explanation about the source of such
+expenditure or part thereof; or
+15
+
+(b) the explanation offered by the assessee is not satisfactory in the
+opinion of the Assessing Officer,
+then, the amount covered by such expenditure or part thereof, shall be deemed to
+be the income of the assessee for that tax year.
+(2) Irrespective of any other provision of this Act, the amount deemed as
+income in sub-section (1) shall not be allowed as a deduction under this Act.
+
+20
+
+106. (1) Where any amount (including interest thereof) is borrowed or repaid
+through a negotiable instrument or a hundi, other than an account payee cheque, or
+through any mode as specified by the Board in this behalf, the amount so borrowed
+or repaid shall be deemed to be the income of the person borrowing or repaying,
+as the case maybe, for the tax year in which the amount was borrowed or repaid.
+
+25
+
+(2) Where the amount borrowed under sub-section (1) has been deemed to be
+the income of any person, such person shall not be liable to be assessed again in
+respect of such amount under that sub-section on repayment of such amount.
+107. Income referred to in sections 102, 103, 104, 105 and 106 shall be
+charged to tax as per the provisions of section 195.
+
+30
+
+Amount
+borrowed or
+repaid through
+negotiable
+instrument,
+hundi, etc.
+
+Charge of tax.
+
+CHAPTER VII
+SET OFF, OR CARRY FORWARD AND SET OFF OF LOSSES
+
+35
+
+108. (1) Unless provided otherwise in this Act, for any tax year, if net result
+of computation from any source under any head of income (other than “Capital
+gains”) is a loss, then assessee shall be entitled to set off such loss against his
+income from any other source under the same head for that tax year.
+
+Set off of losses
+under the same
+head of income.
+
+(2) Any loss, as a result of computation made under sections 72 to 90, for any
+tax year, arising from transfer of a capital asset as arrived at under a similar
+computation made for the tax year in respect of any other capital asset being,––
+40
+
+(a) a long-term capital asset, shall be set off only against gains, if any,
+from transfer of another long-term capital asset; and
+(b) a short-term capital asset, shall be set off against gains, if any, from
+transfer of any capital asset.
+
+45
+
+109. (1) Subject to the provisions of this Chapter, for any tax year, if income
+computed under any head of income (other than “Capital gains”) is a loss, such
+loss shall be set off against income of the assessee under any other head, including
+“Capital gains”, if any, assessable for that tax year, subject to the following
+conditions:––
+
+Set off of losses
+under any other
+head of income.
+
+

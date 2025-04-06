@@ -1,0 +1,1185 @@
+289
+
+43 of 1961.
+
+5
+43 of 1961.
+
+10
+
+15
+
+(h) “proceeding” means any proceeding in respect of any year, whether
+under the Income-tax Act, 1961or under this Act, which may be pending on
+the date on which a search under section 247 or requisition under
+section 248 is authorised or powers under section 253 are exercised, as the
+case may be, or which may have been completed on or before such date and
+includes all proceedings under this Act or the Income-tax Act, 1961which
+may be commenced after such date in respect of any year;
+(i) “virtual digital space” means an environment, area or realm, that is
+constructed and experienced through computer technology and not the
+physical, tangible world which encompasses any digital realm that allows
+users to interact, communicate and perform activities using computer
+systems, computer networks, computer resources, communication devices,
+cyberspace, internet, worldwide web and emerging technologies, using data
+and information in the electronic form for creation or storage or exchange
+and includes––
+(i) email servers;
+(ii) social media account;
+(iii) online investment account, trading account, banking
+account, etc.;
+
+20
+
+(iv) any website used for storing details of ownership of any asset;
+(v) remote server or cloud servers;
+(vi) digital application platforms; and
+(vii) any other space of similar nature.
+CHAPTER XV
+
+25
+
+RETURN OF INCOME
+A.—Allotment of Permanent Account Number
+262.(1) Every person who has not been allotted a Permanent Account
+Number shall, within such time as prescribed, apply to the Assessing Officer for
+its allotment if he fulfils any of the following conditions:—
+
+30
+
+(a) his total income or the total income of any other person for which
+he is assessable under this Act during any tax year exceeded the maximum
+amount not chargeable to income-tax;
+(b) he is carrying on any business or profession whose total sales, turnover
+or gross receipts are or is likely to exceed five lakh rupees in any tax year;
+
+35
+
+(c) he is required to furnish a return of income under section 263 for
+any tax year; or
+(d) he is a resident, other than an individual, which enters into a
+financial transaction aggregating to two lakh fifty thousand rupees or more
+in a tax year; or
+
+40
+
+(e) he is the managing director, director, partner, trustee, author,
+founder, karta, chief executive officer, principal officer or office bearer of
+the person referred to in clause (d) or any person competent to act on behalf
+of the person referred to in clause (d).
+
+Permanent
+Account
+Number.
+
+290
+
+(2) Any person, not covered under sub-section (1) may apply to the
+Assessing Officer for the allotment of a Permanent Account Number after which
+the Assessing Officer shall allot a Permanent Account Number to such person.
+(3) Every person shall quote Permanent Account Number in all his returns
+to, or correspondence with, any income-tax authority and in all challans for the
+payment of any sum due under this Act.
+
+5
+
+(4) Every person shall intimate the Assessing Officer of any change in his
+address or in the name and nature of his business on the basis of which the
+Permanent Account Number was allotted to him.
+(5) Every person who is eligible to obtain Aadhaar number shall quote such
+number in the application form for allotment of Permanent Account Number and
+in the return of income.
+(6)(a) Every person who has been allotted Permanent Account Number and
+who is eligible to obtain Aadhaar number, shall intimate his Aadhaar number to
+the prescribed income-tax authority in such form and manner, as prescribed;
+
+10
+
+15
+
+(b) if a person fails to intimate his Aadhaar number as per clause (a), the
+Permanent Account Number allotted to that person shall be made inoperative in
+such manner as prescribed.
+(7) Every person who is required to furnish or intimate or quote his
+Permanent Account Number under this Act, and who—
+
+20
+
+(a) has not been allotted a Permanent Account Number but possesses
+the Aadhaar number, may furnish or intimate or quote his Aadhaar number
+in lieu of the Permanent Account Number, and such person shall be allotted
+a Permanent Account Number in the manner, as prescribed;
+(b) has been allotted a Permanent Account Number, and who has
+intimated his Aadhaar number as per sub-section (6) may furnish or intimate
+or quote his Aadhaar number in lieu of the Permanent Account Number.
+
+25
+
+(8) A person who has already been allotted a Permanent Account Number
+cannot apply, obtain or possess another Permanent Account Number.
+(9)(a) Every person entering into such transaction, as prescribed, shall quote
+his Permanent Account Number or Aadhaar number, in the documents pertaining
+to such transactions and also authenticate such Permanent Account Number or
+Aadhaar number, in the manner, as prescribed;
+(b) every person receiving any document relating to the transactions referred
+to in clause (a), shall ensure that Permanent Account Number or Aadhaar number,
+has been duly quoted in such document and that such Permanent Account Number
+or Aadhaar number is authenticated as prescribed.
+
+30
+
+35
+
+(10) The Board may make rules providing for—
+(a) the form, manner and time in which an application may be made
+for the allotment of Permanent Account Number and the particulars which
+such application shall contain;
+
+40
+
+(b) class or classes of persons who shall be required to apply for
+allotment of Permanent Account Number;
+(c) categories of documents pertaining to business or profession in
+which Permanent Account Number shall be quoted by every person;
+
+45
+
+(d) the form and manner in which the person who has not been allotted
+a Permanent Account Number shall make his declaration;
+(e) manner of authentication of Permanent Account Number or
+Aadhaar number;
+(f) class or classes of persons to whom the provisions of this section
+shall not apply having regard to the transactions or the circumstances.
+
+50
+
+291
+
+(11)(a) The Central Government may, by notification, specify any class or
+classes of persons who shall apply to the Assessing Officer for the allotment of
+Permanent Account Number within such time as mentioned in such notification;
+(b) the class or classes of persons in clause (a) may include such persons––
+5
+
+(i) by whom tax is payable under this Act; or
+(ii) by whom any tax or duty is payable under any other law in force; or
+(iii) being importers and exporters, even when no tax is payable by them.
+
+10
+
+(12) The provisions of sub-sections (5) and (6) shall not apply to such person
+or class or classes of persons or any State or part of any State, as notified by the
+Central Government.
+(13) In this section,—
+(a) “Aadhaar number” shall have the same meaning as assigned to it
+in section 2(a) of the Aadhaar (Targeted Delivery of Financial and Other
+Subsidies, Benefits and Services) Act, 2016;
+
+18 of 2016.
+15
+
+20
+
+(b) “Assessing Officer” includes an income-tax authority who is
+assigned the duty of allotting permanent account number;
+(c) “authentication” means the process by which the Permanent
+Account Number or Aadhaar number along with demographic information
+or biometric information of an individual is submitted to the income-tax
+authority or such other authority or agency as prescribed for its verification
+and such authority or agency verifies the correctness, or the lack thereof, on
+the basis of information available with it.
+B.—Filing of return of income and processing
+
+25
+
+263. (1)(a) The following persons shall furnish a return of income for the
+tax year under this Act, on or before the due date:—
+(i) a company;
+(ii) a firm;
+
+30
+
+(iii) a person other than a company or a firm, if his total income or the
+total income of any other person in respect of which he is assessable under this
+Act during the tax year, without giving effect to the provisions of
+Chapter XVII-B or provisions of Schedule VIII (Table: Sl. No. 1) or deductions
+allowable under Chapter IV-E (Capital Gains) or Chapter VIII, as the case may
+be, exceeded the maximum amount which is not chargeable to income-tax;
+
+35
+
+(iv) a specified entity if its total income without giving effect to the
+provisions of section 11, exceeds the maximum amount which is not
+chargeable to income-tax;
+(v) a University, college or other institution as referred to in section 45(3)(a);
+(vi) a business trust;
+(vii) an investment fund as referred to in section 224;
+
+40
+
+(viii) a person who has sustained a loss in the tax year under the head
+“Profits and gains of business or profession” or under the head “Capital
+gains” and who intends to claim that such loss, or any part thereof, is to be
+carried forward as per this Act;
+(ix) a person who intends to make a claim of refund under Chapter XX;
+
+45
+
+(x) a person, who is a resident, other than not ordinarily resident, and
+who at any time during the tax year,––
+(A) holds, as a beneficial owner or otherwise, any asset
+(including any financial interest in an entity) located outside India, or
+has signing authority in any account located outside India; or
+
+Return of
+income.
+
+292
+
+(B) is a beneficiary of any asset (including any financial interest
+in an entity) located outside India, except where any income arising
+from such asset is includible in the income of person referred to in
+item (A);
+(xi) a person, other than a company or firm, who during the tax year,
+fulfils such conditions as prescribed;
+(b) for the purposes of this section, “due date” means the date of the financial
+year succeeding the relevant tax year as mentioned in the corresponding entry of
+column C of the Table below in respect of the persons mentioned in column B of
+the said Table below:
+
+5
+
+10
+
+Table
+Sl. No.
+
+Person
+
+Due date
+
+A
+
+B
+
+C
+
+1.
+
+Company.
+
+31st October.
+
+2.
+
+Person (other than a company)
+whose accounts are required to be
+audited under this Act or under any other
+law in force.
+
+31st October.
+
+3.
+
+Partner of a firm whose accounts
+are required to be audited under this Act
+or under any other law in force; or the
+spouse of such partner (if section 10
+applies to such spouse).
+
+31st October.
+
+Assessee, including the partners of
+the firm or the spouse of such partner (if
+section 10 applies to such spouse), who
+is required to furnish a report referred to
+in section 172.
+
+30th November.
+
+4.
+
+5.
+
+Any other assessee.
+
+15
+
+20
+
+25
+
+31st July.
+
+(2)(a) The Board may make rules providing for the prescribed form for
+furnishing return of income, manner of its verification and such other particulars
+including––
+
+30
+
+(i) the class or classes of persons who shall be required to furnish the
+return in electronic form or otherwise;
+(ii) the form and the manner in which the return may be furnished,
+whether in electronic form or otherwise;
+(iii) the documents, statements, receipts, certificates, audited reports
+or any other documents which may not be furnished along with the return in
+electronic form but shall be produced before the Assessing Officer on
+demand;
+
+35
+
+40
+
+(iv) the computer resource or the electronic record to which the return
+in electronic form may be transmitted;
+(b) the particulars prescribed under clause (a) may also include––
+(i) income exempt from tax;
+(ii) assets of the prescribed nature and value held by the assessee as a
+beneficial owner or otherwise or in which he is a beneficiary;
+(iii) bank account and credit card held by the assessee;
+
+45
+
+293
+
+(iv) expenditure exceeding the prescribed limit incurred by the
+assessee under prescribed heads;
+(v) such other outgoings as prescribed;
+(vi) the report of any audit referred to in section 63 or a copy thereof;
+5
+
+(vii) the particulars of the location and style of the principal place of
+the business or profession and all the branches thereof;
+(viii) the names and addresses of the partners, if any, in the business
+or profession;
+
+10
+
+15
+
+(ix) the names of the other members of the association of person or the
+body of individuals and the extent of the share of the assessee and the shares
+of all such members, in the profits of the business or profession and any
+branches thereof.
+(3) The Central Government may, by notification, exempt any class or
+classes of persons, from the obligation to file a return of income under this section,
+subject to the conditions specified therein.
+(4) Any person who has not furnished a return within the time allowed to
+him under sub-section (1), may furnish the return for any tax year at any time
+within nine months from the end of the relevant tax year, or before the completion
+of the assessment, whichever is earlier.
+
+20
+
+25
+
+30
+
+(5) If any person, having furnished a return under sub-section (1) or
+sub-section (4), discovers any omission or any wrong statement therein, he may
+furnish a revised return at any time within nine months from the end of the relevant
+tax year, or before the completion of the assessment, whichever is earlier.
+(6)(a) Any person, whether or not he has furnished a return under
+sub-section (1) or (4) or (5) for a tax year, may furnish an updated return of his
+income or the income of any other person in respect of which he is assessable
+under this Act, at any time within forty-eight months from the end of the financial
+year succeeding the relevant tax year;
+(b) the provisions of clause (a) shall continue to apply for a tax year if any person
+has sustained a loss in the said tax year and has furnished a return of loss within the
+due date specified under sub-section (1) and the updated return is a return of income;
+(c) the provisions of clause (a) shall not apply for a tax year for any person, if––
+(i) the updated return is a return of loss;
+
+35
+
+(ii) the updated return has the effect of decreasing the total tax liability
+determined on the basis of return furnished under sub-section (1) or (4) or (5)
+for the said tax year;
+(iii) the updated return results in refund where no refund was due or
+increases the refund due on the basis of return furnished under sub-section (1)
+or (4) or (5) for the said tax year;
+
+40
+
+(iv) an updated return has already been furnished;
+(v) any proceeding for assessment or reassessment or recomputation
+or revision of income under this Act is pending or has been completed for
+the said tax year;
+
+45
+
+(vi) the Assessing Officer is in the possession of information in respect
+of such person for the said tax year regarding violation of specified laws and
+the same has been communicated to him prior to the date of furnishing of
+updated return;
+
+294
+
+(vii) information for the said tax year has been received under an
+agreement referred to in section 159 in respect of such person and the same has
+been communicated to him, prior to the date of furnishing of updated return;
+(viii) any prosecution proceedings under the Chapter XXII have been
+initiated for the said tax year in respect of such person, prior to the date of
+furnishing of updated return; or
+(ix) thirty-six months have expired from the end of the financial year
+succeeding the relevant tax year, and any notice to show-cause under
+section 281has been issued in his case, except where an order has been
+passed under section 281(3) determining that it is not a fit case to issue
+notice under section 280; or
+
+5
+
+10
+
+(x) he is such person or belongs to such class of persons, as notified
+by the Board in this regard;
+(d) a person shall also not be eligible to furnish an updated return of income,
+where—
+
+15
+
+(i) a search has been initiated under section 247 or books of account
+or other documents or any assets are requisitioned under section 248 in the
+case of that person;
+(ii) a survey has been conducted under section 253, other than
+sub-section (4) of the said section, in the case of that person; or
+
+20
+
+(iii) a notice has been issued to the effect that any money, bullion,
+jewellery, virtual digital asset or valuable article or thing, seized or
+requisitioned under section 247 or 248 in the case of any other person, belongs
+to that person; or
+(iv) a notice has been issued to the effect that any books of account or
+documents, seized or requisitioned under section 247 or 248 in the case of
+any other person, pertain or pertains to, or any other information contained
+therein, relate to, that person,
+for the tax year in which such search is initiated or survey is conducted or
+requisition is made and any tax year preceding such tax year.
+
+25
+
+30
+
+(7) A return of income furnished under this section, shall be treated as
+defective if it is not in conformity with all the conditions as prescribed and shall
+be dealt with in the following manner:––
+(a) where the Assessing Officer considers that the return of income
+furnished by the assessee is defective, he may intimate the defect to the
+assessee and give him an opportunity to rectify the defect within fifteen days
+from the date of such intimation or within a further period as may be allowed
+on an application made by the assessee in this behalf;
+(b) if the defect is not rectified within the period allowed under clause (a),
+then the return shall be treated as an invalid return and the provisions of this Act
+shall apply as if the assessee had failed to furnish the return;
+
+35
+
+40
+
+(c) where the assessee rectifies the defect after the expiry of the period
+allowed under clause (a), but before the assessment is made, the Assessing
+Officer may condone the delay and treat the return as a valid return.
+(8)(a) The provisions of this section shall also apply to a return of income
+which is furnished in pursuance of an order passed under section 239(4)(3)(b);
+
+45
+
+(b) the provisions of this section shall not apply to a specified senior citizen,
+as referred to in section 402(39), for the relevant tax year in which tax has been
+deducted at source under section 393(1) [Table: Sl. No. 8 (iii)].
+(9) In this section,––
+(a) “beneficial owner”, in respect of an asset means an individual who has
+
+50
+
+295
+
+provided, directly or indirectly, consideration for the asset for the immediate or
+future benefit, direct or indirect, of himself or any other person;
+
+5
+
+(b) “beneficiary”, in respect of an asset means an individual who
+derives benefit from the asset during the tax year and the consideration
+for such asset has been provided by any person other than such
+beneficiary;
+(c) “specified entity” means––
+(i) research association referred to in Schedule III (Table: Sl. No. 23);
+
+10
+
+(ii) association or institution referred to in Schedule III
+(Table: Sl. No. 24);
+(iii) person referred to in Schedule VII (Table: Sl. No. 2);
+(iv) institution referred to in Schedule III (Table: Sl. No. 25);
+
+15
+
+(v) any University or other educational institution or any hospital
+or other medical institution referred to in Schedule VII
+(Table: Sl. Nos. 17, 18 and 19);
+(vi) Mutual Fund referred to in Schedule VII (Table: Sl. No. 20
+and 21);
+(vii) securitisation trust referred to in Schedule III (Table: Sl. No. 26);
+
+20
+
+(viii) Investor Protection Fund referred to in Schedule III
+(Table: Sl. No. 28 and 29);
+(ix) Core Settlement Guarantee Fund referred to in Schedule III
+(Table: Sl. No. 30);
+(x) venture capital company or venture capital fund referred to
+in Schedule V (Table: Sl. No. 6);
+
+25
+
+(xi) trade union or association referred to in Schedule III
+(Table: Sl. No. 31);
+(xii) Board or Authority referred to in Schedule VII
+(Table: Sl. No. 33 and 40);
+
+30
+
+(xiii) Body or Authority or Board or Trust or Commission (by
+whatever name called) referred to in Schedule III (Table: Sl. No. 36);
+(xiv) infrastructure debt fund referred to in Schedule VII
+(Table: Sl. No. 46);
+
+13 of 1976.
+45 of 1988.
+
+35
+
+15 of 2003.
+22 of 2015.
+
+(d) “specified laws” shall refer to the Smugglers and Foreign
+Exchange Manipulators (Forfeiture of Property) Act, 1976, or the
+Prohibition of Benami Property Transactions Act, 1988, or the Prevention
+of Money-laundering Act, 2002, or the Black Money (Undisclosed Foreign
+Income and Assets) and Imposition of Tax Act, 2015.
+264. (1) The Board may make a Scheme for furnishing returns of income
+through a tax return preparer and such Scheme shall be notified, which—
+
+40
+
+(a) may enable any specified class or classes of persons in preparing
+and furnishing returns of income through a tax return preparer authorised to
+act as such under the Scheme;
+(b) may be made irrespective of provisions of section 263.
+
+Scheme for
+submission of
+returns through
+tax return
+preparers.
+
+296
+
+(2) In this section,—
+(a) “tax return preparer” means any individual, not being a person
+referred to in section 515(3)(a)(ii) or an employee of the “specified class or
+classes of persons”, who has been authorised to act as a tax return preparer
+under the Scheme made under this section;
+
+5
+
+(b) “specified class or classes of persons” means any person, other
+than a company or a person, whose accounts are required to be audited under
+section 63 or under any other law, who is required to furnish a return of
+income under this Act.
+(3) Every notification for the Scheme referred to in sub-section (1) shall be
+issued as per section 534 of this Act.
+Return by whom
+to be verified.
+
+10
+
+265. The return of income under section 263 required to be furnished by the
+person specified in column B of the Table below shall be verified by the person
+specified in corresponding entry in column C of the said Table:
+15
+
+Table
+Sl.
+No.
+
+Person furnishing return
+of income
+
+To be verified
+
+A
+
+B
+
+C
+
+1.
+
+An individual.
+
+(i) By the individual himself;
+(ii) where the individual is mentally
+incapacitated from attending to his affairs, by
+his guardian or any other person competent
+to act on his behalf;
+(iii) where, for any other reason, it is not
+possible for the individual to verify the
+return, by any person duly authorised by him
+through a valid power of attorney.
+
+2.
+
+A Hindu undivided
+family.
+
+A company [in cases
+other
+than
+those
+mentioned at serial
+numbers 4, 5,6 and 7].
+
+25
+
+(i) By the karta;
+(ii) where the karta is absent from India or
+is mentally incapacitated from attending to
+his affairs, by any other adult member of
+such family.
+
+3.
+
+20
+
+(i) By the managing director of the
+company;
+(ii) where there is no managing director,
+or the managing director is not able to
+verify the return due to any unavoidable
+reason, by any director of the company or
+any other person as prescribed for
+verifying the return.
+
+30
+
+35
+
+40
+
+297
+
+A
+
+B
+
+C
+
+4.
+
+A company not being
+resident in India.
+
+By any person holding a valid power of
+attorney from the company to do so.
+
+5.
+
+A company which is
+being wound up by the
+Court or otherwise, or
+where any person has
+been
+appointed
+as
+receiver of any assets of
+the company.
+
+By the liquidator as referred to in
+section 322(1).
+
+6.
+
+A company whose
+management has been
+taken over by the
+Central Government or
+any State Government
+under any law.
+
+By the principal officer of the company.
+
+7.
+
+A company, for which
+application
+seeking
+corporate
+insolvency
+resolution process has
+been admitted by the
+Adjudicating Authority
+under sections 7 or 9 or 10
+of the Insolvency and
+Bankruptcy Code, 2016
+(31 of 2016).
+
+By the insolvency professional appointed
+by such Adjudicating Authority, where—
+
+5
+
+10
+
+15
+
+20
+
+25
+
+8.
+
+A firm.
+
+Note.––“Insolvency professional” and
+“Adjudicating Authority” shall have the
+same meanings as assigned to them
+respectively in sections 3(19) and 5(1) of
+the Insolvency and Bankruptcy Code,
+2016 (31 of 2016).
+
+(i) By the managing partner of the firm;
+(ii) where the managing partner is not able
+to verify the return due to any unavoidable
+reason, or there is no managing partner as such,
+by any partner of the firm, not being a minor.
+
+30
+
+9.
+
+A limited liability
+partnership.
+
+(i) By the designated partner of the limited
+liability partnership;
+(ii) where the designated partner of the
+limited liability partnership is not able to
+verify the return due to any unavoidable
+reason, or where there is no designated
+partner, by any partner of the limited liability
+partnership or any other person as prescribed
+for verifying the return.
+
+35
+
+40
+
+10.
+
+A local authority.
+
+By the principal officer of the local
+authority.
+
+11.
+
+A political party as
+referred to in section
+263(1)(a)(iii).
+
+By the chief executive officer of such
+political party (whether the chief executive
+officer is known as secretary or by any other
+designation).
+
+12.
+
+Any other association.
+
+(i) By any member of the association; or
+
+45
+
+(ii) by the principal officer of the
+association.
+50
+
+13.
+
+Any other person.
+
+(i) By the person himself; or
+(ii) by any person competent to act on his
+behalf.
+
+298
+
+Self-assessment.
+
+266. (1) Where, after taking into account the amounts referred to in
+sub-section (2), any tax is payable on the basis of any return required to be
+furnished under section 263 or 268 or 280 or 294, then––
+(a) the assessee shall be liable to pay such tax together with interest
+and fee payable under any provision of this Act for any delay in furnishing
+the return or any default or delay in payment of advance tax, before
+furnishing the return; and
+
+5
+
+(b) the return shall be accompanied by proof of payment of tax, interest
+and fee.
+(2) The amounts referred to in sub-section (1) shall be,—
+
+10
+
+(a) the amount of tax, if any, already paid under any provision of this Act;
+(b) any tax deducted or collected at source;
+(c) any relief of tax claimed under section 157;
+(d) any relief of tax or deduction of tax claimed under
+section 159(1) or 160 on account of tax paid in a country outside India;
+
+15
+
+(e) any relief of tax claimed under section 159(2) on account of tax paid in
+any specified territory outside India referred to in that section;
+(f) any tax credit claimed to be set off as per section 206(13); and
+(g) any tax or interest payable according to the provisions of
+section 391(2).
+(3) Where the amount paid by the assessee under sub-section (1) falls
+short of the aggregate of the tax, interest and fee as payable under the said
+sub-section, the amount so paid shall be adjusted towards the fee payable and
+thereafter towards the interest payable and the balance, if any, shall be
+adjusted towards the tax payable.
+
+20
+
+25
+
+(4) For the purposes of sub-section (1), interest payable under section 423
+shall be computed on the tax on the total income as declared in the return as
+reduced by the amount of,—
+(a) advance tax, if any, paid;
+(b) any tax deducted or collected at source;
+
+30
+
+(c) any relief of tax claimed under section 157;
+(d) any relief of tax or deduction of tax claimed under
+section 159(1) or 160 on account of tax paid in a country outside India;
+(e) any relief of tax claimed under section 159(2) on account of tax
+paid in any specified territory outside India referred to in that section; and
+
+35
+
+(f) any tax credit claimed to be set off as per the provisions of
+section 206(13);
+(5) For the purposes of sub-section (1), interest payable under section 424
+shall be computed on an amount equal to the assessed tax or, as the case may be,
+on the amount by which the advance tax paid falls short of the assessed tax.
+
+40
+
+(6) In sub-section (5), “assessed tax” means the tax on the total income as
+declared in the return as reduced by the amount of,—
+(a) tax deducted or collected at source, as per the provisions of
+Chapter XIX-B, on any income which is subject to such deduction or
+collection and which is taken into account in computing such total income;
+
+45
+
+299
+
+(b) any relief of tax claimed under section 157;
+(c) any relief of tax or deduction of tax claimed under section 159(1)
+or section 160 on account of tax paid in a country outside India;
+5
+
+(d) any relief of tax claimed under section 159(2) on account of tax
+paid in any specified territory outside India referred to in that
+section; and.
+(e) any tax credit claimed to be set off as per the provisions of
+section 206(13).
+
+10
+
+15
+
+(7) After a regular assessment under section 270 or 271 or an
+assessment under section 294 has been made, any amount paid under subsection (1) shall be deemed to have been paid towards such regular
+assessment or assessment.
+(8) If any assessee fails to pay the whole or any part of such tax, interest or
+fee as per the provisions of sub-section (1), he shall be deemed to be an assessee
+in default in respect of the tax, interest or fee remaining unpaid and all the
+provisions of this Act shall apply accordingly.
+(9) The provisions of sub-section (8) shall apply without prejudice to any
+other consequences which the assessee may incur.
+
+20
+
+25
+
+267. (1) Where no return of income under section 263(1) or (4) has been
+furnished by an assessee and, after taking into account the amounts referred to in
+sub-section (2), tax is payable on the basis of return to be furnished by such
+assessee under section 263(6), then—
+(a) the assessee shall be liable to pay such tax together with
+interest and fee payable under any of the provisions of this Act for any
+delay in furnishing the return or any default or delay in payment of
+advance tax;
+(b) such tax, interest and fee shall be payable along with the payment
+of additional income-tax computed as per sub-section (5), before furnishing
+the return; and
+
+30
+
+(c) the return shall be accompanied by proof of payment of such tax,
+additional income-tax, interest and fee.
+(2) The amounts referred to in sub-section (1) shall be,—
+(a) the amount of tax, if any, already paid as advance tax;
+(b) any tax deducted or collected at source;
+
+35
+
+(c) any relief of tax claimed under section 157;
+(d) any relief of tax or deduction of tax claimed under
+section 159(1) or 160 on account of tax paid in a country outside India;
+(e) any relief of tax claimed under section 159(2) on account of tax
+paid in any specified territory outside India referred to in that section; and
+
+40
+
+(f) any tax credit claimed to be set off as per the provisions of
+section 206(13).
+
+Tax on updated
+return.
+
+300
+
+(3) Where, return of income under section 263(1) or (4) or (5) (referred to
+as earlier return) has been furnished by an assessee and, after taking into account
+the amounts referred to in sub-section (4) [as increased by the amount of refund,
+if any, issued in respect of such earlier return], tax is payable on the basis of return
+to be furnished by such assessee under section 263(6) then—
+
+5
+
+(a) the assessee shall be liable to pay such tax together with interest
+payable under any provision of this Act for any default or delay in payment
+of advance tax;
+(b) such tax, interest and fee shall be payable along with the payment
+of additional income-tax, as computed as per sub-section (5), as reduced by
+the amount of interest paid under the provisions of this Act in the earlier
+return, before furnishing the return; and
+
+10
+
+(c) the return shall be accompanied by proof of payment of such tax,
+additional income-tax, interest and fee.
+(4) The sums referred to in sub-section (3) shall be the following,—
+
+15
+
+(a) the amount of relief or tax referred to in section 266(1), the credit
+for which has been taken in the earlier return;
+(b) tax deducted or collected at source, as per the provisions of
+Chapter XIX-B, on any income which is subject to such deduction or
+collection and which is taken into account in computing total income and
+which has not been included in the earlier return;
+
+20
+
+(c) any relief of tax or deduction of tax claimed under section 159(1)
+or 160 on account of tax paid in a country outside India on such income
+which has not been included in the earlier return;
+(d) any relief of tax claimed under section 159(2) on account of
+tax paid in any specified territory outside India referred to in that
+section on such income which has not been included in the earlier
+return; and
+(e) any tax credit claimed, to be set off as per the provisions of
+section 206(13), which has not been claimed in the earlier return.
+
+25
+
+30
+
+(5) For the purposes of sub-sections (1) and (3), the additional income-tax
+payable at the time of furnishing the return under section 263(6) shall be equal
+to,—
+(a) 25% of aggregate of tax and interest payable, as determined in
+sub-section (1) or (3), as the case may be, if such return is furnished after
+expiry of the time available under section 263(4) or (5) and before
+completion of twelve months from the end of the financial year succeeding
+the relevant tax year; or
+(b) 50% of aggregate of tax and interest payable, as determined in
+sub-section (1) or (3), as the case may be, if such return is furnished after
+the expiry of twelve months but before completion of twenty-four
+months from the end of the financial year succeeding the relevant tax
+year;
+
+35
+
+40
+
+301
+
+(c) 60% of aggregate of tax and interest payable, as determined in
+sub-section (1) or (3), as the case may be, if such return is furnished after the
+expiry of twenty-four months, but before completion of thirty-six months,
+from the end of the financial year succeeding the relevant tax year; or
+5
+
+10
+
+(d) 70% of aggregate of tax and interest payable, as determined in
+sub-section (1) or (3), as the case may be, if such return is furnished after the
+expiry of thirty-six months, but before completion of forty-eight months, from
+the end of the financial year succeeding the relevant tax year.
+(6) For the purposes of computation of “additional income-tax” under this
+section, tax shall include surcharge and cess, by whatever name called, on such tax.
+(7) Irrespective of anything contained in section 424(2), for the purposes of
+sub-section (3), interest payable under section 424 shall be computed on an amount
+equal to the assessed tax where, “assessed tax” means the tax on the total income as
+declared in the return to be furnished under section 263(6),—
+
+15
+
+(a) after taking into account,—
+(i) the amount of relief or tax referred to in section 266(1), the credit
+for which has been claimed in the earlier return, if any;
+
+20
+
+25
+
+(ii) tax deducted or collected at source, as per the provisions of
+Chapter XIX-B, on any income which is subject to such deduction or
+collection and which is taken into account in computing such total income,
+which has not been included in the earlier return;
+(iii) any relief of tax or deduction of tax claimed under
+section 159(1) or 160 on account of tax paid in a country outside
+India on such income which has not been included in the earlier
+return;
+(iv) any relief of tax claimed under section 159(2) on account
+of tax paid in any specified territory outside India referred to in that
+section on such income which has not been included in the earlier
+return;
+
+30
+
+(v) any tax credit claimed, to be set off as per section 206(13),
+which has not been claimed in the earlier return; and
+(b) as increased by refund, if any, issued in respect of such earlier return.
+
+35
+
+(8) If any difficulty arises in giving effect to the provisions of this section, the
+Board may, with the previous approval of the Central Government, by notification,
+issue guidelines removing the difficulty.
+(9) No guidelines under sub-section (8) shall be issued after the expiration of
+two years from the 1st April, 2026.
+
+40
+
+45
+
+(10) Every guideline issued by the Board under sub-section (8) shall be laid
+before each House of Parliament while it is in session for a total period of thirty
+days which may be comprised in one session or in two or more successive sessions,
+and if, before the expiry of the session immediately following the session or the
+successive session aforesaid, both houses agree in making any modification in such
+guideline or both Houses agree that the guideline, should not be issued, the guideline
+shall thereafter have effect only in such modified form or be of no effect, as the case
+may be; so, however, that any such modification or annulment shall be without
+prejudice to the validity of anything previously done under that guideline.
+(11) For the purposes of this section,—
+
+50
+
+(a) interest payable under section 423, for the purposes of sub-section (1),
+shall be computed on the amount of tax on the total income as declared in the
+return, under section 263(6), as per section 266(4);
+
+302
+
+(b) interest payable under section 425, for the purposes of sub-section (3),
+shall be computed after taking into account the total income furnished in the
+return under section 263(6) as the returned income;
+(c) interest payable, for the purposes of sub-section (5), shall be the interest
+chargeable under any provision of this Act, on the income as per return furnished
+under section 263(6), as reduced by interest paid, as per the earlier return, if any.
+
+5
+
+(12) For the purposes of sub-section (11)(c), the interest paid in the earlier
+return shall be nil if such return is an updated return referred to in sub-section (1).
+CHAPTER-XVI
+PROCEDURE FOR ASSESSMENT
+
+10
+
+A.—Procedure for assessment
+Inquiry before
+assessment.
+
+268. (1) For the purpose of making an assessment under this Act, the Assessing
+Officer may serve on any person who has made a return under section 263 or in whose
+case the time allowed under section 263(1) for furnishing the return has expired, a
+notice requiring him, on a date to be specified therein,—
+(a) where such person has not made a return within the time allowed under
+section 263(1) or before the end of the financial year succeeding the relevant tax
+year, to furnish a return of his income or the income of any other person in
+respect of which he is assessable under this Act, in such form and verified in
+such manner and setting forth such other particulars as prescribed;
+
+15
+
+20
+
+(b) to produce, or cause to be produced, such accounts or documents as
+the Assessing Officer may require;
+(c) to furnish in writing and verified in the manner as prescribed
+information in such form and on such points or matters (including a statement
+of all assets and liabilities of the assessee, whether included in the accounts or
+not) as the Assessing Officer may require.
+
+25
+
+(2) For the purposes of sub-section (1),––
+(a) the previous approval of the Joint Commissioner shall be obtained
+by the Assessing Officer before requiring the assessee to furnish a statement
+of all assets and liabilities not included in the accounts;
+
+30
+
+(b) the Assessing Officer shall not require the production of any accounts
+relating to a period more than three years prior to the relavant tax year.
+(3) A notice under sub-section (1)(a) may also be served by the prescribed
+income-tax authority.
+(4) For the purposes of obtaining full information in respect of the income or loss
+of any person, the Assessing Officer may make such inquiry as he considers necessary.
+
+35
+
+(5) If, at any stage of the proceedings before him, the Assessing Officer,
+having regard to––
+(a) the nature and complexity of the accounts;
+(b) volume of the accounts;
+
+40
+
+(c) doubts about the correctness of the accounts;
+(d) multiplicity of transactions in the accounts; or
+(e) specialised nature of business activity of the assessee,
+and interests of the revenue, is of the opinion that it is necessary so to do, he may,
+with the previous approval of the Principal Chief Commissioner or Chief
+Commissioner or Principal Commissioner or Commissioner, after giving the
+assessee a reasonable opportunity of being heard, direct him to get either or both of
+the following—
+
+45
+
+

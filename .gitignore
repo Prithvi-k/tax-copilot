@@ -43,3 +43,7 @@ next-env.d.ts
 # intermediary files
 processing/*
 data/*
+test.py
+backend/__pycache__/
+backend/.env
+final/*

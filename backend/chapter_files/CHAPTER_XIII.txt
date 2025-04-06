@@ -1,0 +1,5236 @@
+214
+
+(2) Irrespective of the provision in sub-section (1), a branch of a banking
+company or co-operative bank, may also make the repayment by crediting such loan
+or deposit to the savings bank account or current account, if any, with such branch
+of the person to whom such loan or deposit has to be repaid.
+(3) Sub-section (1) shall not apply to repayment of any loan, deposit, or
+specified advance taken or accepted from—
+(a) Government;
+(b) any banking company, post office savings bank, or co-operative bank;
+
+5
+
+(c) any corporation established by a Central, State, or Provincial Act;
+(d) any Government company as defined in section 2 (45) of the
+Companies Act, 2013;
+
+10 18 of 2013.
+
+(e) any institution, association, or body or class of institutions,
+associations or bodies notified by the Central Government.
+(4) In sub-section (1), “two lakh rupees” shall be substituted for “twenty
+thousand rupees” in the case of any deposit or loan where—
+
+15
+
+(a) such deposit is paid to a member by a primary agricultural credit
+society or a primary co-operative agricultural and rural development bank; or
+(b) such loan is repaid by a member to a primary agricultural credit
+society or a primary co-operative agricultural and rural development bank.
+(5) In this section, “loan or deposit” means any loan or deposit of money which
+is repayable after notice or repayable after a period and, in the case of a person other
+than a company, includes loan or deposit of any nature.
+Interpretation.
+
+20
+
+189. In this Chapter, unless the context otherwise requires,—
+(a) “banking company” means a company to which the provisions of the
+Banking Regulation Act, 1949 applies and includes any bank or banking
+institution referred to in section 51 of that Act;
+
+25 10 of 1949.
+
+(b) “primary agricultural credit society”, and “primary co-operative
+agricultural and rural development bank” shall have the meanings respectively
+assigned to them in section 149(6);
+(c) “specified sum” means any sum of money receivable, whether as
+advance or otherwise, in relation to transfer of an immovable property,
+whether or not the transfer takes place;
+(d) “specified advance” means any sum of money in the nature of
+advance, by whatever name called, in relation to transfer of an immovable
+property, whether or not the transfer takes place.
+
+30
+
+35
+
+CHAPTER XIII
+DETERMINATION OF TAX IN SPECIAL CASES
+A.—Determination of tax in certain special cases
+Determination
+of tax where
+total income
+includes
+income on
+which no tax is
+payable.
+
+190. Where there is included in the total income of an assessee any income on
+which no income-tax is payable under the provisions of this Act, the assessee shall
+be entitled to a deduction, from income-tax with which he is chargeable on his total
+income, of an amount equal to the income-tax calculated at the average rate of
+income-tax on the amount on which no income-tax is payable.
+
+Tax on
+accumulated
+balance of
+recognised
+provident fund.
+
+191. Where the accumulated balance due to an employee participating in a
+recognised provident fund is included in his total income, owing to the provisions
+of paragraph 8 of Part A of Schedule XI not being applicable, the Assessing Officer
+shall calculate the total of the various sums of tax as per the provisions of
+paragraph 9 thereof.
+
+40
+
+45
+
+215
+
+192. (1) The total income of the block period, determined under section 294
+shall be chargeable to tax at the rate of 60%.
+(2) The tax chargeable under sub-section (1) shall be increased by a surcharge,
+if any, levied by any Central Act.
+5
+
+10
+
+193. (1) Where the total income of an assessee, being an individual, who is a
+resident and an employee of an Indian company engaged in specified knowledge
+based industry or service, or an employee of its subsidiary engaged in specified
+knowledge based industry or service (hereafter in this section referred to as the
+resident employee), includes income specified in column B of the Table below, the
+income-tax payable shall be the aggregate of income-tax specified in the column C
+thereof.
+Table
+
+15
+
+Sl.
+No.
+
+Income
+
+Income-tax payable
+
+A
+
+B
+
+C
+
+1.
+
+Dividend on Global Depository Receipts of an
+Indian company engaged in specified knowledge
+based industry or service, issued as per such
+Employees’ Stock Option Scheme as the Central
+Government may, by notification, specify in this
+behalf and purchased by him in foreign currency.
+
+10%
+
+2.
+
+Income from long-term capital gains arising
+from the transfer of Global Depository Receipts
+referred to in serial number 1.
+
+12.5%
+
+3.
+
+Total income as reduced by income referred to
+in serial numbers 1 and 2.
+
+Income-tax
+chargeable on such
+income
+
+20
+
+25
+
+(2) Where the gross total income of the resident employee—
+30
+
+(a) consists only of income by way of dividends in respect of Global
+Depository Receipts referred to in sub-section (1)(Table: Sl. No. 1), no
+deduction shall be allowed to him under any other provision of this Act;
+(b) includes any income referred to in sub-section (1)(Table: Sl. No. 1)
+and (Table: Sl. No. 2),––
+(i) the gross total income shall be reduced by such income; and
+
+35
+
+40
+
+(ii) the deduction under any provision of this Act shall be allowed
+as if the gross total income as so reduced were the gross total income of
+the assessee.
+(3) The section 72(6) shall not apply for computation of long-term capital
+gains arising out of the transfer of long-term capital asset, being Global Depository
+Receipts referred to in sub-section (1)(Table: Sl. No. 2).
+(4) In this section,—
+
+45
+
+(a) “Global Depository Receipts” means any instrument in the form of a
+depository receipt or certificate (by whatever name called) created by the
+Overseas Depository Bank outside India or in an International Financial
+Services Centre and issued to investors against the issue of,—
+
+Tax in case of
+block
+assessment of
+search cases.
+
+Tax on income
+from Global
+Depository
+Receipts
+purchased in
+foreign currency
+or capital gains
+arising from
+their transfer.
+
+216
+
+(i) ordinary shares of issuing company, being a company listed on
+a recognised stock exchange in India; or
+(ii) foreign currency convertible bonds of issuing company;
+(iii) ordinary shares of issuing company, being a company
+incorporated outside India, if such depository receipt or certificate is
+listed and traded on any International Financial Services Centre;
+
+5
+
+(b) “information technology service” means any service which results
+from the use of any information technology software over a system of
+information technology products for realising value addition;
+(c) “information technology software” means any representation of
+instructions, data, sound or image, including source code and object code,
+recorded in a machine readable form and capable of being manipulated or
+providing inter-activity to a user, by means of an automatic data processing
+machine falling under heading information technology products but does not
+include non-information technology products;
+
+10
+
+15
+
+(d) “Overseas Depository Bank” means a bank authorised by the
+issuing company to issue Global Depository Receipts against issue of
+Foreign Currency Convertible Bonds or ordinary shares of the issuing
+company;
+(e) “specified knowledge based industry or service” means—
+
+20
+
+(i) information technology software;
+(ii) information technology service;
+(iii) entertainment service;
+(iv) pharmaceutical industry;
+(v) bio-technology industry; and
+
+25
+
+(vi) any other industry or service, as specified by the Central
+Government, by notification; and
+(f) “subsidiary” shall have the same meaning as assigned to it in
+section 2(87) of the Companies Act, 2013 and includes subsidiary
+incorporated outside India.
+Tax on certain
+incomes.
+
+194. (1) Irrespective of anything contained in any other provision of this
+Act, where the total income of an assessee as mentioned in column B of the
+Table below, includes income of the nature specified in column C of the said
+Table, the income-tax payable by such assessee, for a tax year, shall be the
+aggregate of––
+
+18 of 2013.
+30
+
+35
+
+(a) income-tax calculated on income mentioned in column C, at the rate
+mentioned in column D, subject to the conditions specified in the Notes
+relating to the respective serial number; and
+(b) income-tax with which the assessee would have been chargeable
+had his total income been reduced by income mentioned in column C
+thereof.
+
+40
+
+217
+
+Table
+
+5
+
+Sl.No.
+
+Assessee
+
+Income
+
+Rate
+of tax
+
+Conditions
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1.
+
+Any
+person.
+
+Winnings
+(other
+than from any online
+game) from––
+
+30%
+
+Nil.
+
+10%
+
+(a) No deduction
+in respect of any
+expenditure
+or
+allowance shall be
+allowed
+to
+the
+eligible
+assessee
+under any provision
+of this Act in
+computing
+his
+income referred to in
+column C;
+(b) an option for
+taxation of income
+by way of royalty in
+respect of a patent
+developed
+and
+registered in India is
+exercised in the
+prescribed manner,
+on or before the due
+date specified under
+section 263(1) for
+furnishing the return
+of income for the
+relevant tax year;
+(c) where an
+option is exercised
+under clause (b) and
+the eligible assessee
+
+(a) lottery; or
+(b)
+crossword
+puzzle; or
+
+10
+
+(c) race including
+horse race (not
+being income from
+the
+activity
+of
+owning
+and
+maintaining
+race
+horses); or
+
+15
+
+(d) card game
+and other game of
+any sort; or
+
+20
+
+(e) gambling or
+betting of any form
+or nature.
+2.
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+A person,
+resident in
+India
+and
+who is a
+patentee
+(herein
+referred to as
+an eligible
+assessee).
+
+Royalty in respect
+of a patent developed
+and registered in India.
+
+218
+
+A
+
+B
+
+C
+
+D
+
+E
+does not offer its
+income for taxation
+as per the provisions
+of columns C and D
+for any of the five tax
+years,
+succeeding
+such tax year, then
+such assessee shall
+not be eligible to
+claim the benefit of
+the provisions of
+columns C and D for
+five
+tax
+years
+subsequent to the tax
+year in which such
+income has not been
+offered to tax as per
+such provisions.
+
+3.
+
+4.
+
+Any
+person.
+
+Any
+person.
+
+Income by way of
+transfer of carbon
+credits.
+
+Any income from
+the transfer of any
+virtual digital asset.
+
+10%
+
+30%
+
+5
+
+10
+
+15
+
+No deduction in
+respect
+of
+any
+expenditure
+or
+allowance shall be
+allowed
+to
+the
+assessee under any
+provision of this Act
+in computing his
+income referred to
+column C.
+
+20
+
+(a) No deduction
+in respect of any
+expenditure (other
+than
+cost
+of
+acquisition, if any) or
+allowance or set off
+of any loss shall be
+allowed
+to
+the
+assessee under any
+provision of this Act
+in computing the
+income referred to in
+column C; and
+
+30
+
+(b) no set off of
+loss from transfer
+of the virtual digital
+asset
+computed
+herein shall be
+allowed
+against
+income computed
+under any provision
+of this Act to the
+assessee and such
+loss shall not be
+allowed to be carried
+forward
+to
+succeeding tax years.
+
+25
+
+35
+
+40
+
+45
+
+50
+
+55
+
+219
+
+A
+
+B
+
+D
+
+E
+
+5.
+
+Any person.
+
+Any income by way
+of net winnings from
+any online game,
+computed
+in
+the
+manner, as prescribed.
+
+30%
+
+Nil.
+
+6.
+
+Any person.
+
+Any profits and
+gains
+from
+life
+insurance business.
+
+12.5%
+
+Nil.
+
+5
+
+10
+
+C
+
+(2) In this section,––
+(a) “carbon credit”, in respect of one unit, means reduction of one tonne
+of carbon dioxide emissions or emission of its equivalent gases which is
+validated by the United Nations Framework on Climate Change and which
+can be traded in market at its prevailing market price;
+
+21 of 2000.
+
+(b) “computer resource” shall have the same meaning as assigned to it
+in section 2(1)(k) of the Information Technology Act, 2000;
+
+39 of 1970.
+
+(c) “developed” means at least 75% of the expenditure incurred in India
+by the eligible assessee for any invention in respect of which patent is granted
+under the Patents Act, 1970 (herein referred to as the Patents Act);
+
+15
+
+20
+
+25
+
+(d) “horse race” shall have the meaning assigned to it in section 115;
+(e) “internet” means the combination of computer facilities and
+electromagnetic transmission media including related equipment and
+software, comprising the interconnected worldwide network of computer
+networks that transmits information based on a protocol for controlling such
+transmission;
+(f) “invention” shall have the same meaning as assigned to it in
+section 2(1)(j) of the Patents Act;
+(g) “lump sum” includes an advance payment on account of such
+royalties which is not returnable;
+
+30
+
+(h) “online game” means a game that is offered on the internet and is
+accessible by a user through a computer resource including any
+telecommunication device;
+(i) “patent” shall have the meaning assigned to it in section 2(1)(m) of
+the Patents Act;
+
+35
+
+40
+
+45
+
+(j) “patented article” and “patented process” shall have the meanings as
+respectively assigned to them in section 2(1)(o) of the Patents Act;
+(k) “patentee” means the person, being the true and first inventor of the
+invention, whose name is entered on the patent register as the patentee, as per
+the Patents Act, and includes every such person, being the true and first
+inventor of the invention, where more than one person is registered as patentee
+under that Act in respect of that patent;
+(l) “royalty”, in respect of a patent, means consideration (including any
+lump sum consideration but excluding any consideration which would be the
+income of the recipient chargeable under the head “Capital gains” or
+consideration for sale of product manufactured with the use of patented
+process or the patented article for commercial use) for the—
+
+220
+
+(i) transfer of all or any rights (including the granting of a licence)
+in respect of a patent; or
+(ii) imparting of any information concerning the working of, or the
+use of, a patent; or
+
+5
+
+(iii) use of any patent; or
+(iv) rendering of any services in connection with the activities
+referred to in sub-clauses (i) to (iii);
+(m) “true and first inventor” shall have the same meaning as assigned to
+it in section 2(1)(y) of the Patents Act; and
+
+10
+
+(n) for the purposes of sub-section (1)(Table: Sl. No. 4), the term
+“transfer” as defined in section 2(109), shall apply to any virtual digital asset,
+whether capital asset or not.
+Tax on income
+referred to in
+section 102 or
+103 or 104 or
+105.
+
+195. (1) Where the total income of an assessee—
+
+15
+
+(a) includes any income referred to in section 102 or 103 or 104 or
+105 or 106 and reflected in the return of income furnished under
+section 263; or
+(b) determined by the Assessing Officer includes any income
+referred to in any of the said sections, if such income is not covered
+under clause (a),
+
+20
+
+the income-tax payable shall be the aggregate of—
+(i) income-tax calculated on the income referred to in clauses (a)
+and (b), at the rate of 60%; and
+
+25
+
+(ii) income-tax with which the assessee would have been
+chargeable had his total income been reduced by income referred to in
+clause (i).
+(2) Irrespective of anything contained in this Act, no deduction in respect of
+any expenditure or allowance or set off of any loss shall be allowed to the assessee
+under any provision of this Act in computing his income referred to in
+sub-section (1)(a) and (b).
+
+30
+
+B.—Special provisions relating to tax on capital gains
+Tax on shortterm capital
+gains in certain
+cases.
+
+196. (1) Where the total income of an assessee includes any income chargeable
+under the head “Capital gains”, arising from the transfer of a short-term capital
+asset––
+(a) being an equity share in a company or a unit of an equity oriented
+fund or a unit of a business trust; and
+
+35
+
+40
+
+(b) the transaction of sale of such equity share or unit is chargeable
+to securities transaction tax under Chapter VII of the Finance (No. 2)
+Act, 2004, then,
+the tax payable by the assessee on the total income, subject to the provisions of
+sub-section (2), shall be the aggregate of—
+(i) income-tax calculated on such short-term capital gains at the
+rate of 20%;
+
+23 of 2004.
+
+45
+
+221
+
+(ii) income-tax payable on the balance amount of the total income as if
+such balance amount were the total income of the assessee.
+
+5
+
+(2) In the case of an individual or a Hindu undivided family, being a resident,
+where the total income, as reduced by short-term capital gains computed under
+sub-section (1), is below the maximum amount which is not chargeable to incometax, then,—
+(a) such short-term capital gains shall be reduced by the amount by
+which the total income as so reduced falls short of the maximum amount
+which is not chargeable to income-tax; and
+
+10
+
+15
+
+(b) the tax on the balance of such short-term capital gains shall be
+computed at the rate as applicable in sub-section (1)(i).
+(3) The provisions of sub-section (1)(b) shall not apply to a transaction
+undertaken on a recognised stock exchange located in any International Financial
+Services Centre and where the consideration for such transaction is paid or payable
+in foreign currency.
+(4) Where the gross total income of an assessee includes any short-term capital
+gains referred to in sub-section (1), the deduction under Chapter VIII shall be
+allowed from the gross total income as reduced by such capital gains.
+
+20
+
+(5) In this section, “equity oriented fund” shall have the meaning assigned to
+it in section 198.
+197. (1) Where the total income of an assessee includes any income arising
+from the transfer of a long-term capital asset which is chargeable under the head
+“Capital gains”, the tax payable by the assessee on the total income, subject to
+sub-sections (2) and (3), shall be the aggregate of—
+
+25
+
+(a) income-tax payable on the total income as reduced by such long-term
+capital gains, had the total income, as so reduced, been his total income; and
+(b) income-tax calculated on such long-term capital gains at the
+rate of 12.5%.
+
+30
+
+35
+
+(2) In the case of an individual or a Hindu undivided family, being a resident,
+where the total income as reduced by long-term capital gains computed under
+sub-section (1) is below the maximum amount which is not chargeable to incometax, then,—
+(a) such long-term capital gains shall be reduced by the amount by which
+the total income as so reduced falls short of the maximum amount which is
+not chargeable to income-tax; and
+(b) the tax on the balance of such long-term capital gains shall be
+computed at the rate as referred in sub-section (1).
+
+40
+
+(3) In the case of an individual or a Hindu undivided family, being a resident,
+in the case of transfer of a long-term capital asset, being land or building, or both,
+which is acquired before the 23rd July, 2024, the excess income-tax computed as
+per the following formula shall be ignored:––
+E=A–B
+where––
+E = excess income-tax to be ignored;
+
+45
+
+A = income-tax computed under clause (b) of sub-section (1);
+
+Tax on long-term
+capital gains.
+
+222
+
+B = income-tax computed under clause (b) of sub-section (1) taking the
+rate as 20% and the capital gains is computed by taking the cost of acquisition
+as indexed cost of acquisition and the cost of improvement as indexed cost of
+improvement.
+(4) Where the gross total income of an assessee includes any income arising
+from the transfer of a long-term capital asset, the gross total income shall be reduced
+by such income and the deduction under Chapter VIII shall be allowed as if the gross
+total income as so reduced were the gross total income of the assessee.
+
+5
+
+(5) In this section,—
+(a) “securities” shall have the same meaning as assigned to it in
+section 2(h) of the Securities Contracts (Regulation) Act, 1956;
+
+10
+42 of 1956.
+
+(b) “listed securities” means the securities which are listed on any
+recognised stock exchange in India;
+(c) “unlisted securities” means securities other than listed securities;
+(d) “indexed cost of acquisition” and “indexed cost of improvement”
+shall have the meanings respectively assigned to them in section 72.
+Tax on longterm capital
+gains in certain
+cases.
+
+15
+
+198. (1) Irrespective of anything contained in section 197, the tax payable by
+an assessee on his total income shall be determined as per the provisions of
+sub-section (2), if—
+(a) the total income includes any income chargeable under the head
+“Capital gains”;
+
+20
+
+(b) the capital gains arise from the transfer of a long-term capital asset
+being an equity share in a company or a unit of an equity oriented fund or a
+unit of a business trust;
+(c) securities transaction tax under Chapter VII of the Finance (No. 2)
+Act, 2004 has—
+
+25
+23 of 2004.
+
+(i) in a case where the long-term capital asset is in the nature of an
+equity share in a company, been paid on acquisition and transfer of such
+capital asset; or
+(ii) in a case where the long-term capital asset is in the nature of a
+unit of an equity oriented fund or a unit of a business trust, been paid on
+transfer of such capital asset.
+
+30
+
+(2) The tax payable by the assessee on the total income referred to in
+sub-section (1) shall be the aggregate of—
+(a) income-tax calculated on such long-term capital gains exceeding one
+lakh twenty five thousand rupees on long-term capital gains at the
+rate of 12.5%; and
+(b) income-tax payable on the total income as reduced by long-term
+capital gains referred to in sub-section (1) as if the total income so reduced
+were the total income of the assessee.
+(3) In the case of an individual or a Hindu undivided family, being a resident,
+where the total income as reduced by long-term capital gains computed under
+sub-section (1) is below the maximum amount which is not chargeable to
+income-tax, then,—
+
+35
+
+40
+
+223
+
+(a) such long-term capital gains shall be reduced by the amount by which
+the total income as so reduced falls short of the maximum amount which is
+not chargeable to income-tax; and
+5
+
+(b) the tax on the balance of such long-term capital gains shall be
+computed at the rate as referred to in sub-section (2).
+(4) The condition specified in sub-section (1)(c) shall not apply to a transfer
+undertaken on a recognised stock exchange located in any International Financial
+Services Centre and where the consideration for such transfer is received or
+receivable in foreign currency.
+
+10
+
+15
+
+(5) The Central Government may, by notification, specify the nature of
+acquisition in respect of which the provisions of sub-section (1)(c)(i) shall not
+apply.
+(6) Where the gross total income of an assessee includes any long-term capital
+gains referred to in sub-section (1), the deduction under Chapter VIII shall be
+allowed from the gross total income as reduced by such capital gains.
+(7) Where the total income of an assessee includes any long-term capital
+gains referred to in sub-section (1), the rebate under section 156 shall be allowed
+from the income-tax on the total income as reduced by tax payable on such capital
+gains.
+
+20
+
+25
+
+(8) In this section, “equity oriented fund” means a fund set up under a
+scheme of a mutual fund specified in Schedule VII (Table: Sl. No. 20 or 21) or
+under a scheme of an insurance company comprising unit linked insurance
+policies to which exemption in Schedule II (Table: Sl. No. 2) does not apply
+and—
+(i) in a case where the fund invests in the units of another fund which is
+traded on a recognised stock exchange,—
+(A) a minimum of 90% of the total proceeds of such fund is
+invested in the units of such other fund; and
+
+30
+
+(B) such other fund also invests a minimum of 90% of its total
+proceeds in the equity shares of domestic companies listed on a
+recognised stock exchange; and
+(ii) in any other case, a minimum of 65% of the total proceeds of such
+fund is invested in the equity shares of domestic companies listed on a
+recognised stock exchange,
+
+35
+
+and, for the purposes of this clause,––
+(I) the percentage of equity shareholding or unit held in respect of the
+fund, shall be computed with reference to the annual average of the monthly
+averages of the opening and closing figures;
+
+40
+
+(II) in case of a scheme of an insurance company comprising unit linked
+insurance policies to which exemption in Schedule II (Table: Sl. No. 2) does
+not apply, the minimum requirement of 90% or 65%, as the case may be, is
+required to be satisfied throughout the term of such insurance policy.
+
+224
+
+C.—New tax regime
+Tax on income
+of certain
+manufacturing
+domestic
+companies.
+
+199. (1) Irrespective of anything contained in this Act, but subject to the
+provisions of Parts A, B and this Part other than sections 200 and 201, the
+income-tax payable in respect of the total income of a person, being a domestic
+company, for any tax year, shall, at the option of such person, be computed at the
+rate of 25% subject to the following conditions:––
+
+5
+
+(a) the company has been set-up and registered on or after the
+1st March, 2016;
+(b) the company is not engaged in any business other than the business
+of manufacture or production of any article or thing and research in relation
+to, or distribution of, such article or thing manufactured or produced by it; and
+
+10
+
+(c) the total income of the company has been computed,—
+(i) without any deduction under––
+(A) sections 45(2)(c) and 47(1)(b);
+(B) Chapter VIII-C, other than the provisions of section 146; or
+
+15
+
+(C) sections specified in section 205(1)(a) to (g);
+(ii) without set off of any loss carried forward from any earlier tax
+year, if such loss is attributable to any of the deductions referred to in
+sub-clause (i).
+(2) The loss referred to in sub-section (1)(c)(ii) shall be deemed to have been
+given full effect to and no further deduction for such loss shall be allowed for any
+subsequent year.
+(3) The provisions of this section shall not apply unless an option is exercised
+by the person in the manner as prescribed on or before the due date specified under
+section 263(1) for furnishing the first of the returns of income which such person is
+required to furnish and such option once exercised, shall apply to subsequent
+tax years.
+(4) Once the option under sub-section (3) has been exercised for any tax year,
+it cannot be subsequently withdrawn for the same or any other tax year, except
+where the person exercises option under section section 200.
+Tax on income
+of certain
+domestic
+companies.
+
+200. (1) Irrespective of anything contained in this Act but subject to the
+provisions of Parts A, B and this Part, other than sections 199 and 201, the
+income-tax payable for a tax year shall be at the rate of 22%, at the option of a
+person being a domestic company, in respect of the total income of such person
+computed in the following manner:––
+
+20
+
+25
+
+30
+
+35
+
+(a) without any deduction under––
+(i) sections 45(2)(c) and 47(1)(b); or
+(ii) Chapter VIII other than the provisions of section 146; or
+(iii) sections specified in section 205(1)(a) to (g);
+(b) without set off of any loss carried forward or depreciation from any
+earlier tax year, if such loss or depreciation is attributable to any of the
+deductions referred to in clause (a);
+
+40
+
+225
+
+(c) without set off of any loss or allowance for unabsorbed depreciation
+deemed so under section 116(1), if such loss or depreciation is attributable to
+any of the deductions referred to in clause (a).
+5
+
+(2) Where the person fails to satisfy the requirements contained in
+sub-section (1) in any tax year, the option shall become invalid in respect of the said
+tax year and subsequent years and other provisions of the Act shall apply, as if the
+option had not been exercised for such tax year and for subsequent years.
+
+10
+
+(3) The loss and depreciation referred to in sub-section (1)(b) and (c) shall be
+deemed to have been given full effect to and no further deduction for such loss or
+depreciation shall be allowed for any subsequent year.
+
+15
+
+(4) In case of a person, having a Unit in the International Financial Services
+Centre, which has exercised option under sub-section (5), the requirements
+contained in sub-section (1) shall be modified to the extent that the deduction under
+the said section shall be available to such Unit subject to fulfilment of the conditions
+contained in that section.
+(5) The provisions of this section shall not apply unless the option is exercised
+by the person in the such manner as prescribed on or before the due date specified
+under section 263(1) for furnishing the return of income and such option once
+exercised, shall apply to subsequent tax years.
+
+20
+
+(6) Once the option under this section has been exercised for any tax year, it
+shall not be subsequently withdrawn for the same or any other tax year.
+(7) In case of a person, being a domestic company, where the option exercised by it
+under section 201, has been rendered invalid due to violation of the conditions contained
+in section 205(2)(b) or (c) or (d), such person may exercise the option under this section.
+
+25
+
+30
+
+201. (1) Irrespective of anything contained in this Act, but subject to the
+provisions of Parts A, B and this Part other than sections 199 and 200, the
+income-tax payable in respect of the total income of an assessee, being a domestic
+company, specified in column B of the Table below, shall, at the option of such
+assessee, be computed at the rates specified in column C, if the conditions contained
+in column D thereof are fulfilled.
+Table
+
+35
+
+40
+
+45
+
+50
+
+Sl.
+No.
+
+Assessee
+
+Total income and rate of
+tax
+
+Conditions
+
+A
+
+B
+
+C
+
+D
+
+1.
+
+A
+domestic
+company
+engaged in
+business of
+manufacture
+or
+production
+of any article
+or thing.
+
+(a) 15% on the total
+income other than the
+income mentioned in
+clauses (b), (c) and (d);
+
+Such domestic company––
+
+(b) 22% (without any
+deduction or allowance in
+respect of any expenditure
+or allowance) on such
+income,––
+(i) which has neither
+been derived from nor
+is
+incidental
+to
+manufacturing
+or
+production of an article
+or thing; and
+
+(a) exercises the option in
+the manner provided in subsection (2);
+(b) has been set-up and
+registered on or after the 1st
+October, 2019;
+(c)
+has
+commenced
+manufacturing or production
+of an article or thing on or
+before the 31st March, 2024;
+
+Tax on income of
+new
+manufacturing
+domestic
+companies.
+
+226
+
+A
+
+B
+
+C
+
+D
+
+(ii) in respect of
+which no specific rate
+of tax has been
+provided
+separately
+under this Part;
+
+(d) the total income of
+which is computed as per the
+provisions
+of
+sub-section (3); and
+
+(c) 22% on short-term
+capital gains derived from
+transfer of a capital asset on
+which no depreciation is
+allowable under this Act;
+
+(e)
+fulfils
+all
+the
+conditions
+provided
+in
+sub-section (5) of this
+section and section 205(2).
+
+5
+
+10
+
+(d) 30% on the income
+deemed
+so
+under
+section 205(4).
+(2) The option under this section shall be exercised by the assessee in the
+manner prescribed subject to the following conditions:––
+
+15
+
+(a) it shall be exercised on or before the due date specified under
+section 263(1) for furnishing first of the returns of income for any tax year;
+(b) such option, once exercised, shall apply to subsequent tax years;
+(c) once the option has been exercised for any tax year, it shall not be
+subsequently withdrawn for the same or any other tax year; and
+
+20
+
+(d) where the assessee fails to fulfil the conditions contained in
+sub-section (1)(Table: Sl. No. 1.D) in any tax year,––
+(i) the option shall become invalid in respect of such tax year and
+subsequent tax years; and
+
+25
+
+(ii) the other provisions of this Act shall apply, as if the option had
+not been exercised for that tax year and subsequent tax years.
+(3) For the purposes of sub-section (1), the total income of the assessee shall
+be computed,—
+(a) without any deduction under—
+
+30
+
+(i) sections 45(2)(c) and 47(1)(b);
+(ii) Chapter VIII other than sections 146 and 148; or
+(iii) section 205(1)(a) to (g);
+(b) without set off of any loss or allowance for unabsorbed depreciation
+deemed so under section 116(1), if such loss or depreciation is attributable to any
+of the deductions referred to in clause (a).
+(4) While computing the income of the assessee, the loss and depreciation, or
+both, as specified in sub-section (3)(b) shall be deemed to have been given full effect
+to and no further deduction for such loss or depreciation, or both, shall be allowed
+for any subsequent year.
+
+35
+
+40
+
+(5) In case of an amalgamation, option under this section shall remain valid in case
+of the amalgamated company only and if the conditions contained in sub-section (1)
+(Table: Sl. No. 1.D) are continued to be fulfilled by such company.
+New tax regime
+for individuals,
+Hindu undivided
+family and
+others.
+
+202. (1) Irrespective of anything contained in this Act but subject to the
+provisions of Parts A, B and this Part the income-tax payable by a person, being—
+(a) an individual; or
+(b) a Hindu undivided family; or
+
+45
+
+227
+
+(c) an association of persons (other than a co-operative society); or
+(d) a body of individuals, whether incorporated or not; or
+(e) an artificial juridical person referred to in section 2(77)(g),
+5
+
+in respect of the total income for a tax year, shall, unless the person exercises the
+option in the manner provided under sub-section (4), be computed at the rate of tax
+given in the following Table:—
+Table
+Sl.No.
+
+Total income
+
+A
+10
+
+15
+
+B
+
+Rate of tax
+C
+
+1.
+
+Upto ₹4,00,000
+
+Nil
+
+2.
+
+From ₹4,00,001 to ₹8,00,000
+
+5%
+
+3.
+
+From ₹8,00,001 to ₹12,00,000
+
+10%
+
+4.
+
+From ₹12,00,001 to ₹16,00,000
+
+15%
+
+5.
+
+From ₹16,00,001 to ₹20,00,000
+
+20%
+
+6.
+
+From ₹20,00,001 to ₹24,00,000
+
+25%.
+
+7.
+
+Above ₹24,00,000
+
+30%
+
+(2) For the purposes of sub-section (1), the total income of the assessee shall
+be computed—
+(a) without any exemption or deduction under the provisions of or in––
+20
+
+(i) Schedule III (Table: Sl. No. 5 or 6 or 7 or 8 or 11 or 17);
+(ii) Schedule III (Table: Sl. No. 12 or 13) (other than those as
+prescribed for this purpose);
+(iii) section 144;
+(iv) section 19(1) (Table: Sl. No. 1);
+
+25
+
+(v) section 22(1)(b), in respect of properties referred to in
+section 21(6);
+(vi) section 33(8);
+(vii) section 48;
+(viii) section 49;
+
+30
+
+(ix) section 45(3)(a) or (b) or (c);
+(x) section 46;
+(xi) section 47(1)(a);
+(xii) of Chapter VIII other than the provisions of sections 124(1),
+125(3) and 146; and
+
+35
+
+(b) without set off of—
+(i) any loss carried forward or depreciation from any earlier tax
+year, if such loss or depreciation is attributable to any of the
+deductions referred to in clause (a); or
+
+40
+
+(ii) any loss under the head “Income from house property” with
+any other head of income; and
+
+228
+
+(c) without any exemption or deduction for allowances or perquisite,
+called by any name, provided under any other law in force.
+(3) The loss and depreciation referred to in sub-section (2)(b) shall be deemed
+to have been given full effect to and no further deduction for such loss or
+depreciation shall be allowed for any subsequent year.
+
+5
+
+(4) Nothing contained in sub-section (1) shall apply to a person, where an
+option is exercised by such person under this section, in such manner as prescribed,
+for any tax year, and such option is exercised,––
+(a) in case of a person having income from business or profession,––
+(i) on or before the due date specified under section 263(1) for
+furnishing the returns of income for such tax year;
+
+10
+
+(ii) such option, once exercised, shall apply to subsequent tax
+years;
+(iii) such option, once exercised, may be withdrawn only once for
+a tax year other than the tax year for which it was exercised; and
+
+15
+
+(iv) after such withdrawal, the person shall never be eligible to
+exercise the option under this sub-section, except where such person
+ceases to have any income from business or profession, and in such a
+case the option under clause (b) shall be available;
+(b) in case of a person not having income from business or profession,
+along with the return of income to be furnished under section 263(1) for the
+tax year.
+
+Tax on income
+of certain
+resident cooperative
+societies.
+
+20
+
+(5) In case of a person, having a Unit in the International Financial Services
+Centre, who has exercised the option under sub-section (4) for any tax year from
+2020-21 to 2023-24, the provisions of sub-section (2) shall be modified to the extent
+that deduction under the said section shall be available to such Unit subject to
+fulfilment of the conditions contained in that section.
+
+25
+
+203. (1) Irrespective of anything contained in this Act but subject to the
+provisions of Part A, B and this Part, other than section 204, the income-tax payable
+for a tax year shall be at the rate of 22%, at the option of a person being a
+co-operative society resident in India, in respect of the total income of such person
+computed in the following manner:––
+
+30
+
+(a) without any deduction under—
+(i) Chapter VIII other than the provisions of section 146; or
+(ii) sections specified in section 205(1)(a) to (g);
+
+35
+
+(b) without set off of any loss carried forward or depreciation from any
+earlier tax year, if such loss or depreciation is attributable to any of the
+deductions referred to in clause (a).
+(2) Where a person fails to satisfy the requirements contained in sub-section (1)
+in any tax year, the option shall become invalid in respect of the said tax year and
+subsequent tax years and other provisions of the Act shall apply, as if the option had
+not been exercised for such tax year and for subsequent tax years.
+(3) The loss and depreciation referred to in clause (b) of sub-section (1) shall
+be deemed to have been given full effect to and no further deduction for such loss
+or depreciation shall be allowed for any subsequent tax year.
+
+40
+
+45
+
+229
+
+5
+
+(4) In case of a person, having a Unit in the International Financial Services
+Centre, which has exercised option under this section, the requirements contained
+in sub-section (1) shall be modified to the extent that the deduction under
+section 147 shall be available to such Unit subject to fulfilment of the conditions
+contained in the said section.
+(5) The provisions of this section shall not apply unless the option is exercised
+by the person in the prescribed manner on or before the due date specified under
+section 263(1) for furnishing the return of income and such option once exercised
+shall apply to subsequent tax years.
+
+10
+
+15
+
+(6) Once the option under this section has been exercised for any tax year, it
+shall not be subsequently withdrawn for the same or any other tax year.
+204. (1) Irrespective of anything contained in this Act but subject to the
+provisions of Part A, B and this Part other than section 203, the income-tax payable
+in respect of the total income of an assessee, being a co-operative society, resident
+in India, engaged in the business of manufacture or production of any article or
+thing, shall at the option of such assessee, be computed at the rates specified in
+column A of the said Table, if the conditions contained in column B thereof are
+fulfilled.
+Table
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Total income and rate
+of tax
+
+Conditions
+
+A
+
+B
+
+(a) 15% on the total
+income other than the income
+mentioned in clauses (b), (c)
+and (d);
+(b) 22% (without any
+deduction or allowance in
+respect of any expenditure or
+allowance) on such income,—
+(i) which has
+neither been derived
+from nor is incidental to
+manufacturing
+or
+production of an article
+or thing; and
+(ii) in respect of
+which no specific rate of
+tax has been provided
+separately under this
+Part;
+(c) 22% on short-term
+capital gains derived from
+transfer of a capital asset on
+which no depreciation is
+allowable under this Act;
+(d) 30% on the income
+deemed so under section 205 (4).
+
+Such co-operative society––
+(a) exercises the option in the manner
+provided in sub-section (2);
+(b) has been set-up and registered on or
+after the 1st April, 2023; and
+(c) has commenced manufacturing or
+production of an article or thing on or before the
+31st March, 2024; and
+(d) the total income of which is computed
+as per the provisions of sub-section (3); and
+(e) fulfils all the conditions provided in
+section 205(2).
+
+Tax on income
+of certain new
+manufacturing
+co-operative
+societies.
+
+230
+
+(2) The option under this section shall be exercised by the assessee in the
+manner as prescribed subject to the following conditions:––
+(a) it shall be exercised on or before the due date specified under
+section 263(1) for furnishing the first of the returns of income for any tax year;
+and
+
+5
+
+(b) such option, once exercised, shall apply to subsequent tax years;
+(c) once the option has been exercised for any tax year, it shall not be
+subsequently withdrawn for the same or any other tax year;
+(d) where the assessee fails to fulfil the conditions contained in
+sub-section (1)(Table: Sl. No. 1. B) in any tax year,––
+
+10
+
+(i) the option shall become invalid in respect of the tax year and
+subsequent tax years; and
+(ii) the other provisions of this Act shall apply, as if the option had
+not been exercised for that tax year and subsequent tax years.
+(3) For the purposes of sub-section (1), the total income of the assessee shall
+be computed,—
+
+15
+
+(a) without any deduction under––
+(i) Chapter VIII other than the provisions of section 146; or
+(ii) sections specified in 205(1)(a) to (g);
+(b) without set off of any loss carried forward or depreciation from
+earlier tax year, if such loss or depreciation is attributable to any of the
+deductions referred to in clause (a).
+(4) While computing the income of the assessee, the loss and depreciation, or
+both, as specified in sub-section (3)(b) be shall be deemed to have been given full
+effect to and no further deduction for such loss or depreciation, or both, shall be
+allowed for any subsequent year.
+Conditions for
+tax on income of
+certain
+companies and
+co-operative
+societies.
+
+20
+
+25
+
+205. (1) For the purposes of sections 199(1)(c)(i)(C), 200(1)(a)(iii),
+201(3)(a)(iii), 203(1)(a)(ii) and 204(3)(a)(ii), the total income shall be computed
+without any deduction or exemption, under the following provisions:––
+(a) section 33(8), determined in such manner, as prescribed;
+
+30
+
+(b) section 45(3)(a) or (b) or (c);
+(c) section 46;
+(d) section 47(1)(a).;
+(e) section 48;
+(f) section 49; and
+
+35
+
+(g) section 144.
+(2) For the purposes of section 201 or 204, the following conditions shall apply
+to the assessee:—
+(a) its business is not formed by splitting up, or the reconstruction, of a
+business already in existence, unless it is formed as a result of the
+re-establishment, reconstruction or revival of the business of any such
+undertaking as is referred to in section 140(4) in the circumstances and within
+the period specified in the said section;
+
+40
+
+231
+
+(b) it does not use any machinery or plant, previously used for any
+purpose, other than—
+(i) permitted machinery or plant used outside India;
+5
+
+43 of 1961.
+
+10
+
+(ii) machinery or plant or any part thereof previously used for any
+purpose and the total value of such machinery or plant or any part thereof
+put to use by the assessee does not exceed 20% of the total value of the
+machinery or plant used by such assessee;
+(c) in case of a domestic company, it does not use any building previously
+used as a hotel or a convention centre, in respect of which deduction under section
+80-ID of the Income Tax Act, 1961 has been claimed and allowed;
+(d) it is not engaged in any business other than the business of
+manufacture or production of any article or thing and research in relation to,
+or distribution of, such article or thing manufactured or produced by it,
+
+15
+
+and, if any difficulty arises in fulfilling any of the conditions contained in clause (b)
+or (c) or (d), the Board may, with the previous approval of the Central Government,
+issue guidelines for the purpose of removing the difficulty and to promote
+manufacturing or production of article or thing using new plant and machinery.
+(3) No guideline under sub-section (2) shall be issued after the expiration of
+two years from the 1st April, 2026.
+
+20
+
+25
+
+(4) Every guideline issued by the Board under sub-section (2) shall be laid
+before each House of Parliament while it is in session for a total period of thirty
+days which may be comprised in one session or in two or more successive sessions,
+and if, before the expiry of the session immediately following the session or the
+successive session aforesaid, both houses agree in making any modification in such
+guideline or both Houses agree that the guideline, should not be issued, the guideline
+shall thereafter have effect only in such modified form or be of no effect, as the case
+may be; so, however, that any such modification or annulment shall be without
+prejudice to the validity of anything previously done under that guideline.
+(5) For the purposes of section 201,––
+
+30
+
+35
+
+40
+
+(a) where it appears to the Assessing Officer that, owing to the close
+connection between the person to which the said section applies and any other
+person, or for any other reason, the course of business between them is so
+arranged that the business transacted between them produces to the assessee
+more than the ordinary profits which might be expected to arise in such
+business, then the Assessing Officer shall, in computing the profits and gains
+of such business for the purposes of this section, take profits as may be
+reasonably deemed to have been derived therefrom, and where the said
+arrangement involves a specified domestic transaction referred to in
+section 164, profits from such transaction shall be determined having regard
+to the arm’s length price as defined in section 173(a); and
+(b) the amount, being profits in excess of the profits determined by the
+Assessing Officer under clause (a), shall be deemed to be the income of the
+person and shall be chargeable at the rates specified in section 201(1)
+[Table: Sl. No. 1.B(d)] or 204 (1)[Table: Sl. No. 1.A(d)], as the case may be.
+
+45
+
+(6) For the purposes of this Part,––
+(a) the business of manufacture or production of any article or thing shall
+include the business of generation of electricity but shall not include business of—
+(i) development of computer software in any form or in any media; or
+
+232
+
+(ii) mining; or
+(iii) conversion of marble blocks or similar items into slabs;
+or
+(iv) bottling of gas into cylinder; or
+(v) printing of books or production of cinematograph film; or
+
+5
+
+(vi) any other business as may be notified by the Central
+Government in this behalf; and
+(b) the expressions,––
+(i) “hotel” and “convention centre” shall have the meanings
+respectively assigned to them in clause (b) and clause (a) of section
+80-ID(6) of the Income Tax Act, 1961;
+(ii) “permitted machinery and plant used outside India”
+means the machinery or plant, which was previously used outside
+India by any other person, if the following conditions are
+fulfilled:—
+
+10
+
+43 of 1961.
+
+15
+
+(A) such machinery or plant was not, at any time
+previous to the date of the installation, used in India;
+(B) such machinery or plant is imported into India from
+any country outside India; and
+(C) no deduction on account of depreciation in
+respect of such machinery or plant has been allowed or
+is allowable under the provisions of this Act in
+computing the total income of any person for any period
+before the date of installation of machinery or plant by
+the person;
+
+20
+
+25
+
+(iii) “unabsorbed depreciation” shall have the meaning
+assigned to it in section 116(13)(e); and
+(iv) “Unit” shall have the same meaning as assigned to it in
+section 2(zc) of the Special Economic Zones Act, 2005.
+D.—Special provisions relating to minimum alternate tax and alternate
+minimum tax
+Special
+provision for
+minimum
+alternate tax and
+alternate
+minimum tax.
+
+28 of 2005.
+30
+
+206. (1) Irrespective of anything contained in any other provision of
+this Act, where in the case of an assessee, referred to in column B of Table,
+the income-tax payable on the total income as computed under this Act in
+respect of a tax year is less than the percentage referred to in column C of
+the said Table of book profit in the case of a company or of adjusted total
+income in any other case, computed as per the provisions of Note to the said
+Table, then––
+
+35
+
+(a) such book profit in the case of a company or such adjusted total
+income in any other case shall be deemed to be the total income of that
+assessee for such tax year; and
+
+40
+
+(b) the tax payable on such total income shall be at the rate
+provided in column C of the said Table.
+
+233
+
+Table
+
+5
+
+Sl.
+No.
+
+Assessee
+
+Percentage of book profit or
+adjusted total income
+
+A
+
+B
+
+C
+
+1.
+
+A company, other than a unit
+as referred to against serial
+number 2.
+
+15% of book profit.
+
+2.
+
+A unit, being a company
+located in an International
+Financial Services Centre and
+derives its income solely in
+convertible foreign exchange.
+
+9% of book profit.
+
+3.
+
+A person, other than––
+
+10
+
+(a) a company;
+15
+
+18.5% of adjusted total
+income.
+
+(b) a co-operative society;
+(c) a unit as referred to
+against serial number 4.
+4.
+
+A unit, being a person other
+than a company located in an
+International Financial Services
+Centre and derives its income
+solely in convertible foreign
+exchange.
+
+5.
+
+A co-operative society.
+
+20
+
+25
+
+9% of
+income.
+
+adjusted
+
+total
+
+15% of adjusted total
+income.
+
+Note 1:—Adjusted total income, for the purposes of Sl. Nos. 3, 4 and 5 shall
+be the total income before giving effect to this section, as increased by deductions
+claimed, if any, under—
+(a) any section (other than section 149) included in Chapter VIII-C;
+30
+
+(b) section 144; and
+(c) section 46 as reduced by depreciation allowable as per the provisions
+of section 33, as if no deduction was allowed in respect of the assets on which
+the deduction under that section is claimed.
+
+35
+
+(2) The book profit under this section shall be computed in the following
+manner:––
+B = P + (I-R)
+where,––
+B = book profit for the purposes of this section;
+
+40
+
+P = profit, as shown in the statement of profit and loss for the
+relevant tax year prepared as per sub-section (3);
+I = amounts mentioned in column B of Table below;
+R = amounts mentioned in column C of said Table.
+
+234
+
+Table
+Sl.
+No.
+A
+1.
+
+Amounts (to be increased)
+
+Amounts (to be reduced)
+
+B
+(a) Income-tax paid or payable
+and the provision therefor, if any
+such amount is debited to the
+statement of profit and loss, where
+income-tax shall include—
+(i) any interest charged under
+this Act;
+(ii) surcharge, if any, as
+levied under the Central Acts;
+(iii) Education Cess on
+income-tax, if any, as levied
+under the Central Acts; and
+(iv) Secondary and Higher
+Education Cess on income-tax,
+if any, as levied under the
+Central Acts;
+(b) the amounts carried to any
+reserves, called by any name, if
+any such amount is debited to the
+statement of profit and loss;
+(c) the amount or amounts set
+aside for meeting liabilities, other
+than ascertained liabilities, if any
+such amount is debited to the
+statement of profit and loss;
+(d) the amount by way of
+provision for losses of subsidiary
+companies, if any such amount is
+debited to the statement of profit
+and loss;
+(e) dividends paid or proposed,
+if any such amount is debited to the
+statement of profit and loss;
+(f) expenditure relatable to any
+income to which provisions of
+section 11 apply or any expenditure
+out of regular income of a registered
+non-profit organisation referred in
+section 335, if any such amount is
+debited to the statement of profit and
+loss;
+(g) depreciation, if any such
+amount is debited to the statement
+of profit and loss;
+(h) deferred tax and the
+provision therefor, if any such
+amount is debited to the statement
+of profit and loss;
+
+C
+(a) The amount withdrawn from
+any reserve or provision, where,––
+(i) any such amount is credited
+to the statement of profit and loss
+(excluding a reserve created
+before the 1st April, 1997
+otherwise than by way of a debit
+to the statement of profit and
+loss); and
+(ii) the book profit of such
+year has been increased by those
+reserves or provisions out of
+which the said amount was
+withdrawn;
+(b) income to which any of the
+provisions of section 11 apply or
+any regular income of a registered
+non-profit organisation referred in
+section 335, if any such amount is
+credited to the statement of profit
+and loss;
+(c) depreciation debited to the
+statement of profit and loss
+excluding the depreciation on
+account of revaluation of assets;
+(d) the amount withdrawn from
+revaluation reserve and credited to
+the statement of profit and loss, to
+the extent it does not exceed
+depreciation on account of
+revaluation of assets referred to in
+clause (c);
+(e) deferred tax, if any such
+amount is credited to the statement
+of profit and loss;
+(f) loss brought forward
+(excluding
+depreciation)
+or
+unabsorbed depreciation, whichever
+is less, as per books of account,
+except, where either of such amount
+is nil, in case of a company other
+than the company referred to in
+sub-section (4) (Table: Sl. No. 6 or
+7); and
+(g) such amounts mentioned in
+column D of the Table in
+sub-section (4), in case of an
+assessee mentioned in column B of
+the said Table.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+235
+
+A
+
+5
+
+10
+
+15
+
+B
+
+C
+
+(i) the amount or amounts set
+aside as provision for diminution in
+the value of any asset, if any such
+amount is debited to the statement
+of profit and loss;
+(j) the amount standing in
+revaluation reserve relating to
+revalued asset on the retirement or
+disposal of such asset, if any such
+amount is not credited to the
+statement of profit and loss; and
+(k) such amounts mentioned in
+column C of the Table under
+sub-section (4), in case of an
+assessee mentioned in column B of
+the said Table.
+(3) For the purposes of this section, every company shall prepare its statement
+of profit and loss for the relevant tax year in the following manner:––
+
+20
+
+18 of 2013.
+
+25
+
+(a) if it is an insurance or banking company, or a company engaged in
+the generation or supply of electricity, or any other class of company for which
+a form of financial statement has been specified under the enactment
+governing such class of company, as per the provisions of such enactment;
+(b) in all other cases, as per the provisions of Schedule III to the
+Companies Act, 2013.
+(4) While computing the book profit under sub-section (2), the following
+amounts shall be further adjusted:––
+Table
+S. No.
+
+Assessee
+
+Amounts
+(to be increased)
+
+Amount
+(to be decreased)
+
+A
+
+B
+
+C
+
+D
+
+1.
+
+A company
+being a member
+of association of
+persons or body
+of individuals
+
+The amount or
+amounts
+of
+expenditure relatable
+to income referred to in
+Note if any such
+amount is debited to
+the statement of profit
+and loss
+
+Income referred to in
+Note if any such amount
+is credited to the
+statement of profit and
+loss.
+
+30
+
+35
+
+40
+
+Note : Income, being share of the assessee in the income of an association of
+persons or body of individuals, on which no income-tax is payable as per the
+provisions of section 310.
+2.
+
+45
+
+50
+
+A
+foreign
+The amount or
+company
+amounts of expenditure
+relatable to income
+referred to in Note ,if
+any such amount is
+debited to the statement
+of profit and loss.
+
+Income referred to in
+Note , if such income is
+credited
+to
+the
+statement of profit and
+loss.
+
+236
+
+A
+
+B
+
+C
+
+D
+
+Note: Income, accruing or arising to an assessee from—
+(a) the capital gains arising on transactions in securities; or
+(b) the interest, dividend, royalty or fees for technical services
+chargeable to tax at the rate or rates specified in Chapter XIII,
+
+5
+
+if the income-tax payable thereon as per the provisions of this Act, other than the
+provisions of this Part, is at a rate less than the rate specified in sub-section (1).
+3.
+
+A company,
+which
+has
+transferred any
+capital
+asset,
+being share of a
+special purpose
+vehicle to a
+business trust
+
+Amount referred to in
+Note, if any such
+amount is debited to
+the statement of profit
+and loss.
+
+Amount referred to
+in Note,
+if any such amount is
+credited
+to
+the
+statement of profit and
+loss.
+
+Note: The amount representing––
+
+10
+
+15
+
+(a) the notional loss on transfer of such capital asset, to a business trust
+in exchange of units allotted by the trust referred to in section 70(1)(zi); or
+(b) the notional loss resulting from any change in carrying amount of
+the said units; or
+(c) the loss on transfer of units referred to in section 70(1)(zi).
+4.
+
+A company,
+which
+has
+transferred any
+capital asset, as
+referred
+to
+against serial
+number 3
+
+Gain on transfer of
+units referred to in
+Note
+
+Loss on transfer of
+units referred to in
+Note.
+25
+
+Note: Units referred to in section 70(1)(zi), computed by taking into account
+the cost of the shares exchanged with units referred to in the said clause, or the
+carrying amount of the shares at the time of exchange, where such shares are
+carried at a value other than the cost through statement of profit and loss, as the
+case may be.
+5.
+
+Where total
+income
+includes
+income by way
+of royalty in
+respect of a
+patent which is
+chargeable to
+tax
+under
+section
+194(1)(Table:
+Sl. No. 2).
+
+20
+
+The amount or
+amounts
+of
+expenditure relatable
+to such royalty income,
+if any such amount is
+debited
+to
+the
+statement of profit and
+loss
+
+Income by way of
+such royalty.
+
+30
+
+35
+
+40
+
+237
+
+A
+6.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+7.
+
+30
+
+35
+
+40
+
+8.
+
+45
+
+50
+
+55
+
+B
+A company,
+and its
+subsidiary and
+the subsidiary of
+such subsidiary,
+where, the
+Tribunal, on an
+application
+moved by the
+Central
+Government
+under section
+241 of the
+Companies Act,
+2013 has after
+suspension of
+the Board of
+Directors of
+such company
+has nominated
+new directors
+under section
+242 of the said
+Act
+A company
+against whom
+corporate
+insolvency
+resolution
+process
+has
+been admitted
+by
+the
+Adjudicating
+Authority under
+section 7 or 9 or
+10
+of
+the
+Insolvency and
+Bankruptcy
+Code, 2016
+A
+sick
+industrial
+company under
+section 17(1) of
+the
+Sick
+Industrial
+Companies
+(Special
+Provisions) Act,
+1985, as it stood
+immediately
+before its repeal
+by the Sick
+Industrial
+Companies
+(Special
+Provisions)
+Repeal Act, 2003
+
+C
+Nil
+
+D
+The aggregate of
+unabsorbed
+depreciation and loss
+(excluding
+depreciation) brought
+forward.
+
+Nil
+
+The aggregate of
+unabsorbed depreciation
+and loss (excluding
+depreciation)
+brought
+forward.
+.
+
+Nil.
+
+Profits for the tax year
+in which the such
+company has become a
+sick industrial company
+and ending with the tax
+year during which the
+entire net worth of such
+company becomes
+equal to or exceeds the
+accumulated losses.
+
+238
+
+A
+
+B
+
+C
+
+D
+
+9.
+
+A company
+whose financial
+statements are
+drawn up in
+compliance
+with the Indian
+Accounting
+Standards,
+specified
+in
+Annexure to the
+Companies
+(Indian
+Accounting
+Standards)
+Rules,
+2015
+made under the
+Companies Act,
+2013.
+
+(a)
+All amounts
+credited
+to
+the
+statement of profit and
+loss as referred in Note
+1;
+
+(a)
+All amounts
+debited to the statement
+of profit and loss as
+referred in Note 1;
+(b) the amounts or
+aggregate
+of
+the
+amounts credited to the
+statement of profit and
+loss on distribution as
+referred in Note 2;
+(c) one-fifth of the
+transition amount, in the
+year of convergence
+and each of the
+following four tax
+years, if such amount is
+not increased;
+(d) the amount or the
+aggregate
+of
+the
+amounts referred to in
+Note 3, if such amount
+is not increased;
+(f) the amount or
+the aggregate of the
+amounts referred to
+in Note 4, if such
+amount
+is
+not
+increased.
+
+(c) the amounts or
+aggregate
+of
+the
+amounts debited to the
+statement of profit and
+loss on distribution as
+referred in Note 2;
+(c) one-fifth of the
+transition amount, in
+the
+year
+of
+convergence and each
+of the following four
+tax years, if such
+amount
+is
+not
+decreased;
+(d) the amount or
+the aggregate of the
+amounts referred to in
+Note 3, if such amount
+is not decreased;
+(e) the amount or
+the aggregate of the
+amounts referred to in
+Note 4, if such amount
+is not decreased.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Note 1: Other comprehensive income in the statement of profit and loss under
+the head “Items that will not be re-classified to profit or loss”, excluding—
+(i) revaluation surplus for assets as per the Indian Accounting Standards 35
+16 and Indian Accounting Standards 38; or
+(ii) gains or losses from investments in equity instruments designated at
+fair value through other comprehensive income as per the Indian Accounting
+Standards 109; and
+the amount or the aggregate of the amounts referred to in clause (a) (i) and 40
+(ii) for the tax year or any of the preceding tax years, and relatable to such asset or
+investment, in the tax year in which the said asset or investment referred to in
+clause (a) is retired, disposed, realised or otherwise transferred.
+Note 2: on distribution of non-cash assets to shareholders in a demerger as 45
+per Appendix A of the Indian Accounting Standards 10.
+Note 3: sub-section (19)(f)(ii) to (v) relatable to such asset or investment, in
+the tax year in which the asset or investment referred to in such sub-clauses is
+retired, disposed, realised or otherwise transferred.
+Note 4: sub-section (19)(f)(ii) to (v) relatable to such foreign operations, in
+the tax year in which the foreign operation referred to in such sub-clause is disposed 50
+or otherwise transferred.
+
+239
+
+(5) In case of a person, being a company, while preparing the annual accounts
+including statement of profit and loss,—
+(a) the accounting policies;
+5
+
+(b) the accounting standards adopted for preparing such accounts
+including statement of profit and loss; and
+(c) the method and rates adopted for calculating the depreciation,
+
+10
+
+15
+
+shall be the same as have been adopted for the purpose of preparing such accounts
+including statement of profit and loss and laid before the company at its annual
+general meeting as per the provisions of section 129 of the Companies Act, 2013,
+or correspond to the accounting policies, accounting standards and the method and
+rates for calculating the depreciation which have been adopted for preparing such
+accounts including statement of profit and loss for, such financial year or part of
+such financial year falling within the relevant tax year, where the company has
+adopted or adopts the financial year under the which is different from the tax year
+under this Act.
+(6) The provisions of this section shall not be applicable to any assessee, being
+a foreign company, where––
+
+20
+
+25
+
+(a) the assessee is a resident of a country or a specified territory with
+which India has an agreement referred to in section 159(1) or the Central
+Government has adopted any agreement under section 159(2) and the assessee
+does not have a permanent establishment in India as per the provisions of such
+agreement; or
+(b) the assessee is a resident of a country with which India does not have
+an agreement of the nature referred to in clause (a) and the assessee is not
+required to seek registration under any law in force relating to companies; or
+(c) its total income comprises solely of profits and gains from business
+referred to in section 61(2)(Table: Sl. Nos. 1, 3, 4 and 5), and such income has
+been offered to tax at the rates specified in the respective sections.
+
+30
+
+35
+
+(7) In the case of a resulting company, where the property and the liabilities
+of the undertaking or undertakings being received by it are recorded at values
+different from the values appearing in the books of account of the demerged
+company immediately before the demerger, any change in such value shall be
+ignored for the purpose of computation of book profit of the resulting company
+under this section.
+(8) In the case of an assessee being a company, where––
+(a) there is an increase in book profit of the tax year due to income of past
+year or years included in the book profit on account of––
+(i) an advance pricing agreement entered into by the assessee under section
+168; or
+
+40
+
+(ii) a secondary adjustment required to be made under section 170; and
+(b) the assessee has not utilised the credit of tax paid under this section in
+any subsequent tax year under sub-section (13),
+the Assessing Officer shall, on an application made to him in this behalf
+by the assessee,––
+
+45
+
+(i) recompute the book profit of the past year or years and tax payable, if
+any, by the assessee during the tax year under sub-section (1) in such manner,
+as prescribed; and
+
+240
+
+(ii) the provisions of section 287 shall, so far as may be, apply and the
+period of four years specified in sub-sections (7) and (8) of that section shall
+be reckoned from the end of the tax year in which the said application is
+received by the Assessing Officer.
+(9) Irrespective of anything contained in any other provisions of this Act, no
+interest shall be payable to an assessee on the refund arising on account of the
+provisions of sub-section (8).
+(10) In the case of an assessee being a company, nothing contained in
+sub-section (1) shall affect the determination of the amounts in relation to the
+relevant tax year to be carried forward to the subsequent year or years under the
+provisions of––
+
+5
+
+10
+
+(a) section 33(11); or
+(b) section 111; or
+(c) section 112(1); or
+(d) section 113; or
+
+15
+
+(e) section 115.
+(11) Every assessee to which this section applies, shall furnish a report in the
+prescribed form from an accountant, certifying that the book profit in the case of a
+company, or adjusted total income in any other case, has been computed as per the
+provisions of this section––
+
+20
+
+(a) before the specified date referred to in section 63; or
+(b) along with the return of income furnished in response to a notice
+under section 268(1) in the case of an assessee being a company.
+(12) Save as otherwise provided in this section, all other provisions of this Act
+shall apply to every assessee mentioned in this section.
+
+25
+
+(13) Where any tax is paid under sub-section (1) by an assessee, then, credit
+shall be allowed to him of an amount which shall be the difference of the tax paid
+for any tax year under sub-section (1) and tax payable by the assessee on his total
+income computed as per the other provisions of this Act.
+(14) While allowing credit under sub-section (13),––
+
+30
+
+(a) no interest shall be payable on the tax credit so allowed; and
+(b) where tax credit in respect of any income-tax paid in any country or
+specified territory outside India, under section 159(1) or (2), allowed against
+the tax payable under the provisions of sub-section (1) exceeds such tax credit
+admissible against the tax payable by the assessee on its income as per the
+other provisions of this Act, then, while computing the credit under
+sub-section (13), such excess amount shall be ignored.
+
+35
+
+(15) Tax credit determined under sub-section (13) shall be carried forward and––
+(a) set off in a year, when tax becomes payable on the total income
+computed as per the provisions of this Act exceeds tax determined under
+sub-section (1); and
+(b) such set off in respect of brought forward tax credit shall be allowed
+for any tax year to the extent of the difference between the tax on his total
+income and the tax which would have been payable under the provisions of
+sub-section (1) for that tax year,
+and such carry forward shall not be allowed beyond the fifteenth tax year
+immediately succeeding the tax year in which the tax credit becomes allowable
+under sub-section (13).
+
+40
+
+45
+
+241
+
+6 of 2009.
+
+5
+
+10
+
+15
+
+20
+
+31 of 2016.
+25
+
+1 of 1986.
+1 of 2004.
+
+30
+
+6 of 2009.
+42 of 1956.
+
+35
+
+40
+
+45
+
+50
+
+(16) Where as a result of any order passed under this Act, tax payable under
+this Act is reduced or increased, tax credit allowed under sub-section (13) shall also
+be increased or reduced accordingly.
+(17) In case of conversion of a private company or unlisted public company into
+a limited liability partnership under the Limited Liability Partnership Act, 2008, the
+provisions of this section shall not apply to the successor limited liability partnership.
+(18) The provisions of this section shall not apply to––
+(a) a person, being a company having income accruing or arising from
+life insurance business referred to in section 194(1)(Table: Sl. No. 6); or
+(b) a person, who has exercised the option under––
+(i) section 200(5); or
+(ii) section 201(2); or
+(iii) section 203(5); or
+(iv) section 204(2); or
+(c) a person, whose income-tax payable in respect of the total income of
+such person is computed under section 202(1); or
+(d) an individual or a Hindu undivided family or an association of
+persons or a body of individuals, whether incorporated or not, or an artificial
+juridical person referred to in section 2(77)(g), if the adjusted total income of
+such person does not exceed twenty lakh rupees; or
+(e) any specified fund referred to in Schedule VI (Note 1).
+(19) In this section,—
+(a) “Adjudicating Authority” shall have the same meaning as
+assigned to it in section 5(1) of the Insolvency and Bankruptcy Code, 2016;
+(b) “convergence date” means the first day of the first Indian Accounting
+Standards reporting period as defined in the Indian Accounting Standards 101;
+(c) “net worth” shall have the meaning assigned to it in section 3(1)(ga)
+of the Sick Industrial Companies (Special Provisions) Act, 1985, as it stood
+immediately before its repeal by the Sick Industrial Companies (Special
+Provisions) Repeal Act, 2003;
+(d) “private company” and “unlisted public company” shall have the
+meanings respectively assigned to them in the Limited Liability Partnership
+Act, 2008;
+(e) “securities” shall have the same meaning as assigned to it in
+section 2(h) of the Securities Contracts (Regulation) Act, 1956;
+(f) “transition amount” means the amount or the aggregate of the
+amounts adjusted in the other equity (excluding capital reserve and
+securities premium reserve) on the convergence date, but not including the
+following:—
+(i) amount or aggregate of the amounts adjusted in the other
+comprehensive income on the convergence date which shall be
+subsequently re-classified to the profit or loss;
+(ii) revaluation surplus for assets as per the Indian Accounting
+Standards 16 and Indian Accounting Standards 38 adjusted on the
+convergence date;
+(iii) gains or losses from investments in equity instruments
+designated at fair value through other comprehensive income as per the
+Indian Accounting Standards 109 adjusted on the convergence date;
+(iv) adjustments relating to items of property, plant and equipment
+and intangible assets recorded at fair value as deemed cost as per
+paragraphs D5 and D7 of the Indian Accounting Standards 101 on the
+convergence date;
+
+242
+
+(v) adjustments relating to investments in subsidiaries, joint
+ventures and associates recorded at fair value as deemed cost as per
+paragraph D15 of the Indian Accounting Standards 101 on the
+convergence date; and
+(vi) adjustments relating to cumulative translation differences of a
+foreign operation as per paragraph D13 of the Indian Accounting
+Standards 101 on the convergence date.
+
+5
+
+(g) “Tribunal” shall have the same meaning as assigned to it in
+section 2(90) of the Companies Act, 2013;
+(h) “Unit” means a unit established in an International Financial Services
+Centre;
+
+18 of 2013.
+10
+
+(i) “year of convergence” means the tax year within which the
+convergence date falls; and
+(j) a company shall be a subsidiary of another company, if such other
+company holds more than half in the nominal value of equity share capital of
+the company.
+
+15
+
+E.—Special provisions relating to non-residents and foreign companies
+Tax on
+dividends,
+royalty and
+technical service
+fees in case of
+foreign
+companies.
+
+207. (1) The income-tax payable on the total income of a non-resident (not
+being a company) or a foreign company, which includes any income specified in the
+column B of the Table below, shall be the aggregate of income-tax specified in the
+column C thereof.
+
+20
+
+Table
+Sl.
+No.
+
+Income
+
+Income-tax
+payable
+
+A
+
+B
+
+C
+
+1.
+
+Dividend [other than dividends specified against
+serial number 2.
+
+20%
+
+2.
+
+Dividend received from a unit in an International
+Financial Services Centre.
+
+10%
+
+3.
+
+Interest received from Government or an Indian
+concern on monies borrowed or debt incurred by
+Government or the Indian concern in foreign currency
+not being interest referred to against serial numbers 4
+and 5.
+
+20%
+
+30
+
+4.
+
+Interest received from an infrastructure debt fund
+referred to in Schedule VII (Table: Sl. No. 46).
+
+5%
+
+35
+
+5.
+
+Interest of the nature and extent referred to in section
+393(2) (Table: Sl. No. 2), (Table: Sl. No. 3 and 4).
+
+Rates
+specified
+in
+section 393(2)
+(Table: Sl. No. 2,
+3 and 4).
+
+6.
+
+7.
+
+Distributed income being interest referred to in
+section 393(2) (Table: Sl. No. 6).
+
+Income received in respect of units, purchased in
+foreign currency, of a Mutual Fund specified in
+Schedule VII (Table: Sl. No. 20 or 21) or of the Unit
+Trust of India.
+
+Rate specified
+in section 393(2)
+(Table:
+Sl.
+No. 6).
+20 %
+
+25
+
+40
+
+45
+
+243
+
+A
+8.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+B
+Total income as reduced by income referred to
+against serial numbers 1 to 7.
+
+C
+Income-tax
+chargeable
+on
+such income.
+(2) Where the total income of a non-resident (not being a company) or of a
+foreign company, includes any income by way of royalty or fees for technical
+services received from Government or an Indian concern in pursuance of an
+agreement made after the 31st March,1976, other than income referred to in section
+59(1), and—
+(a) the agreement is approved by the Central Government where such
+agreement is with an Indian concern; or
+(b) where the agreement relates to a matter included in the industrial
+policy, for the time being in force, of the Government of India, it is as per that
+policy,
+then, subject to the provisions of sub-section (3), the income-tax payable shall be
+the aggregate of income-tax specified in column C of the Table below:––
+Table
+Sl.
+Income
+Income-tax payable
+No.
+A
+B
+C
+Royalty [other than income referred to in
+1.
+20%
+section 59(1)].
+2.
+Fees for technical services [other than
+20%
+income referred to in section 59(1)].
+3.
+Total income as reduced by income
+Income-tax chargeable on
+referred to against serial numbers 1 and 2. such income.
+(3) Where the royalty referred to in sub-section (2) is in consideration for the
+transfer or grant of all or any rights (including the granting of a licence)––
+(a) in respect of copyright in any book to an Indian concern; or
+(b) in respect of any computer software to a person resident in India,
+then the provisions of sub-section (2) shall apply in relation to such royalty without
+application of provisions of clause (a) or (b) of that sub-section.
+(4) In this section,––
+(a) “computer software” means any computer programme recorded on
+any disc, tape, perforated media or other information storage device; or any
+customised electronic data or any product or service of similar nature as
+notified by the Board, which is transmitted or exported from India to a place
+outside India by any means;
+(b) “fees for technical services” shall have the meaning assigned to it in
+section 9;
+(c) “royalty” shall have the meaning assigned to it in section 9.
+(5) No deduction in respect of any expenditure or allowance shall be allowed
+under sections 28 to 61 and section 93 for computing income referred to in
+sub-sections (1) and (2).
+(6) Where the gross total income of an assessee––
+(a) consists only of the income referred to in sub-section (1)(Table: Sl. No.
+1 to 7), no deduction shall be allowed under Chapter VIII;
+(b) includes any income referred to in sub-section (1) (Table: Sl. No. 1
+to 7), the gross total income shall be reduced by such income and the deduction
+under Chapter VIII shall be allowed as if such reduced amount were the gross
+total income of the assessee;
+
+244
+
+(7) the provisions of sub-section (6) shall not apply to a deduction allowed to
+Unit of an International Financial Services Centre under section 147.
+(8) It shall not be necessary for an assessee to furnish a return of income under
+section 263(1), if—
+(a) the total income during the tax year consisted only of income referred
+to in sub-sections (1)(Table: Sl. No. 1 to 7) and sub-section (2) (Table: Sl. No.
+1 and 2); and
+(b) the tax deductible at source under the provisions of Chapter XIX-B
+has been deducted from such income at a rate not less than the rate specified
+in sub-sections (1) and (2).
+Tax on income
+from units
+purchased in
+foreign
+currency or
+capital gains
+arising from
+their transfer.
+
+5
+
+10
+
+208. (1) The income-tax payable on the total income of an assessee, being an
+overseas financial organisation (herein referred to as Offshore Fund), which
+includes income specified in column B of the Table below, shall be the aggregate of
+the amount specified in column C thereof.
+15
+
+Table
+Sl.
+No.
+
+Income
+
+Income-tax payable
+
+A
+
+B
+
+C
+
+1.
+
+Income received in respect of units purchased in
+foreign currency.
+
+10 %
+
+2.
+
+Long-term capital gains arising from the transfer
+of units purchased in foreign currency.
+
+12.5%
+
+3.
+
+Total income as reduced by income referred to in Income-tax
+against serial numbers 1 and 2.
+chargeable on such
+25
+income.
+
+20
+
+(2) Where the gross total income of the Offshore Fund—
+(a) consists only of income from units or income by way of long-term
+capital gains arising from the transfer of units, or both, no deduction shall be
+allowed to the assessee under sections 26 to 61 or section 93(1)(a) and (e) or
+under Chapter VIII;
+
+30
+
+(b) includes any income referred to in clause (a),––
+(i) the gross total income shall be reduced by such income; and
+(ii) the deduction under Chapter VIII shall be allowed as if the
+gross total income so reduced were the gross total income of the
+assessee.
+
+35
+
+(3) In this section,––
+(a) “overseas financial organisation” means any fund,
+institution, association or body, whether incorporated or not,
+established under the laws of a country outside India,––
+(i) which has entered into an arrangement for
+investment in India with any public sector bank or public
+financial institution or a mutual fund specified in
+Schedule VII (Table: Sl. No. 20 or 21); and
+
+40
+
+245
+
+(ii) such arrangement is approved by the Securities and Exchange
+Board of India, established under the Securities and Exchange Board of
+India Act, 1992, for this purpose;
+
+15 of 1992.
+
+18 of 2013.
+
+(b) “public financial institution” shall have the same meaning as
+assigned to it in section 2(72) of the Companies Act, 2013;
+
+5
+
+(c) “unit” means unit of,––
+(i) a mutual fund specified in Schedule VII (Table: Sl. No. 20) or
+(Table: Sl. No. 20 or 21); or
+(ii) the Unit Trust of India.
+10
+
+209. (1) The income -tax payable, on the total income of an assessee, being a
+non- resident, which includes income specified in column B of the Table below,
+shall be the aggregate of the amounts mentioned in column C thereof.
+Table
+
+15
+
+Sl.
+No.
+
+Income
+
+Income-tax
+payable
+
+A
+
+B
+
+C
+
+1.
+
+From interest on––
+
+10 %
+
+(a) bonds of an Indian company issued in
+accordance with such scheme as notified by the
+Central Government; or
+
+20
+
+(b) bonds of a public sector company sold by the
+Government,
+and purchased in foreign currency.
+2.
+
+10 %
+
+(a) issued as per such scheme as the Central
+Government may, notified, against the initial issue
+of shares of an Indian company and purchased in
+foreign currency through an approved intermediary;
+or
+
+25
+
+(b) issued against the shares of a public sector
+company sold by the Government and purchased by
+him in foreign currency through an approved
+intermediary; or
+
+30
+
+(c) issued or re-issued in accordance with a
+scheme notified by the Central Government, against
+the existing shares of an Indian company purchased
+in foreign currency through an approved
+intermediary.
+
+35
+
+3.
+
+Long-term capital gains arising from the transfer of
+bonds referred to against serial number 1 or Global
+Depository Receipts referred to against serial number 2.
+
+4.
+
+Total income as reduced by income referred to against
+serial numbers 1 to 3.
+
+40
+
+45
+
+From dividends on Global Depository Receipts—
+
+12. 5%
+
+Incometax chargeable
+on
+such
+income.
+
+Tax on income
+from bonds or
+Global
+Depository
+Receipts
+purchased in
+foreign
+currency or
+capital gains
+arising from
+their transfer.
+
+246
+
+(2) Where the gross total income of the non-resident—
+(a) consists only of income by way of interest or dividends in respect
+of––
+(i) bonds referred to in sub-section (1) (Table: Sl. No. 1); or
+sub-section (1); or
+
+5
+
+(ii) Global Depository Receipts referred to in sub-section (1)
+(Table: Sl. No. 2), no deduction shall be allowed under sections 26 to 61
+or section 93(1)(a) or 93(1)(e) or under Chapter VIII;
+(b) includes any income referred to in sub-section (1) (Table: Sl. No. 1)
+to (Table: Sl. No. 3),––
+
+10
+
+(i) the gross total income shall be reduced by the such income;
+and
+(ii) the deduction under Chapter VIII shall be allowed as if the
+gross total income so reduced, were the gross total income of the
+assessee.
+
+15
+
+(3) The provisions of section 72(6) shall not apply for computation of long-term
+capital gains arising out of the transfer of long-term capital asset being bonds or Global
+Depository Receipts referred to in sub-section (1) (Table: Sl. No. 3).
+(4) It shall not be necessary for a non-resident to furnish a return of his income
+under section 263(1), if—
+
+20
+
+(a) his total income during the tax year consisted only of income referred
+to in sub-sections (1) (Table: Sl. No. 1) and (Table: Sl. No. 2); and
+(b) the tax deductible at source under the provisions of Chapter XIX-B
+has been deducted from such income.
+(5) Where the assessee acquired Global Depository Receipts or bonds in an
+amalgamated or resulting company by virtue of his holding Global Depository
+Receipts or bonds in the amalgamating or demerged company, as the case may be,
+as per the provisions of sub-section (1), the provisions of that sub-section shall apply
+to such Global Depository Receipts or bonds.
+(6) In this section,––
+
+25
+
+30
+
+(a) “approved intermediary” means an intermediary which is approved
+as per a scheme notified by the Central Government; and
+(b) “Global Depository Receipts” shall have the meaning assigned to it
+in section 190(4)(a).
+Tax on income of
+Foreign
+Institutional
+Investors from
+securities or
+capital gains
+arising from their
+transfer.
+
+210. (1) The income-tax payable on total income of an assessee, being a
+specified fund or Foreign Institutional Investor, which includes the income referred
+to in column B of the Table below, shall be the aggregate of the amounts mentioned
+in column C thereof.
+
+35
+
+247
+
+Table
+
+5
+
+Sl.
+No.
+
+Income
+
+Income-tax
+payable
+
+A
+
+B
+
+C
+
+1.
+
+Securities other than units referred to in section
+208.
+
+(a) 20 % in
+case of Foreign
+Institutional
+Investor;
+(b) 10 % in case
+of specified fund.
+
+10
+
+2.
+
+Short-term capital gains (not being short-term
+capital gains referred to in section 196) arising from
+the transfer of such securities.
+
+30 %
+
+3.
+
+Short-term capital gains referred to in section 196
+arising from the transfer of such securities
+
+20 %
+
+4.
+
+Long-term capital gains (not being long-term
+capital gains referred to in section 198 arising from
+the transfer of such securities
+
+12.5 %
+
+5.
+
+Long-term capital gains referred to in section 198
+arising from the transfer of such securities which
+exceeds ₹ 1,25,000.
+
+12.5 %
+
+6.
+
+Total income as reduced by income referred to
+against serial numbers 1 to 5.
+
+Income-tax
+chargeable on such
+income.
+
+15
+
+20
+
+25
+
+30
+
+(2) In case of specified fund, provisions of this section shall apply only to the
+extent of income that is attributable to units held by non-resident (not being a
+permanent establishment of such non-resident in India) calculated in the manner as
+prescribed, irrespective of the provisions of sub-section (1).
+(3) Irrespective of anything contained in sub-section (1), where the
+specified fund––
+(a) is investment division of an offshore banking unit as specified against
+serial number 1 of the Table in Schedule III.6; and
+(b) fulfills the conditions referred to in clause (g)D(ii) of cell E1 of the
+Table in Schedule VI (Note 1),
+
+35
+
+the provisions of this section shall apply to the extent of income that is attributable
+to such investment division, calculated in the manner, as prescribed.
+(4) Where the gross total income of the specified fund or Foreign
+Institutional Investor—
+
+45
+
+(a) consists only of income in respect of securities referred in
+sub-section (1) (Table: Sl. No. 1), no deduction shall be allowed to it under
+sections 26 to 61 or section 93(1)(a) or (e) or under Chapter VIII;
+(b) includes any income referred to in sub-section (1) (Table: Sl. No. 1)
+to (Table: Sl. No. 5),––
+
+248
+
+(i) the gross total income shall be reduced by the amount of such
+income; and
+(ii) the deduction under Chapter VIII shall be allowed as if the
+gross total income as so reduced, were the gross total income of the
+specified fund or Foreign Institutional Investor.
+
+5
+
+(5) The provisions of section 72(6) shall not apply for the computation of
+capital gains arising out of the transfer of securities referred to in sub-section (1)
+(Table: Sl. No. 2) to (Table: Sl. No. 5).
+(6) In this section,––
+(a) “Foreign Institutional Investor” means an investor so specified in a
+notification by the Central Government;
+
+10
+
+(b) “permanent establishment” shall have the meaning assigned to it in
+section 173(c);
+(c) “securities” shall have the same meaning as assigned to it in
+section 2(h) of the Securities Contracts (Regulation) Act, 1956;
+
+15 42 of 1956.
+
+(d) “specified fund” shall have the meaning assigned to it in Schedule VI
+[Note 1]
+Tax on nonresident
+sportsmen or
+sports
+associations.
+
+211. (1) Where the total income of an assessee,––
+(a) being a sportsman (including an athlete), who is not a citizen of
+India and is a non-resident, includes any income received or receivable by
+way of––
+
+20
+
+(i) participation in India in any game [other than a game the
+winnings from which are taxable as specified in section 194(1) (Table:
+Sl. No. 1)] or sport; or
+25
+
+(ii) advertisement; or
+(iii) contribution of articles relating to any game or sport in India
+in newspapers, magazines or journals; or
+(b) being a non-resident sports association or institution, includes any
+amount guaranteed to be paid or payable to such association or institution
+in relation to any game, other than a game the winnings from which are
+taxable as specified in section 194(1) (Table: Sl. No. 1) or sport played in
+India; or
+(c) being an entertainer, who is not a citizen of India and is a
+non-resident, includes any income received or receivable from his
+performance in India,
+
+30
+
+35
+
+then, the income-tax payable by the assessee shall be the aggregate of amounts
+mentioned in column C of the Table below:––
+Table
+Sl. No.
+
+Income
+
+Income-tax payable
+
+A
+
+B
+
+C
+
+1.
+
+Income referred to in clause (a) or (b)
+or (c).
+
+20 %
+
+2.
+
+Total income as reduced by income
+referred to in clause (a) or (b) or (c).
+
+Income-tax chargeable
+on such income.
+
+40
+
+249
+
+(2) No deduction in respect of any expenditure or allowance shall be allowed
+under any provision of this Act in computing the income referred to in
+sub-section (1).
+5
+
+(3) It shall not be necessary for the assessee to furnish a return of his income
+under section 263(1), if—
+(a) his total income during the tax year consisted only of income referred
+to in sub-section (1); and
+(b) the tax deductible at source under the provisions of Chapter XIX-B
+has been deducted from such income.
+
+10
+
+212 In sections 213 to 218,—
+
+Interpretation
+
+(a) “foreign exchange asset” means any specified asset which the
+assessee has acquired or purchased with, or subscribed to in, convertible
+foreign exchange;
+15
+
+(b) “investment income” means any income derived from a foreign
+exchange asset;
+(c) “long-term capital gains” means income chargeable under the head
+“Capital gains” relating to a capital asset, being a foreign exchange asset
+which is not a short-term capital asset;
+
+20
+
+(d) “non-resident Indian” means an individual, who is not a resident
+and is—
+(i) a citizen of India; or
+(ii) a person of Indian origin;
+(e) “specified asset” means any of the following assets:—
+(i) shares in an Indian company; or
+
+25
+18 of 2013.
+
+(iii) deposits with an Indian company which is not a private
+company as defined in the Companies Act, 2013; or
+
+18 of 2013.
+
+18 of 1944.
+
+(ii) debentures issued by an Indian company which is not a private
+company as defined in the Companies Act, 2013; or
+
+30
+
+(iv) any security of the Central Government as defined in
+section 2(c) of the Public Debt Act, 1944; or
+(v) such other assets as the Central Government may specify in this
+behalf by notification.
+
+35
+
+213. (1) No deduction in respect of any expenditure or allowance shall be
+allowed under any provision of this Act in computing the investment income of a
+non-resident Indian.
+(2) In the case of an assessee, being a non-resident Indian, where––
+(a) the gross total income consists only of investment income or income
+by way of long-term capital gains or both then no deduction shall be allowed
+under Chapter VIII;
+
+40
+
+(b) the gross total income includes any income referred to in clause (a),––
+
+Special
+provision for
+computation of
+total income of
+non-residents.
+
+250
+
+(i) the gross total income shall be reduced by such income; and
+(ii) the deductions under Chapter VIII shall be allowed as if the
+gross total income as so reduced was the gross total income of the
+assessee.
+Tax on
+investment
+income and
+long-term capital
+gains.
+
+214. The Income-tax payable, on the total income of an assessee, being
+a non-resident Indian, which includes income specified in column B of the
+Table below, shall be the aggregate of the amounts mentioned in column C
+thereof.
+
+5
+
+Table
+
+Capital gains on
+transfer of
+foreign
+exchange assets
+not to be
+charged in
+certain cases.
+
+Sl.
+No.
+
+Income
+
+A
+
+B
+
+C
+
+1.
+
+Income from investment or income
+from long-term capital gains of an asset
+other than a specified asset.
+
+20 %
+
+2.
+
+Income from long-term capital gains
+on specified asset.
+
+12.5%
+
+3.
+
+Total income as reduced by income
+referred to against serial numbers 1
+and 2.
+
+Income-tax chargeable on
+such income.
+
+Income-tax payable
+
+10
+
+15
+
+20
+
+215. (1) Where, in case of an assessee, being a non-resident Indian,––
+(a) any long-term capital gains arises from the transfer of a foreign
+exchange asset (herein referred as original asset); and
+(b) within six months after the date of such transfer, he has invested the
+whole or any part of the net consideration in any specified asset (herein
+referred as new asset),
+
+25
+
+then the capital gains shall be dealt with in the following manner:—
+(i) if the cost of the new asset is not less than the net consideration in
+respect of the original asset, the whole of such capital gain shall not be charged
+under section 67;
+
+30
+
+(ii) if the cost of the new asset is less than the net consideration in respect
+of the original asset, then the capital gain computed by the following formula
+shall not be charged under section 67:––
+A=B×C
+D
+Where,
+A = the capital gains not to be charges being computed;
+B = whole of the capital gain;
+
+35
+
+251
+
+C = cost of acquisition of the new asset;
+D = net consideration in respect of the original asset.
+(2) For the In sub-section (1),––
+5
+
+(a) “cost”, in relation to any new asset, being a deposit referred to in
+section 212(e)(iii)(v), means the amount of such deposit;
+(b) “net consideration” in relation to the transfer of the original asset,
+means the full value of the consideration received or accruing as a result
+of the transfer of such asset as reduced by any expenditure incurred wholly
+and exclusively in connection with such transfer.
+
+10
+
+15
+
+(3) Where the new asset is transferred or converted (otherwise than by
+transfer) into money, within three years from date of its acquisition, the capital
+gain arising from transfer of original asset not so charged under section 67 shall
+be deemed to be income by way of capital gains of the tax year in which such
+transfer or conversion takes place relating to capital assets other than short-term
+capital assets of the tax year in which the new asset is transferred or converted
+(otherwise than by transfer) into money.
+216. It shall not be necessary for a non-resident Indian to furnish a return
+of his income under section 263(1), if—
+
+20
+
+(a) his total income during the tax year consisted only of investment
+income or income by way of long-term capital gains or both; and
+
+Return of
+income not to
+be furnished in
+certain cases.
+
+(b) the tax deductible at source under the provisions of
+Chapter XIX-B has been deducted from such income.
+217. (1) Where a non-resident Indian in any tax year,––
+(a) becomes assessable as a resident in India in a subsequent tax year;
+25
+
+30
+
+and
+(b) furnishes a declaration in writing to the Assessing Officer along
+with his return of income under section 263for the tax year for which he is
+so assessable,to the effect that provisions of sections 212 to 218 shall
+continue to apply to him in relation to the investment income derived from
+any foreign exchange asset referred to in section 212(e) other than a share
+in an Indian company,
+
+Benefit to be
+available in
+certain cases
+even after
+assessee
+becomes
+resident.
+
+then the provisions of this Chapter shall continue to apply in relation to such
+income until the transfer or conversion (otherwise than by transfer) of such
+assets into money.
+35
+
+218. (1) A non-resident Indian may choose not to be governed by the
+provisions of sections 212 to 217 for any tax year by declaring it in his return of
+income under section 263 for such tax year. and if he does so,—
+(a) the provisions of sections 212 to 217 shall not apply to him for
+that tax year, and
+
+40
+
+(b) his total income for that tax year shall be computed and charged
+to tax according to the other provisions of this Act.
+
+Provisions not to
+apply if the
+assessee so
+chooses.
+
+252
+
+Conversion of an
+Indian branch of
+foreign company
+into subsidiary
+Indian company.
+
+219. (1) Where a foreign company is engaged in the business of banking in
+India through its branch situated in India and such branch is converted into a
+subsidiary Indian company as per the scheme framed by the Reserve Bank of India,
+then, irrespective of anything contained in this Act and subject to the conditions as
+notified by the Central Government,—
+
+5
+
+(a) the capital gains arising from such conversion shall not be chargeable
+to tax in the tax year in which such conversion takes place; and
+(b) the provisions of this Act relating to––
+(i) treatment of unabsorbed depreciation, set off or carry forward
+and set off of losses;
+
+10
+
+(ii) tax credit in respect of tax paid on deemed income relating to
+certain companies; and
+(iii) computation of income of the foreign company and subsidiary
+Indian company,
+shall apply with such exceptions, modifications and adaptations as specified in that
+notification.
+(2) In case of failure to comply with any of the conditions specified in the
+scheme or in the notification issued under sub-section (1), all the provisions of this
+Act shall apply to the foreign company and the said subsidiary Indian company
+without any benefit, exemption or relief under the said sub-section.
+
+15
+
+20
+
+(3) Where, in a tax year, any benefit, exemption or relief has been claimed and
+granted as per the provisions of sub-section (1) and, subsequently, there is failure to
+comply with any of the conditions specified in the scheme or in the notification
+issued under the said sub-section then,—
+(a) such benefit, exemption or relief shall be deemed to have been
+wrongly allowed;
+
+25
+
+(b) the Assessing Officer may, irrespective of anything in this Act,
+re-compute the total income of the assessee for the said tax year and make the
+necessary amendment; and
+(c) the provisions of section 287 shall, so far as may be, apply thereto
+and the period of four years specified in sub-section (8) of that section being
+reckoned from the end of the tax year in which the failure to comply with the
+condition referred to in sub-section (1) takes place.
+(4) Every notification issued under this section shall be laid before each House
+of Parliament.
+Foreign
+company said to
+be resident in
+India.
+
+30
+
+35
+
+220. (1) Where a foreign company is said to be a resident in India in any tax
+year and such company has not been a resident in India in earlier tax years, then,
+irrespective of anything in this Act and subject to the conditions as notified by the
+Central Government in this behalf, the provisions of this Act relating to—
+(a) the computation of total income;
+(b) treatment of unabsorbed depreciation;
+(c) set off or carry forward and set off of losses;
+(d) collection and recovery; and
+
+40
+
+253
+
+(e) special provisions relating to avoidance of tax,
+shall apply with such exceptions, modifications and adaptations as specified in
+that notification for such tax years;
+5
+
+10
+
+(2) Where the determination regarding foreign company to be resident in
+India has been made in the assessment proceedings for any tax year, then, the
+provisions of sub-section (1) shall also apply to any other tax year succeeding
+such tax year, which ends on or before the date of completion of such assessment
+proceeding.
+(3) Where, in a tax year, any benefit, exemption or relief has been claimed
+and granted to the foreign company as per the provisions of sub-section (1), and,
+subsequently, there is failure to comply with any of the conditions specified in
+the notification issued under the said sub-section, then,—
+(a) such benefit, exemption or relief shall be deemed to have been
+wrongly allowed;
+
+15
+
+20
+
+(b) the Assessing Officer may, irrespective of anything in this Act,
+re-compute the total income of the assessee for the said tax year and make
+the necessary amendment as if the exceptions, modifications and
+adaptation referred to in sub-section (1) did not apply; and
+(c) the provisions of section 287 shall, so far as may be, apply thereto
+and the period of four years specified in sub-section (8) of that section
+being reckoned from the end of the tax year in which the failure to comply
+with the condition referred to in sub-section (1) takes place.
+(4) Every notification issued under this section shall be laid before each
+House of Parliament.
+
+25
+
+30
+
+35
+
+F.—Special provisions relating to pass-through entities
+221. (1) Irrespective of anything contained in this Act, where a person
+being an investor of a securitisation trust, receives any income or any income
+accrues or arises to him, out of investments made in the securitisation trust, such
+income shall be chargeable to income-tax in the same manner as if, it were the
+income accruing or arising to, or received by, such person, had the investments
+by the securitisation trust been made directly by him.
+(2) The income paid or credited by the securitisation trust shall be deemed
+to be of the same nature and in the same proportion in the hands of the person
+referred to in sub-section (1), as if it had been received by, or had accrued or
+arisen to, the securitisation trust during the tax year.
+(3) The income accruing or arising to, or received by, the securitisation
+trust during a tax year, if not paid or credited to the person referred to in
+sub-section (1), shall be deemed to have been credited to the account of the said
+person––
+
+40
+
+(a) on the last day of the tax year; and
+(b) in the same proportion in which such person would have been
+entitled to receive the income had it been paid in the tax year.
+
+Tax on income
+from
+securitisation
+trusts.
+
+254
+
+(4) The person responsible for crediting or making payment of the income on
+behalf of securitisation trust, and the securitisation trust, shall furnish, within such
+period, as prescribed, to the person who is liable to tax in respect of such income
+and to the prescribed income-tax authority, a statement in such form and verified in
+such manner, giving details of the nature of the income paid or credited during the
+tax year and such other relevant details, as prescribed.
+(5) Any income which has been included in the total income of the person
+referred to in sub-section (1) in a tax year, on account of it having accrued or arisen
+in the said tax year, shall not be included in the total income of such person in the
+tax year in which such income is actually paid to him by the securitisation trust.
+
+5
+
+10
+
+(6) In this section,—
+(a) “investor” means a person who is holder of any securitised debt
+instrument or securities or security receipt issued by the securitisation trust;
+(b) “securities” means debt securities issued by a Special Purpose
+Vehicle as referred to in the guidelines on securitisation of standard assets
+issued by the Reserve Bank of India;
+(c) “securitised debt instrument” shall have the same meaning as
+assigned to it in regulation 2(1)(s) of the Securities and Exchange Board of
+India (Public Offer and Listing of Securitised Debt Instruments) Regulations,
+2008 made under the Securities and Exchange Board of India Act, 1992 and
+the Securities Contracts (Regulation) Act, 1956;
+
+15
+
+20 15 of 1992.
+42 of 1956.
+
+(d) “securitisation trust” means a trust, being a—
+(i) “special purpose distinct entity” as defined in regulation 2(1)(u)
+of the Securities and Exchange Board of India (Public Offer and Listing
+of Securitised Debt Instruments) Regulations, 2008 made under the
+Securities and Exchange Board of India Act, 1992 and the Securities
+Contracts (Regulation) Act, 1956 and regulated under the said
+regulations; or
+
+25
+
+(ii) “Special Purpose Vehicle” as defined in, and regulated by, the
+guidelines on securitisation of standard assets issued by the Reserve
+Bank of India; or
+
+30
+
+(iii) trust set-up by a securitisation company or a reconstruction
+company formed, for the purposes of the Securitisation and
+Reconstruction of Financial Assets and Enforcement of Security Interest
+Act, 2002, or in pursuance of any guidelines or directions issued for the
+said purposes by the Reserve Bank of India,
+
+15 of 1992.
+42 of 1956.
+
+35 54 of 2002.
+
+which fulfils such conditions, as prescribed;
+(e) “security receipt” shall have the same meaning as assigned to it in
+section 2(1)(zg) of the Securitisation and Reconstruction of Financial Assets
+and Enforcement of Security Interest Act, 2002.
+Tax on income
+in case of
+venture capital
+undertakings.
+
+222. (1) Irrespective of anything contained in any other provision of this Act,
+where a person, out of investments made in a venture capital company or venture
+capital fund, receives any income, or any income accrues or arises to him, such
+income shall be chargeable to income-tax in the same manner as if, it were the
+income accruing or arising to, or received by, such person, had he made investments
+directly in the venture capital undertaking.
+
+40 54 of 2002.
+
+45
+
+255
+
+5
+
+10
+
+(2) The person responsible for crediting or making payment of the income on
+behalf of a venture capital company or a venture capital fund and the venture capital
+company or venture capital fund shall furnish, within such time, as prescribed, to
+the person who is liable to tax in respect of such income and to the prescribed
+income-tax authority, a statement in the prescribed form and verified in the
+prescribed manner, giving details of the nature of the income paid or credited during
+the tax year and such other relevant details, as prescribed.
+(3) The income paid or credited by the venture capital company and the
+venture capital fund shall be deemed to be of the same nature and in the same
+proportion in the hands of the person referred to in sub-section (1) as it had been
+received by, or had accrued or arisen to, the venture capital company or the venture
+capital fund, as the case may be, during the tax year.
+(4) The provisions of Chapter XIX-B shall not apply to the income paid by a
+venture capital company or venture capital fund under this Chapter.
+
+15
+
+(5) The income accruing or arising to or received by the venture capital
+company or venture capital fund during a tax year from investments made in venture
+capital undertaking, if not paid or credited to the person referred to in sub-section (1),
+shall be deemed to have been credited to the account of the said person––
+(a) on the last day of the tax year; and
+
+20
+
+25
+
+30
+
+(b) in the same proportion in which such person would have been
+entitled to receive the income had it been paid in the tax year.
+(6) Any income which has been included in total income of the person referred
+to in sub-section (1) in a tax year, on account of it having accrued or arisen in the
+said tax year, shall not be included in the total income of such person in the tax year
+in which such income is actually paid to him by the venture capital company or the
+venture capital fund.
+(7) Nothing contained in this section shall apply in respect of any income
+accruing or arising to, or received by, a person from investments made in a venture
+capital company or venture capital fund, being an investment fund specified in
+section 224(10)(a).
+(8) For the purposes of this section, “venture capital company”, “venture capital
+fund” and “venture capital undertaking” shall have the meanings respectively assigned
+to them in Schedule V (Note 4).
+
+35
+
+223. (1) Irrespective of anything contained in any other provisions of this Act,
+any income distributed by a business trust to its unit holders shall be deemed to be
+of the same nature and in the same proportion in the hands of the unit holder as it
+had been received by, or accrued to, the business trust.
+(2) Subject to the provisions of sections 196 and 197, the total income of a
+business trust shall be charged to tax at the maximum marginal rate.
+
+40
+
+(3) If in any tax year, the distributed income or any part thereof, received by a
+unit holder from the business trust is of the nature as referred to in Schedule V
+(Table: Sl. No. 3) or (Table: Sl. No. 4), then, such distributed income or part thereof
+shall be deemed to be income of such unit holder and shall be charged to tax as
+income of the tax year.
+
+45
+
+(4) The provisions of sub-section (1) shall not apply in respect of any sum
+referred to in section 92(2)(k) received by a unit holder from a business trust.
+(5) Any person responsible for making payment of the income distributed on
+behalf of a business trust to a unit holder, shall furnish a statement to the unit holder
+and the prescribed authority, within such time and in such form and manner, as
+
+Tax on income
+of unit holder
+and business
+trust.
+
+256
+
+prescribed, giving the details of the nature of the income paid during the tax year
+and such other details, as prescribed.
+Tax on income
+of investment
+fund and its unit
+holders.
+
+224. (1) Irrespective of anything contained in any other provision of this Act
+and subject to the provisions of this section, where a person, being a unit holder of
+an investment fund, out of investments made in the investment fund, receives any
+income or any income accrues or arises to him, such income shall be chargeable to
+income-tax in the same manner as if, it were the income accruing or arising to, or
+received by, such person, had the investments made by the investment fund been
+made directly by him.
+
+5
+
+(2) Where in any tax year, the net result of computation of total income of
+the investment fund, without giving effect to the provisions of Schedule V
+(Table: Sl. No. 1), is a loss under any head of income and such loss cannot be or
+is not wholly set off against income under any other head of income of the said
+tax year, then out of such loss,––
+
+10
+
+(a) the loss arising to the investment fund as a result of the computation
+under the head “Profits and gains of business or profession”, if any, shall be—
+
+15
+
+(i) allowed to be carried forward and it shall be set off by the
+investment fund as per the provisions of Chapter VII; and
+(ii) ignored for the purposes of sub-section (1);
+(b) the loss other than the loss referred to in clause (a), if any, shall also
+be ignored for the purposes of sub-section (1), if such loss has arisen in respect
+of a unit which has not been held by the unit holder for at least twelve months.
+(3) The loss other than the loss under the head “Profits and gains of business
+or profession”, if any, accumulated at the level of investment fund as on the
+31st March, 2019, shall be—
+
+20
+
+25
+
+(a) deemed to be the loss of a unit holder who held the unit on the 31st
+March, 2019 in respect of the investments made by him in the investment fund,
+in the same manner as provided in sub-section (1); and
+(b) allowed to be carried forward by such unit holder for the remaining
+period calculated from the year in which the loss had occurred for the first
+time taking that year as the first year and shall be set off by him in as per the
+provisions of Chapter VII.
+
+30
+
+(4) The loss so deemed under sub-section (3) shall not be available to the
+investment fund on or after the 1st April, 2019.
+(5) The income paid or credited by the investment fund shall be deemed to be
+of the same nature and in the same proportion in the hands of the person referred to
+in sub-section (1), as if it had been received by, or had accrued or arisen to, the
+investment fund during the tax year subject to the provisions of sub-section (2).
+
+35
+
+(6) The total income of the investment fund shall be charged to tax—
+(a) at the rate or rates as specified in the Finance Act of the relevant year,
+where such fund is a company or a firm; or
+
+40
+
+(b) at maximum marginal rate, in any other case.
+(7) The income accruing or arising to, or received by, the investment fund,
+during a tax year, if not paid or credited to the person referred to in sub-section (1),
+shall subject to the provisions of sub-section (2), be deemed to have been credited
+to the account of the said person on the last day of the tax year in the same proportion
+in which such person would have been entitled to receive the income had it been
+paid in the tax year.
+
+45
+
+257
+
+(8) Any income, which has been included in total income of the person
+referred to in sub-section (1) in a tax year, on account of it having accrued or arisen
+in the said tax year, shall not be included in the total income of such person in the
+tax year in which such income is actually paid to him by the investment fund.
+5
+
+10
+
+(9) The person responsible for crediting or making payment of the income on
+behalf of an investment fund and the investment fund shall furnish, within such time,
+as prescribed, to the person who is liable to tax in respect of such income and to the
+prescribed income-tax authority, a statement in the prescribed form and verified in
+such manner, giving details of the nature of the income paid or credited during the
+tax year and such other relevant details, as prescribed.
+(10) In this section,—
+(a) “investment fund” means any fund established or incorporated in
+India in the form of a trust or a company or a limited liability partnership or a
+body corporate which has been––
+
+15
+
+(i) granted a certificate of registration as a Category I or a
+Category II Alternative Investment Fund and is regulated under the
+Securities and Exchange Board of India (Alternative Investment Funds)
+Regulations, 2012 made under the Securities and Exchange Board of
+India Act, 1992; or
+
+20
+
+(ii) regulated under the International Financial Services Centres
+Authority (Fund Management) Regulations, 2022 made under the
+International Financial Services Centres Authority Act, 2019;
+
+15 of 1992.
+
+50 of 2019.
+
+(b) “trust” means a trust established under the Indian Trusts Act, 1882 or under
+any other law in force; and
+
+2 of 1882.
+
+25
+
+(c) “unit” means beneficial interest of an investor in the investment fund or a
+scheme of the investment fund and shall include shares or partnership interests.
+G.—Special provisions relating to income of shipping companies
+225. Irrespective of anything contained in sections 26 to 54, in the case of a
+company, the income from the business of operating qualifying ships––
+
+30
+
+(a) may, at its option, be computed as per provisions of this Part; and
+
+Income from
+business of
+operating
+qualifying ships.
+
+(b) such income shall be deemed to be the profits and gains of such
+business chargeable to tax under the head “Profits and gains of business or
+profession”.
+226.(1) In this Part, a company shall—
+35
+
+40
+
+(a) be regarded as operating a ship or inland vessel, as the case may be,
+if it operates any ship whether owned or chartered by it and includes a case
+where even a part of the ship or inland vessel, as the case may be, has been
+chartered in by it in an arrangement such as slot charter, space charter or joint
+charter; and
+(b) not be regarded as operating a ship or inland vessel, as the case may
+be, which has been chartered out by it on bareboat charter-cum-demise terms
+or on bareboat charter terms for a period exceeding three years.
+(2) A tonnage tax company engaged in the business of operating qualifying
+ships shall compute the profits from such business under the tonnage tax scheme.
+
+45
+
+(3) The tonnage tax business shall be considered as a separate business distinct
+from all other activities or business carried on by the company.
+
+Tonnage tax
+scheme.
+
+258
+
+(4) The profits referred to in sub-section (2) shall be computed separately from
+the profits and gains from any other business.
+(5) The tonnage tax scheme shall apply only if an option to that effect is made
+as per section 231.
+(6) Where a company engaged in the business of operating qualifying ships,––
+
+5
+
+(a) is not covered under the tonnage tax scheme; or
+(b) has not made an option in respect of the tonnage tax scheme as per
+section 231,
+the profits and gains of such company from such business shall be computed as per
+other provisions of this Act.
+
+10
+
+(7) Subject to the other provisions of this Part,––
+(a) the tonnage income, shall be––
+(i) computed as per section 227; and
+(ii) deemed to be the profits chargeable under the head “Profits and
+gains of business or profession”; and
+
+15
+
+(b) the relevant shipping income referred to in section 228(1) shall not
+be chargeable to tax.
+Computation of
+tonnage income.
+
+227. (1) The tonnage income of a tonnage tax company for a tax year shall be
+the aggregate of the tonnage income of each qualifying ship computed as per
+sub-sections (2) and (3).
+
+20
+
+(2) For the purposes of sub-section (1), the tonnage income of each qualifying
+ship shall be computed as per the following formula:––
+TI= DTI x N
+where,—
+25
+
+TI = the tonnage income of each qualifying ship;
+DTI = the daily tonnage income of each qualifying ship;
+N = the number of days, in the tax year, or in part of the tax year in
+case the ship is operated by the company as a qualifying ship for only part
+of the tax year.
+(3) For the purposes of sub-section (2), the daily tonnage income of a
+qualifying ship having tonnage referred to in column A of the Table below shall be
+the amount specified in the corresponding entry in column B thereof.
+
+30
+
+Table
+Sl. No.
+
+Qualifying ship having net tonnage
+
+A
+1.
+2.
+
+3.
+
+4.
+
+B
+Up to 1,000.
+Exceeding 1,000 but not more than
+10,000.
+Exceeding 10,000 but not more than
+25,000.
+Exceeding 25,000.
+
+Amount of daily tonnage
+income
+
+35
+
+C
+₹ 70 for each 100 tons.
+₹ 700 plus ₹ 53 for each
+100 tons exceeding 1,000
+tons.
+
+40
+
+₹ 5,470 plus ₹ 42 for each
+100 tons exceeding 10,000
+tons.
+₹ 11,770 plus ₹ 29 for
+each 100 tons exceeding
+25,000 tons.
+
+45
+
+259
+
+(4) In this Part, the tonnage shall—
+(a) mean the tonnage of a ship or inland vessel, as the case may be,
+indicated in the certificate referred to in sub-section (9); and
+5
+
+10
+
+(b) include the deemed tonnage, being the tonnage in respect of an
+arrangement of purchase of slots, slot charter and an arrangement of sharing
+of break-bulk vessel, computed in the manner, as prescribed.
+(5) The tonnage shall be rounded off to the nearest multiple of hundred tons
+and for this purpose any tonnage consisting of kilograms shall be ignored and if the
+tonnage so rounded off, as per clause (a), is not a multiple of hundred, then, if the
+last figure in that amount is,—
+(a) fifty tons or more, the tonnage shall be increased to the next higher
+tonnage;
+(b) less than fifty tons, the tonnage shall be reduced to the next lower
+tonnage,
+
+15
+
+which is a multiple of hundred and the tonnage so rounded off shall be the tonnage
+of the ship for the purposes of this section.
+(6) No deduction or set off shall be allowed in computing the tonnage income
+under this Part, irrespective of anything contained in any other provision of this Act.
+(7) Where a qualifying ship is operated by two or more companies by way of––
+
+20
+
+(a) joint interest in the ship; or
+(b) an agreement for the use of the ship,
+and their respective shares are definite and ascertainable, the tonnage income of
+each such company shall be an amount equal to a share of income proportionate to
+its share of that interest.
+
+25
+
+(8) Subject to the provisions of sub-section (7), where two or more companies
+are operators of a qualifying ship, the tonnage income of each company shall be
+computed as if each had been the only operator.
+(9) In this Part,––
+
+30
+
+(a) the tonnage of a ship or inland vessel, as the case may be, shall be
+determined as per the valid certificate indicating its tonnage;
+(b) “valid certificate” means,—
+(i) in case of ships registered in India,—
+
+44 of 1958.
+
+35
+
+(A) having a length of less than twenty-four metres, a certificate
+issued under the Merchant Shipping (Tonnage Measurement of Ship)
+Rules, 1987 made under the Merchant Shipping Act, 1958;
+
+40
+
+(B) having a length of twenty-four metres or more, an
+international tonnage certificate issued under the provisions of the
+Convention on Tonnage Measurement of Ships, 1969, as specified
+in the Merchant Shipping (Tonnage Measurement of Ship) Rules,
+1987 made under the said Act;
+
+44 of 1958.
+
+45
+
+24 of 2021.
+
+(ii) in case of ships registered outside India, a licence issued by the
+Director-General of Shipping under section 406 or 407 of the Merchant
+Shipping Act, 1958 specifying the net tonnage on the basis of Tonnage
+Certificate issued by the Flag State Administration, where the ship is
+registered or any other evidence acceptable to the Director-General of
+Shipping produced by the ship owner while seeking permission for
+chartering in the ship;
+(iii) in case of inland vessel registered in India, a certificate issued
+under the Inland Vessels Act, 2021.
+
+260
+
+Relevant
+shipping income
+and exclusion
+from book
+profit.
+
+228. (1) In this Part, the relevant shipping income of a tonnage tax
+company means—
+(a) its profits from core activities referred to in sub-section (3); and
+(b) its profits from incidental activities referred to in sub-section (7).
+(2) Where the aggregate of all such incomes specified in sub-section (1)(b)
+exceeds 0.25% of the turnover from core activities referred to in sub-section (3),
+such excess shall not form part of the relevant shipping income for the purposes of
+this Part and shall be taxable under the other provisions of this Act.
+
+5
+
+(3) The core activities of a tonnage tax company shall be—
+(a) its activities from operating qualifying ships; and
+
+10
+
+(b) other ship-related or inland vessel related activities, as the case may
+be, as follows:—
+(i) shipping contracts in respect of—
+(A) earning from pooling arrangements;
+(B) contracts of affreightment;
+
+15
+
+(ii) specific shipping trades, being—
+(A) on-board or on-shore activities of passenger ships
+comprising of fares and food and beverages consumed on-board;
+(B) slot charters, space charters, joint charters, feeder
+services and container box leasing of container shipping.
+
+20
+
+(4) In sub-section (3)(b)(i),––
+(a) “pooling arrangement” means an agreement between two or more
+persons for providing services through a pool or operating one or more ships or
+inland vessels as the case may be, and sharing earnings or operating profits on
+the basis of mutually agreed terms; and
+
+25
+
+(b) “contract of affreightment” means a service contract under which a
+tonnage tax company agrees to transport a specified quantity of specified
+products at a specified rate, between designated loading and discharging ports
+over a specified period.
+(5) The Central Government, if it considers necessary or expedient so to do,
+may, by notification, exclude any activity referred to in sub-section 3(b) or prescribe
+the limit up to which such activities shall be included in the core activities for the
+purposes of this section.
+(6) Every notification issued under this Part shall be laid, as soon as may be
+after it is issued, before each House of Parliament, while it is in session for a total
+period of thirty days which may be comprised in one session or in two or more
+successive sessions, and if, before the expiry of the session immediately following
+the session or the successive sessions aforesaid, both Houses agree in making any
+modification in the notification, or both Houses agree that the notification should
+not be issued, the notification shall thereafter have effect only in such modified form
+or be of no effect; so, however, that any such modification or annulment shall be
+without prejudice to the validity of anything previously done under that notification.
+
+30
+
+35
+
+40
+
+(7) The incidental activities shall be the activities which are incidental to the
+core activities and as prescribed for the purpose.
+(8) Where a tonnage tax company operates any ship or inland vessels as the
+case may be, which is not a qualifying ship, the income attributable to operating
+such non-qualifying ship shall be computed under other provisions of this Act.
+(9) Where any goods or services held for the purposes of—
+
+45
+
+261
+
+(a) tonnage tax business are transferred to any other business carried on
+by a tonnage tax company; or
+(b) any other business carried on by such tonnage tax company are
+transferred to the tonnage tax business,
+5
+
+and, in either case, the consideration, if any, for such transfer as recorded in the
+accounts of the tonnage tax business does not correspond to the market value of
+such goods or services as on the date of the transfer, then, the relevant shipping
+income under this section shall be computed as if the transfer, in either case, had
+been made at the market value of such goods or services as on that date.
+
+10
+
+(10) In sub-section (9), “market value”, in relation to any goods or services,
+means the price that such goods or services would ordinarily fetch on sale in the
+open market.
+
+15
+
+20
+
+25
+
+(11) Where, in the opinion of the Assessing Officer, the computation of the
+relevant shipping income in the manner specified in sub-section (9) presents
+exceptional difficulties, he may compute such income on such reasonable basis as
+he considers fit.
+(12) Where it appears to the Assessing Officer that, owing to the close
+connection between the tonnage tax company and any other person, or for any other
+reason, the course of business between them is so arranged that the business
+transacted between them produces to the tonnage tax company more than the
+ordinary profits which might be expected to arise in the tonnage tax business, the
+Assessing Officer shall, in computing the relevant shipping income of the tonnage
+tax company for the purposes of this Part, take income as may reasonably be deemed
+to have been derived therefrom.
+(13) In this Part, in case the relevant shipping income of a tonnage tax
+company is a loss, then, such loss shall be ignored for the purposes of computing
+tonnage income.
+
+30
+
+(14) Where a tonnage tax company also carries on any business or activity
+other than the tonnage tax business, common costs attributable to the tonnage tax
+business shall be determined on a reasonable basis.
+
+35
+
+(15) Where any asset, other than a qualifying ship, is not exclusively used for
+the tonnage tax business by the tonnage tax company, depreciation on such asset
+shall be allocated between its tonnage tax business and other business on a fair
+proportion to be determined by the Assessing Officer, having regard to the use of
+such asset for the purposes of the tonnage tax business and for the other business.
+(16) The book profit or loss derived from the activities of a tonnage tax
+company, referred to in sub-section (1), shall be excluded from the book profit of
+the company for the purposes of section 206.
+
+40
+
+45
+
+50
+
+229. (1) For the purposes of computing depreciation under section 230(1)(d),
+the depreciation for the first tax year of the tonnage tax scheme (herein referred to
+as the first tax year) shall be computed on the written down value of the qualifying
+ships as specified under sub-section (2).
+(2) The written down value of the block of assets, being ships or inland vessels
+as the case may be, as on the first day of the first tax year, shall be divided in the
+ratio of the book written down value of the qualifying ships (herein referred to as
+the qualifying assets) and the book written down value of the non-qualifying ships
+(herein referred to as the other assets), as per the following formula:––
+D=AxB
+B+C
+E=AxC
+B+C
+
+Depreciation and
+gains relating to
+tonnage tax
+assets.
+
+262
+
+where,—
+D = the written down value of the block of qualifying assets as on the
+first day of the tax year;
+E = the written down value of the block of other assets as on the first day
+of the tax year;
+
+5
+
+A = the written down value of the existing block of assets, being ships
+as on the last day of the immediately preceding tax year;
+B = the aggregate of book written down value of qualifying assets as on
+the last day of the preceding tax year; and
+C = the aggregate of the book written down value of other assets as on
+the last day of the preceding tax year.
+
+10
+
+(3) The block of qualifying assets as determined under sub-section (2) shall
+constitute a separate block of assets for the purposes of this Part.
+(4) Where an asset forming part of a block of,—
+(a) qualifying assets begins to be used for purposes other than the tonnage
+tax business, an appropriate portion of the written down value allocable to such
+asset shall be reduced from the written down value of that block and shall be added
+to the block of other assets as per the following formula:—
+A=BxC
+D
+where,––
+
+15
+
+20
+
+A = the appropriate portion to be added to the block of the
+other assets;
+B = the written down value of block of qualifying assets as
+on the first day of the tax year;
+
+25
+
+C = the book written down value of qualifying asset which
+begins to be used for purpose other than the tonnage tax business; and
+D = the aggregate of book written down value of all the assets
+forming the block of qualifying assets;
+(b) other assets, begins to be used for tonnage tax business, an
+appropriate portion of the written down value allocable to such asset shall be
+reduced from the written down value of the block of other assets and shall be
+added to the block of qualifying asset as per the following formula:—
+E= F x G
+I
+where,—
+
+30
+
+35
+
+E = the appropriate proportion to be added to the block of qualifying
+asset;
+F = the written down value of block of other assets as on the first
+day of the tax year;
+
+40
+
+G = book written down value of the other asset which begins to be
+used for tonnage tax business; and
+I = the aggregate of book written down value of all the assets
+forming the block of other assets.
+(5) For the purposes of computing depreciation under section 230(1)(d) in
+respect of an asset mentioned in sub-sections (4)(a) and (b), the depreciation
+computed for the tax year shall be allocated in the ratio of the number of days for
+which the asset was used for the tonnage tax business and for purposes other than
+tonnage tax business.
+
+45
+
+263
+
+(6) For the removal of doubts, it is hereby declared that for the purposes of
+this Act, the depreciation on the block of qualifying assets and block of other assets
+so created shall be allowed as if such written down value referred to in
+sub-section (2) had been brought forward from the preceding tax year.
+5
+
+(7) In this section,—
+(a) “book written down value” means the written down value as per
+books of accounts; and
+(b) “written down value” means the written down value as calculated for
+purposes of income-tax.
+
+10
+
+15
+
+(8) Any profits or gains arising from the transfer of a capital asset being an
+asset forming part of the block of qualifying assets shall be chargeable to
+income-tax as per sections 67 and 74, and the capital gains so arising shall be
+computed as per sections 67 to 81.
+(9) For the purposes of computing such profits or gains, as referred to in
+sub-section (8), the provisions of section 74 shall have effect as if for the words
+“written down value of the block of assets”, the words “written down value of the
+block of qualifying assets” had been substituted.
+(10) In this section, “written down value of the block of qualifying assets”
+means the written down value computed as per sub-section (2).
+
+20
+
+25
+
+30
+
+230. (1) Irrespective of anything contained in any other provision of this
+Act, in computing the tonnage income of a tonnage tax company for any tax year
+(herein referred to as the “relevant tax year”) in which it is chargeable to tax as
+per this Part—
+(a) sections 28 to 52 shall apply as if every loss, allowance or deduction
+referred to therein and relating to or allowable for any of the relevant tax years,
+had been given full effect to for that tax year itself;
+(b) no loss referred to in section 108(1) or (2)(a) or 109 or 112(1) or
+116(1), in so far as such loss relates to the business of operating qualifying
+ships of the company, shall be carried forward or set off where such loss
+relates to any of the tax years when the company is under the tonnage tax
+scheme;
+(c) no deduction shall be allowed under Chapter VIII in relation to the
+profits and gains from the business of operating qualifying ships; and
+
+35
+
+40
+
+45
+
+(d) in computing the depreciation allowance under section 33, the
+written down value of any asset used for the purposes of the tonnage tax
+business shall be computed as if the company has claimed and has been
+actually allowed the deduction in respect of depreciation for the relevant
+tax years.
+(2) Section 112 shall apply in respect of any losses that have accrued to a
+company before its option for tonnage tax scheme and which are attributable to its
+tonnage tax business, as if such losses had been set off against the relevant shipping
+income in any of the tax years when the company is under the tonnage tax scheme.
+(3) The losses referred to in sub-section (2) shall not be available for set off
+against any income other than relevant shipping income in any tax year beginning
+on or after the company exercises its option under section 231.
+
+Exclusion of
+deduction, loss,
+set off etc.,
+
+264
+
+(4) Any apportionment necessary to determine the losses referred to in
+sub-section (2) shall be made on a reasonable basis.
+Method of
+opting of
+tonnage tax
+scheme and
+validity.
+
+231. (1) A qualifying company may opt for the tonnage tax scheme by making
+an application to the Joint Commissioner having jurisdiction over the company in
+the form and manner, as prescribed, for such scheme.
+
+5
+
+(2) A qualifying company may make an application within three months, of
+the date of its incorporation, or of the date on which it becomes a qualifying
+company for the first time.
+(3) A Unit of an International Financial Services Centre which has availed of
+deduction under section 147 may make an application within three months from the
+date on which such deduction ceases.
+(4) On receipt of an application for option for tonnage tax scheme under
+sub-section (1), the Joint Commissioner may call for such information or documents
+from the company as he thinks necessary in order to satisfy himself about the
+eligibility of the company and after satisfying himself about such eligibility of the
+company to make such option for tonnage tax scheme, he shall pass an order in
+writing––
+
+10
+
+15
+
+(a) approving the option for tonnage tax scheme; or
+(b) refusing to approve the option for tonnage tax scheme, if he is not so
+satisfied,
+
+20
+
+and a copy of such order shall be sent to the applicant.
+(5) No order under sub-section 4(b) shall be passed unless the applicant has
+been given a reasonable opportunity of being heard.
+(6) Every order under sub-section (4) shall be passed before the expiry of three
+months from the end of the quarter in which the application under sub-section (1)
+was received.
+
+25
+
+(7) Where an order granting approval is passed under sub-section (4), the
+provisions of this Part shall apply from the tax year in which the option for tonnage
+tax scheme is exercised.
+(8) An option for tonnage tax scheme, after it has been approved under
+sub-section (4), shall remain in force for ten years from the date on which such
+option has been exercised and shall be taken into account from the tax year in which
+such option is exercised.
+(9) An option for tonnage tax scheme shall cease to have effect from the tax
+year, in which—
+
+30
+
+35
+
+(a) the qualifying company ceases to be a qualifying company;
+(b) a default is made in complying with the provisions contained in
+section 232(1) to (20);
+(c) the tonnage tax company is excluded from the tonnage tax scheme
+under section 234;
+
+40
+
+(d) the qualifying company furnishes to the Assessing Officer, a
+declaration in writing to the effect that the provisions of this Part may not be
+made applicable to it,
+and the profits and gains of the company from the business of operating qualifying
+ships shall be computed as per other provisions of this Act.
+(10) An option for tonnage tax scheme approved under sub-section (4) may be
+renewed within one year from the end of the tax year in which the option ceases to
+have effect.
+
+45
+
+265
+
+(11) The provisions of sub-sections (1) to (10) shall apply in relation to a
+renewal of the option for tonnage tax scheme in the same manner as they apply in
+relation to the approval of option for tonnage tax scheme.
+(12) A qualifying company,––
+5
+
+(a) which on its own, opts out of the tonnage tax scheme; or
+(b) which makes a default in complying with the provisions contained in
+sections 232(1) to (20); or
+(c) whose option has been excluded from tonnage tax scheme in
+pursuance of an order made under section 234(4),
+
+10
+
+15
+
+shall not be eligible to opt for tonnage tax scheme for ten years from the date of
+opting out or default or order.
+232. (1) A tonnage tax company shall, subject to and as per the provisions of
+this section, be required to credit to a reserve account (herein referred to as the
+Tonnage Tax Reserve Account) an amount, being 20% or more of the book profit
+derived from the activities referred to in section 228(1)(a) and (b) in each tax year
+to be utilised in the manner laid down in sub-section (6).
+(2) In this section, “book profit” shall have the meaning assigned to it in
+section 206(2) so far as it relates to the income derived from the activities referred
+to in section 228(1)(a) and (b).
+
+20
+
+(3) Where the company has––
+(a) book profit from the business of operating qualifying ships; and
+(b) book loss from any other sources,
+
+25
+
+30
+
+and consequently, the company is not in a position to create the full or any part of
+the reserves under sub-section (1), the company shall create the reserves to the
+extent possible in that tax year and the shortfall, if any, shall be added to the reserves
+required to be created for the following tax year and such shortfall shall be deemed
+to be part of the reserve requirement of that following tax year.
+(4) For the purposes of sub-section (3), to the extent the shortfall in creation
+of reserves during a particular tax year is carried forward to the following tax year
+under the said sub-section, the company shall be considered as having created
+sufficient reserves for the first mentioned tax year.
+(5) Nothing contained in sub-section (4) shall apply in respect of the second
+year in case the shortfall in creation of reserves continues for two consecutive tax
+years.
+
+35
+
+(6) The amount credited to the Tonnage Tax Reserve Account under
+sub-section (1) shall be utilised by the company before the expiry of eight years
+following the tax year in which the amount was credited—
+(a) for acquiring a new ship or new inland vessel, as the case may be,
+for the purposes of the business of the company; and
+
+40
+
+(b) until the acquisition of a new ship or new inland vessel, as the case
+may be, for the purposes of the business of operating qualifying ships other
+than for distribution by way of dividends or profits or for remittance outside
+India as profits or for the creation of any asset outside India.
+
+Certain
+conditions for
+applicability of
+tonnage tax
+scheme.
+
+266
+
+(7) Where any amount credited to the Tonnage Tax Reserve Account under
+sub-section (1),—
+(a) has been utilised for any purpose other than that referred to in
+sub-section (6); or
+(b) has not been utilised for the purpose specified in sub-section (6)(a); or
+(c) has been utilised for the purpose of acquiring a new ship or new
+inland vessel, as the case may be, as specified in sub-section (6)(a), but such
+ship or new inland vessel, as the case may be, is sold or otherwise transferred,
+other than in any scheme of demerger by the company to any person at any
+time before the expiry of three years from the end of the tax year in which it
+was acquired,
+an amount which bears the same proportion to the total relevant shipping income of
+the year in which such reserve was created, as the amount out of such reserve so
+utilised or not utilised bears to the total reserve created during that year under
+sub-section (1) shall be taxable under the other provisions of this Act—
+
+5
+
+10
+
+15
+
+(i) in a case referred to in clause (a), in the year in which the amount was
+so utilised; or
+(ii) in a case referred to in clause (b), in the year immediately following
+eight years specified in sub-section (6); or
+(iii) in a case referred to in clause (c), in the year in which the sale or
+transfer took place.
+
+20
+
+(8) The income so taxable under the other provisions of this Act, referred to
+in sub-section (7), shall be reduced by the proportionate tonnage income charged to
+tax in the year of creation of such reserves.
+(9) Irrespective of anything contained in any other provision of this Part,
+where the amount credited to the Tonnage Tax Reserve Account as per
+sub-section (1) is less than the minimum amount required to be credited under
+sub-section (1), an amount which bears the same proportion to the total relevant
+shipping income, as the shortfall in credit to the reserves bears to the minimum
+reserve required to be credited under sub-section (1), shall not be taxable under the
+tonnage tax scheme and shall be taxable under the other provisions of this Act.
+(10) If the reserve required to be created under sub-section (1) is not created
+for any two consecutive tax years, the option of the company for tonnage tax scheme
+shall cease to have effect from the beginning of the tax year following the second
+consecutive tax year in which the failure to create the reserve under sub-section (1)
+had occurred.
+(11) In this section, “new ship” or “new inland vessel”, as the case may be,
+includes a qualifying ship which, before the date of acquisition by the qualifying
+company was used by any other person, if it was not at any time previous to the date
+of such acquisition owned by any person resident in India.
+
+25
+
+30
+
+35
+
+40
+
+(12) A tonnage tax company, after its option has been approved under
+section 231(4), shall comply with the minimum training requirement in respect of
+trainee officers as per the guidelines made by the Director-General of Shipping and
+notified by the Central Government.
+(13) The tonnage tax company shall be required to furnish a copy of the
+certificate issued by the Director-General of Shipping in the form and manner as
+prescribed, along with the return of income under section 263 to the effect that such
+company has complied with the minimum training requirement as per the guidelines
+referred to in sub-section (12) for the tax year.
+
+45
+
+267
+
+5
+
+(14) If the minimum training requirement is not complied with for any five
+consecutive tax years, the option of the company for tonnage tax scheme shall cease
+to have effect from the beginning of the tax year following the fifth consecutive tax
+year in which the failure to comply with the minimum training requirement as per
+sub-section (12) had occurred.
+(15) In the case of every company which has opted for tonnage tax scheme,
+not more than 49% of the net tonnage of the qualifying ships operated by it during
+any tax year shall be chartered in.
+
+10
+
+(16) The proportion of net tonnage referred to in sub-section (15) in respect of a
+tax year shall be calculated based on the average of net tonnage during that tax year.
+(17) For the purposes of sub-section (16), the average of net tonnage shall be
+computed in such manner, as prescribed, in consultation with the Director-General
+of Shipping.
+
+15
+
+20
+
+(18) Where the net tonnage of ships or new inland vessel, as the case may be,
+chartered in exceeds the limit under sub-section (15) during any tax year, the total
+income of such company in relation to that tax year shall be computed as if the
+option for tonnage tax scheme does not have effect for that tax year.
+(19) Where the limit under sub-section (15) had exceeded in any two
+consecutive tax years, the option for tonnage tax scheme shall cease to have effect
+from the beginning of the tax year following the second consecutive tax year in
+which the limit had exceeded.
+(20) In this section, the term “chartered in” shall exclude a ship or new inland
+vessel, as the case may be, chartered in by the company on bareboat charter-cumdemise terms.
+
+25
+
+(21) An option for tonnage tax scheme by a tonnage tax company shall not
+have effect in relation to a tax year unless such company—
+(a) maintains separate books of account in respect of the business of
+operating qualifying ships; and
+
+30
+
+35
+
+(b) furnishes, before the specified date referred to in sections 63, the report
+of an accountant, in the prescribed form, duly signed and verified by such
+accountant.
+(22) A temporary cessation (as against permanent cessation) of operating any
+qualifying ship by a company shall not be considered as a cessation of operating of
+such qualifying ship and the company shall be deemed to be operating such
+qualifying ship for the purposes of this Part.
+(23) Where a qualifying company continues to operate a ship or new inland
+vessel, as the case may be, which temporarily ceases to be a qualifying ship, such
+ship or inland vessel, as the care may be shall not be deemed as a qualifying ship
+for the purposes of this Part.
+
+40
+
+45
+
+50
+
+233. (1) Where there has been an amalgamation of a company with another
+company or companies, then, subject to the other provisions of this section, the
+provisions relating to the tonnage tax scheme shall, as far as may be, apply to the
+amalgamated company, if it is a qualifying company.
+(2) Where the amalgamated company is not a tonnage tax company, it shall
+exercise an option for tonnage tax scheme under section 231(1) within three months
+from the date of the approval of the scheme of amalgamation.
+(3) Where the amalgamating companies are tonnage tax companies, the
+provisions of this Part shall, as far as may be, apply to the amalgamated company
+for such period as the option for tonnage tax scheme which has the longest unexpired
+period continues to be in force.
+
+Amalgamation
+and demerger.
+
+268
+
+(4) Where one of the amalgamating companies is a qualifying company as on
+the 1st October, 2004 and which has not exercised the option for tonnage tax scheme
+before the 1st January, 2005, the provisions of this Part shall not apply to the
+amalgamated company and the income of the amalgamated company from the
+business of operating qualifying ships shall be computed as per the other provisions
+of this Act.
+(5) Where in a scheme of demerger, the demerged company transfers its
+business to the resulting company before the expiry of the option for tonnage tax
+scheme, then, subject to the other provisions of this Part, the tonnage tax scheme
+shall, as far as may be, apply to the resulting company for the unexpired period, if
+it is a qualifying company.
+
+5
+
+10
+
+(6) The option for tonnage tax scheme in respect of the demerged company
+shall remain in force for the unexpired period of the tonnage tax scheme if it
+continues to be a qualifying company.
+Avoidance of tax
+and exclusion
+from tonnage tax
+scheme.
+
+234. (1) Subject to the provisions of this Part, the tonnage tax scheme shall not
+apply where a tonnage tax company is a party to any transaction or arrangement
+which amounts to an abuse of the tonnage tax scheme.
+(2) For the purposes of sub-section (1), a transaction or arrangement shall be
+considered an abuse, if the entering into or the application of such transaction or
+arrangement results, or would but for this section have resulted, in a tax advantage
+being obtained for—
+
+15
+
+20
+
+(a) a person other than a tonnage tax company; or
+(b) a tonnage tax company in respect of its non-tonnage tax activities.
+(3) In this section, “tax advantage” includes—
+(a) the determination of—
+
+25
+
+(i) the allowance for any expense or interest; or
+(ii) any cost or expense allocated or apportioned,
+which has the effect of reducing the income or increasing the loss, from
+activities other than tonnage tax activities chargeable to tax, computed on the
+basis of entries made in the books of account in respect of the tax year in which
+the transaction was entered into; or
+
+30
+
+(b) a transaction or arrangement which produces to the tonnage tax
+company more than ordinary profits which might be expected to arise from
+tonnage tax activities.
+(4) Where a tonnage tax company is a party to any transaction or arrangement
+referred to in sub-section (1), the Assessing Officer shall, by an order in writing,
+exclude such company from the tonnage tax scheme.
+
+35
+
+(5) The Assessing Officer shall pass an order under sub-section (4), after––
+(a) giving an opportunity to the company by serving a notice calling
+upon such company to show cause, on a date and time to be specified in the
+notice, why it should not be excluded from the tonnage tax scheme; and
+
+40
+
+(b) obtaining prior approval of the Principal Chief Commissioner or
+Chief Commissioner.
+(6) The provisions of this section shall not apply where the company satisfies
+the Assessing Officer that the transaction or arrangement was a bona fide
+commercial transaction and had not been entered into for the purpose of obtaining
+tax advantage under this Part.
+
+45
+
+269
+
+(7) Where an order has been passed under sub-section (4) by the Assessing
+Officer excluding the tonnage tax company from the tonnage tax scheme, the option
+for tonnage tax scheme shall cease to be in force from the first day of the tax year
+in which the transaction or arrangement was entered into.
+5
+
+235. In this Part,—
+(a) “bareboat charter” means hiring of a ship or inland vessel, as the case
+may be, for a stipulated period on terms which give the charterer possession
+and control of the ship or new inland vessel, as the case may be, including the
+right to appoint the master and crew;
+
+10
+
+44 of 1958.
+
+15
+
+(b) “bareboat charter-cum-demise” means a bareboat charter where the
+ownership of the ship or inland vessel, as the case may be, is intended to be
+transferred after a specified period to the company to whom it has been chartered;
+(c) “Director-General of Shipping” means the Director-General of
+Shipping appointed by the Central Government under section 7(1) of the
+Merchant Shipping Act, 1958;
+(d) “factory ship” includes a vessel providing processing services in
+respect of processing of the fishing produce;
+(e) “fishing vessel” shall have the meaning assigned to it in section 3(12)
+of the Merchant Shipping Act, 1958;
+
+44 of 1958.
+20
+24 of 2021.
+
+(f) “inland vessel” shall have the meaning assigned to it in section 3(q)
+of the Inland Vessels Act, 2021;
+(g) “pleasure craft” means a ship or inland vessel, as the case may be, of
+a kind whose primary use is for the purposes of sport or recreation;
+(h) “qualifying company” means a company, if—
+
+25
+
+(i) it is an Indian company;
+(ii) the place of effective management of the company is in India;
+(iii) it owns at least one qualifying ship; and
+(iv) the main object of the company is to carry on the business of
+operating ships,
+
+30
+
+and for the purposes of sub-clause (ii), “place of effective management of the
+company” means—
+(A) the place where the board of directors of the company or its
+executive directors, make their decisions; or
+
+35
+
+(B) in a case where the board of directors routinely approve the
+commercial and strategic decisions made by the executive directors or
+officers of the company, the place where such executive directors or
+officers of the company perform their functions.
+(i) “qualifying ship” means a ship or inland vessel, as the case may be, if—
+
+40
+
+(i) it is a seagoing ship or vessel or inland vessel, as the case may
+be, of fifteen net tonnage or more;
+
+45
+
+(ii) it is a ship registered under the Merchant Shipping Act, 1958,
+or a ship registered outside India in respect of which a licence has been
+issued by the Director-General of Shipping under section 406 or 407 of
+said Act or an inland vessel registered under the Inland Vessels Act,
+2021, as the case may be; and
+
+44 of 1958.
+
+24 of 2021.
+
+(iii) a valid certificate in respect of such ship or inland vessel, as the
+case may be, indicating its net tonnage is in force,
+
+Interpretation.
+
+270
+
+but does not include—
+(A) a seagoing ship or vessel or inland vessel, as the case may be,
+if the main purpose for which it is used is the provision of goods or
+services of a kind normally provided on land;
+(B) fishing vessels;
+
+5
+
+(C) factory ships;
+(D) pleasure crafts;
+(E) harbour and river ferries;
+(F) offshore installations; and
+(G) a qualifying ship which is used as a fishing vessel for more
+than thirty days during a tax year;
+
+10
+
+(j) “seagoing ship” means a ship, if it is certified as such by the
+competent authority of any country;
+(k) “tonnage income” means the income of a tonnage tax company
+computed as per the provisions of this Part;
+
+15
+
+(l) “tonnage tax activities” means the activities referred to in section 228(3)
+and (7);
+(m) “tonnage tax business” means the business of operating qualifying
+ships giving rise to relevant shipping income as referred to in section 228(1);
+(n) “tonnage tax company” means a qualifying company in relation to
+which tonnage tax option is in force;
+
+20
+
+(o) “tonnage tax scheme” means a scheme for computation of profits and
+gains of business of operating qualifying ships under the provisions of this Part
+CHAPTER XIV
+TAX ADMINISTRATION
+
+25
+
+A.—Authorities, jurisdiction and functions
+Income-tax
+authorities.
+
+236. For the purposes of this Act, there shall be the following classes of
+income-tax authorities:—
+(a) the Central Board of Direct Taxes constituted under the Central
+Boards of Revenue Act, 1963;
+
+30 54 of 1963.
+
+(b) Principal Directors General of Income-tax or Principal Chief
+Commissioners of Income-tax;
+(c) Directors General of Income-tax or Chief Commissioners of
+Income-tax;
+(d) Principal Directors of Income-tax or Principal Commissioners of
+Income-tax;
+
+35
+
+(e) Directors of Income-tax or Commissioners of Income-tax or
+Commissioners of Income-tax (Appeals);
+(f) Additional Directors of Income-tax or Additional Commissioners of
+Income-tax or Additional Commissioners of Income-tax (Appeals);
+(g) Joint Directors of Income-tax or Joint Commissioners of Income-tax
+or Joint Commissioners of Income-tax (Appeals);
+(h) Deputy Directors of Income-tax or Deputy Commissioners of
+Income-tax;
+
+40
+
+

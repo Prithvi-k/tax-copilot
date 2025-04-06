@@ -1,0 +1,5537 @@
+391
+(9) In this section, “authorised representative” shall have the meaning assigned
+to it in section 515(3)(a), as if the applicant were an assessee.
+
+5
+
+10
+
+385. No income-tax authority or the Appellate Tribunal shall proceed to decide
+any issue for which an application has been made by an applicant, being a resident,
+under section 383(1).
+
+Appellate
+authority not to
+proceed in
+certain cases.
+
+386. (1) Where on a representation made by the Principal Commissioner or
+Commissioner or otherwise, the Board for Advance Rulings finds, that an advance
+ruling pronounced under section 384(6) has been obtained by the applicant by fraud
+or misrepresentation, then it may by order, declare such ruling to be void ab initio and
+thereupon, all the provisions of this Act shall apply (after excluding the period
+beginning with the date of such advance ruling and ending with the date of order under
+this sub-section) to the applicant as if such advance ruling had never been made.
+
+Advance ruling
+to be void in
+certain
+circumstances.
+
+(2) A copy of the order made under sub-section (1) shall be sent to the
+applicant and the Principal Commissioner or Commissioner.
+15
+5 of 1908.
+
+46 of 2023.
+
+20
+
+45 of 2023.
+
+25
+
+30
+
+35
+
+387. (1) The Board for Advance Rulings shall, for the purpose of exercising
+its powers, have all the powers of a civil court under the Code of Civil
+Procedure, 1908 as are referred to in section 246 of this Act.
+
+Powers of the
+Board for
+Advance
+Rulings.
+
+(2) The Board for Advance Rulings shall be considered to be a civil court for
+the purposes of section 215 but not for the purposes of Chapter XXVIII of the
+Bharatiya Nagarik Suraksha Sanhita, 2023 and every proceeding before the Board
+for Advance Rulings shall be considered to be a judicial proceeding under sections
+229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita,
+2023.
+388. The Board for Advance Rulings shall, subject to this Chapter, have power
+to regulate its own procedure in all matters arising out of the exercise of its powers
+under this Act.
+
+Procedure of
+Board for
+Advance
+Rulings.
+
+389. (1) The applicant, if aggrieved by any ruling pronounced or order passed
+by the Board for Advance Rulings or the Assessing Officer, on the directions of the
+Principal Commissioner or Commissioner, may appeal to the High Court against such
+ruling or order of the Board for Advance Rulings within sixty days from the date of
+the communication of that ruling or order, in such form and manner, as prescribed.
+
+Appeal.
+
+(2) Where the High Court is satisfied, on an application made by the appellant
+in this behalf, that the appellant was prevented by sufficient cause from presenting
+the appeal within the period specified in sub-section (1), it may grant further period
+of thirty days for filing such appeal.
+CHAPTER XIX
+COLLECTION AND RECOVERY OF TAX
+A.—General
+390. (1) The tax on income shall be payable as per this Chapter by way of––
+
+40
+
+(a) deduction or collection at source; or
+(b) advance payment; or
+(c) payment under section 392(2)(a).
+(2) The tax referred to in sub-section (1) shall be payable as per the provisions of
+this Chapter, irrespective of the assessment to be made later than the relevant tax year.
+
+45
+
+(3) Nothing contained in this section, shall affect the charge of tax on such
+income under section 4(1).
+(4) The payment of tax referred to in sub-section (1) shall be in addition to any
+other mode of tax collection to discharge the liability in respect of income assessed
+for a tax year.
+
+Deduction or
+collection at
+source and
+advance
+payment.
+
+392
+
+(5) The tax deducted or collected at source or sum referred to in
+section 392(2)(a) under this Chapter and paid to the Central Government shall be
+treated as payment of tax on behalf of the person––
+
+Direct payment.
+
+Salary and
+accumulated
+balance due to
+an employee.
+
+(a) from or in respect of whose income or payment, such tax has been
+deducted or paid; or
+(b) from whom such tax has been collected.
+(6) The Board may make rules for—
+(a) giving credit of tax deducted or collected or paid to a person referred
+to in sub-section (5) and also a person other than the person referred to in the
+said sub-section;
+(b) the tax year for which the credit shall be given.
+391. (1) The income-tax on any income shall be payable directly by the
+assessee if—
+(a) there is no provision under this Chapter to deduct income-tax on such
+income at the time of payment; or
+(b) income-tax has not been deducted as per the provisions of this Chapter.
+(2) If an assessee has any income of the nature of specified security or sweat
+equity shares as specified in section 17(1)(d) allotted or transferred directly or
+indirectly by the current employer which is an eligible start-up referred to in
+section 140, then direct payment of tax for the purposes of sub-section (1) shall be
+made within the time specified in section 289(3).
+(3) Where any person, including the principal officer of the company,––
+(a) who is required to deduct any sum as per the provisions of this Act; or
+(b) referred to in section 392(2)(a), being an employer,
+does not deduct, or after so deducting fails to pay, or does not pay, the whole or any
+part of the tax, as required under this Act, and where the assessee has also failed to
+pay such tax directly, then, such person shall, apart from any other consequences
+that he may incur, be deemed to be an assessee in default within the meaning of
+section 398(1), in respect of such tax.
+B.—Deduction and collection at source
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+392. (1) Any person responsible for paying any income chargeable under the
+head “Salaries” shall deduct income-tax on the amount payable and this deduction
+shall be made at the time of such payment at the average rate of income-tax
+computed on the basis of the rates in force for the tax year in which the payment is
+made, on the estimated income of the assessee under this head for such year.
+
+35
+
+(2)(a) Without prejudice to the provisions of sub-section (1), the person
+responsible for paying any income in the nature of a non-monetary perquisite
+chargeable to tax under section 17(2), may pay, at his option, tax on the whole or
+part of such income without making any deduction therefrom, at the time when such
+tax was deductible under sub-section (1);
+
+40
+
+(b) the tax under clause (a) shall be determined at the average rate as per
+sub-section (1), on the income chargeable under the head “Salaries” including the income
+referred to in the said clause, and shall be construed as a tax deductible at source from the
+income under the head “Salaries”, and be subject to the provisions of this Chapter.
+(3) Any person, being an eligible start-up referred to in section 140,
+responsible for paying any income of the nature specified in section 17(1)(d) in any
+tax year, shall deduct or pay, tax on such income, on the basis of rates in force for
+the tax year in which the specified security or sweat equity share is allotted or
+transferred, within the time as specified for the payee in section 289(3).
+
+45
+
+393
+
+5
+
+(4) (a) The person responsible for paying under sub-section (1), shall take
+into account the following particulars furnished by the assessee, at his option, in
+such form and manner as prescribed, for the purpose of making deduction under
+the said sub-section and such particulars shall have an effect of increasing or
+decreasing the tax to be deducted:—
+(i) any income under the head “Salaries” due or received by the
+assessee, from any other employer or employers during the tax year;
+
+10
+
+(ii) any relief allowable under section 157, where the assessee being a
+Government servant, or an employee in a company, co-operative society, local
+authority, university, institution, association or body is entitled for such relief;
+(iii) any loss under the head “Income from house property”;
+(iv) any income chargeable under any other head of income, [not being
+a loss under any such head other than the loss specified in sub-clause (iii)];
+(v) any tax deducted or collected at source under this Chapter;
+
+15
+
+(b) the tax deductible from income under the head “Salaries” shall not be
+reduced in any case, except on account of––
+(i) loss under the head “Income from house property”; and
+(ii) the tax deducted and collected as per other provisions of this
+Chapter.
+
+20
+
+(5) The person responsible for paying any income chargeable under the head
+“Salaries” to the assessee—
+(a) shall furnish a statement in such form and manner, as prescribed,
+with correct and complete particulars of perquisites or profits in lieu of
+salary paid, along with their value, to the assessee;
+
+25
+
+(b) shall, for the purposes of estimating income of the assessee or
+computing tax deductible under sub-section (1), obtain from the assessee the
+evidence or proof or particulars of prescribed claims (including claim for set
+off of loss) under the provisions of this Act in such form and manner, as
+prescribed; and;
+
+30
+
+(c) may, increase or reduce the amount to be deducted under this
+section for adjusting any excess or deficiency arising out of any previous
+deduction or failure to deduct during the tax year.
+
+35
+
+40
+
+(6)(a) The trustees of a recognised provident fund, or any person authorised by
+the regulations of the fund to make payment of the accumulated balances due to
+employees shall, in cases where paragraph 9 of Part A of Schedule XI applies, at the
+time an accumulated balance due to an employee is paid, make therefrom the deduction
+provided in paragraph 10 of Part A of Schedule XI;
+(b) Where any contribution made by an employer, including interest on such
+contributions, if any, in an approved superannuation fund is paid to the employee,
+tax on the amount so paid shall be deducted by the trustees of the fund to the extent
+provided in paragraph 7 of Part B of Schedule XI.
+(7)(a) The trustees of the Employees’ ‘Provident Funds Scheme, 1952,
+made under section 5 of the Employees’ Provident Funds and Miscellaneous
+Provisions Act, 1952; or
+
+19 of 1952.
+45
+
+50
+
+(b) any person authorised under such scheme to make payment of
+accumulated balance due to employees,
+shall at the time of payment of accumulated balance due to the employee
+participating in a recognised provident fund, deduct income-tax thereon at the rate
+of 10%, where the aggregate amount of such payment is fifty thousand rupees or
+more, and such accumulated balance is includible in his total income owing to the
+provisions of paragraph 8 of Part A of Schedule XI not being applicable.
+
+394
+
+Tax to be
+deducted at
+source.
+
+393. (1) Where any income or sum of the nature specified in column B of
+the Table below, is credited or paid or distributed by the person specified in
+column C during the tax year, to a resident, the person responsible for paying shall
+deduct income-tax,—
+(a) on the entire amount of such income or sum, where the amount or
+aggregate of amounts exceeds the threshold limit specified in column D;
+
+5
+
+(b) at the rate specified in column D;
+(c) at the time of credit of such income or sum to the account of the
+payee or at the time of its payment in cash or by way of a cheque or a draft
+or by any other mode, whichever is earlier; and
+
+10
+
+(d) subject to the provisions of sub-sections (4), (5), (6), (8) and (9).
+Table
+FOR PAYMENTS TO RESIDENT
+Sl. No.
+
+Nature of Income or sum
+
+Payer
+
+Rate
+Threshold limit
+
+A
+
+B
+
+C
+
+D
+
+Any person.
+
+Rate: Rates in force.
+
+15
+
+1. Commission or brokerage
+(i) Income by way of
+remuneration or reward,
+whether by way of
+commission or otherwise,
+for soliciting or procuring
+insurance
+business
+(including
+business
+relating to the continuance,
+renewal or revival of
+insurance policies).
+(ii) Income by way of
+commission [not being
+insurance
+commission
+referred to in serial number
+1(i)] or brokerage.
+
+——
+Threshold
+₹ 20,000
+
+20
+
+limit:
+
+25
+
+Specified
+person.
+
+Rate: 2%
+——
+
+30
+
+Threshold limit:
+₹ 20,000
+
+2. Rent
+(i) Income by way of
+rent.
+
+Person other
+than specified
+person.
+
+Rate: 2%
+——
+Threshold
+limit:
+₹50,000 for a month or
+part of a month
+
+(ii) Income by way of
+rent.
+
+Specified
+person.
+
+35
+
+Rate: (a) 2%, for the
+use of any machinery or ,
+plant, or equipment; and
+(b) 10%, for the use of
+any land, or building
+(including
+factory
+building),
+or
+land
+appurtenant to a building
+(including
+factory
+building), or furniture, or
+fittings.
+
+40
+
+45
+
+50
+
+395
+
+A
+
+B
+
+C
+
+D
+——
+Threshold limit [for
+(a)
+and
+(b)]:
+₹ 50,000 for a month
+or part of a month.
+
+5
+
+Note 1.–– In serial number 2(i), the tax shall be deducted on such income
+at the time of—
+(a) credit of rent to the account of the payee; or
+10
+
+(b) payment thereof in cash or by way of a cheque or a draft or any
+other mode,
+whichever is earlier, for the last month of the tax year or the last month of
+tenancy.
+3. Payment on transfer of certain immovable property other than agricultural land
+
+15
+
+(i) Any consideration
+for transfer of any
+immovable
+property
+(other than agricultural
+land).
+
+20
+
+Person
+(other than the
+person who
+are required to
+deduct
+tax
+under serial
+number
+3(iii)).
+
+Rate:1% of such sum
+or stamp duty value of
+the property if more than
+₹50,00,000 , whichever
+is higher.
+——
+Threshold limit:
+₹50,00,000.
+
+25
+
+30
+
+(ii)
+Any
+consideration, not being
+consideration in kind,
+under the agreement
+referred
+to
+in
+section 67(14).
+
+Any person.
+
+(iii) Sum, being in the
+nature of—
+
+Any person.
+
+(a) compensation or
+the
+enhanced
+compensation; or
+35
+
+40
+
+45
+
+50
+
+Rate: 10%
+——
+Threshold limit: Nil.
+
+Rate: 10%
+——
+Threshold
+₹5,00,000
+
+limit:
+
+(b) consideration or
+the
+enhanced
+consideration,
+on
+account
+of
+compulsory acquisition,
+under any law for the
+time being in force, of
+any immovable property
+(other than agricultural
+land).
+Note 1.––Consideration for transfer of any immovable property under
+serial number 3(i) shall be the aggregate of the amounts paid or payable by all the
+transferees to the transferor or all the transferors for transfer of such immovable
+property for the purposes of the threshold limit mentioned in column D.
+Note 2.— In case of consideration on which provisions of both serial
+numbers 3(i) and 3(ii) are applicable, tax shall be deducted under 3(ii) only.
+
+396
+A
+
+B
+
+C
+
+D
+
+4. Income from capital market
+(i) Any income in
+respect of—
+(a) units of a Mutual
+Fund specified under
+Schedule VII (Table:
+Sl. No. 20 or 21); or
+(b) units from the
+Administrator of the
+specified undertaking; or
+(c) units from the
+specified company.
+(ii) Any distributed
+income referred to in
+section 223, referred to
+in Schedule V (Table:
+Sl. Nos. 3 and 4) or
+(Table: Sl. No. 4),
+payable to a unitholder
+of a Business Trust.
+(iii) Any income, other
+than that proportion of
+income which is exempt
+under Schedule V (Table:
+Sl. No. 2), in respect of
+units of an investment
+fund specified in section
+224, payable to its
+unitholder.
+(iv) Any income, in
+respect of an investment
+in a securitisation trust
+specified in section 221
+to an investor.
+5. Interest income
+(i) Any income by way
+of Interest on securities
+(ii) Any income by
+way of interest other
+than
+interest
+on
+securities.
+
+Any person.
+
+Rate: 10%
+——
+Threshold limit:
+₹ 10,000.
+
+5
+
+10
+
+Any
+Business
+Trust.
+
+Rate: 10%
+——
+Threshold limit: Nil.
+
+15
+
+20
+
+Any
+Investment
+fund specified
+in section 224.
+
+Rate: 10%
+——
+Threshold limit: Nil
+25
+
+30
+
+Any
+securitisation
+trust specified
+in section 221.
+
+Rate: 10%
+——
+Threshold limit: Nil.
+35
+
+Any person.
+
+(a)
+A
+banking
+company; or
+(b) a cooperative
+society
+carrying on the
+business
+of
+banking; or
+(c) a post
+office for a
+deposit made
+under
+a
+scheme
+notified by the
+Central
+Government
+
+Rate: Rates in force.
+——
+Threshold limit: ₹10,000
+Rate: Rates in force.
+——
+Threshold limit: (a)
+₹1,00,000 in the case of
+a senior citizen;
+(b) ₹50,000 in case of
+person other than senior
+citizen.
+
+40
+
+45
+
+50
+
+55
+
+397
+
+A
+
+B
+
+C
+
+D
+
+(iii) Any income being
+interest
+other
+than
+interest on securities.
+
+Specified
+person [other
+than person in
+Sl. No. 5(ii).C]
+
+Rate: Rates in force.
+
+5
+
+——
+Threshold
+₹10,000.
+
+limit:
+
+Note 1.— In serial number 5(ii) and (iii), where the interest income
+credited or paid is in respect of—
+(a) time deposits with a banking company;or
+10
+
+15
+
+(b) time deposits with a co-operative society engaged in carrying
+on the business of banking; or
+(c) deposits with a public company formed and registered in India
+with the main object of carrying on business of long-term finance for
+construction or purchase of houses in India for residential purposes and
+is eligible for deduction under section 32(e),
+and the person mentioned in column C has not adopted core banking solutions,
+the threshold limit in column D shall be computed with reference to the income
+credited or paid by a branch of such person.
+
+20
+
+Note 2.—The person responsible for making the payment referred to in
+serial numbers 5(ii) and (iii) of this Table, may at the time of making any
+deduction, increase or reduce the amount to be deducted for the purpose of
+adjusting any excess or deficiency arising out of any previous deduction or
+failure to deduct during the tax year.
+6. Payments to contractors, fees for professional and technical services, etc.
+
+25
+
+30
+
+(i) Any sum for
+carrying out any work
+(including supply of
+labour for carrying out
+any work) in pursuance
+of a contract between the
+contractor
+and
+a
+designated person.
+
+Any
+designated
+person.
+
+Rate: (a) 1%, if
+contractor is individual
+or Hindu undivided
+family;
+(b) 2%, if contractor is
+a person other than the
+person mentioned in (a).
+——
+Threshold limit: [for
+(a) and (b)]
+
+35
+
+(a)
+₹30,000;
+or
+aggregate of amount; and
+(b) ₹1,00,000 in case
+of aggregate of amounts.
+40
+
+45
+
+(ii) Any sum––
+(a) for carrying out
+any work (including
+supply of labour for
+carrying out any work)
+in pursuance of a
+contract; or
+(b) by way of fees for
+professional services; or
+
+50
+
+Any person,
+being
+an
+individual or
+Hindu
+undivided
+family [other
+than
+those
+required
+to
+deduct
+income-tax as
+per Sl. No. 6(i)
+and (iii) or Sl.
+No. 1(ii)]
+
+Rate: 2%.
+
+1
+%
+
+——
+Threshold
+₹50,00,000.
+
+limit:
+
+398
+
+A
+
+B
+
+C
+
+D
+
+(c) by way of
+commission
+[not
+being
+insurance
+commission referred
+to in serial number
+1(i)] or brokerage.
+(iii) Any sum by way
+of––
+
+5
+
+Specified
+person.
+
+(a)
+fees
+for
+professional services;
+or
+
+Rate: (a) 2% of such
+sum in case of—
+(i) fees for technical
+services (not being a
+professional services);
+or
+
+(b) fees for technical
+services; or
+
+(ii) royalty in the
+nature of consideration
+for sale, distribution or
+exhibition
+of
+cinematographic films;
+or
+
+(c) remuneration or
+fees or commission by
+whatever name called,
+other than those on
+which
+tax
+is
+deductible
+under
+section 392, to a
+director of a company;
+or
+
+(iii) payee, engaged
+only in the business of
+operation of call centre;
+
+10
+
+15
+
+20
+
+(b) 10% of such sum
+in cases other than (a)
+
+(d) royalty; or
+
+——
+
+(e) any sum referred
+to in section 26(2)(h).
+
+25
+
+Threshold limit: [for
+(a) and (b)]:
+₹ 50,000.
+
+Note.––In serial number 6 (i), if any sum is paid or credited for carrying
+out any work specified in section 402(47)(e), tax shall be deducted at source—
+
+30
+
+(a) on the invoice value excluding the value of material, if such
+value is specified separately in the invoice; or
+(b) on the whole of the invoice value, if the value of material is not
+specified separately in the invoice.
+
+35
+
+7. Dividend
+Any
+dividends
+(including on preference
+shares) declared.
+
+Any
+domestic
+company.
+
+Rate: 10%.
+——
+Threshold limit: Nil.
+
+40
+
+Note.––The tax shall be deducted at source before making any
+distribution or payment of dividend.
+8. Other cases
+(i) Any sum under a
+life insurance policy,
+including
+the
+sum
+allocated as bonus on
+such policy, other than
+the
+amount
+not
+includible in the total
+income under Schedule
+II (Table: Sl. No. 2).
+
+Any person.
+
+Rate: 2% on income
+comprised in such sum.
+
+45
+
+——
+Threshold
+₹1,00,000
+
+limit:
+50
+
+399
+
+A
+
+B
+
+C
+
+D
+
+(ii) Any sum for
+purchase of any goods.
+
+Any person,
+being a buyer.
+
+Rate: 0.1% of such
+sum
+exceeding
+₹50,00,000.
+
+5
+
+——
+Threshold
+₹50,00,000.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+(iii) Total income of a
+specified senior citizen
+after allowing deduction
+under Chapter VIII and
+rebate
+under
+section 156.
+
+specified
+bank.
+
+(iv) Any benefit or
+perquisite,
+whether
+convertible into money
+or not, arising from
+business or the exercise
+of a profession of any
+resident.
+
+Any
+specified
+person.
+
+(v) Sale of goods or
+provision of services by
+an
+e-commerce
+participant, facilitated
+by an
+e-commerce
+operator through its
+digital or electronic
+facility or platform.
+
+Any
+e-commerce
+operator.
+
+(vi) Any sum by way
+of consideration for
+transfer of a virtual
+digital asset.
+
+limit:
+
+Rate: Rates in force.
+——
+Threshold limit: Nil.
+
+Rate: 10% of value or
+aggregate of values of
+such
+benefit
+or
+perquisite.
+——
+Threshold
+₹ 20,000.
+
+limit:
+
+Rate: 0.1% of gross
+amount of such sale or
+services or both.
+——
+Threshold limit: Nil.
+
+Any person.
+
+Rate: 1%.
+——
+Threshold limit: Nil.
+
+Note1.––The deduction of tax under serial number 8(ii) shall not apply to a
+transaction on which tax is deductible or collectible under any of the provisions
+of the Act.
+Note 2.––The provisions of serial number 8(iv) shall apply to any benefit or
+perquisite, whether in cash or in kind or partly in cash and partly in kind, provided
+to a resident.
+
+40
+
+Note 3.––In respect of serial number 8(v)––
+(a) for deduction of tax, the provisions thereof shall take precedence
+over any other provisions of this Chapter;
+
+45
+
+50
+
+(b) any payment made by a purchaser of goods or recipient of services
+directly to an e-commerce participant for the sale of goods or provision of
+services or both, facilitated by an e-commerce operator, shall be deemed to
+be the amount credited or paid by the e-commerce operator to the
+e-commerce participant and this amount shall be included in the gross
+amount of such sale or services for the purposes of deduction of income-tax
+under this serial number;
+(c) e-commerce operator shall be deemed to be the person responsible
+for paying to e-commerce participant;
+
+400
+
+(d) irrespective of anything contained in this Chapter, if—
+(i) tax has been deducted on a transaction under this serial
+number; or
+(ii) a transaction is not liable for tax deduction as provided in
+section 393(4) (Table: Sl. No. 11),
+
+5
+
+then tax shall not be deducted on such transaction under any other
+provision of this Chapter;
+(e) clause (d) shall not apply to any amount or aggregate of amounts
+received or receivable by an e-commerce operator for—
+(i) hosting advertisements; or
+
+10
+
+(ii) providing any other services,
+which are not in connection with the sale or services referred to in this
+serial number.
+Note 4.––In case of a transaction on which provisions of serial number 8(v)
+are applicable along with the provisions of serial number 8(vi) for deduction of tax,
+then tax on such transaction shall be deducted only under the provisions of
+serial number 8(vi).
+Note 5.—The provisions of serial number 8(iii) shall take precedence over
+any other provisions of this Chapter and tax shall be deducted under this
+provision.
+
+15
+
+20
+
+Note 6.—For serial numbers 8(iv) and (vi),—
+(a) where the consideration or benefit or perquisite is—
+(i) in exchange of another virtual digital asset where there is no
+part in cash, in respect of serial number 8(iv); or
+(ii) is wholly in kind; or
+
+25
+
+(iii) is partly in kind and partly in cash, but such part in cash is
+not sufficient to meet the liability of deduction of tax in respect of the
+whole of such payment or benefit or perquisite,
+the person responsible for paying or providing shall ensure that the tax required
+to be deducted has been paid, before releasing such consideration or providing
+such benefit or perquisite, as the case may be.
+
+30
+
+(b) “person responsible for providing” means the person providing
+such benefit or perquisite, or in case of a company, the company itself
+including the principal officer thereof.
+(2) Where any income or sum of the nature specified in column B of the
+Table below, is credited or paid by the person specified in column D during the
+tax year, to a non-resident specified in column C, the person responsible for
+paying shall deduct income-tax on the amount of such income or sum,—
+
+35
+
+(a) at the rate specified in column E;
+(b) at the time of credit of income or sum to the account of the payee
+or at the time of its payment in cash or by way of a cheque or a draft
+or by any other mode, whichever is earlier; and
+(c) subject to the provisions of sub-sections (4), (8) and (9).
+
+40
+
+401
+
+Table
+FOR PAYMENTS TO NON-RESIDENT
+Sl.
+
+Nature of Income or sum
+
+Payee
+
+Payer
+
+Rate
+
+A
+
+B
+
+C
+
+D
+
+1.
+
+Any income referred
+to in section 211.
+
+(a) A nonresident
+sportsman
+(including
+an athlete)
+or
+an
+entertainer,
+who is not a
+citizen of
+India; or
+
+Any person.
+
+20%.
+
+Any income by way of Any nonAny Indian
+interest payable in respect resident (not company or a
+of monies borrowed in being
+a business trust.
+foreign currency from a company)
+or a foreign
+source outside India,—
+company.
+(a) under a loan
+agreement or issue of longterm infrastructure bond on
+or after the 1st July, 2012
+but before the 1st July,
+2023; or
+
+5%.
+
+No.
+5
+
+10
+
+15
+
+(b) a nonresident
+sports
+association
+or
+institution.
+
+20
+
+2.
+
+25
+
+30
+
+(b) by way of issue of
+any long-term bond on or
+after the 1st October, 2014
+but before the 1st July,
+2023,
+
+35
+
+which is approved by the
+Central Government in this
+behalf.
+
+40
+
+3
+
+45
+
+E
+
+Any income by way of Any nonAny Indian
+interest payable in respect resident (not company or a
+of monies borrowed from a being
+a business trust.
+source outside India by way company)
+of
+issue
+of
+rupee or a foreign
+denominated bond before company.
+the 1st July, 2023.
+
+5%.
+
+402
+
+A
+4.
+
+5.
+
+6.
+
+7
+
+8
+
+B
+
+C
+
+Any income by way of Any noninterest payable in respect resident
+of monies borrowed from (not being a
+a source outside India by company)
+way of issue of any long- or a foreign
+term bond or rupee company.
+denominated bond, which
+is listed only on a
+recognised
+stock
+exchange located in any
+International
+Financial
+Services Centre.
+
+D
+
+E
+
+Any Indian (a)
+4%,
+company or a where issued
+business trust. on or after the
+1st April, 2020
+but before the
+1st July, 2023;
+or
+
+Any income by way of Any non- Any
+interest.
+resident
+infrastructure
+(not being a debt
+fund
+company) referred to in
+or a foreign Schedule VII
+company. (Table: Sl. No.
+46).
+
+(b)
+9%,
+where issued
+on or after the
+1st July, 2023.
+
+5
+
+10
+
+5%.
+15
+
+20
+
+Any distributed income Any unit Any business (a) 5%, in
+referred to in section 223, holder,
+trust.
+case of income
+being of the nature referred being
+a
+of the nature
+to in Schedule V (Table: Sl. nonreferred to in
+No. 3).
+resident
+Schedule
+V
+(not being a
+[Table: Sl. No.
+company)
+3.B(a)]; and
+or a foreign
+(b) 10%, in
+company.
+case of income
+
+25
+
+of the nature
+referred to in
+Schedule
+V
+[Table: Sl. No.
+3.B(b)].
+
+30
+
+Any distributed income Any unit Any business
+referred to in section 223, holder,
+trust.
+being of the nature referred being
+a
+to in Schedule V (Table: Sl. nonNo. 4).
+resident
+(not being a
+company)
+or a foreign
+company.
+
+Rates in force.
+
+35
+
+Any income, other than Any unit Any
+that proportion of income holder,
+investment fund
+which is exempt under being
+a specified
+in
+Schedule V (Table: Sl. No. nonsection 224.
+2), in respect of units of an resident
+investment fund specified in (not being a
+company)
+section 224.
+or a foreign
+company.
+
+Rates in force.
+
+40
+
+45
+
+50
+
+403
+
+A
+
+C
+
+D
+
+E
+
+9.
+
+Any income in respect Any
+Any
+Rates
+of an investment in a investor,
+securitisation
+force.
+securitisation
+trust being a non- trust specified
+specified in section 221. resident (not in section 221.
+being
+a
+company) or
+a
+foreign
+company.
+
+10.
+
+Any nonresident
+(not
+(a) in respect of units of
+being
+a
+a Mutual Fund specified
+company)
+or
+under
+Schedule
+VII
+foreign
+(Table: Sl. No. 20) or a
+company.
+(Table: Sl. No. 21); or
+
+5
+
+10
+
+B
+
+15
+
+Any income—
+
+Any
+person.
+
+As
+Note 2.
+
+in
+
+per
+
+(b) from the specified
+company.
+11.
+
+Any income in respect Any
+of units referred to in Offshore
+section 208.
+fund.
+
+Any person.
+
+10%.
+
+12.
+
+Any income by way of Any
+long-term capital gains offshore
+arising from the transfer fund.
+of units referred to in
+section 208;
+
+Any person.
+
+12.5%.
+
+13.
+
+Any income by way of Any noninterest or dividends in resident.
+respect of bonds or Global
+Depository
+Receipts
+referred to in section 209.
+
+Any person.
+
+10%.
+
+14.
+
+Any income by way of Any nonlong-term capital gains resident.
+arising from the transfer
+of bonds or Global
+Depository
+Receipts
+referred to in section 209.
+
+Any person.
+
+12.5%.
+
+15.
+
+Any income in respect Any
+of securities referred to in Foreign
+section 210(1)(Table: Sl. Institutional
+No. 1).
+Investor.
+
+Any person.
+
+As
+Note 2.
+
+16.
+
+Any income in respect a specified
+of securities referred to in fund, referred
+section 210(1)(Table: Sl. to in Schedule
+No. 1).
+VI [ Note 1(g)].
+
+Any person.
+
+10%.
+
+17.
+
+Any interest (not being Any noninterest referred to against resident (not
+serial numbers 2, 3, 4 and 5) being
+a
+company)
+or
+or any other sum
+foreign
+chargeable under the a
+company.
+provisions of this Act, not
+
+Any person.
+
+Rates
+force.
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+being income chargeable
+under the head “Salaries”.
+
+per
+
+in
+
+404
+
+(3) Where any income or sum of the nature specified in column B of the
+Table below, is credited or paid by the person specified in column D during the
+tax year, to any person, the person responsible for paying the amount specified in
+column C, shall deduct income-tax on such amount—
+(a) at the rate specified in column E;
+
+5
+
+(b) at the time of payment thereof in cash or by way of a cheque or a
+draft or by any other mode, or as specified therein; and
+(c) subject to the provisions of sub-sections (4), (5), (6), (8) and (9).
+Table
+10
+
+FOR PAYMENTS TO ANY PERSON
+Sl. No. Nature of Income or sum
+
+Payer
+
+Rate
+Threshold limit
+
+A
+1.
+
+B
+
+C
+
+Any income by way of Any person.
+winnings (other than
+winnings from serial
+number 2) from––
+(a) any lottery; or
+
+D
+Rate: Rates in force.
+——
+
+15
+
+Threshold
+limit:
+₹10,000 in case of a
+single transaction.
+20
+
+(b) crossword puzzle; or
+(c) card game and other
+game of any sort; or
+(d) gambling or betting
+of any form or nature
+whatsoever
+2.
+
+3.
+
+4.
+
+Any income by way of Any person.
+winnings from online
+game.
+
+25
+
+Rate: Rates in force.
+——
+Threshold limit: Net
+winnings as per
+Note 1.
+
+Any income by way of Any person, being a
+winnings from any horse bookmaker or a
+race.
+person to whom a
+licence has been
+granted
+by
+the
+Government under
+any law for the time
+being in force for
+horse racing in any
+race course or for
+arranging
+for
+wagering or betting in
+any race course.
+
+Rate: Rates in force.
+
+Any income, credited or Any person.
+paid to a person, who is or
+has
+been
+stocking,
+distributing, purchasing or
+selling lottery tickets, by
+way of commission,
+remuneration or prize (by
+whatever name called) on
+such tickets.
+
+Rate: 2%.
+
+30
+
+——
+Threshold
+lilmit:
+₹10,000 in case of a
+single transaction.
+
+35
+
+40
+
+45
+
+——
+Threshold
+₹20,000.
+
+limit:
+50
+
+405
+
+A
+5.
+
+5
+
+B
+
+C
+
+Any sum, paid in cash, Every person,
+from one or more being,—
+accounts maintained by (a) a banking
+the deductee.
+company to which
+the
+Banking
+Regulation Act,
+1949
+applies
+(including
+any
+bank or banking
+institution
+referred to in
+section 51 of that
+Act);
+
+10
+
+D
+Rate: 2%.
+——
+Threshold limit:
+₹3,00,00,000 in case of
+deductee being, a cooperative society; or
+(b) ₹1,00,00,000
+in case of deductee
+being person other than a
+co-operative society.
+
+(b)
+a
+cooperative society
+engaged
+in
+carrying on the
+business
+of
+banking; or
+
+15
+
+20
+
+(c) a post office.
+6.
+
+25
+
+7.
+
+30
+
+35
+
+Any amount referred to
+in section 80CCA(2)(a) of
+the Income-tax Act, 1961
+(43 of 1961).
+
+Any person.
+
+Rate: 10%.
+——
+Threshold
+₹2,500.
+
+Any sum in the nature Any
+person,
+of salary, remuneration, being a firm.
+commission, bonus or
+interest paid to a partner
+of the firm or credited to
+his account (including
+capital account).
+
+limit:
+
+Rate: 10%
+——
+Threshold
+₹20,000.
+
+limit:
+
+(4) The deduction of tax at source shall not be made under the provisions
+referred to in column B of the Table below, in respect of the income or sum,
+specified in column C:
+Table
+FOR NO DEDUCTION AT SOURCE
+
+40
+
+Sl. No. Provisions for tax
+deduction at source
+A
+
+B
+
+C
+
+1.
+
+Commission
+or
+Brokerage referred to
+in
+section
+393(1)[Table: Sl. No.
+1(ii)].
+
+Commission or brokerage payable by Bharat
+Sanchar Nigam Limited or Mahanagar
+Telephone Nigam Limited to their public call
+office franchisees.
+
+2.
+
+Rent referred to in
+section 393(1)[Table:
+Sl. No. 2(ii)].
+
+Income by way of rent credited or paid to a
+business trust, being a real estate investment trust,
+in respect of any real estate asset, referred to in
+Schedule V (Table: Sl. No. 4), owned directly by
+such business trust.
+
+45
+
+50
+
+Condition for no deduction
+
+406
+
+A
+
+B
+
+C
+
+3.
+
+Compensation on
+acquisition of certain
+immovable property
+referred to in section
+393(1)[Table: Sl. No.
+3(iii)].
+
+Income by way of any award or agreement
+which has been exempted from levy of incometax under section 96 of the Right to Fair
+Compensation and Transparency in Land
+Acquisition, Rehabilitation and Resettlement
+Act, 2013 (30 of 3013).
+
+Income in respect of
+units referred to in
+section 393(1)[Table:
+Sl. No. 4(i)].
+
+If income is of the nature of capital gain.
+
+4.
+
+5.
+
+6.
+
+10
+
+Income from units of Income of the nature referred to in Schedule V
+a business trust referred [Table: Sl. No. 3.B(b)], if the special purpose
+to
+in
+section vehicle referred to in the said clause has not
+393(1)[Table: Sl. No. exercised the option under section 200.
+4(ii)].
+Interest on securities
+referred to in section
+393(1)[Table: Sl. No.
+5(i)].
+
+5
+
+15
+
+(a) Interest payable on––
+(i) National Development Bonds;
+(ii) such debentures, issued by such institution or
+authority or person as the Central Government may,
+by notification, specify in this behalf;
+
+20
+
+(iii) any security of the Central Government
+or a State Government, other than––
+(A) 8% Savings (Taxable) Bonds, 2003; or
+(B) 7.75% Savings (Taxable) Bonds, 2018; or
+
+25
+
+(C) Floating Rate Savings Bonds, 2020
+(Taxable); or
+(D) any other security of the Central
+Government or State Government as the Central
+Government may, by notification, specify in this
+behalf;
+
+30
+
+(b) interest payable to––
+(i) the Life Insurance Corporation of India
+established under the Life Insurance Corporation
+Act, 1956, in respect of any securities owned by
+it or in which it has full beneficial interest; or
+(ii) the General Insurance Corporation of
+India or to any of the four companies, formed by
+virtue of the schemes made under section 16(1) of
+the General Insurance Business (Nationalisation)
+Act, 1972, in respect of any securities owned by
+the Corporation or such company or in which the
+Corporation or such company has full beneficial
+interest; or
+(iii) any other insurer in respect of any
+securities owned by it or in which it has full
+beneficial interest; or
+(iv) a “business trust”, as defined in section
+2(21), in respect of any securities, by a special
+purpose vehicle referred to in Schedule V (Table:
+Sl. No. 3 ).
+
+35
+
+40
+
+45
+
+50
+
+407
+
+A
+7.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+B
+Interest other than
+Interest on securities
+referred to in section
+393(1)[Table: Sl. No.
+5(ii) and 5(iii)].
+
+C
+(a) Interest income credited or paid to—
+(i) any banking company; or
+(ii) any financial corporation established
+by or under a Central Act or State Act or
+Provincial Act; or
+(iii) the Life Insurance Corporation of India
+established under the Life Insurance
+Corporation Act, 1956 (31 of 1956); or
+(iv) the Unit Trust of India; or
+(v) any company or co-operative society
+carrying on the business of insurance; or
+(vi) such other institution, association or
+body or class of institutions, associations or
+bodies which the Central Government may, for
+reasons to be recorded in writing, notified in
+this behalf before the 1st April, 2020;
+(b) interest income credited or paid––
+(i) by a co-operative society (other than a
+co-operative bank) to a member thereof; or
+(ii) by a co-operative society to any other
+co-operative society; or
+(iii) in respect of deposits with a primary
+agricultural credit society or a primary credit
+society or a co-operative land mortgage bank or
+a co-operative land development bank; or
+(iv) in respect of deposits (other than time
+deposits made on or after the 1st July, 1995)
+with a co-operative society, other than a
+co-operative society or bank referred to in
+sub-clause (iii), engaged in the business of
+banking,
+Where the total sales, gross receipts or
+turnover of the co-operative society does not
+exceed ₹50,00,00,000 during the tax year
+immediately preceding the tax year in which
+such interest is credited or paid;
+(c) interest income credited or paid—
+(i) by the Central Government under any
+provision of this Act or the Income-tax Act,
+1961 (43 of 1961), or the Estate Duty Act, 1953
+(34 of 1953), or the Wealth-tax Act, 1957
+(27 of 1957), or the Gift-tax Act, 1958 (18 of
+1958), the Companies (Profits) Surtax Act,
+1964 (7 of 1964), or the Interest-tax Act, 1974
+(45 of 1974);
+(ii) in respect of deposits under any scheme
+framed by the Central Government and notified
+by it in this behalf;
+(iii) in respect of deposits (other than time
+deposits made on or after the 1st July, 1995)
+with a banking company;
+
+408
+
+A
+
+B
+
+C
+(iv) by way of interest on the compensation
+amount awarded by the Motor Accidents
+Claims Tribunal where the amount of such
+income or, the aggregate of the amounts of such
+income does not exceed ₹50,000 during the tax
+year;
+(v) or payable by an infrastructure capital
+company; or infrastructure capital fund; or
+infrastructure debt fund; or a public sector
+company; or scheduled bank in relation to a
+zero coupon bond issued on or after the 1st
+June, 2005 by such company or fund or public
+sector company or scheduled bank;
+(vi) as referred to in Schedule V (Table: Sl.
+No. 3);
+
+5
+
+10
+
+15
+
+(vii) by a firm to a partner of the firm.
+8.
+
+Payments
+to
+contractors referred
+to
+in
+section
+393(1)[Table: Sl. No.
+6(i)].
+
+(a) When––
+(i) any sum credited or paid or likely to be
+credited or paid during the tax year to the
+account of a contractor during the course of
+business of plying, hiring or leasing goods
+carriages; and
+(ii) that contractor owns ten or less goods
+carriages at any time during the tax year; and
+
+20
+
+25
+
+(iii) furnishes a declaration to that effect
+along with his Permanent Account Number to
+the person paying the sum; and
+(iv) the person responsible for paying to
+the contractor furnishes to the prescribed
+income-tax authority the particulars in such
+form and within such time as prescribed;
+(b) where such sum is credited or paid by
+individual or Hindu undivided family
+exclusively for personal purposes of such
+individual or any member of Hindu undivided
+family.
+9.
+
+10.
+
+Fees
+for Where such sum is credited or paid by
+professional
+or individual or Hindu undivided family exclusively
+technical
+services for personal purposes of such individual or any
+referred to in section member of Hindu undivided family.
+393(1)[Table: Sl. No.
+6(iii)].
+Dividend referred to
+in section 393(1)(Table:
+Sl. No. 7).
+
+30
+
+35
+
+40
+
+Dividend income credited or paid to—
+(a) the Life Insurance Corporation of India
+established under the Life Insurance Corporation
+Act, 1956, in respect of any shares owned by it or
+in which it has full beneficial interest;
+
+45
+
+409
+
+A
+
+B
+
+C
+(b) the General Insurance Corporation of
+India or to any of the four companies, formed
+by virtue of the schemes made under section
+16(1) of the General Insurance Business
+(Nationalisation) Act, 1972 (57 of 1972), in
+respect of any shares owned by the Corporation
+or such company or in which the Corporation
+or such company has full beneficial interest;
+
+5
+
+(c) any other insurer in respect of any
+shares owned by it or in which it has full
+beneficial interest;
+
+10
+
+(d) a “business trust”, as defined in section
+2(21), by a special purpose vehicle referred to
+in Schedule V (Note 2);
+
+15
+
+(e) any other person as notified by the
+Central Government in this behalf;
+(f) a shareholder, being an individual, if—
+(I) the dividend is paid by the company by
+any mode other than cash; and
+
+20
+
+(II) amount or aggregate of amounts of
+such dividend distributed or paid or likely to be
+distributed or paid during the tax year does not
+exceed ₹10,000.
+25
+
+11.
+
+30
+
+Payment
+by
+e-commerce operator
+to
+e-commerce
+participant referred to
+in
+section
+393(1)[Table: Sl. No.
+8(v)].
+
+12.
+
+45
+
+50
+
+(a) an individual or a Hindu undivided
+family; and
+(b) the gross amount of the sales or services
+or both during the tax year does not exceed
+₹5,00,000; and
+(c) the e-commerce participant has
+furnished the Permanent Account Number or
+Aadhaar number to the e-commerce operator.
+
+35
+
+40
+
+If the amount is credited or paid or likely to be
+credited or paid during the tax year to the account
+of an e- commerce participant, which is––
+
+Payment
+on
+transfer of virtual
+digital asset referred
+to
+in
+section
+393(1)[Table: Sl. No.
+8(vi)]
+
+Where value or aggregate value of such
+consideration during the tax year does not
+exceed––
+(a) ₹50,000, when payable by an individual
+or a Hindu undivided family,—
+(i) whose total sales, gross receipts or
+turnover from the business carried on by him or
+profession exercised by him does not exceed
+₹1,00,00,000 in case of business or ₹50,00,000 in
+case of profession, during the tax year
+immediately preceding the tax year in which such
+virtual digital asset is transferred;
+(ii) not having any income under the head
+“Profits and gains of business or profession”;
+(b) ₹10,000, when payable by any person
+other than the person referred to in clause (a).
+
+410
+
+A
+13.
+
+B
+C
+Income from units of a Income of the nature referred to in Schedule V
+business trust referred to [Table: Sl. No. 3.B(b)], if the special purpose
+in section 393(2)(Table: vehicle referred to in the said clause has not
+Sl. No. 6).
+exercised the option under section 200.
+14.
+Income in respect of Income that is not chargeable to tax under the
+units of investment provisions of this Act.
+fund referred to in
+section 393(2)(Table:
+Sl. No. 8).
+15.
+Income in respect of Income payable in respect of units of the Unit
+units of non-residents Trust of India to a non-resident Indian or a
+referred to in section non-resident Hindu undivided family, subject to
+393(2)(Table: Sl. No. prescribed conditions.
+10).
+Income of Foreign Income, by way of capital gains arising from
+16.
+Institutional Investors the transfer of securities referred to in
+from securities referred section 210, if payable to a Foreign Institutional
+to
+in
+section Investor.
+393(2)(Table: Sl. No.
+15).
+17.
+Income of Specified Income exempt at Schedule VI (Table: Sl. No. 1)
+Fund from securities to (Table: Sl. No. 4).
+referred to in section
+393(2)(Table: Sl. No. 16).
+Payment of certain Payment made to—
+18.
+amounts in cash referred
+(a) the Government;
+to
+in
+section
+(b) any banking company or co-operative
+393(3)(Table: Sl. No. 5).
+society engaged in carrying on the business of
+banking or a post office;
+(c) any business correspondent of a banking
+company or co-operative society engaged in
+carrying on the business of banking, as per the
+guidelines issued in this regard by the Reserve Bank
+of India under the Reserve Bank of India
+Act, 1934 (2 of 1934);
+(d) any white label automated teller machine
+operator of a banking company or co-operative
+society engaged in carrying on the business of
+banking, as per the authorisation issued by the
+Reserve Bank of India under the Payment and
+Settlement Systems Act, 2007 (51 of 2007).
+19.
+Payment in respect of Payment made to—
+deposits under National
+(a) an assessee being and individual;
+Savings Scheme, etc.,
+(b) heirs of an assessee.
+referred to in section
+393(3)(Table: Sl. No. 6).
+(5) Irrespective of anything contained in this Chapter, the tax shall not be
+deducted by any person from any amount payable to––
+(a) the Government; or
+(b) the Reserve Bank of India; or
+(c) a corporation established by or under a Central Act which is, under
+any law in force, exempt from income-tax on its income; or
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+411
+
+(d) a Mutual fund as specified at Schedule VII (Table: Sl. No. 20 or 21),
+where such amount is payable to it by way of—
+(A) interest; or
+(B) dividend in respect of any securities or shares owned by it or in
+which it has full beneficial interest; or
+
+5
+
+(C) any other income accruing or arising to it.
+
+10
+
+(6) The deduction of tax shall not be made under provisions referred to in
+column C of the Table below, in the case of a person as specified in column B, if
+such person furnishes to the person responsible for paying any income or sum of
+the nature referred to in such provisions, a written declaration in duplicate in such
+form and manner as prescribed that the tax on such person’s estimated total
+income of the tax year in which such income or sum is to be included in computing
+his total income shall be nil.
+Table
+DECLARATION FOR NO DEDUCTION AT SOURCE
+
+15
+
+20
+
+25
+
+Sl. No.
+
+Person
+
+Provisions for tax deduction at source
+
+A
+
+B
+
+C
+
+1.
+
+An individual, who
+is a resident of India.
+
+Dividend referred to in section 393(1)(Table: Sl.
+No. 7).
+
+2.
+
+(a) An individual, (a) Payment of accumulated balance due to an
+resident of India, who employee referred to in section 392(7);
+is of the age of sixty
+years or more at any (b) Insurance Commission referred to in section
+time during the tax 393(1)[Table: Sl. No. 1(i)];
+year;
+(c) rent referred to in section 393(1)[Table: Sl.
+(b) any person (not No. 2(ii)];
+being a company or a (d) income in respect of units referred to in
+firm).
+section 393(1)[Table: Sl. No. 4(i)];
+
+30
+
+(e) interest referred to in section 393(1)[Table:
+Sl. No. 5(i)], [(ii)] and (iii)];
+(f) payment in respect of Life Insurance Policy
+referred to in section 393(1)[Table: Sl. No. 8(i)].
+
+35
+
+40
+
+45
+
+Note.––The provisions of this sub-section shall not apply where the
+aggregate of amounts of any income or sum of the nature referred to in provision
+mentioned in column C of this Table, is credited or paid or likely to be credited or
+paid during the relevant tax year in which such income or sum is to be included,
+exceeds the maximum amount not chargeable to tax.
+(7) The person responsible for paying any income or sum of the nature
+referred in sub-section (6) shall deliver or cause to be delivered, one copy of the
+declaration referred therein, received from the person to the Principal Chief
+Commissioner or Chief Commissioner or Principal Commissioner or
+Commissioner, on or before the seventh day of the month following the month in
+which the declaration is furnished to him.
+(8) Irrespective of anything contained in sub-section (6), the deduction of
+tax shall not be made from the interest paid by an Offshore Banking Unit on a
+borrowing or deposit made on or after 1st April, 2005, by a non-resident or a
+person not ordinarily resident in India.
+
+412
+
+(9) Irrespective of anything contained in this Chapter, the deduction of tax
+shall not be made from any payment to a person for, or on behalf of, the New
+Pension System Trust referred to in Schedule VII (Table: Sl. No. 41).
+(10 In a case other than that referred to in section 392(2)(a), where under an
+agreement or an arrangement, if the tax chargeable on any income of the recipient
+referred to in this Chapter is to be borne by the payer, then, for the purposes of
+deduction of tax, the income shall be increased to an amount which after deduction
+of tax as per provisions of this Chapter becomes equal to the net amount payable
+under such agreement or arrangement.
+(11) The credit of any income or sum to any account, whether called “suspense
+account” or by any other name, in the books of account of the person liable to pay
+such income or sum, shall be deemed to be the credit of such income or sum to the
+account of the payee and the provisions of this section shall apply accordingly.
+Collection of tax
+at source.
+
+394. (1) Every person, as specified in column C of the Table below shall
+collect tax––
+
+5
+
+10
+
+15
+
+(a) on receipts specified in column B;
+(b) at the rate as specified in column D; and
+(c) at the time of debiting of the amount payable by the buyer or
+licensee or lessee to the account of the buyer or licensee or lessee or at the
+time of receipt of such amount from the said buyer or licensee or lessee in
+cash or by way of a cheque of a draft or any other mode, whichever is earlier.
+
+20
+
+Table
+TAX COLLECTION AT SOURCE
+Sl. No.
+
+Nature of receipt
+
+Person
+
+Rate of Tax
+Collected at
+Source
+
+A
+
+B
+
+C
+
+D
+
+1.
+
+Sale of alcoholic liquor for human
+consumption.
+
+Seller.
+
+1%.
+
+Seller.
+
+5%.
+
+Seller.
+
+2%.
+
+2.
+3.
+
+4.
+
+Sale of tendu leaves.
+Sale of timber whether obtained
+under a forest lease or otherwise; or
+any other forest produce (not being
+timber or tendu leaves) obtained under
+a forest lease.
+
+Sale of scrap.
+
+Seller.
+
+1%.
+
+Sale of minerals, being coal or lignite
+or iron ore.
+
+Seller.
+
+1%.
+
+6.
+
+Sale
+consideration
+₹10,00,000 in case of—
+
+Seller.
+
+1%.
+
+(a) motor vehicle; or
+(b) any other goods, as notified by
+the Central Government.
+
+30
+
+35
+
+5.
+
+exceeding
+
+25
+
+40
+
+413
+
+A
+
+B
+
+C
+
+D
+
+7.
+
+Remittance under the Liberalised
+Remittance Scheme of an amount or
+aggregate of the amounts exceeding
+₹10,00,000—
+
+Authorised
+dealer.
+
+(a) 5% for
+purposes of
+education or
+medical
+treatment;
+
+5
+
+(b) 20% for
+purposes other
+than education
+or
+medical
+treatment.
+
+10
+
+8.
+
+15
+
+Sale of “overseas tour programme
+package” including expenses for travel
+or hotel stay or boarding or lodging or
+any such similar or related expenditure.
+
+Seller.
+
+(b) 20% of
+amount
+or
+aggregate of
+amounts
+exceeding ₹
+10,00,000.
+
+20
+
+9.
+25
+
+30
+
+(a) 5% of
+amount
+of
+aggregate of
+amounts up to
+₹10,00,000;
+
+Use of parking lot or toll plaza or
+mine or quarry for the purpose of
+business, excluding mining and
+quarrying of mineral oil (including
+petroleum and natural gas).
+
+Licensor
+or Lessor.
+
+2%.
+
+(2) The collection of tax shall not to be made in respect of receipts specified
+in sub-section (1) (Table: Sl. No. 1 to 5) in respect of the buyer, who is a resident
+in India, if he furnishes a written declaration in duplicate in such form and manner,
+as prescribed, to the person responsible for collecting tax, mentioning that such
+goods are to be utilised––
+(a) for the purposes of manufacturing, processing or producing articles
+or things or for generating power; and
+
+35
+
+40
+
+(b) not for trading purposes.
+(3) Where no collection of tax is to be made under sub-section (2), the person
+responsible for collecting tax shall deliver, one copy of the declaration referred to
+in that sub-section, to the Principal Chief Commissioner or Chief Commissioner
+or Principal Commissioner or Commissioner, on or before the seventh day of the
+month following the month of receipt of that declaration.
+(4) The collection of tax shall not be made by the authorised dealer in respect
+of receipt specified in serial number 7 of the Table in sub-section (1) on such
+amount on which tax has been collected by the seller referred to in serial number
+8 of the Table in sub-section (1).
+
+45
+
+(5) The collection of tax shall not be made by the authorised dealer or seller,
+in respect of receipt specified in sub-section (1) (Table: Sl. No. 7 and 8), if the
+buyer is liable to deduct tax at source under any other provisions of this Act and
+he has deducted such tax.
+
+414
+(6) For the purposes of this sub-section, “forest produce” shall have the same
+meaning as defined in any State Act for the time being in force, or in the Indian
+Forest Act, 1927.
+Certificates.
+
+395. (1) Where tax is required to be deducted on any income or sum under
+this Chapter, then subject to the rules made under this Act,—
+
+16 of 1927.
+
+5
+
+(a) the payee may make an application before the Assessing Officer
+for deduction of tax at a lower rate; and
+(b) the Assessing Officer on being satisfied that the total income of the
+payee justifies a lower deduction, shall issue a certificate as appropriate; and
+(c) when a certificate is issued under clause (b), the person responsible
+for paying the income or amount shall deduct the tax at the rate specified in
+such certificate till its validity.
+(2) (a The person responsible for paying to a non-resident any sum
+chargeable under this Act (other than salary), may make an application to the
+Assessing Officer in such form and manner as prescribed, where he considers that
+the whole of such sum would not be chargeable in the case of the recipient;
+
+10
+
+15
+
+(b) the application under clause (a) shall be for determination of the
+appropriate proportion of the sum chargeable to tax, by the Assessing Officer in
+the manner as prescribed; and
+(c) when the determination is made by the Assessing Officer as per clause (b),
+the tax shall be deducted under section 393(2)(Table: Sl. No. 17) only on that
+proportion of sum which is chargeable to tax under the Act.
+
+20
+
+(3) Where tax is required to be collected on any amount under this Chapter,
+then subject to the rules made under this Act,––
+(a) the buyer or licensee or lessee may make an application before the
+Assessing Officer for collection of tax at a lower rate; and;
+
+25
+
+(b) the Assessing Officer on being satisfied that the total income of the
+buyer or licensee or lessee justifies a lower collection, shall issue a
+certificate as may be appropriate; and
+(c) when a certificate is issued under clause (b), the person responsible for
+collecting tax shall collect it at the rates specified in such certificate till its validity.
+
+30
+
+(4) (a) Every person deducting or collecting tax shall issue a certificate to
+the deductee or collectee, as the case may be, specifying––
+(i) the amount of tax that has been deducted or collected;
+(ii) the rate at which tax has been deducted or collected; and
+
+35
+
+(iii) any other particulars, as prescribed,
+within such period as prescribed.
+(b) An employer referred to in section 392(2)(a) shall issue a certificate to
+the employee, in respect of whose income payment of tax has been made by the
+employer, that the tax has been paid to the Central Government, and specify––
+(i) the amount of tax so paid;
+
+40
+
+415
+
+(ii) the rate at which tax has been paid; and
+(iii) any other particulars, as prescribed,
+within such period, as prescribed.
+5
+
+(5) The assessing officer may cancel the certificate granted under subsection (1) or (3) after giving reasonable opportunity to the applicant.
+396. The following sums shall be deemed as income received for the
+purposes of computing the income of an assessee—
+
+Tax deducted is
+income
+received.
+
+(a) amount deducted under this Chapter; and
+10
+
+(b) income-tax paid outside India by way of deduction in respect of
+which an assessee is allowed a credit against the tax payable under this Act,
+except tax paid under section 392(2)(a) and tax deducted as per section 393(3)
+(Table: Sl. No. 5).
+
+15
+
+397. (1) (a) Every person deducting or collecting tax shall apply to the Assessing
+Officer for allotment of a tax deduction and collection account number within such
+time as prescribed, if that person has not already been allotted such number;
+(b) where a tax deduction and collection account number has been allotted
+to a person, such person shall quote such number in all challans, statements,
+certificates, and in all documents pertaining to such transactions as prescribed in
+the interests of revenue;
+
+20
+
+(c) the provisions of clause (a) shall not apply––
+(i) to a person required to deduct tax under provisions of section 393(1)
+[Table: Sl. No. 2(i), 3(i) and 5(ii)];
+(ii) to a person referred to in section 393(4) [Table: Sl. No. 12.C(a)]; and
+(iii) a person notified in this regard by the Central Government.
+
+25
+
+(2) (a) Irrespective of anything contained in any other provision of this Act,
+every person, entitled to receive any amount on which tax is deductible or, paying
+any amount on which tax is collectible, shall furnish his valid Permanent Account
+Number to the person responsible for deducting or collecting tax;
+(b) in case of failure to comply with provisions of clause (a)—
+
+30
+
+(i) tax be deducted at the higher of the following rates—
+(A) at the rate specified in the relevant provision of this Act; or
+(B) at the rate or rates in force; or
+(C) at the rate of 5% where tax is required to be deducted under
+section 393(1) [Table: Sl. No. 8(ii) or 8(v)]; or 20% in any other case;
+
+35
+
+(ii) tax shall be collected at the higher of the following rates, not
+exceeding 20%––
+(A) at twice the rate specified in the relevant provision of this Act; or
+(B) at the rate of 5%;
+
+Compliance and
+reporting.
+
+416
+
+(c) the provisions of clause (b)(i) shall not apply to a non-resident, not being
+a company or a foreign company in respect of—
+(i) payment of interest on long-term bonds as specified in section
+393(2) (Table: Sl. No. 2, 3 and 4); and
+(ii) any other payment subject to such conditions, as prescribed;
+
+5
+
+(d) the provisions of clause (b)(ii) shall not apply to a non-resident who
+does not have permanent establishment in India (which includes a fixed place
+of business through which the business of the enterprise is wholly or partly
+carried on);
+(e) in respect of rent specified in section 393(1) [Table: Sl. No. 2(i)], if the
+tax is required to be deducted as per clause (b)(i), then such deduction shall not
+exceed the amount of rent payable for the last month of the tax year or the last
+month of the tenancy, as the case may be;
+
+10
+
+(f) if a person does not furnish his Permanent Account Number in—
+(i) any declaration under section 393(6) or 394(2), then such
+declaration becomes invalid;
+
+15
+
+(ii) any application made under provisions as per section 395(1) or (3),
+then no certificate under such provisions shall be granted;
+(g) if any declaration becomes invalid under clause (f)(i), then the deductor
+or collector shall deduct or collect tax as per the provisions of clause (b)(i) or (ii)
+as the case may be;
+(h) the deductee or collectee shall furnish his Permanent Account Number
+to the deductor or collector, as the case may be, and the same shall be indicated
+in all bills, vouchers, correspondence and other documents which are sent to
+each other.
+
+20
+
+25
+
+(3) (a) Every person responsible for deduction or collection of tax or
+employer referred to in section 392(2)(a) shall pay the amount so deducted or
+collected or determined as per section 392(2)(b) to the credit of the Central
+Government, in such time as prescribed;
+(b) every person responsible for deduction or collection of tax or employer
+referred to in section 392(2)(a), after paying the tax to the credit of the Central
+Government as per clause (a), shall deliver or cause to be delivered to the
+prescribed authority or the person authorised by such authority, a statement in
+such form, verified in such manner, giving such particulars and within such time,
+as prescribed;
+
+30
+
+35
+
+(c) every prescribed authority as per clause (b), shall deliver a statement in
+such form and manner as prescribed, to the buyer or licensor or lessee referred to
+in section 394(1) (Table: Sl. Nos. 1 to 4 or 9);
+(d) every person responsible for paying to a non-resident, not being a
+company or a foreign company, any sum, whether or not chargeable under this
+Act, shall furnish the information relating to payment of such sum, in such form
+and manner as prescribed;
+
+40
+
+(e) in case of an office of the Government,—
+(i) where the sum deducted under this Chapter or tax referred to in
+section 392(2)(a); or
+
+45
+
+417
+
+(ii) where the amount collected under section 394(1) (Table: Sl. Nos.
+1to 5 or 9),
+
+5
+
+has been paid to the credit of the Central Government without the production of a
+challan, the Pay and Accounts Officer or the Treasury Officer or the Cheque
+Drawing and Disbursing Officer or any other person, who is responsible for
+crediting such sum or tax to the credit of the Central Government, shall deliver or
+cause to be delivered to the prescribed authority or the person authorised by such
+authority, a statement in such form, verified in such manner, giving such
+particulars and within such time, as prescribed;
+
+10
+
+(f) every person referred to in clause (b) or (e) may correct any discrepancy
+or update the information furnished, in the statement delivered under such clauses,
+by filing a correction statement in such form and verified in such manner as
+prescribed, within of six years from the end of the tax year in which such statement
+is required to be delivered;
+
+15
+
+(g) (i) any banking company or co-operative society or public company
+referred to in note 1 to section 393(1) (Table: Sl. No. 5) responsible for paying
+to a resident any income by way of interest, less than the amount mentioned in
+section 393(1) [Table: Sl. No. 5(ii) and (iii)], shall deliver or cause to be
+delivered to the prescribed authority or the person authorised by such authority,
+a statement in such form, verified in such manner, giving such particulars and
+within such time, as prescribed;
+
+20
+
+25
+
+30
+
+(ii) the Board may require any person, other than the person mentioned
+in sub-clause (i), responsible for paying to a resident any income which is
+liable for deduction of tax at source under this Chapter to deliver or cause to
+be delivered to the prescribed authority or the person authorised by such
+authority, a statement in such form, verified in such manner, giving such
+particulars and within such time, as prescribed;
+(iii) the person referred to in sub-clause (i) or sub-clause (ii) may deliver a
+correction statement to correct any discrepancy or update the information
+furnished, in the statement delivered under sub-clause (i) or sub-clause (ii) in such
+form and manner of verification, as prescribed;
+(h) Any person responsible for collecting the tax who fails to collect the tax as
+per the provisions of section 394, shall, irrespective of such failure, be liable to pay
+the tax to the credit of the Central Government as per the provisions of clause (a).
+
+35
+
+398. (1) If a person, including the principal officer of a company,––
+(a) who is required to deduct or collect any amount under this Act; or
+(b) referred to in section 392(2)(a), being an employer,—
+(i) does not deduct or pay; or
+(ii) does not collect or pay; or
+
+40
+
+(iii) after deducting or collecting fails to pay,
+the whole or any part of the tax, as required by or under this Act, he shall be
+deemed to be an assessee in default in respect of such tax in addition to any other
+consequences which that person may incur under this Act.
+(2) Any person,—
+
+45
+
+(a) including the principal officer of a company, who fails to deduct; or
+(b) responsible for collecting tax as per section 394(1) (Table: Sl. Nos.
+1 to 5 and 9), who fails to collect,
+
+Consequences
+of failure to
+deduct or pay
+or, collect or
+pay.
+
+418
+
+the whole or any part of the tax, as required under this Chapter, shall not be deemed
+to be an assessee in default if the payee or buyer or licensee or lessee has —
+(i) furnished his return of income under section 263;
+(ii) taken into account the amount for computing income in that return
+of income; and
+
+5
+
+(iii) paid the tax due on the income declared by him in such return of
+income,
+and the person furnishes a certificate to this effect from an accountant in the
+prescribed form.
+(3) (a) Without prejudice to sub-section (1), if any person, as referred to in
+that sub-section does not deduct or collect the whole or any part of the tax or
+after deducting or collecting fails to pay the tax as required under this Act, he shall
+be liable to pay simple interest—
+(i) at 1% for every month or part of a month on the amount of such tax
+from the date on which such tax was deductible or collectible to the date on
+which such tax is deducted or collected; and
+
+10
+
+15
+
+(ii) at 1.5% for every month or part of a month on the amount of such
+tax from the date on which such tax was deducted or collected to the date on
+which such tax is actually paid;
+(b) the interest referred to in clause (a) shall be paid before furnishing the
+statement as per the provisions of section 397(3)(b).
+(c) if the person referred to in sub-section (1) is not deemed to be an assessee
+in default under sub-section (2), then the interest as per clause (a)(i) is payable
+from the date on which that tax was deductible or collectible to the date of
+furnishing of return of income by the concerned payee or buyer or licensee or
+lessee, as the case may be;
+
+20
+
+25
+
+(d) when an order is made by the Assessing Officer for the default under
+sub-section (1), the interest shall be paid by the person as per such order.
+(4) Where the tax has not been paid after it is deducted or collected, the
+amount of the tax together with the amount of simple interest on it as referred to
+in sub-section (3)(a) shall be a charge upon all the assets of the person referred to
+in sub-section (1).
+(5) The order shall not be made under sub-section (1) deeming a person to
+be an assessee in default for failure to deduct or collect the whole or any part of
+the tax from any person––
+
+30
+
+35
+
+(a) after six years from the end of the tax year in which tax was
+deductible or collectible; or
+(b) after two years from the end of the tax year in which the correction
+statement is delivered under section 393(3)(f),
+whichever is later.
+
+40
+
+(6) The provisions of sections 286(1) and 286(3) shall apply to the time limit
+prescribed in sub-section (5).
+(7) No penalty shall be charged under section 412 from the person
+mentioned in sub-section (1), unless the Assessing Officer is satisfied that such
+person, without good and sufficient reasons, has failed to deduct and pay such tax.
+Processing.
+
+399. (1) All statements of tax deducted at source or tax collected at source
+including a correction statement shall be processed in the following manner:––
+
+45
+
+419
+
+(a) the amounts deductible or collectible under this Chapter shall be
+computed after making the following adjustments—
+(i) any arithmetical error in the statement; or
+5
+
+(ii) an incorrect claim apparent from any information in the
+statement;
+(b) the interest, if any, shall be computed on the basis of the
+amounts deductible or collectible as reflected in the statement;
+(c) the fee, if any, shall be computed as per the provisions of
+section 427;
+
+10
+
+(d) (i) the amount payable by; or
+(ii) the amount of refund due to,
+the deductor or collector shall be determined after adjustment of the amount
+computed under clause (b) and (c) against any amount paid under section 397(3)
+or 398 or 427 and any amount paid otherwise by way of tax or interest or fee;
+
+15
+
+(e) an intimation shall be prepared or generated and sent to the
+deductor or collector specifying the amount determined to be payable by,
+or the amount of refund due to, him under clause (d);
+(f) the amount of refund due to a deductor or collector in pursuance of the
+determination under clause (d) shall be granted to the deductor or collector.
+
+20
+
+(2) The intimation under this section shall be sent within of one year
+from end of the tax year in which the statement is filed.
+(3) The Board may make a scheme for centralised processing of
+statements, as required under sub-section (1).
+
+25
+
+400. (1) The Central Government may, by notification provide that deduction
+or collection of tax shall not be made or is to be made at such lower rate, from such
+payment or receipt and in respect of such person or class of persons.
+
+Power of
+Central
+Government to
+relax provisions
+of this Chapter.
+
+(2) The Board may issue guidelines with the previous approval of the Central
+Government, to remove any difficulty arising in giving effect to the provisions of this
+Chapter and these guidelines shall be laid before each House of Parliament.
+30
+
+35
+
+40
+
+(3) The Board may notify, a class of person, or cases, where the person
+responsible for paying to a non-resident, not being a company, or to a foreign
+company, any sum, to make an application in such form and manner as
+prescribed to the Assessing Officer, to determine the appropriate proportion
+of sum chargeable in the manner as prescribed, and accordingly tax shall be
+deducted under section 393(2) (Table: Sl. No. 17) on that proportion of the
+sum which is so chargeable.
+(4) The Board may by notification, make rules specifying the cases in
+which, and the circumstances under which, an application may be made for
+grant of a certificate under section 395(1) to (3), and the conditions subject to
+which such certificate may be granted and providing for all other matters
+connected therewith.
+401. Where tax is deductible at the source under this Chapter, the
+assessee shall not be called upon to pay the tax himself to the extent to which
+tax has been deducted from that income.
+
+Bar against
+direct demand
+on assessee.
+
+420
+
+Interpretation.
+
+402. In this chapter,––
+(1) “Administrator” shall have the same meaning as assigned to it in section
+2(a) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002;
+
+58 of 2002.
+
+(2) “agricultural land” means agricultural land in India,––
+(a) not being a land situate in any area referred to in section 2(22)(iii),
+for the purposes of section 393(1) [Table: Sl. No. 3(i)];
+
+5
+
+(b) including a land situated in any area referred to in section
+2(22)(iii), for the purposes of section 393(1) [Table: Sl. No. 3(iii)];
+(3) “an incorrect claim apparent from any information in the statement”
+shall mean a claim, on the basis of an entry, in the statement—
+
+10
+
+(a) of an item, which is inconsistent with another entry of the same
+or some other item in such statement;
+(b) in respect of rate of deduction of tax at source, where such rate
+is not as per the provisions of the Act;
+(4) “authorised dealer” means a person authorised by the Reserve Bank
+of India under section 10(1) of the Foreign Exchange Management Act, 1999
+to deal in foreign exchange or foreign security;
+
+15
+42 of 1999
+
+(5) “banking company” means a banking company to which the Banking
+Regulation Act, 1949 applies;
+(6) “buyer” for the purposes of provisions in column B of the Table
+below means any person as specified in column C but does not include any
+person as specified in column D:—
+
+10 of 1949.
+20
+
+Table
+Sl. No
+
+Provisions
+
+Person
+
+Person not to be included
+
+A
+
+B
+
+C
+
+D
+
+1.
+
+Purchase of
+goods referrred
+to in section
+393(1) [Table:
+Sl. No. 8(ii)]
+
+Person whose
+total sales, gross
+receipts or turnover
+from the business
+carried on by him
+exceed
+₹10,00,00,000
+during the tax year
+immediately
+preceding the tax
+year in which the
+purchase of goods
+is carried out
+
+Any person, as the Central
+Government may notify for
+this purpose, subject to
+specified conditions therein.
+
+Person
+who
+obtains in any sale,
+by way of auction,
+tender or any other
+mode, goods of the
+nature specified in
+section
+394(1)
+(Table: Sl. No. 1 to
+5), or the right to
+receive any such
+goods
+
+(a) A public
+company; or
+
+2.
+
+Sale of goods
+referred to in
+section 394(1)
+(Table: Sl. No. 1
+to 5)
+
+25
+
+30
+
+35
+
+sector
+
+(b) the Central or a State
+Government, and an embassy,
+a High Commission, legation,
+commission, consulate and the
+trade representation, of a
+foreign State; or
+(c) a club; or
+
+40
+
+45
+
+421
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+(d) a buyer in the retail sale
+of such goods purchased by
+him for personal consumption.
+
+5
+
+3.
+
+Sale
+of
+motor vehicle
+or any other
+goods referred
+to in section
+394(1) (Table:
+Sl. No. 6).
+
+Person
+who
+(a) A person as per Sl. No.
+obtains in any sale, 2.D(b); or
+goods of the nature
+(b) a local authority as
+specified in section
+defined at Schedule III (Table:
+394(1) (Table: Sl.
+Sl. No. 22); or
+No. 6).
+(c) a public sector company
+which is engaged in the
+business
+of
+carrying
+passengers.
+
+4.
+
+Remittance
+under
+Liberallised
+Remittance
+Scheme
+referred to in
+section 394(1)
+(Table: Sl. No. 7).
+
+A
+person
+(a) A person as per Sl. No.
+remitting
+amount 3.D(a) or (b);
+under the Liberalised
+(b) a person, as per Sl. No.
+Remittance Scheme
+1.D.
+of Reserve Bank of
+India.
+
+5.
+
+Sale
+of
+overseas
+tour
+programme
+package referred
+to in section
+394(1) (Table:
+Sl. No. 8).
+
+A person who
+purchases overseas
+tour
+programme
+package.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+A person as per Sl. No. 4.D.
+
+(7) “commission or brokerage” includes any payment received or receivable,
+directly or indirectly, by a person acting on behalf of another person,––
+(a) for services rendered (not being professional services); or
+(b) for any services in the course of buying or selling of goods; or
+
+35
+
+(c) in relation to any transaction relating to any asset, valuable article or
+thing, not being securities;
+(8) “computer resource”, “internet” and “online game” shall have the
+meanings respectively assigned to them in section 194(2);
+(9) “consideration for transfer of any immovable property” shall include all
+charges of the nature of,—
+
+40
+
+(a) club membership fee; or
+(b) car parking fee; or
+(c) electricity or water facility fee; or
+(d) maintenance fee; or
+(e) advance fee;
+
+422
+
+(f) or any other charges of similar nature, which are incidental to transfer
+of the immovable property;
+(10) “contract” shall include sub-contract;
+(11) “designated person”, for the purposes of section 393(1) (Table: Sl.
+No. 6), means—
+
+5
+
+(a) the Central Government or any State Government; or
+(b) any local authority; or
+(c) any corporation established by or under a Central Act or State Act or
+Provincial Act; or
+(d) any company; or
+
+10
+
+(e) any co-operative society; or
+(f) any authority, constituted in India by or under any law, engaged either
+for the purpose of dealing with and satisfying the need for housing
+accommodation or for the purpose of planning, development or improvement
+of cities, towns and villages, or for both; or
+
+15
+
+(g) any society registered under the Societies Registration Act, 1860 or
+under any law corresponding to that Act in force in any part of India; or
+
+21 of 1860.
+
+(h) any trust; or
+(i) any University established or incorporated by or under a Central Act
+or State Act or Provincial Act and an institution declared to be a university
+under section 3 of the University Grants Commission Act, 1956; or
+
+'
+
+20
+3 of 1956.
+
+(j) any Government of a foreign State or a foreign enterprise or any
+association or body established outside India; or
+(k) any firm; or
+(l) any person, being an individual or a Hindu undivided family or an
+association of persons or a body of individuals, if such person,—
+
+25
+
+(i) does not fall under any of the preceding sub-clauses; and
+(ii) has total sales, gross receipts or turnover from business or
+profession carried on by him exceeding one crore rupees in case of
+business or fifty lakh rupees rupees in case of profession during the tax
+year immediately preceding the tax year in which such sum is credited
+or paid to the account of the contractor;
+
+30
+
+(12) “electronic commerce” means the supply of goods or services, or both,
+including digital products, over digital or electronic network;
+(13) “e-commerce operator” means a person who owns, operates or manages
+digital or electronic facility or platform for electronic commerce;
+
+35
+
+(14) “e-commerce participant” means a person resident in India selling goods
+or providing services, or both, including digital products, through digital or
+electronic facility or platform for electronic commerce;
+(15) “fees for technical services” shall have the meaning as assigned to it in
+section 9(7)(b);
+(16) “foreign exchange asset” means any specified asset which the assessee
+has acquired or purchased with, or subscribed to in, convertible foreign exchange;
+
+40
+
+423
+(17) “Foreign Institutional Investor” shall have the meaning as assigned to it
+in section 210(6)(a);
+(18) “goods carriage” shall have the meaning as assigned to it in
+section 58(10)(d);
+5
+
+(19) “immovable property” means any land (other than agricultural land) or
+any building or part of a building;
+(20) “investor” shall have the meaning assigned to it in section 221(6)(a),
+for the purposes of section 393(1) [Table: Sl. No. 4(iv)] and section 393(2)
+(Table: Sl. No. 9);
+
+10
+
+(21) “licensee or lessee” means any person, other than a public sector
+company, who has been granted a lease or a license or entered into a contract or
+otherwise received any right or interest either in whole or in part in any parking lot
+or toll plaza or mine or quarry, from the licensor or lessor for the use of parking lot
+or toll plaza or mine or quarry for the purposes of business;
+
+15
+
+(22) “licensor or lessor” means any person who grants a lease or a license or
+enters into a contract or otherwise transfers any right or interest either in whole or
+in part in any parking lot or toll plaza or mine or quarry, to another person, other
+than a public sector company for the use of such parking lot or toll plaza or mine or
+quarry for the purposes of business;
+
+20
+
+(23) “non-resident Indian” shall have the meaning assigned to it in
+section 212(d);
+(24) “Offshore Banking Unit” shall have the same meaning as assigned to it
+in section 2(u) of the Special Economic Zones Act, 2005;
+
+28 of 2005.
+
+25
+
+(25) “online gaming intermediary” means an intermediary who offers one or
+more online games;
+(26) “overseas tour programme package” means any tour package which
+offers visit to any country or territory outside India and includes expenses for travel
+or hotel stay or boarding or lodging or any other expenditure of similar nature or in
+relation thereto;
+
+30
+
+(27) “person responsible for paying” means—
+(a) in the case of payments of income chargeable under the head “Salaries”,
+other than payments by the Central Government or the State Government––
+(i) the employer himself; or
+
+35
+
+(ii) if the employer is a company, the company itself, including the
+principal officer thereof;
+(b) in the case of payments of income chargeable under the head
+“Interest on securities”, other than payments made by or on behalf of the
+Central Government or State Government, or local authority, or corporation
+or company, including the principal officer thereof;
+
+40
+
+(c) in the case of any sum payable to a non-resident Indian, being any
+sum representing consideration for the transfer by him of any foreign
+exchange asset, which is not a short-term capital asset, the authorised person
+responsible––
+
+424
+
+(i) for remitting such sum to the non-resident Indian; or
+(ii) for crediting such sum to his Non-resident (External) Account
+maintained as per the provisions of the Foreign Exchange Management
+Act, 1999, and any rules made thereunder;
+(d) in the case of furnishing of information relating to payment to a
+non-resident, not being a company, or to a foreign company, of any sum,
+whether or not chargeable under the provisions of this Act––
+
+42 of 1999.
+5
+
+(i) the payer himself; or
+(ii) if the payer is a company, the company itself including the
+principal officer thereof;
+
+10
+
+(e) in the case of credit, or, as the case may be, payment of any other
+sum chargeable under the provisions of this Act––
+(i) the payer himself; or
+(ii) if the payer is a company, the company itself including the
+principal officer thereof;
+
+15
+
+(f) in the case of credit, or as the case may be, payment of any sum
+chargeable under the provisions of this Act made by or on behalf of the Central
+Government or the State Government––
+(i) the drawing and disbursing officer; or
+(ii) any other person, by whatever name called,
+
+20
+
+responsible for crediting, or paying such sum;
+(g) in the case of a person not resident in India––
+(i) the person himself; or
+(ii) any person authorised by such person; or
+(iii) the agent of such person in India including any person treated
+as an agent under section 306, where the expression “authorised person”
+shall have the same meaning as assigned to it in section 2(c) of the
+Foreign Exchange Management Act, 1999;
+(28) “professional services” means services rendered by a person in the course
+of carrying on legal, medical, engineering or architectural profession or the
+profession of accountancy or technical consultancy or interior decoration or
+advertising or such other profession as notified by the Board for the purposes of this
+section, or of section 62;
+(29) “rent” means any payment, by whatever name called, under any lease,
+sub-lease, tenancy or any other agreement or arrangement for the use of (either
+separately or together) any—
+(a) land; or
+(b) building (including factory building); or
+(c) land appurtenant to a building (including factory building); or
+
+25
+
+42 of 1999.
+
+30
+
+35
+
+425
+
+(d) machinery; or
+(e) plant; or
+(f) equipment; or
+(g) furniture; or
+5
+
+(h) fittings,
+whether or not any or all of the above are owned by the payee, and for the purposes
+of section 393(1) [Table: Sl. No. 2(i)], only the payment with reference to assets
+mentioned in sub-clauses (a), (b) and (c) shall be treated as rent;
+(30) “royalty” shall have the meaning assigned to it in section 9(6)(b);
+
+10
+
+(31) “scrap” means waste and scrap from the manufacture or mechanical
+working of materials which is definitely not usable as such because of breakage,
+cutting up, wear and other reasons;
+(32) “securities” shall have the same meaning as assigned to it in section 2(h)
+of the Securities Contracts (Regulation) Act, 1956;
+
+42 of 1956.
+15
+
+(33) “seller” means––
+(a) for the purposes of section 394(1) (Table: Sl. No. 1 to 6),—
+(i) the Central Government; or
+(ii) a State Government; or
+
+20
+
+(iii) any local authority or corporation or authority established by
+or under a Central Act or State Act or Provincial Act; or
+(iv) any company or firm or co-operative society; or
+
+25
+
+(v) an individual or a Hindu undivided family, whose total sales,
+gross receipts or turnover from the business or profession carried on by
+him exceed one crore rupees in case of business or fifty lakh rupees in
+case of profession during the tax year immediately preceding the tax
+year in which the goods of the nature specified in such serial numbers
+are sold;
+(b) for the purposes of section 394(1) (Table: Sl. No. 8), a person who
+sells overseas tour program package;
+
+30
+
+(34) “services” for the purposes of section 393(1) [Table: Sl. No. 8(v)],
+includes “fees for technical services” and fees for “professional services”, as defined
+in this section;
+(35) “specified bank” means a banking company as the Central Government
+may, by notification, specify;
+
+35
+
+58 of 2002.
+
+(36) “specified company” means for the purposes of section 393(1) [Table: Sl.
+No. 4(i)] and 393(2) (Table: Sl. No. 10), a company as referred to in section 2(h) of
+the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002;
+(37) “specified person” means––
+(a) any person, not being an individual or Hindu undivided family; or
+
+426
+
+(b) an individual or a Hindu undivided family, whose total sales, gross
+receipts or turnover from the business or profession carried on by him exceed
+one crore rupees in case of business or fifty lakh rupees in case of profession
+during the tax year immediately preceding the tax year in which such income
+is credited or paid;
+
+5
+
+(38) “special purpose vehicle” shall have the meaning in Schedule V (Note 2);
+(39) “specified senior citizen” means an individual, being a resident in India—
+(a) who is of the age of seventy-five years or more at any time during
+the tax year;
+(b) who is having pension income and no other income except the interest
+received or receivable from any account maintained by such individual in the
+same specified bank in which he is receiving his pension income; and
+
+10
+
+(c) has furnished a declaration to the specified bank containing
+particulars, in such form and verified in such manner as prescribed;
+(40) “specified undertaking” shall have the same meaning as assigned to it in
+section 2(i) of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002;
+
+15
+58 of 2002.
+
+(41) “time deposits” means deposits (including recurring deposits) repayable
+on the expiry of fixed periods;
+(42) “unit” for the purposes of section 393(1) [Table: Sl. No. 4(iii)] and section
+393(2) (Table: Sl. No. 8) shall have the meaning assigned to it in section 224(10)(c);
+
+20
+
+(43) “Unit Trust of India” means the Unit Trust of India as referred to in the
+Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002;
+(44) "University", referred in section 392(4), means a University established
+or incorporated by or under a Central, State or Provincial Act, and includes an
+institution declared under section 3 of the University Grants Commission Act, 1956,
+to be a University for the purposes of that Act;
+
+58 of 2002.
+
+25 3 of 1956.
+
+(45) “user” means any person who accesses or avails any computer resource
+of an online gaming intermediary;
+(46) “user account” means account of a user registered with an online gaming
+intermediary;
+
+30
+
+(47) “work” shall include—
+(a) advertising;
+(b) broadcasting and telecasting including production of programmes for
+such broadcasting or telecasting;
+(c) carriage of goods or passengers by any mode of transport other than
+by railways;
+
+35
+
+(d) catering;
+(e) manufacturing or supplying a product according to the requirement
+or specification of a customer by using material purchased from––
+(i) such customer; or
+
+40
+
+(ii) its associate, being a person placed similarly in relation to such
+customer as is the person placed in relation to the assessee under the
+provisions contained in section 36(3),
+but does not include—
+(A) manufacturing or supplying a product according to the requirement
+or specification of a customer by using material purchased from a person,
+other than such customer or associate of such customer; or
+
+45
+
+427
+
+(B) any sum referred to in section 393(1) [Table: Sl. No. 6(iii)].
+C.––Advance payment of tax
+403. (1) Advance tax shall be payable during any tax year in respect of the
+current income of the assesse, as per the provisions of this Part.
+5
+
+Liability for
+payment of
+advance tax.
+
+(2) For the purposes of this Part, “current income” means the total income of
+the assessee which would be chargeable to tax for that tax year.
+(3) The provisions of sub-section (1) shall not apply to an individual resident
+in India, who––
+
+10
+
+(a) does not have any income chargeable under the head “Profits and
+gains of business or profession”; and
+(b) is of the age of sixty years or more at any time during the tax year.
+
+15
+
+404. Advance tax shall be payable by the assessee during a tax year, where
+the amount of such tax during that year, as computed under this Part, is
+ten thousand rupees or more.
+
+Conditions of
+liability to pay
+advance tax.
+
+405. (1) The amount of advance tax payable by an assessee under section 404,
+on his own accord under section 406, or in pursuance of an order of an Assessing
+Officer under section 407, in the tax year shall, subject to the provisions of
+sub-section (2), be computed as under––
+
+Computation of
+advance tax.
+
+A = B-C
+20
+
+where,––
+A = the amount of advance tax payable in a tax year;
+B = income-tax on the specified sum calculated at the rates in force
+in the tax year, where “specified sum” shall have the meaning assigned
+to it in section 406 or 407;
+
+25
+
+30
+
+C = amount of income-tax which would be deductible or
+collectible at source during the said tax year under any provision of this
+Act from any income subject to the following:––
+(a) such income is computed before allowing any deduction
+admissible under this Act and has been taken into account in
+computing the specified sum; and
+(b) the person responsible for deducting tax has paid or
+credited such income after deduction of tax; or
+(c) the person responsible for collecting tax has received or
+debited such income after collection of tax.
+
+35
+
+40
+
+(2) In the case of any class of assessees, where the Finance Act of the relevant
+year provides that, net agricultural income shall be taken into account for the
+purposes of computing advance tax, then,––
+(a) for the purposes of order as mentioned in section 407(1) and (4), the
+net agricultural income shall be the amount that has been taken into account
+for the purposes of charging income-tax on the specified sum as mentioned in
+sub-sections (3) and (6) of the said section; or
+
+428
+
+(b) in any other situation, the net agricultural income as estimated by the
+assessee for the tax year.
+Payment of
+advance tax by
+assessee on his
+own accord.
+
+406. (1) Every person, who is liable to pay advance tax under section 404
+(whether or not he has been previously assessed by way of regular assessment) shall,
+on his own accord, pay advance tax on the specified sum, calculated in the manner
+laid down in section 405, at the appropriate percentage, and on or before the due
+date of each instalment, as specified in section 408.
+(2) A person who pays any instalment or instalments of advance tax under
+sub-section (1), may increase or reduce the amount of advance tax to accord with
+specified sum and the advance tax payable thereon, and make payment of the said
+tax in the remaining instalment or instalments, accordingly.
+
+5
+
+10
+
+(3) In this section, the expression “specified sum” means current income as
+estimated by the assessee.
+Payment of
+advance tax by
+assessee in
+pursuance of
+order of
+Assessing
+Officer.
+
+407. (1) Where a person has already been assessed for the total income of any
+tax year by way of regular assessment and the Assessing Officer is of the opinion
+that such person is liable to pay advance tax, he may require such person to pay
+advance tax on the specified sum, calculated in the manner laid down in
+section 405, by an order in writing, and specifying the instalment or instalments in
+which such tax is to be paid, on or before the due date of each instalment specified
+in section 408.
+
+15
+
+20
+
+(2) The order referred to in sub-section (1) may be passed at any time during
+the tax year but not later than the last day of February of such tax year and it shall
+be followed by a notice of demand under section 289.
+(3) In sub-section (1), “specified sum” means a sum, being higher of,––
+(a) the total income of the latest tax year in respect of which the assessee
+has been assessed by way of regular assessment; or
+
+25
+
+(b) total income returned by the assessee in any return of income
+furnished by him for any subsequent tax year.
+(4) The Assessing Officer may amend the order referred to in sub-section (1),
+and may require such person to pay advance tax on the specified sum, calculated in
+the manner laid down in section 405, if after passing an order under sub-section (1),—
+
+30
+
+(a) a return of income is furnished by the assessee, under section 263 or
+in response to a notice under section 268; or
+(b) a regular assessment of the income is made in respect of a tax year
+later than the assessment referred to in sub-section (1), on or before the due
+date of each instalment specified in section 408.
+
+35
+
+(5) The order referred to in sub-section (4) may be passed at any time before
+the 1st March of that tax year and it shall be followed by issuance of a demand notice
+under section 289.
+(6) In sub-section (4), “specified sum” means the total income declared in the
+return of income or computed in regular assessment mentioned in sub-section (4)
+(a) and (b), respectively.
+(7) If the notice of demand issued under section 289, as referred in
+sub-sections (2) and (5), is served after any of the due dates specified in
+section 408, the appropriate part or, the whole of the amount of the advance tax
+specified in such notice, shall be payable on or before each of the due date falling
+after the date of service of the notice of demand.
+
+40
+
+45
+
+429
+
+5
+
+(8) Where a person, who is served with an order referred to in sub-sections (1)
+and (4), estimates the advance tax payable on his current income to be lower than
+the amount of advance tax specified in the said order, then, he may send an
+intimation in the prescribed form to the Assessing Officer to that effect, and pay
+such advance tax on the current income, calculated in the manner laid down in
+section 401 as accords with his estimate, at an appropriate percentage thereof on or
+before the due date of each instalment specified in section 408 falling after the date
+of such intimation.
+
+15
+
+(9) Where a person, who is served with an order referred in sub-sections (1)
+and (4), estimates that advance tax payable on his current income would exceed the
+amount of advance tax specified in such order or intimated by him under
+sub-section (8), he shall pay such advance tax on the current income, calculated in
+the manner laid down in section 405 at the appropriate part or whole of such higher
+amount of advance tax as accords with his estimate, on or before the due date of the
+last instalment specified in section 408.
+
+20
+
+408. (1) All the assessees who are liable to pay advance tax, other than the
+assessee referred to in sub-section (2), shall pay the same on the current income
+calculated in the manner laid down in section 405 in four instalments during each
+tax year and the due date of each instalment and the amount of such instalment shall
+be as specified in the Table below.
+
+10
+
+Instalments of
+advance tax and
+due dates.
+
+Table
+
+25
+
+30
+
+35
+
+Sl. No.
+
+Due date of
+instalment
+
+Amount payable
+
+A
+
+B
+
+C
+
+1.
+
+On or before
+the 15th June.
+
+2.
+
+On
+or
+before the 15th
+September.
+
+Not less than 45% of such advance tax, as
+reduced by the amount, if any, paid in the earlier
+instalment.
+
+3.
+
+On
+or
+before the 15th
+December.
+
+Not less than 75% of such advance tax, as
+reduced by the amount or amounts, if any, paid in
+the earlier instalment or instalments.
+
+4.
+
+On or before
+the 15th March.
+
+The whole amount of such advance tax, as
+reduced by the amount or amounts, if any, paid in
+the earlier instalment or instalments.
+
+Not less than 15% of such advance tax.
+
+(2) An assessee, who declares profits and gains as per the provisions of section
+58(2) (Table: Sl. No. 1 or 3), shall pay the whole amount of advance tax on the
+current income, calculated in the manner laid down in section 405 during each tax
+year, on or before the 15th March.
+40
+
+(3) Any amount paid by way of advance tax on or before the 31st March, shall
+be treated as advance tax paid during the tax year ending on that day for all the
+purposes of this Act.
+409. A person shall be deemed to be an assessee in default, if such person—
+
+45
+
+(a) does not pay on the date specified in section 408, any instalment of
+the advance tax that he is required to pay by an order of the Assessing Officer
+under section 407(1) and (4); or
+
+When assesse is
+considered to be
+in default.
+
+430
+
+(b) does not send to the Assessing Officer an intimation under
+section 407(8) on or before the date on which any such instalment as is not
+paid becomes due; or
+(c) does not pay on the basis of his estimate of his current income, the
+advance tax payable by him under section 407(9),
+
+5
+
+in respect of such instalments.
+Credit for
+advance tax.
+
+410. Any sum, other than a penalty or interest, paid by or recovered from an
+assessee as advance tax in pursuance of this Part shall be treated as a payment of tax
+in respect of the income of the tax year in which it was payable, and credit therefor
+shall be given to the assessee in the regular assessment.
+
+10
+
+D.—Collection and Recovery
+When tax
+payable and
+when assessee
+deemed in
+default.
+
+411. (1) Any amount, otherwise than by way of advance tax, specified as
+payable in a notice of demand under section 289 at the place and to the person
+mentioned in the notice shall be paid within—
+(a) thirty days of the service of the notice; or
+
+15
+
+(b) such lesser period, as specified in the notice with the previous
+approval of the Joint Commissioner, where the Assessing Officer has any
+reason to believe that it shall be detrimental to revenue if the full period of
+thirty days is allowed.
+(2) Where any notice of demand has been served upon an assessee and any
+appeal or other proceeding, as the case may be, is filed or initiated in respect of the
+amount specified in the said notice of demand, then––
+
+20
+
+(a) such demand shall be deemed to be valid till the disposal of the
+appeal by the last appellate authority or disposal of the proceedings; and
+(b) any such notice of demand shall have the effect as specified in
+section 3 of the Taxation Laws (Continuation and Validation of Recovery
+Proceedings) Act, 1964.
+
+25
+11 of 1964.
+
+(3) If the amount specified in any notice of demand under section 289 is not
+paid within the period limited under sub-section (1),––
+(a) the assessee shall be liable to pay simple interest at 1% for every
+month or part of a month; and
+
+30
+
+(b) such period shall commence from the day immediately following the
+end of the period mentioned in sub-section (1) and end with the day on which
+the amount is paid.
+(4) No interest shall be charged under sub-section (3) on any amount for any
+period, where interest is charged on the same amount for the same period under
+section 398(3) on the amount of tax specified in the intimation issued under
+section 399.
+(5) Nothing contained in sub-section (3) shall prevent the Assessing Officer,
+where an application is made by the assessee before the expiry of the due date under
+sub-section (1), to extend the time for payment or allow payment by instalments,
+subject to such conditions as he may think fit to impose in the circumstances of
+the case.
+
+35
+
+40
+
+431
+
+(6) Where as a result of an order under section 287 or 288 or 359 or 363 or 365(10)
+or 368 or 378 or an order of the Settlement Commission under section 245D (4) of the
+Income-tax Act, 1961,––
+
+43 of 1961.
+
+5
+
+(a) the amount on which interest was payable under sub-section (3) had
+been reduced, the interest shall be reduced accordingly and the excess interest
+paid, if any, shall be refunded; and
+(b) if subsequent to such reduction, as a result of an order under said
+sections or section 377, the amount on which interest was payable is increased,
+the assessee shall be liable to pay interest under sub-section (3),—
+
+10
+
+(i) from the day immediately following the end of the period
+mentioned in the first notice of demand, referred to in sub-section (1); and
+(ii) ending with the day on which the amount is paid.
+
+15
+
+20
+
+(7) In respect of any period commencing on or before the 31st March, 1989
+and ending after that date, interest under sub-section (3) shall, in respect of so much
+of such period as falls after that date, be calculated at the rate of 1.5% for every
+month or part of a month.
+(8) Irrespective of the provisions contained in sub-section (3), the Principal Chief
+Commissioner or Chief Commissioner or Principal Commissioner or Commissioner
+may, on an application by the assessee, reduce or waive the amount of interest paid or
+payable by an assessee under sub-section (3) if he is satisfied that—
+(a) payment of such amount has caused or would cause genuine hardship
+to the assessee;
+
+25
+
+(b) default in the payment of the amount on which interest has been paid
+or was payable under the said sub-section was due to circumstances beyond
+the control of the assessee; and
+(c) the assessee has co-operated in any inquiry relating to the assessment
+or any proceeding for the recovery of any amount due from him.
+
+30
+
+(9) The order under sub-section (8) accepting or rejecting the application of
+the assessee, either in full or in part, shall be passed within twelve months from the
+end of the month in which the application is received.
+(10) No order under sub-section (8) rejecting the application, either in full or in
+part, shall be passed unless the assessee has been given an opportunity of being heard.
+
+35
+
+(11) If the amount is not paid within the specified time under sub-section (1)
+or extended under sub-section (5), at the place and to the person mentioned in the
+said notice, the assessee shall be deemed to be in default.
+(12) If, in a case where payment by instalments is allowed under sub-section (5),
+the assessee commits defaults in paying any one of the instalments within the time
+fixed under that sub-section,––
+
+40
+
+(a) the assessee shall be deemed to be in default as to the whole of the
+amount then outstanding; and
+(b) the other instalment or instalments shall be deemed to have been due
+on the same date as the instalment actually in default.
+
+45
+
+(13) Where an assessee has presented an appeal under section 356 or 357 the
+Assessing Officer may, in his discretion and subject to such conditions as he may think fit
+to impose in the circumstances of the case, treat the assessee as not being in default in
+respect of the amount in dispute in the appeal, even though the time for payment has
+expired, till the time such appeal remains undisposed of.
+
+432
+
+(14) Where an assessee has been assessed in respect of income arising outside
+India in a country the laws of which prohibit or restrict the remittance of money to
+India, the Assessing Officer shall—
+(a) not treat the assessee as in default in respect of that part of the tax
+which is due in respect of that amount of his income which, by reason of such
+prohibition or restriction, cannot be brought into India; and
+
+5
+
+(b) continue to treat the assessee as not in default in respect of such part
+of the tax until the prohibition or restriction is removed.
+(15) For the purposes of sub-section (14), income shall be deemed to have
+been brought into India, if—
+
+10
+
+(a) it has been utilised or could have been utilised for the purposes of
+any expenditure actually incurred by the assessee outside India; or
+(b) the income, whether capitalised or not, has been brought into India
+in any form.
+Penalty payable
+when tax in
+default.
+
+412. (1) When an assessee is in default or is deemed to be in default in making a
+payment of tax, he shall, in addition to the amount of the arrears and the amount of
+interest payable under section 411(3), be liable, by way of penalty, to pay—
+
+15
+
+(a) such amount as the Assessing Officer may direct; and
+(b) in the case of a continuing default, such further amount or amounts
+as the Assessing Officer may, from time to time, direct.
+
+20
+
+(2) The total amount of penalty under sub-section (1) shall not exceed the
+amount of tax in arrears.
+(3) No penalty under sub-section (1) shall be levied—
+(a) unless the assessee has been given a reasonable opportunity of being
+heard; and
+
+25
+
+(b) where the assessee proves to the satisfaction of the Assessing Officer
+that the default was for good and sufficient reasons.
+(4) The assessee shall not cease to be liable to any penalty under sub-section (1)
+merely by reason of the fact that before the levy of such penalty he has paid the tax.
+(5) Where as a result of any final order the amount of tax, with respect to the
+default in the payment of which the penalty was levied, has been wholly reduced, the
+penalty levied shall be cancelled and the amount of penalty paid shall be refunded.
+Certificate by
+Tax Recovery
+Officer and
+Validity thereof.
+
+413. (1) When an assessee is in default or is deemed to be in default in making
+a payment of tax, the Tax Recovery Officer may draw up under his signature a
+statement in such form as prescribed specifying the amount of arrears due from the
+assessee (such statement being hereafter referred to as “certificate”) and shall proceed
+to recover from such assessee the amount specified in the certificate by one or more
+of the modes mentioned below, as per the rules prescribed in this regard,—
+
+30
+
+35
+
+(a) attachment and sale of movable property of the assessee;
+(b) attachment and sale of immovable property of the assessee;
+
+40
+
+(c) arrest of the assessee and his detention in prison;
+(d) appointing a receiver for the management of movable and
+immovable properties of the assessee.
+(2) The Tax Recovery Officer may take action under sub-section (1), whether
+or not proceedings for recovery of the arrears by any other mode have been taken.
+
+50
+
+433
+
+(3) The assessee shall not be entitled to dispute the correctness of any
+certificate drawn up by the Tax Recovery Officer on any ground.
+
+5
+
+(4) The Tax Recovery Officer may cancel the certificate if, for any reason,
+he considers it necessary so to do, or may correct any clerical or arithmetical
+mistake therein.
+(5) In this section, the movable or immovable property of the assessee shall
+include any property—
+
+10
+
+15
+
+(a) which has been transferred, directly or indirectly on or after the
+1st June, 1973, by the assessee to his spouse or minor child or son’s wife or
+son’s minor child, otherwise than for adequate consideration, and which is
+held by, or stands in the name of, any of the said persons; and
+(b) so far as the movable or immovable property so transferred to his
+minor child or his son’s minor child is concerned, it shall, even after the date
+of attainment of majority by such minor child or son’s minor child, as the case
+may be, continue to be included in the movable or immovable property of the
+assessee for recovering any arrears due from the assessee in respect of any
+period prior to such date.
+414. (1) For the purposes of section 413, the Tax Recovery Officer shall be—
+
+20
+
+(a) the Tax Recovery Officer within whose jurisdiction the
+assessee carries on his business or profession or has the principal place
+of his business or profession; or
+
+Tax Recovery
+Officer by whom
+recovery is to be
+effected.
+
+(b) the Tax Recovery Officer within whose jurisdiction the
+assessee resides or any of his movable or immovable property is situated,
+25
+
+the jurisdiction for this purpose being the jurisdiction assigned to the Tax Recovery
+Officer under the orders or directions issued by the Board, or by any income-tax
+authority not below the rank of Commissioner who is authorised in this behalf by
+the Board in pursuance of section 241.
+(2) Where an assessee has property within the jurisdiction of more than one Tax
+Recovery Officer and the Tax Recovery Officer by whom the certificate is drawn up—
+
+30
+
+(a) is not able to recover the entire amount by sale of the property,
+movable or immovable, within his jurisdiction; or
+(b) is of the opinion that, for the purpose of expediting or securing the
+recovery of the whole or any part of the amount under this Part, it is necessary
+so to do,
+
+35
+
+he may send—
+(i) the certificate; or
+(ii) a copy of the certificate certified in the manner as prescribed and
+specifying the amount to be recovered, where only a part of the amount is to
+be recovered,
+
+40
+
+to a Tax Recovery Officer referred to in sub-section (1)(b) and, thereupon, such
+officer shall also proceed to recover the amount under this Part as if the certificate
+or copy thereof had been drawn up by him.
+415. (1) The Tax Recovery Officer may grant time for the payment of any tax
+and, till the expiry of such time, shall stay the recovery proceedings for such tax.
+
+45
+
+(2) Where a certificate has been drawn up and subsequently, the amount of the
+outstanding demand is reduced as a result of an appeal or other proceeding under
+this Act, the Tax Recovery Officer shall—
+
+Stay of
+proceedings in
+pursuance of
+certificate and
+amendment or
+cancellation
+thereof.
+
+434
+
+(a) if the order is the subject-matter of further proceeding under this Act,
+stay the recovery of such part of the amount specified in the certificate as
+pertains to the said reduction for the period for which the appeal or other
+proceeding remains pending; or
+(b) if the order which was the subject-matter of such appeal or other
+proceeding has become final and conclusive, amend the certificate, or cancel it.
+Other modes of
+recovery.
+
+5
+
+416.(1) Where no certificate has been drawn up under section 413, the Assessing
+Officer may recover the tax by any one or more of the modes provided in this section.
+(2) Where a certificate has been drawn up under section 413, the Tax Recovery
+Officer may, without prejudice to the modes of recovery specified in that section,
+recover the tax by any one or more of the modes provided in this section.
+(3) If any assessee is in receipt of any income chargeable under the head
+“Salaries”, the Assessing Officer or Tax Recovery Officer may require any person
+paying the same to deduct from any payment subsequent to the date of such
+requisition any arrears of tax due from such assessee and such person shall comply
+with the said requisition and shall pay the sum so deducted to the credit of the
+Central Government or as the Board directs.
+(4) Nothing contained in sub-section (3) shall apply to any part of the salary
+exempted from attachment in execution of a decree of a civil court under section 60
+of the Code of Civil Procedure, 1908.
+
+10
+
+15
+
+20 5 of 1908.
+
+5. (a) The Assessing Officer or Tax Recovery Officer may, at any time or from
+time to time, by notice in writing require any person—
+(i) from whom money is due or may become due to the assessee; or
+(ii) who holds or may subsequently hold money for or on account of the
+assessee,
+
+25
+
+to pay to the Assessing Officer or Tax Recovery Officer—
+(I) either forthwith upon the money becoming due or being held; or
+(II) at or within the time specified in the notice (not being before the
+money becomes due or is held),
+so much of the money as is sufficient to pay the amount due by the assessee in respect
+of arrears or the whole of the money when it is equal to or less than that amount;
+
+30
+
+(b) A notice under this sub-section may be issued to any person who holds or
+may subsequently hold any money for or on account of the assessee jointly with any
+other person;
+(c) For the purposes of this sub-section, the shares of the joint holders in the
+account, as referred in clause (b), shall be presumed, until the contrary is proved, to
+be equal;
+
+35
+
+(d) A copy of the notice under this sub-section shall be forwarded to—
+(i) the assessee; and
+(ii) in the case of a joint account to all the joint holders, at his or their
+last addresses known to the Assessing Officer or Tax Recovery Officer;
+(e) Save as otherwise provided in this sub-section, every person to whom a
+notice is issued under that sub-section shall be bound to comply with such notice,
+and, in particular, where any such notice is issued to a post office, banking company
+or an insurer, it shall not be necessary for any pass book, deposit receipt, policy or
+any other document to be produced for the purpose of any entry, endorsement or the
+like being made before payment is made, irrespective of any rule, practice or
+requirement to the contrary;
+
+40
+
+45
+
+435
+
+(f) Any claim respecting any property in relation to which a notice under this
+sub-section has been issued arising after the date of the notice shall be void as
+against any demand contained in the notice;
+5
+
+(g) Where a person, to whom a notice under this sub-section is issued, objects
+to it by a statement on oath that—
+(a) the sum demanded or any part thereof is not due to the assessee; or
+(b) he does not hold any money for or on account of the assessee,
+then nothing contained in that sub-section shall be deemed to require such person to
+pay any such sum or part thereof;
+
+10
+
+(h) Where it is discovered that the statement under was false in any material
+particular, such person shall be personally liable to the Assessing Officer or Tax
+Recovery Officer to the extent of his own liability to the assessee on the date of the
+notice, or to the extent of the assessee’s liability for any sum due under this Act,
+whichever is less;
+
+15
+
+(i) The Assessing Officer or Tax Recovery Officer may, at any time or from
+time to time, amend or revoke any notice issued under this sub-section or extend the
+time for making any payment in pursuance of a notice issued under the said
+sub-section;
+
+20
+
+25
+
+(j) The Assessing Officer or Tax Recovery Officer shall grant a receipt for any
+amount paid in compliance with a notice issued under this sub-section, and the
+person so paying shall be fully discharged from his liability to the assessee to the
+extent of the amount so paid;
+(k) Any person discharging any liability to the assessee after receipt of a notice
+under this sub-section shall be personally liable to the Assessing Officer or the Tax
+Recovery Officer—
+(i) to the extent of his own liability to the assessee so discharged; or
+(ii) to the extent of the assessee’s liability for any sum due under this Act,
+whichever is less.
+
+30
+
+(l) If the person to whom a notice under this sub-section is issued fails to make
+payment in pursuance thereof to the Assessing Officer or Tax Recovery Officer,—
+(i) he shall be deemed to be an assessee in default in respect of the
+amount specified in the notice and further proceedings may be taken against
+him for the realisation of the amount as if it were an arrear of tax due from
+him, in the manner provided in sections 413 to 415; and
+
+35
+
+(ii) the notice shall have the same effect as an attachment of a debt by
+the Tax Recovery Officer in exercise of his powers under section 413.
+(6) The Assessing Officer or Tax Recovery Officer may apply to the court in
+whose custody there is money belonging to the assessee—
+(a) for payment to him of the entire amount of such money; or
+
+40
+
+(b) if it is more than the tax due, an amount sufficient to discharge the tax.
+(7) The Assessing Officer or Tax Recovery Officer may, if so authorised by
+an income-tax authority not below the rank of commissioner by general or special
+order, recover any arrears of tax due from an assessee by distraint and sale of his
+movable property in the manner as prescribed.
+
+45
+
+417. If the recovery of tax in any area has been entrusted to a State
+Government under article 258(1) of the Constitution, the State Government may
+direct, with respect to that area or any part thereof that tax shall be recovered therein
+with, and as an addition to, any municipal tax or local rate, by the same person and
+in the same manner as the municipal tax or local rate is recovered.
+
+Recovery
+through State
+Government.
+
+436
+
+Recovery of tax
+in pursuance of
+agreements with
+foreign countries.
+
+418. (1) Where an agreement is entered into by the Central Government with
+the Government of any country outside India for recovery of income-tax under this
+Act and the corresponding law in force in that country and the Government of that
+country or any authority under that Government which is specified in this behalf in
+such agreement sends to the Board a certificate for the recovery of any tax due under
+such corresponding law from—
+
+5
+
+(a) a resident; or
+(b) a person having any property in India,
+the Board may forward such certificate to any Tax Recovery Officer having
+jurisdiction over the resident, or within whose jurisdiction such property is situated
+and thereupon such Tax Recovery Officer shall—
+(i) proceed to recover the amount specified in the certificate in the
+manner in which he would proceed to recover the amount specified in a
+certificate drawn up by him under section 413; and
+
+10
+
+15
+
+(ii) remit any sum so recovered by him to the Board after deducting his
+expenses in connection with the recovery proceedings.
+(2) Where an assessee is in default or is deemed to be in default in making a
+payment of tax, the Tax Recovery Officer may,—
+(a) if the assessee is a resident of a country being a country with which the
+Central Government has entered into an agreement for the recovery of
+income-tax under this Act and the corresponding law in force in that country; or
+
+20
+
+(b) has any property in that country,
+forward to the Board a certificate drawn up by him under section 413 and the Board
+may take such action thereon as it may deem appropriate having regard to the terms
+of the agreement with such country.
+Recovery of
+penalties, fine,
+interest and other
+sums.
+
+419. Any sum imposed by way of interest, fine, penalty, or any other sum
+payable under the provisions of this Act, shall be recoverable in the manner provided
+in this Part for the recovery of arrears of tax.
+
+Tax clearance
+certificate.
+
+420.(1) Subject to such exceptions as the Central Government may, by
+notification, specify in this behalf, no person,—
+
+25
+
+30
+
+(a) who is not domiciled in India;
+(b) who has come to India in connection with business, profession or
+employment; and
+(c) who has income derived from any source in India,
+
+35
+
+shall leave the territory of India by land, sea or air unless he furnishes to such
+authority as prescribed—
+(i) an undertaking in the prescribed form from his employer; or
+(ii) through whom such person is in receipt of the income,
+
+40
+
+to the effect that tax payable by such person who is not domiciled in India shall be
+paid by the employer referred to in clause (i) or the person referred to in clause (ii),
+and the prescribed authority shall, on receipt of the undertaking, immediately give
+to such person a no objection certificate, for leaving India.
+(2) Nothing contained in sub-section (1) shall apply to a person who is not
+domiciled in India but visits India as a foreign tourist or for any other purpose not
+connected with business, profession or employment.
+
+45
+
+437
+
+(3) Subject to such exceptions as the Central Government may, by notification,
+specify in this behalf, every person, who is domiciled in India at the time of his
+departure from India, shall furnish, in the prescribed form to the income-tax
+authority or such other authority as prescribed—
+5
+
+(a) the Permanent Account Number allotted to him under section 262;
+(b) the purpose of his visit outside India; and
+(c) the estimated period of his stay outside India.
+
+10
+
+(4) Where no such Permanent Account Number has been allotted to him, or
+his total income is not chargeable to income-tax, or he is not required to obtain a
+Permanent Account Number under this Act, such person shall furnish a certificate
+in such form, as prescribed.
+(5) No person—
+(a) who is domiciled in India at the time of his departure; and
+
+15
+
+27 of 1957.
+18 of 1958.
+35 of 1987.
+22 of 2015.
+
+20
+
+25
+
+(b) in respect of whom circumstances exist which, in the opinion of an
+income-tax authority render it necessary for such person to obtain a certificate
+under this section,
+shall leave the territory of India by land, sea or air unless he obtains a certificate
+from the income-tax authority stating that he has no liability under this Act, or the
+Wealth-tax Act, 1957 or the Gift-tax Act, 1958 or the Expenditure-tax Act, 1987 or
+the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax
+Act, 2015, or that satisfactory arrangements have been made for the payment of all
+or any of such taxes which are or may become payable by that person.
+(6) No income-tax authority shall make it necessary for any person who is
+domiciled in India to obtain a certificate under this section unless—
+(a) he records the reasons therefor; and
+(b) obtains the prior approval of Principal Chief Commissioner or Chief
+Commissioner.
+
+30
+
+35
+
+(7) If the owner or charterer of any ship or aircraft carrying persons from any
+place in the territory of India to any place outside India allows any person to whom
+sub-section (1) or (5) applies to travel by such ship or aircraft without first satisfying
+himself that such person is in possession of a certificate as required by those subsections, he shall be personally liable to pay the whole or any part of the amount of
+tax, if any, payable by such person as the Assessing Officer may, having regard to
+the circumstances of the case, determine.
+(8) In respect of any sum payable by the owner or charterer of any ship or
+aircraft under sub-section (7),—
+
+40
+
+(a) the owner or charterer, shall be deemed to be an assessee in default
+for such sum; and
+(b) such sum shall be recoverable from him in the manner provided in
+this Part as if it were an arrear of tax.
+
+45
+
+(9) The Board may make rules for regulating any matter necessary for, or
+incidental to, the purpose of carrying out the provisions of this section.
+(10) In this section, “owner” and “charterer” include any representative, agent
+or employee empowered by the owner or charterer to allow persons to travel by the
+ship or aircraft.
+
+438
+
+Recovery by suit
+or under other
+law not affected.
+
+421. The several modes of recovery specified in this Part shall not affect in
+any way;—
+(a) any other law for the time being in force relating to the recovery of
+debts due to Government; or
+(b) the right of the Government to institute a suit for the recovery of the
+arrears due from the assessee; and
+(c) it shall be lawful for the Assessing Officer or the Government, as the
+case may be, to have recourse to any such law or suit, irrespective of the fact
+that the tax due is being recovered from the assessee by any mode specified in
+this Part.
+
+Recovery of tax
+arrear in respect
+of non-resident
+from his assets.
+
+5
+
+10
+
+422. Irrespective of the provisions of sections 304(1) or (5), where the person
+entitled to the income referred to in section 9(2) is a non-resident, the tax chargeable
+thereon, whether in his name or in the name of his agent who is liable as a
+representative assessee—
+(a) may be recovered by deduction under the provisions of
+Chapter XIX-B; and
+
+15
+
+(b) any arrears of tax may also be recovered as per the provisions of this
+Act from any assets of the non-resident which are, or may at any time come,
+within India.
+E.—Interest chargeable in certain cases
+Interest for
+defaults in
+furnishing return
+of income.
+
+20
+
+423. (1) Where the return of income for any tax year is furnished after the due
+date or is not furnished, the assessee shall be liable to pay simple interest as per the
+following formula:—
+I = 1% x A x T
+25
+
+where,—
+I = the interest payable;
+A = the amount of tax on which interest is payable, as specified in
+sub-section (2);
+T = number of months comprised in the period commencing on the
+date immediately following the starting date and ending on the end date,
+both specified in sub-section (2).
+(2) For sub-section (1), in respect of the circumstances specified in column B
+of the Table below, the starting date shall be the date specified in column C, the
+ending date shall be the date as specified in column D and the amount of tax on
+which interest is payable is specified in column E.
+
+30
+
+35
+
+Table
+Sl. No.
+
+Circumstances
+
+Starting
+date
+
+Ending date
+
+The amount of tax on
+which interest is
+payable
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1.
+
+Where the return is
+furnished––
+
+Due
+date for
+furnishing
+the return
+of income
+under
+section
+263(1).
+
+(a)
+under
+section 263(1), (4)
+or (6); or
+
+Date of
+(a) Where a
+furnishing of regular assessment
+is not made, tax on
+the return.
+the total income as
+determined under
+section 270(1) as
+reduced by tax paid;
+
+40
+
+45
+
+439
+
+A
+
+E
+(b) Where a
+regular assessment
+is made, tax on the
+total
+income
+determined under
+regular assessment
+as reduced by tax
+paid.
+
+(i) Where no
+return
+has
+been
+furnished
+under
+section 263(1), (4) or
+(6) or in response to a
+notice under section
+268(1).
+
+Due
+Date of
+completion
+date
+for
+the
+furnishing of
+assessment
+the return
+of income under
+section 271.
+under
+section
+263(1).
+
+Tax on the total
+income determined
+under
+regular
+assessment
+as
+reduced by tax
+paid.
+
+3.
+
+(a) Where return
+of income is required
+by a notice under
+section issued after
+the determination of
+income under section
+270(1) or after the
+completion of an
+assessment
+under
+section 270(10) or
+271 or 279; and
+
+Date
+Date of
+immediately furnishing
+following
+the return.
+the last date
+of
+time
+allowed
+under such
+notice.
+
+Amount
+by
+which the tax on the
+total
+income
+determined on the
+basis
+of
+such
+reassessment
+or
+recomputation
+exceeds the tax on
+the total income
+determined under
+section 270(1) or on
+the basis of the
+earlier assessment
+under the section
+referred to against
+serial number 3(a).
+
+15
+
+20
+
+25
+
+(b) such return is
+furnished after the
+expiry of the time
+allowed under such
+notice.
+
+30
+
+4.
+
+45
+
+D
+
+2.
+10
+
+40
+
+C
+
+(b)
+in
+response to a
+notice
+under
+section 268(1)
+after the due
+date.
+
+5
+
+35
+
+B
+
+(a) Where return
+of income is required
+by a notice under
+section 280 issued
+after
+the
+determination
+of
+income
+under
+section 270(1) or
+after the completion
+of an assessment
+under section 270(10)
+or 271 or 279; and
+
+Date
+Date
+of
+Amount
+by
+immediately completion of which the tax on the
+following the
+total
+income
+the
+last reassessment determined on the
+date
+of or
+basis
+of
+such
+time
+recomputation reassessment
+or
+allowed
+under section recomputation
+under such 279.
+exceeds the tax on
+notice.
+the total income
+determined under
+section 270(1) or on
+the basis of the
+earlier assessment
+(b) no return is
+under the section
+furnished.
+referred to against
+serial number 4(a).
+
+440
+
+(3) Where as a result of an order under section 287 or 288 or 359 or 363 or
+365(10) or 368 or 377 or 378, the amount of tax on which interest was payable under
+sub-sections (1) and (2) has been increased or reduced, the interest shall be increased
+or reduced accordingly, and in a case —
+(a) where the interest is increased, the Assessing Officer shall serve on
+the assessee a notice of demand in the form as prescribed specifying the sum
+payable, and such notice of demand shall be deemed to be a notice under
+section 289 and the provisions of this Act shall apply accordingly;
+(b) where the interest is reduced, the excess interest paid, if any, shall be
+refunded.
+
+5
+
+10
+
+(4) For the purposes of this section,—
+(a) tax on total income as determined under section 270(1) shall not
+include the additional income-tax, if any, payable under section 267;
+(b) tax on the total income determined under regular assessment shall
+not include the additional income-tax payable under section 267;
+
+15
+
+(c) interest payable under sub-section (1) shall be reduced by the interest,
+if any, paid under section 266 towards the interest chargeable;
+(d) “tax paid” means––
+(i) advance tax, if any, paid;
+(ii) any tax deducted or collected at source;
+
+20
+
+(iii) any relief of tax allowed under section 157;
+(iv) any relief of tax allowed under section 159(1) on account of
+tax paid in a country outside India;
+(v) any relief of tax allowed under section 159(2) on account of tax
+paid in a specified territory outside India referred to in that section;
+
+25
+
+(vi) any deduction, from the Indian income-tax payable, allowed
+under section 160, on account of tax paid in a country outside India; and
+(vii) any tax credit allowed to be set off as per section 206(13).
+(5) Where for any tax year, an assessment is made for the first time under
+section 279, the assessment so made shall be regarded as a regular assessment for
+the purposes of this section.
+Interest for
+defaults in
+payment of
+advance tax.
+
+30
+
+424. (1) Subject to the other provisions of this section, where, in any tax year,
+an assessee who is liable to pay advance tax under section 404,––
+(a) has failed to pay such tax; or
+(b) the advance tax paid by such assessee under the provisions of
+section 406 or 407 is less than 90% of the assessed tax,
+
+35
+
+the assessee shall be liable to pay simple interest at the rate of 1% for every month
+or part of a month, for the period, beginning from the 1st April following such
+tax year––
+(i) upto the date of determination of total income under section 270(1); or
+(ii) upto the date of completion of regular assessment,
+
+40
+
+441
+
+on an amount equal to the assessed tax in case where clause (a) is applicable or, on
+the amount by which the advance tax paid as aforesaid falls short of the assessed tax
+in case where clause (b) is applicable.
+5
+
+10
+
+(2) In sub-section (1), “assessed tax” means the tax on the total income
+determined under section 270(1) and where a regular assessment is made, the tax on
+the total income determined under such regular assessment as reduced by the
+amount of,—
+(a) any tax deducted or collected at source as per Chapter XIX-B on any
+income which is subject to such deduction or collection and which is taken
+into account in computing such total income;
+(b) any relief of tax allowed under section 157;
+(c) any relief of tax allowed under section 159(1) on account of tax paid
+in a country outside India;
+
+15
+
+(d) any relief of tax allowed under section 159(2) on account of tax paid
+in a specified territory outside India referred to in that section;
+(e) any deduction, from the Indian income-tax payable, allowed under
+section 160, on account of tax paid in a country outside India; and
+(f) any tax credit allowed to be set off as per section 206(13).
+(3) For the purposes of this section,—
+
+20
+
+(a) where in relation to a tax year, an assessment is made for the first
+time under section 279, the assessment so made shall be regarded as a regular
+assessment;
+(b) tax on total income as determined under section 270(1) shall not include
+the additional income-tax, if any, payable under section 267;
+
+25
+
+(c) tax on the total income determined under such regular assessment
+shall not include the additional income-tax payable under section 267.
+(4) Where, before the date of determination of total income under
+section 270(1) or completion of a regular assessment, tax is paid by the assessee
+under section 266 or otherwise,—
+
+30
+
+(a) interest shall be calculated as per the foregoing provisions of this
+section up to the date on which the tax is so paid, and reduced by the interest,
+if any, paid under section 266 towards the interest chargeable under this
+section;
+
+35
+
+(b) thereafter, interest shall be calculated at the rate aforesaid on the
+amount by which the tax so paid together with the advance tax paid falls short
+of the assessed tax.
+
+40
+
+(5) Where, the amount on which interest was payable in respect of shortfall in
+payment of advance tax for any tax year under sub-section (1) is increased, as a
+result of an order of reassessment or recomputation under section 279, the assessee
+shall be liable to pay simple interest at the rate of 1% for every month or part of a
+month comprised in the period commencing on the 1st April immediately following
+such tax year and ending on the date of the reassessment or recomputation on such
+amount determined as per formula below:––
+A = B-C
+
+45
+
+where,—
+
+442
+
+A = the increased amount on which interest was payable in respect of
+shortfall in payment of advance tax for any tax year as a result of reassessment or
+recomputation—
+B = tax on total income determined on the basis of reassessment or
+recomputation;
+
+5
+
+C = tax on total income determined under section 270(1) or regular
+assessment as referred to in sub-section (1).
+(6) Where, as a result of an order under section 287 or 288 or 359 or 363 or
+365(10) or 368 or 377 or 378, the amount on which interest was payable under
+sub-section (1) or (3) has been increased or reduced, the interest shall be increased
+or reduced accordingly, and—
+(a) in a case where the interest is increased, the Assessing Officer shall serve
+on the assessee a notice of demand in the form as prescribed specifying the sum
+payable and such notice of demand shall be deemed to be a notice under
+section 289 and the provisions of this Act shall apply accordingly;
+
+10
+
+15
+
+(b) in a case where the interest is reduced, the excess interest paid, if any,
+shall be refunded.
+Interest for
+deferment of
+advance tax.
+
+425. (1) If an assessee, liable to pay advance tax under section 404, other than
+the assessee mentioned in sub-section (3), has failed to pay such tax, or the advance
+tax paid by the assessee on its current income on or before the date specified in
+column B of the Table below, is less than advance tax due on returned income, as
+specified in column C, then the assessee shall be liable to pay interest on the amount
+of shortfall of advance tax as specified in column D , at the rate of interest specified
+in column E:
+Table
+Sl. No. Due date of
+Instalment
+
+Advance tax
+due on
+returned
+income
+
+25
+
+Amount of shortfall of
+advance tax being
+percentage of advance tax
+due as per column C, as
+reduced by advance tax
+already paid on or before the
+date specified in column B
+
+Interest
+payable on
+shortfall as
+specified in
+column D
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1.
+
+15th day
+of June
+
+15% of
+the tax due
+on returned
+income.
+
+15%.
+
+3% on
+the shortfall.
+
+15th
+day
+of
+September.
+
+45% of
+the tax due
+on returned
+income.
+
+45%.
+
+15th
+day
+of
+December.
+
+75% of
+the tax due
+on returned
+income.
+
+75%.
+
+100% of
+the tax due
+on returned
+income.
+
+100%.
+
+2.
+
+3.
+
+4.
+
+15th day
+of March.
+
+20
+
+30
+
+35
+
+3% on
+the shortfall.
+40
+
+3% on
+the shortfall.
+45
+
+1% on
+the shortfall.
+
+443
+
+(2) The assessee shall not be liable to pay any interest under sub-section (1),
+if the advance tax paid by the assessee on the current income,––
+(a) on or before the 15th day of June is 12% or more of the tax due on
+the returned income; or
+5
+
+10
+
+(b) on or before the 15th day of September is 36% or more of the tax due
+on the returned income.
+(3) An assessee who declares profits and gains as per section 58(2)
+(Table: Sl. No. 1 or 3) or, who is liable to pay advance tax under section 404, has
+failed to pay such tax, or the advance tax paid by the assessee on its current income
+on or before the 15th day of March is less than the tax due on returned income, shall
+be liable to pay simple interest at the rate of 1% on the amount of shortfall from
+the tax due on returned income..
+(4) No interest shall be payable under sub-section (1) or (3) in respect of
+shortfall in the payment of tax due on returned income, where,––
+
+15
+
+(a) the shortfall is on account of underestimation or failure to estimate
+the following incomes:––
+(i) capital gains;
+(ii) income as per section 2(49)(n);
+
+20
+
+(iii) income under the head profits and gains of business or
+profession accruing or arising for the first time;
+(iv) dividend income; and
+(b) the assessee has paid in full, the tax payable on the incomes referred
+to in clause (a), in any of the remaining instalments of advance tax, if any, or
+by the 31st day of March of the tax year.
+
+25
+
+30
+
+(5) For the purposes of this section “tax due on the returned income” means
+the tax chargeable on the total income declared in the return of income furnished by
+the assessee for the tax year in which the advance tax is paid or payable, as reduced
+by the amount of—
+(a) any tax deducted or collected at source as per the provisions of
+Chapter XIX-B on any income which is subject to such deduction or collection
+and which is taken into account in computing such total income;
+(b) any relief of tax allowed under section 157;
+(c) any relief of tax allowed under section 159(1) on account of tax paid
+in a country outside India;
+
+35
+
+(d) any relief of tax allowed under section 159(2) on account of tax paid
+in a specified territory outside India referred to in that section;
+(e) any deduction, from the Indian income-tax payable, allowed under
+section 160, on account of tax paid in a country outside India; and
+(f) any tax credit allowed to be set off as per section 206(13).
+
+40
+
+426. (1) Subject to the other provisions of this Act, where any refund is granted
+to the assessee under section 270(1), and—
+(a) no refund is due on regular assessment; or
+(b) the amount refunded under section 270(1) exceeds the amount
+refundable on regular assessment,
+
+Interest on
+excess refund.
+
+444
+
+the assessee shall be liable to pay simple interest at the rate of 0.5% on the whole or the
+excess amount so refunded, for every month or part of a month comprised in the period
+from the date of grant of refund to the date of such regular assessment.
+(2) Where, as a result of an order under section 287 or 288 or 359 or 363 or
+365(10) or 368 or 377 or 378, the amount of refund granted under section 270(1) is
+held to be correctly allowed, either in whole or in part, then, the interest chargeable,
+if any, under sub-section (1) shall be reduced accordingly.
+(3) Where in relation to a tax year, an assessment is made for the first time
+under section 279, the assessment so made shall be regarded as a regular assessment
+for the purposes of this section.
+
+5
+
+10
+
+F.—LEVY OF FEE IN CERTAIN CASES
+Fee for default
+in furnishing
+statements.
+
+427. (1) Without prejudice to the provisions of this Act, where a person fails
+to deliver or cause to be delivered a statement within the time prescribed in
+section 393(3)(b), he shall be liable to pay, by way of fee, a sum of two hundred
+rupees for every day during which the failure continues.
+
+15
+
+(2) The amount of fee referred to in sub-section (1) shall,––
+(a) not exceed the amount of tax deductible or collectible; and
+(b) be paid before delivering or causing to be delivered the statement, as
+per sub-section (1).
+Fee for default
+in furnishing
+return of
+income.
+
+428. Without prejudice to the provisions of this Act, where, a person required
+to furnish a return of income under section 263 fails to do so within the time as
+prescribed in section 263(1) he shall pay, by way of a fee,––
+
+20
+
+(a) a sum of five thousand rupees, if the total income of such person
+exceeds five lakh rupees;
+(b) a sum not exceeding one thousand rupees in any other case.
+Fee for default
+relating to
+statement or
+certificate.
+
+25
+
+429. (1) Without prejudice to the provisions of this Act, where,—
+(a) the research association, University, college or other institution
+referred to in section 45(3)(a) or the company referred to in section 45(3)(b)
+fails to deliver or cause to be delivered the documents as prescribed in section
+45(4)(a) within the time as prescribed therein or furnish a certificate as
+prescribed under section 45(4)(a); or
+
+30
+
+(b) the institution or fund fails to deliver or cause to be delivered a
+statement within the time as prescribed under section 354(1)(e), or furnish a
+certificate as prescribed under section 354(1)(f),
+it shall be liable to pay, by way of fee, a sum of two hundred rupees for every day
+during which the failure continues.
+
+35
+
+(2) The amount of fee referred to in sub-section (1) shall,—
+(a) not exceed the amount in respect of which the failure referred to
+therein has occurred;
+(b) be paid before delivering or causing to be delivered the statement or
+before furnishing the certificate referred to in sub-section (1).
+Fee for default
+relating to
+intimation of
+aadhaar
+number.
+
+430. Without prejudice to the provisions of this Act, where a person is required
+to intimate his Aadhaar number under section 262(6) and such person fails to do so
+on or before such date as prescribed, he shall be liable to pay such fee, as prescribed,
+not exceeding one thousand rupees, at the time of making intimation under that
+sub-section after the said date.
+
+40
+
+45
+
+445
+
+CHAPTER XX
+REFUNDS
+
+5
+
+10
+
+15
+
+431. If any person satisfies the Assessing Officer that the amount of tax paid
+by him or on his behalf or treated as paid by him or on his behalf for any tax year
+exceeds the amount with which he is properly chargeable under this Act for that
+year, he shall be entitled to a refund of the excess.
+
+Refunds.
+
+432. (1) Where the income of one person is included in total income of any
+another person under any provision of this Act, the latter shall be eligible for a
+refund under this Part in respect of such income.
+
+Person entitled
+to claim refund
+in certain
+special cases.
+
+(2) Where a person is unable to claim or receive a refund due to him on account
+of death, incapacity, insolvency, liquidation or other cause, his legal representative
+or the trustee or guardian or receiver, shall be entitled to claim or receive such refund
+for the benefit of such person or his estate.
+433. Every claim for refund under this Part shall be made by furnishing return
+as per section 263.
+434. (1) Where,––
+(a) under an agreement or other arrangement, in writing, the tax deductible
+on any income, other than interest in section 393(2) (Table: Sl. No. 17), is to be
+borne by the person by whom the income is payable; and
+
+20
+
+Form of claim
+for refund and
+limitation.
+Refund for
+denying
+liability to
+deduct tax in
+certain cases.
+
+(b) such person having paid such tax to the credit of the Central
+Government claims that no tax was required to be deducted on such income,
+he may, within thirty days from the date of payment of such tax, file an application
+before the Assessing Officer for refund of such tax in such form and such manner,
+as prescribed.
+
+25
+
+(2) The Assessing Officer shall, by an order in writing, allow or reject the
+application.
+(3) No application under sub-section (1) shall be rejected unless an
+opportunity of being heard has been given to the applicant.
+
+30
+
+(4) The Assessing Officer may, before passing an order under sub-section (2),
+make such inquiry as he considers necessary.
+(5) The order under sub-section (2) shall be passed within six months from the
+end of the month in which application under sub-section (1) is received.
+
+35
+
+435. (1) Where, as a result of any order passed in appeal or other proceeding
+under this Act, refund of any amount becomes due to the assessee, the Assessing
+Officer shall, except as otherwise provided in this Act, refund the amount to the
+assessee without his having to make any claim in that behalf.
+
+Refund on
+appeal, etc.
+
+(2) Where, by the order as referred to in sub-section (1),—
+
+40
+
+(a) an assessment is set aside or cancelled and an order of fresh
+assessment is directed to be made, the refund, if any, shall become due only
+on the making of such fresh assessment;
+(b) the assessment is annulled, the refund shall become due only of the
+amount, if any, of the tax paid in excess of the tax chargeable on the total
+income returned by the assessee.
+
+45
+
+436. In a claim under this part, it shall not be open to the assessee to question
+the correctness of any assessment, or other matter decided which has become final
+and conclusive, or ask for a review of the aforesaid assessment or matter; and the
+assessee shall not be entitled to any relief on such claim except refund of tax wrongly
+paid or paid in excess.
+
+Correctness of
+assessment not
+to be
+questioned.
+
+

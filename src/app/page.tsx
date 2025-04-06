@@ -8,7 +8,8 @@ interface Source {
   name: string;
   tag: string;
   excerpt: string;
-  sourcelink: string;
+  sourcelink?: string;
+  chapter_name: string;
 }
 
 interface Message {
@@ -35,6 +36,7 @@ export default function Home() {
   const [prompt, setPrompt] = useState('');
   const [messages, setMessages] = useState<Message[]>([]);
   const [error, setError] = useState<string | null>(null);
+  const [loading, setLoading] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
@@ -52,32 +54,22 @@ export default function Home() {
       content: prompt
     };
 
-    // DEBUG
     console.log('User message:', userMessage);
 
-    const updatedMessages = [...messages, userMessage];
-
-    setMessages(updatedMessages);
-    setPrompt('');
+    setMessages([userMessage]); // Only show current message
+    setLoading(true);
     setError(null);
+    setPrompt('');
 
     try {
-
-      // DEBUG
-      console.log('Sending messages to backend:', updatedMessages);
-
       const res = await fetch('/api/query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           prompt,
-          history: updatedMessages,
           user_name: randomUserName
         })
       });
-
-      // DEBUG
-      console.log('Response from backend:', res);
 
       if (!res.ok) {
         const errData = await res.json();
@@ -88,18 +80,18 @@ export default function Home() {
 
       const assistantMessage: Message = {
         role: 'assistant',
-        content: data.response,
+        content: data.content,
         sources: data.sources
       };
 
-      setMessages(prev => [...prev, assistantMessage]);
+      setMessages([userMessage, assistantMessage]); // Replace old messages with the new pair
     } catch (err: any) {
       console.error('Fetch error:', err.message);
       setError(err.message || 'Something went wrong. Please try again.');
+    } finally {
+      setLoading(false);
     }
   };
-
-
 
   return (
     <div className="min-h-screen bg-white flex flex-col">
@@ -192,7 +184,13 @@ export default function Home() {
                       ))}
                     </p>
                   </div>
+                )}{loading && (
+                  <div className="flex items-center space-x-2 text-gray-600 text-lg">
+                    <div className="w-5 h-5 border-2 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+                    <span>Generating response...</span>
+                  </div>
                 )}
+
               </div>
             ))}
           </div>

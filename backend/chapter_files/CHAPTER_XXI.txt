@@ -1,0 +1,1272 @@
+448
+
+and refund becomes due to a person, and the Assessing Officer, having regard to the
+fact that proceedings for assessment or reassessment are pending in the case of the
+person, may, for reasons to be recorded in writing and with the previous approval
+of the Principal Commissioner or the Commissioner, withhold the refund up to sixty
+days from the date on which such assessment or reassessment is made.
+
+5
+
+CHAPTER XXI
+PENALTIES
+Penalty for
+underreporting and
+misreporting
+of income.
+
+439. (1) The Competent Authority may, during the course of any proceedings
+under this Act, impose penalty on any person who has under-reported his income
+and such penalty shall be payable in addition to tax, if any.
+
+10
+
+(2) A person shall be deemed to have under-reported his income, if—
+(a) the income assessed is greater than the income determined in the
+return processed under section 270(1)(a);
+(b) the income assessed is greater than the maximum amount not
+chargeable to tax, where no return of income has been furnished or where
+return has been furnished for the first time under section 280;
+
+15
+
+(c) the income reassessed is greater than the income assessed or
+reassessed immediately before such reassessment;
+(d) the amount of deemed total income assessed or reassessed as per
+section 206, is greater than the deemed total income determined in the return
+processed under section 270(1)(a);
+(e) the amount of deemed total income assessed as per section 206, is
+greater than the maximum amount not chargeable to tax, where no return of
+income has been furnished or where return has been furnished for the first time
+under section 280;
+
+20
+
+25
+
+(f) the amount of deemed total income reassessed as per section 206, is
+greater than the total income assessed or reassessed under the said sections
+immediately before such reassessment;
+(g) the income assessed or reassessed has the effect of reducing the loss
+or converting such loss into income.
+
+30
+
+(3) The amount of under-reported income shall be,—
+(a) if income has been assessed for the first time,—
+(i) Where return has been furnished, the difference between the
+amount of income assessed and the amount of income determined under
+section 270(1)(a);
+
+35
+
+(ii) Where no return of income has been furnished or if return has
+been furnished for the first time under section 280,—
+(A) the amount of income assessed, in the case of a company,
+firm or local authority; and
+(B) the difference between the amount of income assessed
+and the maximum amount not chargeable to tax, in a case not
+covered in item (A);
+
+40
+
+449
+
+(b) in any other case, the difference between the amount of income
+reassessed or recomputed and the amount of income assessed, reassessed or
+recomputed in a preceding order.
+5
+
+(4) If under-reported income arises out of determination of deemed total
+income as per section 206, the amount of total under-reported income shall be
+determined as under—
+(A-B) + (C-D)
+where,—
+
+10
+
+A = the total income assessed as per the provisions other than the
+provisions contained in section 206 (herein referred to as “general
+provisions”);
+B = the total income that would have been chargeable had the total
+income assessed as per the general provisions been reduced by the amount of
+under-reported income;
+
+15
+
+C = the total income assessed as per section 206;
+D = the total income that would have been chargeable had the total
+income assessed as per section 206 been reduced by the amount of
+under-reported income.
+
+20
+
+25
+
+30
+
+35
+
+(5) (a) If the amount of under-reported income on any issue is considered both
+under section 206 and under general provisions, such amount shall not be reduced
+from total income assessed while determining the amount under D referred to in
+sub-section (4);
+(b) in a case where an assessment or reassessment has the effect of reducing
+the loss declared in the return or converting that loss into income, the amount of
+under-reported income shall be the difference between the loss claimed and the
+income or loss, assessed or reassessed.
+(6) Subject to sub-section (8), where the source of any receipt, deposit or
+investment in any tax year is claimed to be an amount added to income or deducted
+while computing loss, in the assessment of such person in any year prior to the tax
+year in which such receipt, deposit or investment appears (herein referred to as “the
+preceding year”) and no penalty was levied for such preceding year, then, the
+under-reported income shall include such amount as is sufficient to cover such
+receipt, deposit or investment.
+(7) The amount referred to in sub-section (6) shall be deemed to be income
+under-reported for the preceding year in the following order—
+(a) the preceding year immediately before the year in which the receipt,
+deposit or investment appears, being the first preceding year; and
+
+40
+
+(b) where the amount added or deducted in the first preceding year is not
+sufficient to cover the receipt, deposit or investment, the year immediately
+preceding the first preceding year and so on.
+(8) The under-reported income, for the purposes of this section, shall not
+include the following:—
+
+45
+
+50
+
+(a) the amount of income in respect of which the assessee offers an
+explanation and the Competent Authority, is satisfied that the explanation is
+bona fide and the assessee has disclosed all the material facts to substantiate
+the explanation offered;
+(b) the amount of under-reported income determined on the basis of an
+estimate, if the accounts are correct and complete to the satisfaction of the
+Competent Authority, but the method employed is such that the income cannot
+properly be deduced therefrom;
+
+450
+
+(c) the amount of under-reported income determined on the basis of
+an estimate, if the assessee has, on his own, estimated a lower amount of
+addition or disallowance on the same issue, has included such amount in
+the computation of his income and has disclosed all the facts material to the
+addition or disallowance; and
+(d) the amount of under-reported income represented by any addition
+made in conformity with the arm’s length price determined by the Transfer
+Pricing Officer, where the assessee had maintained information and
+documents as prescribed under section 171, declared the international
+transaction under Chapter X, and, disclosed all the material facts relating to
+the transaction.
+
+5
+
+10
+
+(9) The penalty referred to in sub-section (1) shall be 50% of the tax payable
+on under-reported income.
+(10) Irrespective of anything contained in sub-section (8) or (9), where underreported income is in consequence of any misreporting thereof by any person, the
+penalty referred to in sub-section (1) shall be 200% of the tax payable on underreported income.
+
+15
+
+(11) The cases of misreporting of income referred to in sub-section (10) shall
+be the following:—
+(a) misrepresentation or suppression of facts;
+
+20
+
+(b) failure to record investments in the books of account;
+(c) claim of expenditure not substantiated by any evidence;
+(d) recording of any false entry in the books of account;
+(e) failure to record any receipt in books of account having a bearing on
+total income; and
+
+25
+
+(f) failure to report any international transaction or any transaction
+considered to be an international transaction or any specified domestic
+transaction, to which the provisions of Chapter X apply.
+(12) The tax payable in respect of the under-reported income shall be—
+(a) where no return of income has been furnished or where return has
+been furnished for the first time under section 280 and the income has been
+assessed for the first time, the amount of tax calculated on the under-reported
+income as increased by the maximum amount not chargeable to tax as if it
+were the total income;
+
+30
+
+(b) if the total income determined under section 270(1)(a) or assessed,
+reassessed or recomputed in a preceding order is a loss, the amount of tax
+calculated on the under-reported income as if it were the total income;
+
+35
+
+(c) in any other case, determined as follows—
+(X-Y)
+where,—
+
+40
+
+X = the amount of tax calculated on the under-reported income as
+increased by the total income determined under section 270(1)(a) or total
+income assessed, reassessed or recomputed in a preceding order as if it
+were the total income; and
+Y = the amount of tax calculated on the total income determined
+under section 270(1)(a) or total income assessed, reassessed or
+recomputed in a preceding order.
+
+4
+5
+
+451
+
+(13) No addition or disallowance of an amount shall form the basis for
+imposition of penalty, if such addition or disallowance has already formed the basis
+for penalty in the case of the person for the same or any other tax year.
+5
+
+(14) The penalty referred to in sub-section (1) shall be imposed, by an order
+in writing by the Competent Authority.
+(15) In this section,—
+(a) “Competent Authority” means the Assessing Officer or the Joint
+Commissioner (Appeals) or the Commissioner (Appeals) or the
+Commissioner or the Principal Commissioner; and
+
+10
+
+(b) “preceding order” means an order immediately preceding the order
+during the course of which the penalty under sub-section (1) has been initiated.
+440. (1) An assessee may make an application to the Assessing Officer for
+granting immunity from penalty under section 439 and initiation of proceedings
+under section 478 or section 479, if––
+
+15
+
+Immunity from
+imposition of
+penalty, etc.
+
+(a) the tax and interest payable as per the order of assessment or
+reassessment under section 270(10) or section 279, has been paid within the
+period specified in the notice of demand; and
+(b) no appeal against the order referred to in clause (a) has been filed.
+
+20
+
+25
+
+(2) An application referred to in sub-section (1) shall be made within one
+month from the end of the month in which the order referred to in clause (a) of the
+said sub-section has been received in such form and such manner as prescribed.
+(3) The Assessing Officer, on fulfilment of the conditions as specified in subsection (1), and after the expiry of the period of filing appeal as specified in section
+358(3)(a), shall grant immunity from penalty under section 439 and initiation of
+proceedings under section 478 or 479.
+(4) No immunity under sub-section (3) shall be granted if penalty has been
+initiated under circumstances referred to in sub-section 439(11).
+
+30
+
+(5) The Assessing Officer, shall pass an order accepting or rejecting the
+application as referred to in sub-section (1) within three months from the end of the
+month of its receipt.
+(6) No order of rejection under sub-section (5) shall be made without giving
+the assessee an opportunity of being heard.
+(7) The order made under sub-section (5) shall be final.
+
+35
+
+(8) No appeal under section 356 or 357 or an application for revision under
+section 378 shall be admissible against the order referred to in sub-section (1)(a), if
+an order under sub-section (5) has been made accepting the application.
+441. A penalty of twenty-five thousand rupees shall be imposed on a person
+by the Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner
+(Appeals), if he fails to—
+
+40
+
+(a) keep and maintain the books of account and other documents as per
+section 62 or the relevant rules, in respect of any tax year; or
+(b) retain such books of account and other documents for the period
+specified in the said rules.
+
+Failure to
+keep, maintain
+or retain books
+of account,
+documents,
+etc.
+
+452
+
+Penalty for
+failure to keep
+and maintain
+information
+and document,
+etc., in respect
+of certain
+transactions.
+
+442. (1) The Assessing Officer or Commissioner (Appeals) may impose a
+penalty of 2% of the value of each international transaction or specified domestic
+transaction entered into by a person, if in respect of such transaction he,—
+(a) fails to keep and maintain any such information and document as
+required by section 171(1);
+
+5
+
+(b) fails to report such transaction as he is required to do so; or
+(c) maintains or furnishes an incorrect information or document.
+(2) The prescribed income-tax authority referred to in section 171(4)
+may impose a penalty of five lakh rupees on a person, if he fails to furnish the
+information and document required under the said section.
+Penalty in
+respect of
+certain
+income.
+
+10
+
+443. (1) The Assessing Officer or the Joint Commissioner (Appeals) or
+Commissioner (Appeals) may impose a penalty of 10% of the tax payable under
+section 195(1)(i), on an assessee if the income determined in his case for any tax
+year includes any income referred to in section 102, 103, 104, 105 or 106.
+(2) The penalty under sub-section (1) shall be payable in addition to the tax
+payable under section 195.
+(3) No penalty shall be levied on income referred to in section 102, 103, 104,
+105 or 106 to the extent such income has been included by the assessee in the return
+of income furnished under section 263 and the tax as per section 195(1)(i) has been
+paid on or before the end of the relevant tax year.
+
+15
+
+20
+
+(4) No penalty under section 439 shall be imposed upon the assessee in respect
+of income referred to in sub-section (1).
+(5) The provisions of sections 471 and 472 shall as far as may be, apply in
+relation to the penalty referred to in this section.
+Penalty for
+false entry,
+etc., in books
+of account.
+
+444. The Assessing Officer or the Joint Commissioner (Appeals) or the
+Commissioner (Appeals), may impose a penalty equal to the aggregate amount of
+false or omitted entry, where during any proceeding under this Act, it is found that
+in the books of account maintained by any person there is—
+
+25
+
+(a) a false entry; or
+(b) an omission of any entry which is relevant for computation of total
+income of such person, to evade tax liability.
+(2) Without prejudice to sub-section (1), the Assessing Officer or the Joint
+Commissioner (Appeals) or the Commissioner (Appeals) may impose a penalty
+equal to the aggregated amount of false or omitted entry, on any other person, who
+causes the person referred to in the said sub-section in any manner to make a false
+entry or omits or causes to omit any entry referred to in that sub-section.
+
+30
+
+35
+
+(3) In this section, “false entry” includes use or intention to use—
+(a) forged or falsified documents such as a false invoice or, in general, a
+false piece of documentary evidence; or
+(b) invoice in respect of supply or receipt of goods or services or both
+issued by the person or any other person without actual supply or receipt of
+such goods or services or both; or
+(c) invoice in respect of supply or receipt of goods or services or both to
+or from a person who does not exist.
+
+40
+
+453
+
+445. (1) If during any proceedings under this Act, it is found that a registered
+non-profit organisation has any specified income which is chargeable to tax as per
+section 337 (Table: Sl. No. 2), the Assessing Officer may impose on such person, a
+penalty of—
+5
+
+10
+
+15
+
+Benefits to
+related
+persons.
+
+(a) a sum equal to the aggregate amount of income applied, directly or
+indirectly, by such person, for the benefit of any related person referred to
+in section 355(i), if the violation is noticed for the first time during any tax
+year; and
+(b) a sum equal to 200% of the aggregate amount of income of such
+person applied, directly or indirectly, by that person for the benefit of any
+person referred to in section 355(i), if the violation is noticed again in any
+subsequent tax year.
+446. If any person fails to get his accounts audited for any tax year or years or
+furnish the audit report as required under section 63, the Assessing Officer may
+impose a penalty on such person, which shall be the lesser of––
+
+Failure to get
+accounts
+audited.
+
+(a) 0.5% of the total sales, turnover, or gross receipts in business, or the
+gross receipts in profession for such tax year or years; or
+(b) one lakh fifty thousand rupees.
+20
+
+447. If any person fails to furnish a report from an accountant as required
+by section 172, the Assessing Officer may impose a penalty of one lakh rupees
+on such person.
+448. (1) If any person fails to—
+(a) deduct the whole or in part, the tax as required under
+Chapter XIX-B; or
+
+25
+
+Penalty for
+failure to
+furnish report
+under section
+172.
+Penalty for
+failure to
+deduct tax at
+source.
+
+(b) pay or ensure the payment of, the whole or any part of the tax as
+required by or under—
+(i) Note 3 in Table in section 393(3); or
+(ii) Note 6 to section 393(1) (Table: Sl. No. 8),
+
+30
+
+35
+
+40
+
+then, the Assessing Officer may impose on him, a penalty equal to the tax which
+such person failed to deduct or pay or ensure payment of, as aforesaid.
+449. (1) If any person fails to collect the whole or in part, the tax as required
+under Chapter XIX-B, the Assessing Officer may impose on him, a penalty equal to
+the tax which such person failed to collect.
+
+Penalty for
+failure to
+collect tax at
+source.
+
+450. If a person takes or accepts any loan or deposit or specified sum in
+contravention of the provisions of section 185, the Assessing Officer may impose
+on him, a penalty equal to the amount of the loan or deposit or specified sum so
+taken or accepted.
+
+Penalty
+for
+failure
+to
+comply
+with
+provisions
+of
+section 185.
+
+451. The Assessing Officer may impose on a person, a penalty equal to the
+sum received by him in contravention of the provisions of section 186 except
+where he proves that there were good and sufficient reasons for the said
+contravention.
+
+Penalty
+for
+failure
+to
+comply
+with
+provisions
+of
+section 186.
+
+454
+
+Penalty for
+failure to
+comply with
+provisions of
+section 187.
+
+452. The Assessing Officer may impose on a person, a penalty of five
+thousand rupees for every day of the duration of failure where he fails to provide a
+facility for accepting payments through the prescribed electronic modes of payment,
+as referred to in section 187 except when he proves that there were good and
+sufficient reason for such failure.
+
+Penalty for
+failure to
+comply with
+provisions of
+section 188.
+
+453. If a person repays any loan or deposit or specified advance referred to in
+section 188 otherwise than in accordance with the provisions of that section, the
+Assessing Officer may impose on him, a penalty equal to the loan or deposit or
+specified advance so repaid.
+
+Penalty for
+failure to
+furnish
+statement of
+financial
+transaction or
+reportable
+account.
+
+454. (1) If a person who is required to furnish a statement of financial
+transaction or reportable account under section 508(1), fails to furnish such
+statement within the time prescribed under sub-section (2) thereof, the incometax authority prescribed under the said sub-section (1) may impose on him, a
+penalty of five hundred rupees for every day during which such failure
+continues.
+(2) If the person referred to in sub-section (1), fails to furnish the statement
+within the period specified in the notice issued under section 508(7), he shall pay
+penalty of one thousand rupees for every day during which the failure continues,
+beginning from the day immediately after the time specified in the such notice for
+furnishing the statement expires.
+
+Penalty for
+furnishing
+inaccurate
+statement of
+financial
+transaction or
+reportable
+account.
+
+5
+
+10
+
+15
+
+20
+
+455. (1) The prescribed income-tax authority referred to in section 508 may
+direct that a person required to furnish a statement under sub-section (1) of the said
+section shall pay penalty of fifty thousand rupees, if such person—
+(a) provides inaccurate information in the statement or fails to furnish
+correct information within the period specified under section 508(8); or
+
+25
+
+(b) fails to comply with the due diligence requirement under
+section 508(9).
+(2) The prescribed income-tax authority referred to in section 508, may
+direct that a reporting financial institution referred to in sub-section (1)(k) of the
+said section, shall, in addition to the penalty under sub-section (1) of this section,
+if any, pay a sum of five thousand rupees for every inaccurate reportable
+account, if––
+
+30
+
+(a) the said institution provides inaccurate information in the statement
+required to be furnished under section 508(1); and
+(b) the inaccuracy in the said statement is due to false or inaccurate
+information furnished by the holder or holders of the relevant reportable
+account or accounts.
+
+35
+
+(3) The reporting financial institution shall be entitled to––
+(a) recover the amount paid under sub-section (2) on behalf of the
+reportable account holder; or
+
+40
+
+(b) retain an amount equal to the sum so paid out of any moneys that
+may be in its possession, or may come to it from every such account holder.
+Penalty for
+failure to furnish
+statement or
+information or
+document by an
+eligible
+investment fund.
+
+456. If any eligible investment fund required to furnish a statement or
+any information or document under section 9(12)(e) [section 9A (5)], fails to
+do so within the time prescribed under that section, the income-tax authority
+prescribed under the said section may direct that such fund shall pay, by way
+of penalty, a sum of five lakh rupees.
+
+45
+
+455
+
+5
+
+10
+
+457. If any person who has entered into an international transaction or
+specified domestic transaction fails to furnish any such information or document as
+required by section 171(2), a penalty equal to 2 % of the value of such transaction
+may be imposed upon him for each such failure by the Assessing Officer or the
+Transfer Pricing Officer as referred to in section 166 or the Commissioner
+(Appeals).
+
+Penalty for
+failure to
+furnish
+information or
+document
+under section
+171.
+
+458. If any Indian concern which is required to furnish any information or
+document under section 506, fails to do so, the prescribed income-tax authority
+under the said section, may direct that such Indian concern shall pay by way of
+penalty, a sum of—
+
+Penalty for
+failure to
+furnish
+information or
+document
+under section
+506.
+
+(a) 2% of the value of the transaction in respect of which such failure
+has taken place, if such transaction had the effect of directly or indirectly
+transferring the right of management or control in relation to the Indian
+concern;
+(b) five lakh rupees, in any other case.
+
+15
+
+459. (1) If any reporting entity referred to in section 511, required to furnish
+the report referred to in sub-section (2) of the said section, for a reporting accounting
+year, fails to do so, the prescribed authority under that section may impose on such
+entity, a penalty of—
+(a) five thousand rupees for every day for which the failure continues, if
+the period of failure does not exceed one month; or
+
+20
+
+Penalty
+for
+failure to furnish
+report or for
+furnishing
+inaccurate
+report
+under
+section 511.
+
+(b) fifteen thousand rupees for every day for which the failure continues
+beyond the period of one month.
+25
+
+(2) If a reporting entity referred to in section 511 fails to produce the
+information and documents within the period allowed under sub-section (7) of the
+said section, the prescribed authority under that section may impose on such entity,
+a penalty of five thousand rupees for every day during which the failure continues,
+beginning from the day immediately following the day on which the period for
+furnishing the information and document expires.
+
+30
+
+(3) If the failure referred to in sub-section (1) or (2) continues after an order
+imposing a penalty under the said sub-sections, has been served on the entity, then,
+irrespective of the provisions of the said sub-sections, the prescribed authority may
+impose penalty of fifty thousand rupees for every day for which such failure
+continues starting from the date of service of such order.
+
+35
+
+(4) If a reporting entity referred to in section 511 provides inaccurate
+information in the report furnished under sub-section (2) of the said section, the
+prescribed authority under that section may impose on such entity, a penalty of
+five lakh rupees, if—
+(a) the entity has knowledge of the inaccuracy at the time of furnishing
+the report but fails to inform the prescribed authority; or
+
+40
+
+(b) the entity discovers the inaccuracy after the report is furnished and
+fails to inform the prescribed authority and furnish correct report within fifteen
+days of such discovery; or
+(c) the entity furnishes inaccurate information or document in
+response to the notice issued under section 511(7).
+
+45
+4
+
+460. If a person required to furnish statement under section 505, fails to do so
+within the period prescribed under that section, the Assessing Officer may impose
+on him, a penalty of—
+
+Penalty
+for
+failure to submit
+statement under
+section 505.
+
+456
+
+(a) one thousand rupees for every day for which the failure continues, if
+the period of failure does not exceed three months; or
+(b) one lakh rupees in any other case.
+Penalty for
+failure to
+furnish
+statements, etc.
+
+461. (1) Where a person, who is required to deliver or causes to be delivered
+a statement prescribed in section 397(3)(b), fails to do so within the time prescribed
+in the said section, or furnishes incorrect information in the said statement, the
+Assessing Officer may impose on such person, a penalty of a sum which shall not
+be less than ten thousand rupees but which may extend to one lakh rupees.
+(2) No penalty shall be levied under sub-section (1) for delay in filing or
+non-filing of statement referred therein, if the person proves that—
+
+5
+
+10
+
+(a) tax deducted or collected along with the fee and interest, if any, was
+paid to the credit of the Central Government; and
+(b) the said statement was also delivered before the expiry of one month
+from the time prescribed in section 397(3)(b).
+Penalty for
+failure to furnish
+information or
+furnishing
+inaccurate
+information
+under section
+397 (3)(d).
+
+462. If a person, who is required to furnish information under
+section 397 (3)(d), fails to furnish such information, or furnishes inaccurate
+information, the Assessing Officer may impose a penalty of one lakh rupees.
+
+Penalty for
+furnishing
+incorrect
+information in
+reports or
+certificates.
+
+463. (1) Any accountant or merchant banker or registered valuer, shall be
+liable to pay a penalty of ten thousand rupees for any incorrect information in any
+report or certificate furnished under any provision of this Act or the rules made
+thereunder.
+
+15
+
+20
+
+(2) The penalty under sub-section (1) shall be payable in respect of each
+incorrect report or certificate.
+(3) The penalty under sub-section (1) shall be payable on directions of the
+Assessing Officer or the Joint Commissioner (Appeals) or the Commissioner
+(Appeals) where the inaccuracy mentioned in sub-section (1) is found by such
+authority in the course of any proceedings under this Act.
+
+25
+
+(4) In this section,—
+(a) “merchant banker” means Category I merchant banker registered
+with the Securities and Exchange Board of India established under section 3
+of the Securities and Exchange Board of India Act, 1992; and
+
+30
+15 of 1992.
+
+(b) “registered valuer” means a person registered as a valuer under
+section 514.
+Penalty for
+failure to
+furnish
+statements, etc.
+
+464. The Assessing Officer may impose a penalty which shall not be less than
+ten thousand rupees but which may extend up to one lakh rupees on—
+
+35
+
+(a) the research association, University, college or other institution
+referred to in section 45, if it fails to deliver or furnish the documents as
+prescribed under section 45(4)(a); or
+(b) the institution or fund, if it fails to deliver or cause to be delivered a
+statement within the time prescribed under section 354(1)(e) or (f), or furnish
+a certificate prescribed under section 354(1)(g).
+
+40
+
+457
+
+465. (1) A person shall be liable to pay a penalty of ten thousand rupees for
+each default or failure as mentioned below, if that person,—
+
+5
+
+(a) being legally bound to state the truth of any matter touching the
+subject of his assessment, refuses to answer any question put to him by an
+income-tax authority in the exercise of its powers under this Act; or
+(b) refuses to sign any statement made by him in the course of any
+proceedings under this Act, which an income-tax authority may legally require
+him to sign; or
+
+10
+
+(c) to whom a summons is issued under section 246(1), either to attend
+to give evidence or to produce books of account or other documents at a certain
+place and time omits to attend or produce books of account or documents at
+the place or time; or
+(d) fails to comply with a notice under section 268(1) or (2) or 270(8) or
+fails to comply with a direction issued under section 268(5).
+
+15
+
+(2) A person shall be liable to pay a penalty of five hundred rupees for every
+day during which the following failures continue, if that person fails to—
+(a) comply with a notice under section 175(7); or
+(b) give the notice of discontinuance of his business or profession as
+required by section 320(3); or
+
+20
+
+(c) furnish in due time any of the returns, statements or particulars
+mentioned in section 252 or section 397(3) or 507; or
+(d) allow inspection of any register referred to in section 255 or of any
+entry in such register or to allow copies of such register or of any entry therein
+to be taken; or
+
+25
+
+(e) furnish the return of income as required under section263(1)(a)(iii)
+or (iv) or to furnish it within the time allowed and in the manner required under
+sections 263(1) and (2); or
+(f) deliver or cause to be delivered in due time a copy of the declaration
+mentioned in section 393(6); or
+
+30
+
+(g) furnish a certificate under section 395(4); or
+(h) deduct and pay tax under section 416(3); or
+(i) furnish a statement under section 389(5)(a); or
+(j) deliver or cause to be delivered in due time a copy of the declaration
+referred to in section 394(2); or
+
+35
+
+(k) deliver or cause to be delivered the statement within the time
+specified in section 397(3)(g); or
+(l) deliver or cause to be delivered a statement within the time as
+prescribed under section 397(3)(e).
+
+40
+
+(3) The amount of penalty shall not exceed the amount of tax deductible or
+collectible for failures in relation to the following:––
+(a) a declaration mentioned in section 393(6);
+(b) a certificate as required by section 395(4); and
+(c) statements under section 397(3)(b) or (e).
+
+Penalty for failure
+to
+answer
+questions,
+sign
+statements,
+furnish
+information,
+returns
+or
+statements, allow
+inspections, etc.
+
+458
+
+(4) Any penalty imposable under sub-section (1) or (2) shall be imposed—
+(a) if the contravention, failure or default for which such penalty is
+imposable occurs in the course of any proceeding before an income-tax
+authority not below the rank of Joint Director or a Joint Commissioner, by
+such income-tax authority;
+
+5
+
+(b) in a case falling under sub-section (1)(d), by the income-tax authority
+who had issued the notice or direction referred to therein;
+(c) in a case falling under of sub-section (2)(f), by the Principal Chief
+Commissioner or Chief Commissioner or Principal Commissioner or
+Commissioner; and
+
+10
+
+(d) in any other case, by the Joint Director or the Joint Commissioner.
+(5) In this section, “income-tax authority” includes a Principal Director
+General or Director General, Principal Director or Director, Joint Director and an
+Assistant Director or Deputy Director while exercising the powers vested in a court
+under the Code of Civil Procedure, 1908, when trying a suit in respect of the matters
+specified in section 246(1).
+Penalty for
+failure to
+comply with
+the provisions
+of section 254.
+
+466. If a person fails to comply with the provisions of section 254, the Joint
+Commissioner, Deputy Director or Assistant Director or the Assessing Officer, may
+impose a penalty which may extend up to one thousand rupees on him.
+
+Penalty for
+failure to
+comply with
+the provisions
+of section 262.
+
+467. (1) If a person fails to comply with the provisions of section 262, the
+Assessing Officer may impose a penalty of ten thousand rupees on him.
+
+Penalty for
+failure to comply
+with the
+provisions of
+section 397(1).
+
+Power to reduce
+or waive penalty,
+etc., in certain
+cases.
+
+(2) If a person, required to quote or intimate his permanent account number or
+Aadhaar number in any document as referred to in section 262(9)(a), provides or
+quotes or intimates a number which is false, knowing or believing it to be false, the
+Assessing Officer may impose a penalty of ten thousand rupees on him for each
+such default.
+
+15
+
+20
+
+25
+
+(3) If a person fails to quote or authenticate his permanent account number
+or Aadhaar number in any document referred to in section 262(9)(a), the
+Assessing Officer may impose a penalty of ten thousand rupees on him for each
+such default.
+
+30
+
+(4) If a person referred to in 262(9)(b) responsible for ensuring the correct
+quoting or authentication of permanent account number or Aadhaar number, in
+documents relating to transactions prescribed under section 262(9)(a) fails to do so,
+the Assessing Officer may impose a penalty of ten thousand rupees on him for each
+such default.
+
+35
+
+468. (1) If a person fails to comply with the provisions of section 397, the
+Assessing Officer may impose a penalty of ten thousand rupees on him.
+(2) If a person, required to quote his Tax Deduction and Collection
+Account Number in documents (such as challans, certificates, or statements)
+referred to in section 397(1)(b), quotes a number which is false, knowing or
+believing it to be false, the Assessing Officer may impose a penalty of ten
+thousand rupees on him.
+469. (1) Irrespective of anything contained in this Act, the Principal
+Commissioner or Commissioner may, whether on his own motion or otherwise,
+at his discretion reduce or waive the penalty imposed or imposable under section
+439 if he is satisfied that such person,––
+
+40
+
+45
+
+5 of 1908.
+
+459
+
+(a) before the Assessing Officer detected any concealment of particulars
+of income or of the inaccuracy of particulars furnished in respect of such
+income, has made a full and true disclosure of such particulars voluntarily and
+in good faith; and
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(b) has cooperated in any enquiry relating to the assessment of his
+income and has paid or made satisfactory arrangements to pay any tax or
+interest payable in consequence of an order passed under this Act in respect of
+the relevant tax year.
+(2) For the purposes of sub-section (1), a person shall be deemed to have made
+full and true disclosure of his income or of the particulars relating thereto if the
+difference between the assessed and returned income does not attract penalties under
+section 439.
+(3) If the penalty under section 439 relates to income or disclosure in respect
+of income relates to more than one tax year and aggregate amount of such income
+or disclosure thereof for such years exceeds five lakh rupees, the Principal
+Commissioner or Commissioner shall obtain prior approval from the Principal Chief
+Commissioner or Chief Commissioner or Principal Director General or Director
+General, as the case may be, before waiving or reducing the penalty by order
+referred to in sub-section (1).
+(4) Where an order has been made under sub-section (1) in favour of any
+person, whether such order relates to one or more tax years, he shall not be entitled
+to any relief under this section in relation to any other tax year at any time after the
+making of such order.
+(5) The Principal Commissioner or Commissioner may, upon an application from
+the assessee, and after recording his reasons for doing so, reduce or waive the amount of
+penalty or penalties (whether they relate to one or more tax years) payable by the assessee
+or stay or compound any proceeding for the recovery of any such amount, if––
+(a) doing otherwise would cause genuine hardship to the assessee,
+having regard to the circumstances of the case; and
+(b) the assessee has cooperated in any inquiry relating to the assessment
+or any proceeding for the recovery of any amount due from him.
+
+35
+
+40
+
+(6) The Principal Commissioner or Commissioner shall take prior approval
+from the Principal Chief Commissioner or Chief Commissioner or Principal
+Director General or Director General, as the case may be, if the aggregate amount
+of penalties reduced or waived or compounded, as the case may be, under
+sub-section (5), exceeds one lakh rupees.
+(7) An order under sub-section (5), accepting or rejecting the application under
+the said sub-section, shall be passed within twelve months from the end of the month
+in which such application was received by the Principal Commissioner or
+Commissioner.
+(8) No rejection of application under sub-section (5) shall be made without
+giving the assessee an opportunity of being heard.
+
+45
+
+50
+
+(9) Every order made under this section shall be final and shall not be called
+into question by any court or any other authority.
+470. Irrespective of anything contained in the provisions of section 441 or 442
+or 446 or 447 or 448 or 449 or 450 or 451 or 454 or 455 or 456 or 457 or 458 or 459
+or 460 or 461 or 462 or 463 or 465(1)(c) or 465(1)(d) or 465(2)(c) or 465(2)(d) or
+466 or 467 or 468(1) or 468(2), no penalty shall be imposed on a person or assessee
+for any failure referred to in the said provisions, if he proves that there was
+reasonable cause for the said failure.
+
+Penalty not to be
+imposed in certain
+cases.
+
+460
+
+Procedure.
+
+471. (1) No order imposing a penalty under this Chapter shall be made unless
+the assessee has been heard, or has been given a reasonable opportunity of being
+heard.
+(2) No order imposing a penalty under this Chapter shall be made without the
+prior approval of the Joint Commissioner—
+
+5
+
+(a) where the penalty exceeds ten thousand rupees, by the Income-tax
+Officer;
+(b) where the penalty exceeds twenty thousand rupees, by the Assistant
+Commissioner or Deputy Commissioner.
+(3) An income-tax authority on making an order under this Chapter imposing
+a penalty, unless he himself is the Assessing Officer, shall send a copy of the order
+to the Assessing Officer.
+Bar of
+limitation for
+imposing
+penalties.
+
+10
+
+472. (1) No order imposing a penalty under this Chapter shall be passed after
+the expiry of six months from the end of the quarter in which—
+(a) the proceedings, in the course of which action for the imposition of
+penalty has been initiated, are completed, if the relevant assessment or other
+order is not the subject-matter of an appeal under section 356 or 357 or 362;
+
+15
+
+(b) the order of revision is passed, if the relevant assessment or other
+order is the subject-matter of revision under section 377 or 378;
+(c) the order of appeal is received by the jurisdictional Principal
+Commissioner or Commissioner, if the relevant assessment or other order is
+the subject-matter of an appeal under section 356 or 357 or 362;
+
+20
+
+(d) notice for imposition of penalty is issued, in any other case.
+(2) The order imposing or enhancing or reducing or cancelling penalty or
+dropping the proceedings for the imposition of penalty may be revised on the basis
+of assessment as revised by giving effect to the order under section 356 or
+357 or 362 or 365 or 367 or revision under section 377 or 378, where the relevant
+assessment or other order is the subject-matter of an appeal or revision under the
+said sections.
+(3) No order imposing or enhancing or reducing or cancelling penalty or
+dropping the proceedings for the imposition of penalty under sub-section (2) shall
+be passed—
+
+25
+
+30
+
+(a) unless the assessee has been heard, or has been given a reasonable
+opportunity of being heard;
+(b) after the expiry of six months from the end of the quarter in which
+the order under section 356 or 357 or 362 or 365 or 367 is received by the
+jurisdictional Principal Commissioner or Commissioner or the order of
+revision under section 377 or 378 is passed.
+(4) The provisions of section 471(2) shall apply to the order imposing or
+enhancing or reducing penalty under this section.
+
+35
+
+40
+
+(5) In computing the period of limitation for the purposes of this section,
+following period shall be excluded—
+(a) the time taken in giving an opportunity to the assessee to be reheard
+under the section 244 (2);
+(b) the period commencing on the date on which stay on proceeding for
+levy of penalty was granted by an order or injunction of any court and ending
+on the date on which certified copy of the order vacating the stay was received
+by jurisdictional Principal Commissioner or Commissioner.
+
+45
+
+461
+
+CHAPTER XXII
+OFFENCES AND PROSECUTION
+
+5
+
+10
+
+15
+
+20
+
+473. Whoever contravenes any order referred to in section 247(1)(viii) or (4)
+shall be punishable with rigorous imprisonment which may extend to two years and
+shall also be liable to fine.
+
+Contravention of
+order made under
+section 247.
+
+474. If a person, who is required to afford the authorised officer with the
+necessary facility to inspect the books of account or other documents under section
+247(1)(b)(ii) fails to do so, he shall be punishable with rigorous imprisonment for a
+term which may extend to two years and shall also be liable to fine.
+
+Failure
+to
+comply
+with
+section
+247(1)(b)(ii).
+
+475. Whoever, fraudulently removes, conceals, transfers or delivers to any
+person, any property or any interest therein, with the intent to prevent such
+property or interest from being taken in execution of a certificate as prescribed,
+shall be punishable with rigorous imprisonment for a term which may extend to
+two years and shall also be liable to fine.
+476. (1) If a person fails to—
+(a) pay to the credit of the Central Government, the tax deducted at
+source by him as required by or under the provisions of Chapter XIX-B; or
+(b) pay tax or ensure payment of tax to the credit of the Central
+Government, as required under—
+(i) Note 3 in Table in section 393(3); or
+
+Removal,
+concealment,
+transfer
+or
+delivery
+of
+property
+to
+prevent
+tax
+recovery.
+
+Failure to pay tax
+to credit of
+Central
+Government
+under Chapter
+XIX-B.
+
+(ii) Note 6 to section 393(1) (Table: Sl. No. 8),
+he shall be punishable with rigorous imprisonment for a term which shall not be less than
+three months but which may extend to seven years, and shall also be liable to fine.
+25
+
+30
+
+(2) The provisions of this section shall not apply if the payment referred to in
+sub-section (1)(a) has been credited to the Central Government on or before the time
+prescribed for filing the statement for such payment under section 397(3)(b).
+477. (1) Where a person fails to pay to the credit of the Central Government
+the tax collected by him as required under section 394, he shall be punishable
+with rigorous imprisonment for a term which shall not be less than three months
+but which may extend to seven years and shall also be liable to fine.
+
+Failure to pay tax
+collected
+at
+source.
+
+(2) The provisions of this section shall not apply if the payment of the tax
+collected at source has been made to the credit of the Central Government at any
+time on or before the time prescribed for filing the statement under
+section 397(3)(b) in respect of such payment.
+35
+
+40
+
+45
+
+50
+
+478. (1) If a person wilfully attempts in any manner to evade payment of any
+tax, penalty or interest chargeable or imposable, or under-reports his income, under
+this Act, he shall be punishable,—
+(a) in a case, where the amount sought to be evaded or tax on
+under-reported income exceeds twenty-five lakh rupees, with rigorous
+imprisonment for a term which shall not be less than six months but which
+may extend to seven years and shall also be liable to fine;
+(b) in any other case, with rigorous imprisonment for a term which shall
+not be less than three months but which may extend to two years and shall also
+be liable to fine,
+and shall also be liable for penalty that may be imposable on him under any other
+provision of this Act.
+(2) If a person wilfully attempts in any manner to evade the payment of any
+tax, penalty or interest under this Act, he shall be punishable with rigorous
+imprisonment for a term which shall not be less than three months but which
+may extend to two years and shall, in the discretion of the court, also be liable
+4
+to fine.
+
+Wilful attempt to
+evade tax, etc.
+
+

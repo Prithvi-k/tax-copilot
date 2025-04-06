@@ -1,0 +1,2442 @@
+158
+
+(5) Irrespective of anything contained in sub-section (4), if the conditions
+specified in sub-section 4(f) is not complied with in any tax year after the
+completion of strategic disinvestment, the provisions of sub-section (3) shall
+apply for such tax year and subsequent tax years.
+(6) In this section,—
+
+5
+
+(a) a company shall be a subsidiary of another company, if such other
+company holds more than half in nominal value of the equity share capital
+of the company;
+(b) the expression “erstwhile public sector company” shall have the
+meaning assigned to it in section 116(3)(b);
+
+10
+
+(c) “strategic disinvestment” shall have the meaning assigned to it in
+section 116(3)(c);
+(d) “Tribunal” shall have the same meaning as assigned to it in
+section 2(90) of the Companies Act, 2013.
+No set off of
+losses against
+undisclosed
+income
+consequent to
+search,
+requisition and
+survey.
+
+120. (1) Irrespective of anything to the contrary contained in any other
+provision of this Act, any loss, whether brought forward or otherwise or
+unabsorbed depreciation, shall not be allowed to be set off against any undisclosed
+income which is included in the total income of any tax year, consequent to a
+search conducted under section 247 or a requisition under section 248 or a survey
+conducted under section 253, not being a survey under section 253(4).
+
+18 of 2013.
+15
+
+20
+
+(2) In this section, the expression “undisclosed income” for any tax year
+shall have the meaning assigned to it in section 301.
+Submission of
+return for losses.
+
+121. Irrespective of anything contained in this Chapter, no loss which has
+not been determined in pursuance of a return filed under section 263(1), shall be
+carried forward and set off under section 111(1) and 111(2), or 112(1), or 113(2),
+or 114(2) or 115(1).
+
+25
+
+CHAPTER VIII
+DEDUCTIONS TO BE MADE IN COMPUTING TOTAL INCOME
+A.—General
+Deductions to
+be made in
+computing total
+income.
+
+121. (1) In computing the total income of an assessee, the deductions
+specified in this Chapter shall be allowed from his gross total income, as per and
+subject to the provisions of this Chapter.
+
+30
+
+(2) The aggregate amount of the deductions under this Chapter shall not, in
+any case, exceed the gross total income of the assessee.
+(3) If the deduction under section 133 or 135 or 137 or 138 or 141 or 142
+or 143 is admissible in computing the total income of an association of persons or
+a body of individuals, no deduction under the same provision shall be made in
+relation to the share of income of a member of such association of persons or body
+of individuals while computing the total income of such member.
+
+35
+
+(4) Irrespective of anything to the contrary contained in any of the provisions
+of this Chapter under the heading “Deductions in respect of certain incomes”,
+where, in the case of an assessee, any amount of profits and gains of an
+undertaking or unit or enterprise or eligible business is claimed and allowed as a
+deduction under those provisions for any tax year,––
+
+40
+
+(a) deduction in respect of, and to the extent of, such profits and gains
+shall not be allowed under any other provision of this Act for such tax year; and
+
+45
+
+(b) shall in no case exceed the profits and gains of such undertaking
+or unit or enterprise or eligible business.
+
+159
+
+(5) Deduction under the provisions of Part C of this Chapter shall not be
+allowed to an assessee, who fails to—
+(a) furnish a return of income on or before the due date specified under
+section 263(1); or
+5
+
+(b) make a claim of deduction in return furnished under section 263(1).
+(6) For the purposes of any deduction under this Chapter, irrespective of
+anything to the contrary contained in Part C of this Chapter, if any goods or
+services held for the purposes of––
+
+10
+
+(a) the undertaking, unit, enterprise or eligible business carried on by the
+assessee are transferred to any other business carried on by the assessee; or
+(b) any other business carried on by the assessee are transferred to the
+undertaking or unit or enterprise or eligible business of the assessee; and
+
+15
+
+(c) the consideration, if any, for such transfer as recorded in the accounts
+of the undertaking or unit or enterprise or eligible business does not
+correspond to the market value of such goods or services as on the date of
+transfer,
+the profits and gains of such undertaking or unit or enterprise or eligible business
+carried on by the assessee, shall be computed as if the transfer in clause (a) or (b),
+had been made at the market value of such goods or services as on that date.
+
+20
+
+(7) For the purposes of sub-section (6), “market value”,—
+(a) in relation to any goods or services sold or supplied, means the
+price that such goods or services would fetch, if these were sold by the
+undertaking or unit or enterprise or eligible business in the open market,
+subject to statutory or regulatory restrictions, if any;
+
+25
+
+30
+
+35
+
+40
+
+45
+
+(b) in relation to any goods or services acquired, means the price that
+such goods or services would cost if these were acquired by the undertaking
+or unit or enterprise or eligible business from the open market, subject to
+statutory or regulatory restrictions, if any; and
+(c) in relation to any goods or services sold, supplied or acquired
+means the arms length price of such goods or services as defined in section
+173(a), if it is a specified domestic transaction referred to in section 164.
+(8) Where a deduction under Part C of this Chapter, is claimed and allowed
+in respect of profits of a specified business as referred to in section 46(11)(d) for
+any tax year, no deduction shall be allowed for such specified business under
+section 46 for the same or any other tax year.
+(9) Where any deduction is required to be made or allowed under Part C of
+this Chapter, in respect of any income of the nature specified in that section and
+included in the gross total income of the assessee, then, irrespective of anything
+contained in that section, for the purpose of computing the deduction under that
+section, the amount of income of that nature as computed under the provisions of
+this Act (before making any deduction under this Chapter) shall alone be deemed
+to be the amount of income of that nature which is derived or received by the
+assessee and which is included in his gross total income.
+(10) In this Chapter, “gross total income” means the total income computed
+as per the provisions of this Act, before making deduction under this Chapter.
+B.—Deductions in respect of certain payments
+
+50
+
+123. An individual or a Hindu undivided family, shall be allowed a
+deduction of the whole of the amount paid or deposited in the tax year, being the
+aggregate of the sums enumerated in Schedule XV, but not exceeding one lakh
+fifty thousand rupees, while computing the total income for that year, subject to
+the conditions specified in that Schedule.
+
+Deduction for life
+insurance premia,
+deferred annuity,
+contributions to
+provident fund,
+etc.
+
+160
+
+Deduction in
+respect of
+employer
+contribution to
+pension scheme
+of Central
+Government.
+
+124. (1) Where in the case of an assessee, being an individual employed by
+any employer, if an employer makes any contribution in his account under a
+pension scheme notified by the Central Government, the assessee shall be allowed
+a deduction in the computation of his total income, of the whole of the amount
+contributed by such employer as does not exceed—
+
+5
+
+(a) 14%, where such contribution is made by the employer being the
+Central Government or the State Government; and
+(b) 10%, where such contribution is made by an employer other than
+an employer referred to in clause (a),
+of his salary in the tax year.
+
+10
+
+(2) Where the total income of the assessee is chargeable to tax under
+section 202(1), the provisions of sub-section (1) shall have effect as if for “10%”
+referred to in clause (b) of that sub-section, “14%” had been substituted.
+(3) An assessee referred to in sub-section (1), or any other assessee, being
+an individual, shall be allowed a deduction in computation of his total income of
+the whole of the amount paid or deposited in the tax year in his account under a
+pension scheme notified or as notified by the Central Government, which shall
+not exceed fifty thousand rupees.
+(4) The deduction under sub-section (3) shall also be allowed where any
+payment or deposit is made to the account of a minor under the said pension
+scheme, by the assessee, being the guardian of such minor, subject to the condition
+that the aggregate amount of deduction under sub-section (3) and this sub-section
+shall not exceed fifty thousand rupees.
+
+15
+
+20
+
+(5) No deduction under sub-section (3) shall be allowed in respect of the amount
+on which a deduction has been claimed and allowed under section 123.
+
+25
+
+(6) Any amount standing to the credit of the assessee or a minor, in his
+account or the account of a minor, as the case may be, referred to in
+sub-sections (1), (3) and (4), in respect of which a deduction has been allowed
+together with the amount accrued thereon, received by the assessee or his
+nominee, in whole or in part, in any tax year,—
+
+30
+
+(a) on account of closure or his opting out of the pension scheme
+referred to in sub-sections (1) and (3); or
+(b) as pension received from the annuity plan purchased or taken on
+such closure or opting out,
+the whole of the amount referred to in clause (a) or (b) shall be deemed to be the
+income of the individual or his nominee, in the tax year in which such amount is
+received, and shall accordingly be charged to tax as income of that tax year.
+(7) The amount received by the nominee, on the death of the assessee, under
+the circumstances referred to in sub-section (6)(a), shall not be deemed to be the
+income of the nominee.
+
+35
+
+40
+
+(8) The amount received by a person, being the guardian or nominee of a
+minor on account of closure of the pension scheme due to the death of the minor
+referred to in sub-section (4), shall not be deemed to be the income of such person.
+(9) For the purposes of this section, the assessee shall not be deemed to have
+received any amount in the tax year, if such amount is used for purchasing an
+annuity plan in the same tax year.
+
+45
+
+161
+
+(10) Where any amount paid or deposited by the assessee has been allowed
+as a deduction under sub-section (3), no deduction with reference to such amount
+shall be allowed as deduction under section 123 for that tax year.
+5
+
+10
+
+15
+
+(11) For the purposes of this section, “salary” includes dearness allowance,
+if the terms of employment so provide, but excludes all other allowances and
+perquisites.
+125. (1) An assessee, being an individual who has enrolled in the Agnipath
+Scheme and subscribes to the Agniveer Corpus Fund on or after the
+1st November, 2022, shall be allowed a deduction in the computation of his total
+income, of the whole of the amount paid or deposited in his account in the said
+Fund during the tax year.
+
+Deduction in
+respect of
+contribution to
+Agnipath
+Scheme.
+
+(2) Where the Central Government makes any contribution to the account
+of an assessee in the Fund referred to in sub-section (1), the assessee shall be
+allowed a deduction in the computation of his total income of the whole of the
+amount so contributed.
+(3) In this section,—
+(a) “Agnipath Scheme” means the scheme for enrolment in the Indian
+Armed Forces introduced vide letter No. 1(23)2022/D(Pay/Services), dated the
+29th December, 2022, of the Government of India in the Ministry of Defence;
+
+20
+
+25
+
+(b) “Agniveer Corpus Fund” means a fund in which consolidated
+contributions of all the Agniveers and matching contributions of the Central
+Government along with interest on both these contributions are held.
+126. (1) An assessee, being an individual or a Hindu undivided family, shall
+be allowed a deduction of a sum as specified in sub-sections (2) to (8), payment
+of which is made by any mode as specified in sub-section (9), out of his income
+chargeable to tax in the tax year.
+(2) In the case of an assessee, being individual, the sum referred to in
+sub-section (1), shall be the aggregate of the whole of the amount paid—
+
+30
+
+35
+
+40
+
+(a) to effect or keep in force an insurance on the health (herein referred
+to as health insurance) of the assessee or his family, or any contributions
+made to the Central Government Health Scheme or such other scheme, as
+notified by the Central Government in this behalf, or any payment made for
+preventive health check-up of the assessee or his family, up to twenty-five
+thousand rupees in aggregate;
+(b) to effect or to keep in force the health insurance, or any payment
+made for preventive health check-up, for the parent or parents of the
+assessee, up to twenty-five thousand rupees in aggregate;
+(c) on account of medical expenditure incurred on the health of the
+assessee or any member of his family, up to fifty thousand rupees in
+aggregate; and
+(d) on account of medical expenditure incurred on the health of any
+parent of the assessee, up to fifty thousand rupees in aggregate.
+
+45
+
+(3) The deduction in respect of amounts referred to in sub-section (2)(a) or
+(2)(b), which are paid on account of preventive health check-up, shall be allowed
+up to five thousand rupees in aggregate.
+(4) The amount of sum referred to in sub-section (2) shall not exceed
+fifty thousand rupees in aggregate of the sum specified under sub-sections 2(a)
+and 2(c) or aggregate of the sum specified under sub-sections 2(b) and 2(d).
+
+50
+
+(5) In the case of assessee, being Hindu undivided family, the sum referred to
+in sub-section (1), shall be the aggregate of the whole of the amount paid––
+
+Deduction in
+respect of health
+insurance
+premia.
+
+162
+
+(a) to effect or keep in force an insurance on the health of any member
+of that family, up to twenty-five thousand rupees in the aggregate; and
+(b) on account of medical expenditure incurred on the health of any
+member of that family, up to fifty thousand rupees in the aggregate.
+(6) The amount of sum under sub-section (5) shall not exceed fifty thousand
+rupees in the aggregate of the sum specified under sub-section (5)(a) and (b); or
+(7) For the purposes of this section, where the amount is paid on account of
+medical expenditure incurred on the health of senior citizen under
+sub-section (2)(c) or (d) or (5)(b), deduction shall be allowed, if no amount has
+been paid to effect or to keep in force the health insurance of such person.
+
+5
+
+10
+
+(8) Where the sum specified in sub-section (2)(a) or (b) or (5)(a) is paid to effect
+or keep in force the health insurance of any person specified therein, and—
+(a) such person is a senior citizen, the amount of sum as provided in
+such clauses, shall be substituted with fifty thousand rupees for twenty-five
+thousand rupees; and
+
+15
+
+(b) such sum is paid in lump sum in the tax year for more than a year,
+a deduction shall be allowed for each of the relevant tax year equal to the
+appropriate fraction of such amount.
+(9) For the purposes of deduction under section (1), the payment shall be
+made by any mode,—
+
+20
+
+(a) including cash, in respect of any sum paid on account of preventive
+health check-up; or
+(b) other than cash in all other cases not falling under clause (a).
+(10) In this section,—
+(a) “appropriate fraction” means the fraction where the numerator is
+one, and the denominator is the total number of relevant tax year;
+
+25
+
+(b) “family” includes the spouse and dependant children of the
+assesse; and
+(c) “relevant tax year” means the tax year beginning with the tax year
+in which such lump sum amount is paid and the subsequent tax year or years
+during which the health insurance remains in force.
+
+30
+
+(11) The health insurance referred to in this section shall be as per the
+scheme made in this behalf by—
+(a) the General Insurance Corporation of India formed under
+section 9 of the General Insurance Business (Nationalisation) Act, 1972 and
+approved by the Central Government in this behalf; or
+
+35 57 of 1972.
+
+(b) any other insurer and approved by the Insurance Regulatory and
+Development Authority established under section 3(1) of the Insurance
+Regulatory and Development Authority Act, 1999.
+Deduction in
+respect of
+maintenance
+including
+medical
+treatment of a
+dependant who
+is a person with
+disability.
+
+127. (1) An assessee being an individual or a Hindu undivided family, who
+is a resident in India, shall be allowed a deduction up to seventy-five thousand
+rupees from his gross total income of a tax year, subject to the provisions of this
+section, if during that year he has––
+(a) incurred expenditure for the medical treatment (including nursing),
+training, or rehabilitation of a dependant, being a person with disability; or
+
+4 of 1999.
+40
+
+45
+
+163
+
+5
+
+(b) paid or deposited any amount, under a scheme framed by the Life
+Insurance Corporation or any other insurer or the Administrator, or the
+specified company, for the maintenance of a dependant, being a person with
+disability, subject to the conditions specified in sub-section (2) and approved
+by the Board in this behalf.
+(2) The deduction under sub-section (1)(b) shall be allowed only if the
+following conditions are fulfilled:––
+
+10
+
+(a) the scheme referred to in sub-section (1)(b) provides for payment
+of an annuity or lump sum amount for the benefit of a dependant, being a
+person with disability––
+(i) on the death of the individual or the member of the Hindu
+undivided family, in whose name the scheme was subscribed; or
+
+15
+
+(ii) on attaining the age of sixty years or more by such individual
+or the member of the Hindu undivided family, and the payment or
+deposit to such scheme has been discontinued;
+(b) the assessee nominates the dependant, being a person with
+disability or another person or a trust to receive the payments on behalf and
+for the benefit of such dependant.
+
+20
+
+25
+
+30
+
+(3) If the dependant as referred to in sub-section (1) is a person with severe
+disability, the amount of deduction as referred to in sub-section (1) shall be
+substituted with one lakh and twenty-five thousand rupees for seventy-five
+thousand rupees.
+(4) In the event of death of the dependant, being a person with disability
+before the individual or member of the Hindu undivided family mentioned in
+sub-section (2), the amount paid or deposited under sub-section (1)(b) shall be
+deemed to be the income of the assessee of the tax year in which it is received and
+shall accordingly be chargeable to tax.
+(5) The provisions of sub-section (4) shall not apply to the amount received
+by the dependant, being a person with disability, before his death, as an annuity
+or lump sum, by application of the condition referred to in sub-section (2)(a)(ii).
+(6) The assessee claiming deduction under this section, shall furnish a copy
+of the medical certificate issued by the medical authority in such form and manner
+as prescribed, along with the return of income under section 263 for the tax year
+in which the deduction is claimed.
+
+35
+
+40
+
+(7) If the certificate referred to in sub-section (6), specifies that the condition
+of disability requires reassessment of its extent after a period stipulated in it, the
+deduction under this section shall not be allowed for any tax year succeeding the
+tax year in which the said certificate expires, unless a new certificate is obtained
+from the medical authority in such form and manner, as prescribed, and a copy
+thereof is submitted along with the return of income under section 263.
+(8) The dependant mentioned in this section shall not include a person who
+has claimed deduction under section 154 in computing his total income for the
+tax year.
+(9) In this sections,—
+
+45
+58 of 2002.
+
+(a) “Administrator” means the Administrator as referred to in section 2(a)
+of the Unit Trust of India (Transfer of Undertaking and Repeal) Act, 2002;
+(b) “dependant” means—
+(i) in the case of an individual, the spouse, children, parents,
+brothers and sisters of the individual or any of them;
+
+164
+
+(ii) in the case of a Hindu undivided family, a member of the
+Hindu undivided family,
+dependant wholly or mainly on such individual or Hindu undivided family
+for his support and maintenance;
+(c) “disability” shall have the same meaning as assigned to it in
+section 2(i) of the Persons with Disabilities (Equal Opportunities, Protection
+of Rights and Full Participation) Act, 1995 and includes “autism”, “cerebral
+palsy” and “multiple disability” respectively referred to in section 2(a), (c)
+and (h) of the National Trust for Welfare of Persons with Autism, Cerebral
+Palsy, Mental Retardation and Multiple Disabilities Act, 1999;
+
+5
+1 of 1996.
+
+10 44 of 1999.
+
+(d) “Life Insurance Corporation” means the Life Insurance
+Corporation of India established under the Life Insurance Corporation
+Act, 1956;
+(e) “medical authority” means the medical authority as referred to in
+section 2(p) of the Persons with Disabilities (Equal Opportunities,
+Protection of Rights and Full Participation) Act, 1995 or such other medical
+authority as may, by notification, be specified by the Central Government
+for certifying “autism”, “cerebral palsy”, “multiple disabilities”, “person
+with disability” and “severe disability” respectively referred to in
+section 2(a), (c), (h), (j) and (o) of the National Trust for Welfare of Persons
+with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities
+Act, 1999;
+(f) “person with disability” means a person as referred to in
+section 2(t) of the Persons with Disabilities (Equal Opportunities, Protection
+of Rights and Full Participation) Act, 1995 or section 2(j) of the National
+Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental
+Retardation and Multiple Disabilities Act, 1999;
+
+31 of 1956.
+
+15
+1 of 1996.
+
+20
+44 of 1999.
+
+25 1 of 1996.
+44 of 1999.
+
+(g) “person with severe disability” means—
+(i) a person with 80% or more of one or more disabilities, as
+referred to in section 56(4) of the Persons with Disabilities (Equal
+Opportunities, Protection of Rights and Full Participation)
+Act, 1995; or
+
+Deduction in
+respect of
+medical
+treatment, etc.
+
+30
+1 of 1996.
+
+(ii) a person with severe disability referred to in section 2(o) of
+the National Trust for Welfare of Persons with Autism, Cerebral Palsy,
+Mental Retardation and Multiple Disabilities Act, 1999;
+
+35 44 of 1999.
+
+(h) “specified company” shall have the same meaning as assigned to
+it in section 2(h) of the Unit Trust of India (Transfer of Undertaking and
+Repeal) Act, 2002.
+
+58 of 2002.
+
+128. (1) An assessee who is resident in India, shall be allowed a
+deduction of the amount actually paid during the tax year or a sum of
+forty thousand rupees, whichever is less, from income chargeable to tax of that
+tax year, for the medical treatment of such disease or ailment as prescribed—
+
+40
+
+(a) for himself or a dependant, in case the assessee is an individual; or
+(b) for any member of a Hindu undivided family, in case the assessee
+is a Hindu undivided family.
+(2) A deduction shall be allowed under this section only if the assessee
+obtains the prescription for the medical treatment from a neurologist, oncologist,
+urologist, haematologist, immunologist, or any other specialist, as prescribed.
+
+45
+
+165
+
+(3) The deduction under this section shall be reduced by any amount received
+under an insurance from an insurer, or reimbursed by an employer, for the medical
+treatment of the person as referred to in sub-section (1)(a) or (b).
+5
+
+(4) If the amount actually paid is in respect of the assessee or his dependant
+or any member of a Hindu undivided family of the assessee and who is senior
+citizen, the amount of deduction as referred to in sub-section (1) shall be
+substituted with one lakh rupees for forty thousand rupees.
+(5) In this section,––
+(a) “dependant” shall have the meaning as provided in section 127;
+
+10
+4 of 1938.
+
+15
+
+(b) “insurer” shall have the meaning assigned to it in section 2(9) of the
+Insurance Act, 1938.
+129. (1) An assessee, being an individual, shall be allowed a deduction of
+amount paid as interest during a tax year, subject to the provisions of this section,
+on a loan taken by him from any financial institution or any approved charitable
+institution, if the––
+
+Deduction in
+respect of
+interest on loan
+taken for higher
+education.
+
+(a) loan taken is for the purpose of pursuing higher education of
+himself or his relative; and
+(b) payment is made out of his income chargeable to tax.
+20
+
+(2) The deduction referred to in sub-section (1) shall be allowed in
+computing the total income in respect of the initial tax year and seven tax years
+immediately succeeding the initial tax year, or until the interest on the loan is fully
+paid by the assessee, whichever is earlier.
+(3) In this section,—
+
+25
+43 of 1961.
+
+10 of 1949.
+30
+
+35
+
+(a) “approved charitable institution” means a registered non-profit
+organisation where it was approved earlier under the provisions of
+section 10(23C) of the Income-tax Act, 1961, or an institution referred to in
+section 80G(2)(a) of the said Act;
+(b) “financial institution” means a banking company to which the
+Banking Regulation Act, 1949 applies (including any bank or banking
+institution referred to in section 51 of that Act) or any other financial
+institution which the Central Government may, by notification, specify;
+(c) “higher education” means any course of study pursued after
+passing the Senior Secondary Examination or its equivalent from a school,
+board, or University recognised by the Central Government or State
+Government, local authority, or by any authority authorised by the Central
+Government or State Government or local authority to do so;
+(d) “initial tax year” means the tax year in which the assessee starts
+paying the interest on the loan; and
+
+40
+
+45
+
+(e) “relative”, in relation to an individual, means the spouse and
+children of that individual, or the student for whom the individual is the legal
+guardian.
+130. (1) An assessee, being an individual, shall be allowed a deduction of
+interest payable on loan taken by him from any financial institution for the
+purpose of acquisition of a residential house property as per the provisions of
+this section.
+(2) The deduction under sub-section (1) shall not exceed fifty thousand
+rupees and shall be allowed in computing the total income of the individual for
+the tax year beginning on the 1st April, 2016 and subsequent tax years.
+
+Deduction in
+respect of
+interest on loan
+taken for
+residential house
+property.
+
+166
+
+(3) The deduction under sub-section (1) shall be subject to the following
+conditions:—
+(a) the loan has been sanctioned by the financial institution during the
+period beginning on the 1st April, 2016 and ending on the 31st March, 2017;
+(b) the amount of loan sanctioned for acquisition of the residential
+house property does not exceed thirty-five lakh rupees;
+
+5
+
+(c) the value of residential house property does not exceed fifty lakh
+rupees; and
+(d) the assessee does not own any residential house property on the
+date of sanction of loan.
+
+10
+
+(4) Where a deduction under this section is allowed for any interest referred
+to in sub-section (1), deduction shall not be allowed in respect of such interest
+under any other provision of this Act for the same or any other tax year.
+(5) In this section,—
+(a) “financial institution” means a banking company to which the
+Banking Regulation Act, 1949 applies, or any bank or banking institution
+referred to in section 51 of that Act or a housing finance company; and
+(b) “housing finance company” means a public company formed or
+registered in India with the main object of carrying on the business of
+providing long-term finance for construction or purchase of houses in India
+for residential purposes.
+Deduction in
+respect of
+interest on loan
+taken for certain
+house property.
+
+131. (1) An assessee, being an individual not eligible to claim deduction
+under section 130, shall be allowed a deduction on interest payable on loan taken
+by him from any financial institution for the purpose of acquisition of a residential
+house property, subject to a maximum limit of one lakh and fifty thousand rupees
+in a tax year and on fulfilment of conditions specified in sub-section (2), for the
+tax year beginning on the 1st April, 2019 and subsequent tax years.
+
+15
+10 of 1949.
+
+20
+
+25
+
+(2) The deduction under sub-section (1) shall be subject to the following
+conditions:—
+(a) the loan has been sanctioned by the financial institution during
+the period beginning on the 1st April, 2019 and ending with the
+31st March, 2022;
+
+30
+
+(b) the stamp duty value of residential house property does not exceed
+forty-five lakh rupees; and
+(c) the assessee does not own any residential house property on the
+date of sanction of loan.
+
+35
+
+(3) Where a deduction under this section is allowed for any interest referred
+to in sub-section (1), deduction shall not be allowed in respect of such interest
+under any other provision of this Act for the same or any other tax year.
+(4) In this section, “financial institution” shall have the meaning assigned to
+it in section 130(5)(a).
+Deduction in
+respect of
+purchase of
+electric vehicle.
+
+40
+
+132. (1) An assessee, being an individual, shall be allowed a deduction of
+interest payable on loan taken by him from any financial institution for the
+purpose of purchase of an electric vehicle, as per the provisions of this section.
+(2) The deduction under sub-section (1) shall be subject to the condition that
+the loan has been sanctioned by the financial institution during the period
+beginning on the 1st April, 2019 and ending with the 31st March, 2023.
+
+45
+
+167
+
+(3) The deduction under sub-section (1) shall not exceed one lakh fifty
+thousand rupees and shall be allowed in computing the total income of the
+individual for the tax year beginning on the 1st April, 2019 and subsequent tax
+years.
+5
+
+(4) Where a deduction under this section is allowed for any interest referred
+to in sub-section (1), deduction shall not be allowed in respect of such interest
+under any other provision of this Act for the same or any other tax year.
+(5) In this section,—
+
+10
+
+10 of 1949.
+
+15
+
+(a) “electric vehicle” means a vehicle powered exclusively by an
+electric motor, whose traction energy is supplied exclusively by traction
+battery installed in the vehicle and has such electric regenerative braking
+system, which during braking provides for the conversion of vehicle kinetic
+energy into electrical energy; and
+(b) “financial institution” means a banking company to which the
+Banking Regulation Act, 1949 applies, or any bank or banking institution
+referred to in section 51 of that Act and includes a non-banking financial
+company.
+133. (1) In computing the total income of an assessee, there shall be
+deducted, as per and subject to the provisions of this section,—
+
+20
+
+(a) the whole of the aggregate of the sum or the sums paid by the
+assessee, in the tax year as donations to––
+(i) the National Defence Fund set up by the Central
+Government; or
+
+25
+
+(ii) the Prime Minister’s National Relief Fund or the Prime
+Minister’s Citizen Assistance and Relief in Emergency Situations
+Fund (PM CARES FUND); or
+(iii) the Prime Minister’s Armenia Earthquake Relief Fund; or
+(iv) the Africa (Public Contributions-India) Fund; or
+(v) the National Children’s Fund; or
+
+30
+
+(vi) the National Foundation for Communal Harmony; or
+(vii) a University or any educational institution of national
+eminence as may be approved by the prescribed authority in this
+behalf; or
+
+35
+
+40
+
+45
+
+(viii) any fund set up by the State Government of Gujarat
+exclusively for providing relief to the victims of earthquake in
+Gujarat; or
+(ix) any Zila Saksharta Samiti constituted in any district under
+the chairmanship of the Collector of that district for improving
+primary education in villages and towns (having a population up to
+one lakh) according to the last published census of which figures are
+available before the first day of the relevant tax year), in such district
+and for literacy and post-literacy activities; or
+(x) the National Blood Transfusion Council or any State Blood
+Transfusion Council, which has its sole object the control, supervision,
+regulation or encouragement in India of the services related to
+operation and requirements of blood banks; or
+(xi) any fund set up by a State Government to provide medical
+relief to the poor; or
+
+Deduction in
+respect of
+donations to
+certain funds,
+charitable
+institutions, etc.
+
+168
+
+(xii) the Army Central Welfare Fund or the Indian Naval
+Benevolent Fund or the Air Force Central Welfare Fund established
+by the armed forces of the Union for the welfare of the past and present
+members of such forces or their dependants; or
+(xiii) the Andhra Pradesh Chief Minister’s Cyclone Relief
+Fund, 1996; or
+
+5
+
+(xiv) the National Illness Assistance Fund; or
+(xv) the Chief Minister’s Relief Fund or the Lieutenant
+Governor’s Relief Fund, if the fund meets all the following
+conditions:––
+
+10
+
+(A) it is the only fund of its kind established in the State or
+the Union territory;
+(B) it is under the overall control of the Chief Secretary or
+the Department of Finance of the respective State or the Union
+territory;
+
+15
+
+(C) it is administered in a manner specified by the State
+Government or the Lieutenant Governor; or
+(xvi) the National Sports Development Fund to be set up by the
+Central Government; or
+(xvii) the National Cultural Fund set up by the Central
+Government; or
+
+20
+
+(xviii) the Fund for Technology Development and Application
+set up by the Central Government; or
+(xix) the National Trust for Welfare of Persons with Autism,
+Cerebral Palsy, Mental Retardation and Multiple Disabilities
+constituted under section 3(1) of the National Trust for Welfare of
+Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple
+Disabilities Act, 1999; or
+(xx) the Swachh Bharat Kosh, set up by the Central Government,
+other than the sum spent by the assessee in pursuance of Corporate
+Social Responsibility under section 135(5) of the Companies
+Act, 2013; or
+(xxi) the Clean Ganga Fund, set up by the Central Government,
+where such assessee is a resident and such sum is other than the sum
+spent by the assessee in pursuance of Corporate Social Responsibility
+under section 135(5) of the Companies Act, 2013; or
+
+25
+
+44 of 1999.
+
+30
+18 of 2013.
+
+35
+18 of 2013.
+
+(xxii) the National Fund for Control of Drug Abuse constituted
+under section 7A of the Narcotic Drugs and Psychotropic Substances
+Act, 1985; or
+(xxiii) the Government or to any such local authority, institution
+or association as may be approved in this behalf by the Central
+Government, to be utilised for the purpose of promoting
+family planning; or
+(xxiv) the Indian Olympic Association or any other association
+or institution established in India, as the Central Government may,
+having regard to the prescribed guidelines, by notification specify in
+this behalf for—
+(A) the development of infrastructure for sports and games
+in India; or
+
+61 of 1985.
+40
+
+45
+
+169
+
+(B) the sponsorship of sports and games in India,
+and where the assessee is a company;
+(b) an amount equal to 50% of the aggregate of the sums paid as
+donation by an assessee during the tax year to––
+5
+
+(i) the Prime Minister’s Drought Relief Fund;
+(ii) any fund or any institution to which this section applies, if:—
+(A) it is established in India for a charitable purpose; and
+
+10
+
+(B) it is a registered non-profit organisation or an
+institution or fund mentioned in Schedule VII (Table: Sl. No. 1)
+and approved under section 354;
+(iii) the Government or any local authority, to be utilised for any
+charitable purpose other than the purpose of promoting family
+planning;
+
+15
+
+20
+
+(iv) an authority constituted in India by or under any law enacted
+either for the purpose of dealing with and satisfying the need for
+housing accommodation or for the purpose of planning, development
+or improvement of cities, towns and villages, or for both;
+(v) a corporation established by the Central Government or any
+State Government for promoting the interests of the members of a
+minority community;
+(vi) for the purposes of sub-clause (v), “minority community”
+means a community notified as such by the Central Government;
+
+25
+
+(vii) any entity, for the renovation or repair of any temple,
+mosque, gurudwara, church or other place which is notified by the
+Central Government to be of historic, archaeological or artistic
+importance or to be a place of public worship of renown throughout
+any State or States.
+
+30
+
+(2) Where the aggregate of the sums referred to in sub-section (1)(a)(xxiii)
+and (xxiv), sub-section (1)(b)(ii) to (v) and (vii) exceeds 10% of the adjusted gross
+total income, then the amount in excess of 10% of the gross total income shall be
+ignored for the purpose of computing the aggregate of the sums in respect of
+which deduction is to be allowed under sub-section (1).
+
+35
+
+(3) Where deduction under this section is claimed and allowed for any tax
+year in respect of any sum specified in sub-section (1), the sum in respect of which
+deduction is so allowed shall not qualify for deduction under any other provision
+of this Act for the same or any other tax year.
+(4) The deduction under this section shall be allowed only for donation made
+as a sum of money.
+
+40
+
+(5) Any deduction for a donation over two thousand rupees shall be allowed
+only if the payment is made by a mode other than cash.
+(6) Any claim of deduction by the assessee in his return of income filed for
+any tax year in case of a donation made to an institution or fund referred in
+sub-section (1)(b)(ii), shall be allowed only on the basis of––
+
+170
+
+(a) the information relating to such donation furnished by such
+institution or fund to the prescribed authority or person authorised by such
+authority; and
+(b) subject to verification as per the risk management strategy formulated
+by the Board from time to time.
+
+5
+
+(7) For the purposes of this section,––
+(a) “adjusted gross total income” means gross total income as reduced
+by any portion thereof on which income-tax is not payable under any
+provision of this Act and by any amount in respect of which the assessee is
+entitled to a deduction under any other provision of this Chapter;
+
+10
+
+(b) “charitable purpose” does not include any purpose the whole or
+substantially the whole of which is of a religious nature;
+(c) “National Blood Transfusion Council” means a society registered
+under the Societies Registration Act, 1860 and has an officer of the rank of
+an Additional Secretary to the Government of India or higher to deal with
+the AIDS Control Project as its Chairman;
+(d) “State Blood Transfusion Council” means a society registered, in
+consultation with the National Blood Transfusion Council, under the
+Societies Registration Act, 1860 or under any law corresponding to that Act
+in force in any part of India and has a Secretary to the Government of that
+State dealing with the Department of Health, as its Chairman; and
+
+Deductions in
+respect of rents
+paid.
+
+21 of 1860.
+15
+
+21 of 1860.
+20
+
+(e) an association or institution having as its object the control,
+supervision, regulation or encouragement in India of such games or sports
+as notified by the Central Government, shall be considered to be an
+institution established in India for a charitable purpose.
+
+25
+
+134. (1) In computing the total income of an assessee, subject to other
+provisions of this section, there shall be deducted any expenditure incurred by him
+towards payment of rent (by whatever name called) in respect of any furnished or
+unfurnished accommodation occupied by him for the purposes of his own
+residence.
+
+30
+
+(2) The deduction under sub-section (1) shall be allowable on such rent
+exceeding 10% of his total income, subject to a maximum of five thousand rupees
+per month, or 25% of total income for tax year, whichever is less.
+(3) For the purposes of deduction under sub-section (1), such other
+conditions or limitations having regard to the area or place in which such
+accommodation is situated and other relevant consideration, as prescribed, shall
+be taken into account.
+
+35
+
+(4) No deduction under this section shall be allowed to an assessee in any
+case, where—
+(a) any residential accommodation is—
+
+40
+
+(i) owned by the assessee or by his spouse or minor child or,
+where such assessee is a member of a Hindu undivided family, by such
+family at the place where he ordinarily resides or performs duties of
+his office or employment or carries on his business or profession; or
+(ii) owned by the assessee at any other place, being
+accommodation in the occupation of the assessee, the value of which
+is to be determined under section 21(6) or (7)(a); or
+(b) the assessee has any income falling in Schedule III (Table:
+Sl. No. 11).
+
+45
+
+171
+(5) For the purposes of this section, the expressions “10% of his total
+income” and “25% of his total income” shall mean 10% or 25%, as the case may
+be, of the total income of the assessee before allowing deduction for any
+expenditure under this section.
+5
+
+10
+
+135. (1) In computing the total income of an assessee, there shall be
+deducted, as per the provisions of this section, any sum paid by the assessee in the
+tax year to,––
+(a) a research association which has as its object the undertaking of
+scientific research, or to a University, college or other institution approved
+for the purposes of section 45(3)(a)(i) to be used for scientific research;
+
+Deduction in
+respect of
+certain
+donations for
+scientific
+research or rural
+development.
+
+(b) a research association which has as its object the undertaking of
+research in social science or statistical research, or to a University, college
+or other institution approved for the purposes of section 45(3)(a)(ii) to be
+used for research in social science or statistical research;
+15
+
+(2) Deduction for contributions made as per sub-section (1) shall not be
+allowed, if—
+(a) the gross total income of the assessee includes income which is
+chargeable under the head “Profits and gains of business or profession”; or
+(b) the contribution is made in cash exceeding two thousand rupees.
+
+20
+
+25
+
+30
+
+43 of 1951.
+
+(3) Deduction under sub-section (1)(a) and (1)(b) shall not be denied merely
+on the ground that subsequent to the payment of such sum by the assessee,
+approval to such association, University, college, other institution referred there
+in to whom the payment was made has been withdrawn.
+(4) The claim of the assessee for a deduction in respect of any sum referred
+to in sub-section (1) in the return of income for any tax year filed by him, shall be
+allowed on the basis of information relating to such sum furnished by the payee
+to the prescribed income-tax authority or the person authorised by such authority,
+subject to verification as per the risk management strategy formulated by the
+Board from time to time.
+136. (1) An assessee, being an Indian company, shall be allowed a deduction
+for the amount contributed by it, other than by way of cash, during a tax year to a
+political party registered under section 29A of the Representation of the People
+Act, 1951 or an electoral trust.
+
+18 of 2013.
+
+(2) In this section, the word “contribute”, with its grammatical variations
+and cognate expressions shall have the same meaning as assigned to it in
+section 182 of the Companies Act, 2013.
+
+43 of 1951.
+
+137. An assessee, (other than a local authority and an artificial juridical
+person wholly or partly funded by the Government), shall be allowed a deduction
+for the amount contributed by him, other than by way of cash, during a tax year
+to a political party registered under section 29A of the Representation of the
+People Act, 1951, or an electoral trust.
+
+35
+
+40
+
+Deduction in
+respect of
+contributions
+given by
+companies to
+political parties.
+
+Deduction in
+respect of
+contributions
+given by any
+person to
+political parties.
+
+C.—Deductions in respect of certain incomes.
+138. In respect of any tax year beginning on or after the 1st April, 2026,
+where––
+45
+43 of 1961.
+
+(a) the gross total income of an assessee includes any profits and gains
+derived by an undertaking or an enterprise from any business referred to in
+section 80-IA of the Income-tax Act, 1961; and
+
+Deductions in
+respect of
+profits and
+gains from
+industrial
+undertakings or
+enterprises
+engaged in
+infrastructure
+development,
+etc.
+
+172
+
+(b) such assessee is eligible to claim a deduction from the profits and
+gains derived from such business for such tax year under the provisions of
+the said section, if the said Act had not been repealed,
+there shall be allowed, in computing the total income of the assessee, a deduction
+from the profits and gains derived from such business, subject to the
+conditions that—
+
+5
+
+(i) the amount of deduction is calculated as per the provisions of
+section 80-IA of the Income-tax Act,1961; and
+(ii) the deduction under this Act shall be allowed only for such tax
+years, as would have been allowed under section 80-IA of the Income-tax
+Act,1961, as if the said Act had not been repealed.
+Deductions in
+respect of
+profits and gains
+by an
+undertaking or
+enterprise
+engaged in
+development of
+Special
+Economic Zone.
+
+43 of 1961.
+
+10
+43 of 1961.
+
+139. In respect of any tax year, where––
+(a) the gross total income of an assessee, being a Developer, includes
+any profits and gains derived by an undertaking or an enterprise from any
+business of developing a Special Economic Zone, notified on or after the
+1st April, 2005 under the Special Economic Zones Act, 2005 referred to in
+section 80-IAB of the Income-tax Act, 1961; and
+(b) such assessee is eligible to claim a deduction from the profits and
+gains derived from such business for such tax year under the provisions of
+the said section, if the said Act had not been repealed,
+
+15
+28 of 2005.
+43 of 1961.
+
+20
+
+there shall be allowed, in computing the total income of the assessee, a deduction
+from the profits and gains derived from such business, subject to the
+conditions that—
+
+Special
+provision in
+respect of
+specified
+business.
+
+(i) the amount of deduction is calculated as per the provisions of
+section 80-IAB of the Income-tax Act, 1961; and
+
+25 43 of 1961.
+
+(ii) the deduction under this Act shall be allowed only for such tax
+years, as would have been allowed under section 80-IAB of the Income-tax
+Act, 1961, if the said Act had not been repealed.
+
+43 of 1961.
+
+140. (1) Where the gross total income of an assessee, being an eligible
+start-up, includes any profits and gains derived from eligible business, there shall,
+as per and subject to the provisions of this section, be allowed, in computing the
+total income of the assessee, a deduction of an amount equal to 100% of the profits
+and gains derived from such business for three consecutive tax years.
+(2) The deduction specified in sub-section (1) may, at the option of the
+assessee, be claimed by him for any three consecutive tax years out of ten years
+beginning from the year in which the eligible start-up is incorporated.
+
+30
+
+35
+
+(3) This section applies to a start-up which fulfils the following
+conditions:—
+(a) it is not formed by splitting up, or the reconstruction, of a business
+already in existence;
+
+40
+
+(b) it is not formed by the transfer to a new business of machinery or
+plant previously used for any purpose.
+(4) Where the business of any undertaking carried on in India is discontinued
+in any tax year by reason of extensive damage to, or destruction of, any building,
+machinery, plant or furniture owned by the assessee and used for the purposes of
+such business as a direct result of—
+
+45
+
+173
+
+(a) flood, typhoon, hurricane, cyclone, earthquake or other convulsion
+of nature; or
+(b) riot or civil disturbance; or
+(c) accidental fire or explosion; or
+5
+
+10
+
+(d) action by an enemy or action taken in combating an enemy
+(whether with or without a declaration of war),
+and thereafter, at any time before the expiry of three years from the end of such
+tax year, the business of such undertaking is re-established, re-constructed or
+revived by the assessee, the condition referred to in sub-section (3)(a) shall not
+apply to such undertaking which is so re-established, reconstructed or revived.
+(5) For the purposes of sub-section (3)(b), any machinery or plant which
+was used outside India by any person other than the assessee shall not be regarded
+as machinery or plant previously used for any purpose, if all the following
+conditions are fulfilled:—
+
+15
+
+(a) such machinery or plant was not, at any time previous to the date
+of the installation by the assessee, used in India;
+(b) such machinery or plant is imported into India; and
+
+20
+
+25
+
+30
+
+35
+
+40
+
+(c) no deduction on account of depreciation in respect of such
+machinery or plant has been allowed or is allowable under the provisions of
+this Act in computing the total income of any person for any period before
+to the date of the installation of the machinery or plant by the assessee.
+(6) Where in the case of a start-up, any machinery or plant or any part thereof
+previously used for any purpose is transferred to a new business and the total value
+of the machinery or plant or part so transferred does not exceed 20% of the total
+value of the machinery or plant used in the business, then, for the purposes of
+sub-section (3)(b), the condition specified therein shall be considered to have been
+complied with.
+(7) Irrespective of anything contained in any other provision of this Act, the
+profits and gains of an eligible business to which the provisions of sub-section (1)
+apply shall, for the purposes of determining the quantum of deduction under that
+sub-section for the tax year immediately succeeding the initial tax year or any
+subsequent tax year, be computed as if such eligible business were the only source
+of income of the assessee during the initial tax year and to every subsequent tax
+year up to and including the tax year for which the determination is to be made.
+(8) The deduction under sub-section (1) from profits and gains derived from
+an eligible business shall not be admissible unless the accounts of the eligible
+business for the tax year for which the deduction is claimed have been audited by
+an accountant, before the specified date referred to in section 63 and the assessee
+furnishes by that date the report of such audit in the prescribed form duly signed
+and verified by such accountant.
+(9) In a case where,—
+(i) any goods or services held for the purposes of the eligible business
+are transferred to any other business carried on by the assessee; or
+
+45
+
+(ii) where any goods or services held for the purposes of any other
+business carried on by the assessee are transferred to the eligible business,
+
+174
+
+and, in either case, the consideration, if any, for such transfer as recorded in the
+accounts of the eligible business does not correspond to the market value of such
+goods or services as on the date of the transfer, then, for the purposes of the
+deduction under this section, the profits and gains of such eligible business shall
+be computed as if the transfer, in either case, had been made at the market value
+of such goods or services as on that date.
+(10) For the purposes of sub-section (9), where, in the opinion of the
+Assessing Officer, the computation of the profits and gains of the eligible business
+in the manner hereinbefore specified presents exceptional difficulties, the
+Assessing Officer may compute such profits and gains on such reasonable basis
+as he may deem fit.
+
+5
+
+10
+
+(11) For the purposes of sub-section (9), “market value”, in relation to any
+goods or services, means—
+(i) the price that such goods or services would ordinarily fetch in the
+open market; or
+
+15
+
+(ii) the arm's length price as defined in section 173(a), where the
+transfer of such goods or services is a specified domestic transaction referred
+to in section 164.
+(12) Where any amount of profits and gains of an undertaking or of an
+enterprise in the case of an assessee is claimed and allowed under this section for
+any tax year, deduction to the extent of such profits and gains shall not be allowed
+under any other provisions of Part C of this Chapter and shall in no case exceed
+the profits and gains of such eligible business of undertaking or enterprise, as the
+case may be.
+(13) Where it appears to the Assessing Officer that,––
+
+20
+
+25
+
+(i) owing to the close connection between the assessee carrying on the
+eligible business to which this section applies and any other person; or
+(ii) for any other reason,
+the course of business between them is so arranged that the business transacted
+between them produces to the assessee more than the ordinary profits which might
+be expected to arise in such eligible business, the Assessing Officer shall, in
+computing the profits and gains of such eligible business for the purposes of the
+deduction under this section, take the amount of profits as may be reasonably
+considered to have been derived therefrom.
+(14) Where the arrangement as mentioned in sub-section (13) involves a
+specified domestic transaction referred to in section 164, the amount of profits
+from such transaction shall be determined having regard to arm's length price as
+defined in section173(a).
+(15) The Central Government may, after making such inquiry as it may think
+fit, direct, by notification, that the exemption conferred by this section shall not
+apply to any class of industrial undertaking or enterprise with effect from such
+date as it may specify in the notification.
+
+30
+
+35
+
+40
+
+(16) In this section,––
+(a) “eligible business” means a business carried out by an eligible
+start-up engaged in innovation, development or improvement of products or
+processes or services or a scalable business model with a high potential of
+employment generation or wealth creation;
+
+45
+
+175
+(b) “eligible start-up” means a company or a limited liability
+partnership engaged in eligible business which fulfils the following
+conditions:—
+5
+
+(i) it is incorporated on or after the 1st April, 2016 but before the
+1st April, 2030;
+(ii) the total turnover of its business does not exceed one hundred
+crore rupees in the tax year relevant to the tax year for which deduction
+under sub-section (1) is claimed; and
+
+10
+
+(iii) it holds a certificate of eligible business from the InterMinisterial Board of Certification as notified by the Central
+Government; and
+(c) “limited liability partnership” means a partnership referred to in
+section 2(1)(n) of the Limited Liability Partnership Act, 2008.
+
+6 of 2009.
+
+141. In respect of any tax year, where––
+15
+43 of 1961.
+
+20
+
+(a) the gross total income of an assessee, includes any profits and gains
+derived from any business referred to in section 80-IB of the Income-tax
+Act, 1961; and
+
+Deduction in
+respect of
+profits and gains
+from certain
+industrial
+undertakings.
+
+(b) such assessee is eligible to claim a deduction from the profits and
+gains derived from such business for such tax year under the provisions of
+the said section, if the said Act had not been repealed,
+there shall be allowed, in computing the total income of the assessee, a deduction
+from the profits and gains derived from such business, subject to the
+conditions that—
+
+43 of 1961.
+
+25
+
+(i) the amount of deduction is calculated as per the provisions of
+section 80-IB of the Income-tax Act, 1961; and
+(ii) the deduction under this Act shall be allowed only for such tax
+years, as would have been allowed under section 80-IB of the Income-tax
+Act, 1961, if the said Act had not been repealed.
+
+43 of 1961.
+
+142. In respect of any tax year, where––
+30
+
+43 of 1961.
+
+35
+
+(a) the gross total income of an assessee, includes any profits and gains
+derived from the business of developing and building housing projects or
+rental housing projects referred to in section 80-IBA of the Income-tax
+Act,1961; and
+(b) such assessee is eligible to claim a deduction from the profits and
+gains derived from such business for such tax year under the provisions of
+the said section, if the said Act had not been repealed,
+there shall be allowed, in computing the total income of the assessee, a deduction
+from the profits and gains derived from such business, subject to the conditions
+that—
+
+40
+43 of 1961.
+
+(i) the amount of deduction is calculated as per the provisions of
+section 80-IBA of the Income-tax Act, 1961; and
+
+43 of 1961.
+
+(ii) the deduction under this Act shall be allowed only for such tax
+years, as would have been allowed under section 80-IBA of the Income-tax
+Act, 1961, if the said Act had not been repealed.
+
+Deductions in
+respect of
+profits and gains
+from housing
+projects
+
+176
+
+Special
+provisions in
+respect of certain
+undertakings in
+North-Eastern
+States.
+
+143. (1) Where the gross total income of an assessee includes any profits and gains
+derived by an undertaking, to which this section applies, from any business referred to
+in sub-section (2), there shall be allowed, in computing the total income of the assessee,
+a deduction of an amount equal to 100% of the profits and gains derived from such
+business for ten consecutive tax years commencing with the initial tax year.
+
+5
+
+(2) This section applies to any undertaking which has, during the period
+beginning on the 1st April, 2007 and ending with the 1st April, 2017, begun or
+begins, in any of the North-Eastern States,—
+(a) to manufacture or produce any eligible article or thing;
+(b) to undertake substantial expansion to manufacture or produce any
+eligible article or thing; and
+
+10
+
+(c) to carry on any eligible business.
+(3) This section applies to any undertaking which fulfils all the following
+conditions:—
+(a) it is not formed by splitting up, or the reconstruction, of a business
+already in existence;
+
+15
+
+(b) it is not formed by the transfer to a new business of machinery or
+plant previously used for any purpose;
+(c) condition referred to in clause (a) shall not apply in respect of an
+undertaking which is formed as a result of the re-establishment, reconstruction
+or revival by the assessee of the business of any such undertaking as is referred
+to in section 140(4),in the circumstances and within the period specified therein.
+
+20
+
+(4) For the purposes of sub-section (3)(b), the provisions of section 140(5) and
+(6) shall apply.
+(5) Irrespective of anything contained in any other provision of this Act, in
+computing the total income of the assessee, no deduction shall be allowed under any
+other section contained in this Chapter in relation to the profits and gains of the
+undertaking.
+(6) Irrespective of anything contained in this Act, no deduction shall be
+allowed to any undertaking under this section, where the total period of deduction
+inclusive of the period of deduction under this section or under second proviso to
+section 80-IB(4) of the Income-tax Act, 1961 exceeds ten tax years.
+
+25
+
+30
+43 of 1961.
+
+(7) The provisions contained in section 140(7) to (15) shall, so far as may be,
+apply to the eligible undertaking under this section.
+(8) In this section,—
+
+35
+
+(a) “eligible article or thing” means the article or thing other than the
+following:—
+(i) goods falling under Chapter 24 of the First Schedule to the
+Central Excise Tariff Act, 1985, which pertains to tobacco and
+manufactured tobacco substitutes;
+
+5 of 1986.
+40
+
+(ii) pan masala as covered under Chapter 21 of the First Schedule
+to the Central Excise Tariff Act, 1985;
+(iii) plastic carry bags of less than twenty microns as specified by
+the Ministry of Environment and Forests vide notification numbers
+S.O. 705(E), dated the 2nd September, 1999 and S.O. 698(E), dated the
+17th June, 2003; and
+
+5 of 1986.
+
+45
+
+177
+
+(iv) goods falling under Chapter 27 of the First Schedule to the
+Central Excise Tariff Act, 1985, produced by petroleum oil or gas
+refineries;
+
+5 of 1986.
+
+(b) “eligible business” means the business of—
+5
+
+(i) hotel (not below two star category);
+(ii) adventure and leisure sports including ropeways;
+(iii) providing medical and health services in the nature of nursing
+home with a minimum capacity of twenty-five beds;
+(iv) running an old-age home;
+
+10
+
+(v) operating vocational training institute for hotel management,
+catering and food craft, entrepreneurship development, nursing and
+para-medical, civil aviation related training, fashion designing and
+industrial training;
+(vi) running information technology related training centre;
+
+15
+
+(vii) manufacturing of information technology hardware; and
+(viii) bio-technolog;
+(c) “initial tax year” means the tax year in which the undertaking begins
+to manufacture or produce articles or things, or completes substantial
+expansion;
+
+20
+
+25
+
+(d) “North-Eastern States” means the States of Arunachal Pradesh,
+Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura;
+(e) “substantial expansion” means increase in the investment in the plant
+and machinery by at least 25% of the book value of plant and machinery
+(before taking depreciation in any year), as on the first day of the tax year in
+which the substantial expansion is undertaken.
+144. In respect of any tax year , where––
+
+28 of 2005.
+43 of 1961.
+
+30
+
+(a) in computing the total income of an assessee, being an entrepreneur
+as referred to in section 2(j) of the Special Economic Zones Act, 2005, who
+begins to manufacture or produce articles or things or provide any services
+referred to in section 10AA of the Income-tax Act, 1961; and
+(b) such assessee is eligible to claim a deduction from the profits and
+gains derived from the export, of such articles or things or from services for
+such tax year under the provisions of the said section, if the said Act had not
+been repealed,
+
+35
+
+(i) the amount of deduction is calculated as per the provisions of
+section 10AA of the Income-tax Act, 1961; and
+
+43 of 1961.
+40
+43 of 1961.
+
+there shall be allowed, in computing the total income of the assessee, a
+deduction from the profits and gains derived from such business, subject to
+the conditions that—
+
+(ii) the deduction under this Act shall be allowed only for such tax years,
+as would have been allowed under section 10AA of the Income-tax Act, 1961,
+if the said Act had not been repealed.
+
+Special
+provisions in
+respect of newly
+established Units
+in Special
+Economic
+Zones.
+
+178
+
+Duction for
+businesses
+engaged in
+collecting and
+processing of
+bio-degradable
+waste.
+
+145. (1) If the gross total income of an assessee includes any profits and gains
+derived from the business of collecting and processing or treating of bio-degradable
+waste for,—
+(a) generating power; or
+(b) producing bio-fertilizers, bio-pesticides or biological agents; or
+
+5
+
+(c) producing bio-gas; or
+(d) making pellets or briquettes for fuel or organic manure,
+there shall be allowed a deduction equal to the whole amount of such profits
+and gains for five consecutive tax years, beginning with the tax year in which
+such business commences.
+Deduction in
+respect of
+additional
+employee cost.
+
+10
+
+146. (1) Subject to the conditions specified in sub-sections (2) and (3), if the
+gross total income of an assessee, to whom section 63 applies, includes any profits
+and gains from business, a deduction of an amount equal to 30% of additional
+employee cost incurred in the course of such business in the tax year shall be allowed.
+(2) The deduction referred to in sub-section (1) shall be allowed for three
+consecutive tax years, beginning from the tax year in which the employment is provided.
+
+15
+
+(3) The deduction under sub-section (1) shall not be allowed, if––
+(a) the business is formed by splitting up, or the reconstruction, of an
+existing business; or
+(b) the business is acquired by the assessee through transfer from any
+other person or as a result of any business reorganisation;
+
+20
+
+(c) the assessee does not furnish the report of an accountant, before the
+specified date as referred to in section 63, giving the particulars in the report,
+as prescribed.
+(4) The condition referred to in sub-section (3)(a) shall not apply in respect of an
+undertaking which is formed as a result of the re-establishment, reconstruction or revival
+by the assessee of the business of any such undertaking as is referred to in section 140(4)
+in the circumstances and within the period specified in that sub-section.
+
+25
+
+(5) In this section,—
+(a) “additional employee cost” means—
+
+30
+
+(i) the total emoluments paid or payable to additional employees
+employed during the tax year; or
+(ii) emoluments paid or payable to employees employed during the
+tax year, where that year is the first year of a new business,
+and it shall be nil in the case of an existing business, if—
+
+35
+
+(A) there is no increase in the number of employees from the total
+number employed as on the last day of the preceding tax year; or
+(B) emoluments are paid otherwise than by an account payee cheque or
+account payee bank draft or by use of electronic clearing system through a
+bank account or through such other electronic mode, as prescribed;
+
+40
+
+(b) “additional employee” means an employee who has been employed
+during the tax year and whose employment increases the total number of
+employees employed by the employer as on the last day of the preceding tax
+year, but does not include any employee—
+(i) whose total emoluments exceed twenty-five thousand rupees
+per month;
+
+45
+
+179
+
+(ii) for whom the Government pays the entire contribution under
+the Employees’ Pension Scheme notified as per the provisions of the
+Employees, Provident Funds and Miscellaneous Provisions Act,1952;
+5
+
+19 of 1952.
+
+(iii) employed for less than one hundred and fifty days in case of
+an assessee who is engaged in the business of manufacturing of apparel
+or footwear or leather products, except where such employee is
+employed for said number of days in the immediately succeeding tax
+year, he shall be deemed as an additional employee of the succeeding
+tax year and the provisions of this section shall apply accordingly;
+
+10
+
+(iv) employed for less than two hundred and forty days during the
+tax year in case of any other assessee, except where such employee is
+employed for said number of days in the immediately succeeding tax
+year, he shall be deemed as an additional employee of the succeeding
+tax year and the provisions of this section shall apply accordingly; and
+
+15
+
+(v) who does not participate in a recognised provident fund;
+(c) “emoluments” means any sum paid or payable to an employee in lieu
+of his employment, by whatever name called, but does not include––
+(i) employer contributions to any pension or provident fund or any
+other fund for the benefit of the employee as mandated by any law; and
+
+20
+
+25
+
+(ii) lump sum payments paid or payable to an employee at the time
+of termination of his service, superannuation, or voluntary retirement,
+such as gratuity, severance pay, leave encashment, voluntary
+retrenchment benefits, commutation of pension and the like.
+147. (1) Where the following assessee has any income of the nature referred
+to in sub-section (3), there shall be allowed a deduction equal to 100% of such
+income:—
+(a) a scheduled bank, or a bank incorporated under the laws of a country
+outside India, having an Offshore Banking Unit in a Special Economic Zone;
+or
+
+30
+
+(b) a unit of an International Financial Services Centre.
+(2) The deduction shall be allowed––
+(a) for ten consecutive tax years beginning from the relevant tax year in
+the case of an entity mentioned in sub-section (1)(a);
+
+35
+
+(b) for ten consecutive tax years within fifteen years beginning from the
+relevant tax year, at the option of an assessee, in the case of an entity
+mentioned in sub-section (1)(b).
+(3) The income referred to in sub-section (3) shall be the income from—
+(a) an Offshore Banking Unit located in a Special Economic Zone; or
+
+10 of 1949.
+
+40
+
+(b) the business activities referred to in section 6(1) of the Banking
+Regulation Act, 1949, with undertakings in a Special Economic Zone or
+entities that develop, develop and operate, or develop, operate and maintain
+Special Economic Zone; or
+(c) the approved business activities of any Unit of an International
+Financial Services Centre set up in a Special Economic Zone; or
+
+Deductions for
+income of
+Offshore
+Banking Units
+and Units of
+International
+Financial
+Services Centre.
+
+180
+
+(d) transfer of an asset being, an aircraft or a ship, leased by a unit
+referred to in clause (c) if such unit commenced its business operations by
+31st March, 2030.
+(4) The deduction under this section shall be allowed only if the assessee
+submits along with the return of income––
+
+5
+
+(a) a report in the form as prescribed, from an accountant certifying the
+correctness of claim of deduction; and
+(b) a copy of the––
+(i) permission obtained under section 23(1)(a) of the Banking
+Regulation Act, 1949; or
+
+10 10 of 1949.
+
+(ii) permission or registration obtained under the International
+Financial Services Centres Authority Act, 2019.
+
+50 of 2019.
+
+(5) In this section,—
+(a) “relevant tax year” shall be,—
+(i) in case of an entity mentioned in sub-section (1)(a), the tax year
+in which permission under section 23(1)(a) of the Banking Regulation
+Act, 1949, or permission or registration under the Securities and Exchange
+Board of India Act, 1992 or any other relevant law was obtained; or
+(ii) in case of an entity mentioned in sub-section (1)(b), the tax year
+in which permission under section 23(1)(a) of the Banking Regulation
+Act, 1949, or permission or registration under the Securities and
+Exchange Board of India Act, 1992, or permission or registration under
+the International Financial Services Centre Authority Act, 2019 was
+obtained;
+(b) “Unit” shall have the same meaning as assigned to it in section 2(zc)
+of the Special Economic Zones Act, 2005;
+
+15
+10 of 1949.
+15 of 1992.
+
+20
+10 of 1949.
+15 of 1992.
+50 of 2019.
+
+25
+28 of 2005.
+
+(c) “aircraft” and “ship” shall have the meanings respectively assigned
+to them in Schedule VI Note 3.
+Deduction in
+respect of certain
+inter-corporate
+dividends.
+
+148. (1) If the gross total income of a domestic company in any tax year
+includes any income by way of dividends from––
+
+30
+
+(a) any other domestic company; or
+(b) a foreign company; or
+(c) a business trust,
+such domestic company shall, be allowed a deduction of an amount equal to so much
+of the income by way of dividends received from the person mentioned in clause
+(a) or (b) or (c) as does not exceed the amount of dividend distributed by it by the
+date one month before the due date for filing the return of income under
+section 263(1).
+(2) Where any deduction, in respect of the amount of dividend distributed by
+the domestic company, has been allowed under sub-section (1) in any tax year, no
+deduction shall be allowed in respect of such amount in any other tax year.
+
+Deduction in
+respect of
+income of
+co-operative
+societies.
+
+149. (1) If the gross total income of an assessee, being a co-operative society,
+includes any income referred to in sub-section (2), the sums specified in the said
+sub-section shall, in accordance with and subject to the provisions of this section,
+be allowed as deduction in computing the total income of such assessee.
+
+35
+
+40
+
+45
+
+181
+
+(2) The sums referred to in sub-section (1) shall be the following:—
+(a) in the case of a co-operative society engaged in—
+(i) carrying on the business of banking or providing credit facilities
+to its members; or
+5
+
+(ii) a cottage industry; or
+(iii) the marketing of agricultural produce grown by its
+members; or
+
+10
+
+(iv) the purchase of agricultural implements, seeds, livestock or
+other articles intended for agriculture for the purpose of supplying them
+to its members; or
+(v) the processing, without the aid of power, of the agricultural
+produce of its members; or
+(vi) the collective disposal of the labour of its members; or
+
+15
+
+(vii) fishing or allied activities, that is to say, the catching, curing,
+processing, preserving, storing or marketing of fish or the purchase of
+materials and equipment in connection therewith for the purpose of
+supplying them to its members,
+the whole of the amount of profits and gains of business attributable to any
+one or more of such activities;
+
+20
+
+(b) in the case of a co-operative society, being a primary society engaged
+in supplying milk, oilseeds, fruits, or vegetables raised or grown by its
+members to––
+(i) a federal co-operative society, engaged in the business of
+supplying milk, oilseeds, fruits or vegetables; or
+
+25
+
+(ii) the Government or a local authority; or
+(iii) a Government company, as defined in section 2(45) of the
+Companies Act, 2013, or a corporation established by or under a Central
+Act or State Act or Provincial Act, engaged in supplying milk, oilseeds,
+fruits or vegetables, as the case may be, to the public,
+
+18 of 2013.
+
+30
+
+the whole of the amount of profits and gains of such business;
+(c) in the case of a co-operative society engaged in activities not
+specified in clause (a) or (b), (either independently of, or in addition to, all or
+any of the activities so specified), that amount of profits and gains attributable
+to such activities as does not exceed––
+
+35
+
+(i) one lakh rupees, if the society is a consumers’ co-operative
+society; and
+(ii) fifty thousand rupees, in any other case;
+
+40
+
+(d) in respect of any income by way of interest or dividends derived by
+the co-operative society from its investments with any other co-operative
+society, the whole of such income;
+(e) in respect of any income by derived by the co-operative society from
+the letting of godowns or warehouses for storage, processing, or facilitating
+the marketing of commodities, the whole of such income;
+
+182
+
+(f) in the case of a co-operative society, not being––
+(i) a housing society; or
+(ii) an urban consumers’ society (being a society for the benefit of
+the consumers within the limits of a municipal corporation, municipality,
+municipal committee, notified area committee, town area, or
+cantonment); or
+
+5
+
+(iii) a society carrying on transport business; or
+(iv) a society engaged in performing manufacturing operations
+with the aid of power,
+where the gross total income does not exceed twenty thousand rupees,
+the amount of income––
+
+10
+
+(i) by way of interest on securities; or
+(ii) any income from house property chargeable under
+section 20.
+(3) In the case of a co-operative society as referred to in sub-section
+(2)(a)(vi) or (vii), provisions of sub-section (2) shall apply when the rules and
+bye-laws of the society restrict the voting rights to the following classes of
+members:—
+(i) the individuals who contribute their labour or carry on fishing or
+allied activities; or
+
+15
+
+20
+
+(ii) the co-operative credit societies which provide financial assistance
+to the society; or
+(iii) the State Government.
+(4) The deduction under sub-section (1) in relation to the sums specified in
+sub-section (2)(a)or (b) or (c) or sub-section (3), shall be allowed with reference to
+the income referred to in those sub-sections included in the gross total income after
+reducing the deduction under section 80-IA of the Income-tax Act, 1961, if the
+assessee is also entitled to such deduction.
+(5) The provision of this section shall not apply to any co-operative bank
+which is not a primary agricultural co-operative society or a primary co-operative
+agricultural and rural development bank.
+
+25
+43 of 1961.
+
+30
+
+(6) In this section,––
+(a) “consumers’ co-operative society” means a society for the benefit of
+the consumers;
+(b) “co-operative bank” and “primary agricultural credit society” have
+the same meanings as respectively assigned to them in Part V of the Banking
+Regulation Act, 1949; and
+(c) “primary co-operative agricultural and rural development bank”
+means a society having an area of operation confined to a taluk, the principal
+object of which is to provide long-term credit for agricultural and rural
+development activities.
+
+35
+10 of 1949.
+
+40
+
+183
+
+150. (1) An assessee, who,––
+(a) is a Producer Company;
+(b) has a total turnover of less than one hundred crore rupees in any
+tax year; and
+5
+
+Deduction in
+respect of certain
+income of
+Producer
+Companies.
+
+(c) has any profits and gains derived from eligible business included in
+its gross total income,
+shall be allowed a deduction of 100% of the profits and gains attributable to such
+business for the tax year commencing on or after the 1st April, 2018, but before the
+1st April, 2024.
+
+10
+
+(2) The deduction under this section shall be allowed after the gross total
+income of the assessee mentioned in sub-section (1) is reduced by any other
+deduction under this Chapter to which such assessee is entitled.
+(3) For the purposes of this section,—
+(a) “eligible business” means—
+
+15
+
+(i) the marketing of agricultural produce grown by the
+members; or
+(ii) the purchase of agricultural implements, seeds, livestock or
+other articles intended for agriculture for the purpose of supplying them
+to the members; or
+
+20
+
+(iii) the processing of the agricultural produce of the members;
+
+18 of 3013.
+
+(b) “Member” shall have the same meaning as assigned to it in
+section 378A(e) of the Companies Act, 2013;
+
+18 of 2013.
+
+(c) “Producer Company” shall have the same meaning as assigned to it
+in section 378A(1) of the Companies Act, 3013.
+25
+
+30
+
+35
+
+151. (1) Where, in the case of an individual resident in India, being an author,
+the gross total income includes any income, derived by him in the exercise of his
+profession, on account of any lump sum consideration for the assignment or grant
+of any of his interests in the copyright of any book being a work of literary, artistic
+or scientific nature, or of royalty or copyright fees (whether receivable in lump sum
+or otherwise) in respect of such book, there shall, as per and subject to the provisions
+of this section, be allowed, in computing the total income of the assessee, a
+deduction from such income, computed in the manner specified in sub-section (2).
+(2) The deduction under this section shall be equal to the whole of such
+income referred to in sub-section (1), or an amount of three lakh rupees,
+whichever is less.
+(3) Where the income by way of such royalty or the copyright fee, is not a
+lump sum consideration in lieu of all rights of the assessee in the book, so much of
+the income, before allowing expenses attributable to such income, as is in excess of
+15% of the value of such books sold during the tax year shall be ignored.
+
+40
+
+(4) In respect of any income earned from any source outside India, so much
+of the income shall be taken into account for the purpose of this section as is
+brought into India by, or on behalf of, the assessee in convertible foreign
+exchange within six months from the end of the tax year in which such income
+is earned or within such further period as the competent authority may allow in
+this behalf.
+
+Deduction in
+respect of
+royalty income,
+etc., of authors
+of certain books
+other than textbooks.
+
+184
+
+(5) Deduction under this section shall not be allowed unless the assessee
+furnishes a certificate in such form and manner, as prescribed, duly verified by any
+person responsible for making such payment to the assessee as referred to in
+sub-section (1), along with the return of income, setting forth such particulars, as
+prescribed.
+
+5
+
+(6) Deduction under this section shall not be allowed in respect of any income
+earned from any source outside India, unless the assessee furnishes a certificate, in
+the prescribed form from the prescribed authority, along with the return of income
+in the prescribed manner.
+(7) Where a deduction for any tax year has been claimed and allowed in
+respect of any income referred to in this section, no deduction in respect of such
+income shall be allowed under any other provision of this Act in any tax year.
+
+10
+
+(8) In this section,—
+(a) “author” includes a joint author;
+(b) “books” shall not include brochures, commentaries, diaries, guides,
+journals, magazines, newspapers, pamphlets, text-books for schools, tracts and
+other publications of similar nature, by whatever name called;
+(c) “competent authority” means the Reserve Bank of India or such other
+authority as is authorised under any law in force for regulating payments and
+dealings in foreign exchange; and
+
+15
+
+20
+
+(d) “lump sum”, in regard to royalties or copyright fees, includes an advance
+payment on account of such royalties or copyright fees which is not returnable.
+Deduction in
+respect of
+royalty on
+patents.
+
+152. (1) An assessee, being an individual, who is––
+(a) a resident in India;
+(b) a patentee;
+
+25
+
+(c) in receipt of income by way of royalty in respect of a patent
+registered on or after the 1st April, 2003 under the Patents Act, 1970; and.
+
+39 of 1970.
+
+(d) having gross total income for the tax year which includes royalty,
+shall be allowed a deduction from such income computed in the manner specified
+in sub-sections (2) to (6).
+
+30
+
+(2) The deduction under this section shall be equal to the whole of such income
+referred to in sub-section (1) or three lakh rupees, whichever is less.
+(3) Where a compulsory licence is granted in respect of any patent under the
+Patents Act, 1970, the income by way of royalty for the purpose of allowing
+deduction under this section shall not exceed the amount of royalty under the terms
+and conditions of a licence settled by the Controller under that Act.
+(4) In respect of any income earned from any source outside India, so much of
+the income, shall be taken into account for the purpose of this section as is brought
+into India by, or on behalf of, the assessee in convertible foreign exchange within
+six months from the end of the tax year in which such income is earned or within
+such further period as the competent authority referred to in section 151(8)(c) may
+allow in this behalf.
+(5) No deduction under this section shall be allowed unless the assessee
+furnishes a certificate in the prescribed form, duly signed by the authority as
+prescribed, along with the return of income setting forth such particulars, as
+prescribed.
+
+39 of 1970.
+35
+
+40
+
+45
+
+185
+
+(6) No deduction under this section shall be allowed in respect of any income
+earned from any source outside India, unless the assessee furnishes a certificate in
+such form, from the authority or authorities, as prescribed, along with the return of
+income.
+5
+
+(7) In this section,––
+(a) “Controller” means the authority as defined in section 2(1)(b) of the
+Patents Act, 1970;
+
+39 of 1970.
+
+(b) “lump sum” includes a non-refundable advance payment for
+royalties;
+10
+39 of 1970.
+
+(c) “patent” means any patent granted, including a patent of addition,
+under the Patents Act, 1970;
+(d) “patentee” means the true and first inventor recorded as the patentee
+under the Patents Act, 1970, including joint patentees recorded as such true
+and first inventors;
+
+39 of 1970.
+
+39 of 1970.
+
+(e) “patent of addition” shall have the same meaning as assigned to it in
+section 2(1)(q) of the Patents Act, 1970;
+
+39 of 1970.
+
+(f) “patented article” and “patented process” shall have the same
+meanings as assigned to them in section 2(1)(o) of the Patents Act, 1970;
+
+15
+
+(g) “royalty” in respect of a patent, means consideration for—
+20
+
+(i) the transfer of all or any rights (including the granting of a
+licence) in respect of a patent; or
+(ii) the imparting of any information concerning the working of, or
+the use of, a patent; or
+(iii) the use of any patent; or
+
+25
+
+(iv) the rendering of any services in connection with the activities
+referred to in sub-clauses (i) to (iii), but does not include any
+consideration,––
+(A) which would be the income of the recipient chargeable
+under the head “Capital gains”; or
+
+30
+
+(B) for sale of product manufactured with the use of patented
+process or of the patented article for commercial use; and
+(h) “true and first inventor” shall have the same meaning as assigned to
+it in section 2(1)(y) of the Patents Act, 1970.
+
+39 of 1970.
+
+D.—Deductions in respect of other incomes
+35
+
+153. (1) An assessee who is––
+(a) an individual, not being a senior citizen; or
+(b) an individual, being a senior citizen; or
+(c) a Hindu undivided family,
+
+40
+
+10 of 1949.
+
+shall be allowed a deduction from the gross total income, subject to conditions
+specified in sub-section (2), where it includes income by way of interest on
+deposits with––
+(i) a banking company to which the Banking Regulation Act, 1949,
+applies (including any bank or banking institution referred to in
+section 51 of that Act); or
+
+Deduction for
+interest on
+deposits.
+
+186
+
+(ii) a co-operative society engaged in carrying on the business of
+banking (including a co-operative land mortgage bank or a co-operative
+land development bank); or
+(iii) a Post Office as defined in section 2(k) of the Post Office Act, 2023.
+(2) The deduction under sub-section (1) shall be allowed for a tax year as follows:—
+
+43 of 2023.
+5
+
+(a) in case of assessee mentioned in sub-section 1(a) or (c), the whole of
+the interest up to a maximum amount of ten thousand rupees on deposits in a
+savings account, excluding time deposits;
+(b) in case of assessee mentioned in sub-section (1)(b), the whole of the
+interest up to a maximum amount of fifty thousand rupess on deposits in a
+savings account, including time deposits.
+(3) Where the income referred to in this section is derived from any deposit in
+a savings account held by, or on behalf of, a firm, an association of persons or a
+body of individuals, no deduction shall be allowed under this section in respect of
+such income in computing the total income of any partner of the firm or any member
+of the association or any individual of the body.
+
+10
+
+15
+
+(4) In this section, “time deposits” means the deposits repayable on expiry of
+fixed periods.
+E.—Other deductions
+Deduction in
+case of a person
+with disability.
+
+154. (1) An individual, being resident in India, who is certified by a medical
+authority, at any time during the tax year, as a person with disability or person with
+severe disability, shall be allowed a deduction of seventy-five thousand rupees or
+one lakh and twenty-five thousand rupees, respectively, while computing his total
+income.
+
+20
+
+(2) The deduction under sub-section (1) shall be allowed only if all of the
+following conditions are fulfilled:––
+
+25
+
+(a) the individual furnishes a copy of the certificate issued by the medical
+authority;
+(b) if the certificate specifies that the disability needs reassessment of its
+extent after a period stipulated in it, the deduction shall not be allowed for any
+tax year succeeding the tax year in which the certificate expires, unless a new
+disability certificate is obtained and submitted; and
+(c) the certificate referred to in clauses (a) and (b) of this sub-section shall be
+furnished in the form and manner, as prescribed, along with the return of income
+under section 263 for the tax year in which the deduction is claimed.
+
+30
+
+]
+
+35
+
+(3) For the purposes of this section, “disability”, “medical authority”, “person
+with disability” or “person with severe disability” shall have the same meanings as
+provided in section 127.
+CHAPTER IX
+REBATES AND RELIEFS
+
+40
+
+A.—Rebates and reliefs
+Rebate to be
+allowed in
+computing
+income-tax.
+
+155. (1) In computing income-tax on the total income of an assessee with which
+he is chargeable for any tax year, there shall be allowed from income-tax (as computed
+before allowing the deductions under this Chapter), subject to the provisions of
+section 156, the deductions specified therein.
+(2) The deduction under section 156, shall not, in any case, exceed
+income-tax (as computed before allowing the deductions under this Chapter) on the
+total income of the assessee with which he is chargeable for any tax year.
+
+45
+
+

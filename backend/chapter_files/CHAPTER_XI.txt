@@ -1,0 +1,387 @@
+208
+
+CHAPTER XI
+GENERAL ANTI-AVOIDANCE RULE
+Applicability of
+General
+Anti-Avoidance
+Rule.
+
+178. (1) Irrespective of anything contained in this Act, an arrangement entered
+into by an assessee may be declared to be an impermissible avoidance arrangement
+and the consequence in relation to tax arising from it may be determined subject to
+the provisions of this Chapter.
+
+5
+
+(2) The provisions of this Chapter may be applied to any step in, or a part of,
+the arrangement as they are applicable to the arrangement.
+Impermissible
+avoidance
+arrangement.
+
+179. (1) An impermissible avoidance arrangement means an arrangement, the
+main purpose of which is to obtain a tax benefit, and it—
+
+10
+
+(a) creates rights, or obligations, which are not ordinarily created
+between persons dealing at arm’s length;
+(b) results, directly or indirectly, in the misuse, or abuse, of the
+provisions of this Act;
+(c) lacks commercial substance or is deemed to lack commercial
+substance under section 180, in whole or in part; or
+
+15
+
+(d) is entered into, or carried out, by means, or in a manner, which are
+not ordinarily employed for bona fide purposes.
+(2) An arrangement shall be presumed, unless it is proved to the contrary by
+the assessee, to have been entered into, or carried out, for the main purpose of
+obtaining a tax benefit, if the main purpose of a step in, or a part of, the arrangement
+is to obtain a tax benefit, irrespective of the fact that the main purpose of the whole
+arrangement is not to obtain a tax benefit.
+Arrangement to
+lack commercial
+substance.
+
+180. (1) An arrangement shall be deemed to lack commercial
+substance, if––
+
+20
+
+25
+
+(a) the substance or effect of the arrangement as a whole, is inconsistent
+with, or differs significantly from, the form of its individual steps or a part; or
+(b) it involves or includes—
+(i) round trip financing; or
+(ii) an accommodating party; or
+
+30
+
+(iii) elements that have effect of offsetting or cancelling each other; or
+(iv) a transaction which is conducted through one or more persons
+and disguises the value, location, source, ownership or control of funds
+which is the subject matter of such transaction; or
+(c) it involves the location of an asset or of a transaction or of the place
+of residence of any party which is without any substantial commercial purpose
+other than obtaining a tax benefit (but for the provisions of this Chapter) for a
+party; or
+(d) it does not have a significant effect upon the business risks or net
+cash flows of any party to the arrangement apart from any effect attributable
+to the tax benefit that would be obtained (but for the provisions of this
+Chapter).
+(2) In sub-section (1), round trip financing includes any arrangement in which,
+through a series of transactions—
+
+35
+
+40
+
+209
+
+(a) funds are transferred among the parties to the arrangement; and
+(b) such transactions do not have any substantial commercial purpose
+other than obtaining the tax benefit (but for the provisions of this Chapter),
+without having any regard to—
+5
+
+(A) whether or not the funds involved in the round trip financing can be
+traced to any funds transferred to, or received by, any party in connection with
+the arrangement;
+(B) the time, or sequence, in which the funds involved in the round trip
+financing are transferred or received; or
+
+10
+
+(C) the means by, or manner in, or mode through, which funds involved
+in the round trip financing are transferred or received.
+(3) The following may be relevant but shall not be sufficient for determining
+whether an arrangement lacks commercial substance or not:—
+
+15
+
+(a) the period of time for which the arrangement (including operations
+therein) exists;
+(b) the fact of payment of taxes, directly or indirectly, under the
+arrangement;
+(c) the fact that an exit route (including transfer of any activity or
+business or operations) is provided by the arrangement.
+
+20
+
+25
+
+181. (1) If an arrangement is declared to be an impermissible avoidance
+arrangement, then, the consequences, in relation to tax, of the arrangement,
+including denial of tax benefit or a benefit under a tax treaty, shall be determined,
+in the manner as deemed appropriate.
+(2) The consequences of an arrangement declared to be an impermissible
+avoidance arrangement as referred to in sub-section (1) shall include but shall not
+be limited to the following:—
+(a) disregarding, combining or recharacterising any step in, or a part or
+whole of, the impermissible avoidance arrangement;
+
+30
+
+(b) treating the impermissible avoidance arrangement as if it had not
+been entered into or carried out;
+(c) disregarding any accommodating party or treating
+accommodating party and any other party as one and the same person;
+
+35
+
+any
+
+(d) deeming persons who are connected persons in relation to each other
+to be one and the same person for the purposes of determining tax treatment
+of any amount;
+(e) reallocating amongst the parties to the arrangement—
+(i) any accrual, or receipt, of a capital nature or revenue nature; or
+(ii) any expenditure, deduction, relief or rebate;
+(f) treating—
+
+40
+
+(i) the place of residence of any party to the arrangement; or
+(ii) the situs of an asset or of a transaction,
+at a place other than the place of residence, location of the asset or location of the
+transaction as provided under the arrangement; or
+
+45
+
+(g) considering or looking through any arrangement by disregarding any
+corporate structure.
+
+Consequences
+of
+impermissible
+avoidance
+arrangement.
+
+210
+
+(3) In this section,—
+(a) any equity may be treated as debt or vice versa;
+(b) any accrual, or receipt, of a capital nature may be treated as of
+revenue nature or vice versa; or
+(c) any expenditure, deduction, relief or rebate may be recharacterised.
+Treatment of
+connected
+person and
+accommodating
+party.
+
+5
+
+182. In this Chapter, in determining whether a tax benefit exists,—
+(a) the parties who are connected persons in relation to each other may
+be treated as one and the same person;
+(b) any accommodating party may be disregarded;
+(c) the accommodating party and any other party may be treated as one
+and the same person;
+
+10
+
+(d) the arrangement may be considered or looked through by
+disregarding any corporate structure.
+Application of
+this Chapter.
+
+183. The provisions of this Chapter––
+(a) in addition to, or in lieu of, any other basis for determination of tax
+liability;
+
+15
+
+(b) as per such guidelines and subject to such conditions, as prescribed.
+Interpretation.
+
+184. In this Chapter, unless the context otherwise requires,—
+(1) “accommodating party” means a party to an arrangment, if the main
+purpose of the direct or indirect participation of that party in the arrangement,
+in whole or in part, is to obtain, directly or indirectly, a tax benefit (but for the
+provisions of this Chapter) for the assessee whether or not the party is a
+connected person in relation to any party to the arrangement;
+(2) “arrangement” means any step in, or a part or whole of, any
+transaction, operation, scheme, agreement or understanding, whether
+enforceable or not, and includes the alienation of any property in such
+transaction, operation, scheme, agreement or understanding;
+
+20
+
+25
+
+(3) “asset” includes property, or right, of any kind;
+(4) “benefit” includes a payment of any kind whether in tangible or
+intangible form;
+
+30
+
+(5) “connected person” means any person who is connected directly or
+indirectly to another person and includes,—
+(a) any relative of the person, if such person is an individual;
+(b) any director of the company or any relative of such director, if
+the person is a company;
+
+35
+
+(c) any partner or member of a firm or association of persons or
+body of individuals or any relative of such partner or member, if the
+person is a firm or association of persons or body of individuals;
+(d) any member of the Hindu undivided family or any relative of
+such member, if the person is a Hindu undivided family;
+(e) any individual who has a substantial interest in the business of
+the person or any relative of such individual;
+
+40
+
+211
+
+5
+
+10
+
+(f) a company, firm or an association of persons or a body of
+individuals, whether incorporated or not, or a Hindu undivided family
+having a substantial interest in the business of the person or any director,
+partner, or member of the company, firm or association of persons or
+body of individuals or family, or any relative of such director, partner or
+member;
+(g) a company, firm or association of persons or body of individuals,
+whether incorporated or not, or a Hindu undivided family, whose director,
+partner, or member has a substantial interest in the business of the person,
+or family or any relative of such director, partner or member;
+(h) any other person who carries on a business, if—
+(i) the person being an individual, or any relative of such
+person, has a substantial interest in the business of that other
+person; or
+
+15
+
+20
+
+(ii) the person being a company, firm, association of persons,
+body of individuals, whether incorporated or not, or a Hindu
+undivided family, or any director, partner or member of such
+company, firm or association of persons or body of individuals or
+family, or any relative of such director, partner or member, has a
+substantial interest in the business of that other person;
+(6) “fund” includes—
+(a) any cash;
+(b) cash equivalents; and
+(c) any right, or obligation, to receive or pay, the cash or cash equivalent;
+
+25
+
+(7) “party” includes a person or a permanent establishment which participates
+or takes part in an arrangement;
+(8) “relative” shall have the meaning assigned to it in section 92(5)(g);
+(9) a person shall be deemed to have a substantial interest in the business, if,—
+
+30
+
+(a) in a case where the business is carried on by a company, such person
+is, at any time during the financial year, the beneficial owner of equity shares
+carrying at least 20% of the voting power; or
+(b) in any other case, such person is, at any time during the financial
+year, beneficially entitled to at least 20% of the profits of such business;
+
+35
+
+(10) “step” includes a measure or an action, particularly one of a series taken
+in order to deal with or achieve a particular thing or object in the arrangement;
+(11) “tax benefit” includes,—
+(a) a reduction or avoidance or deferral of tax or other amount payable
+under this Act; or
+(b) an increase in a refund of tax or other amount under this Act; or
+
+40
+
+(c) a reduction or avoidance or deferral of tax or other amount that would
+be payable under this Act, as a result of a tax treaty; or
+(d) an increase in a refund of tax or other amount under this Act as a
+result of a tax treaty; or
+(e) a reduction in total income; or
+
+45
+
+(f) an increase in loss,
+in the relevant tax year or any other tax year;
+
+212
+(12) “tax treaty” means an agreement referred to in section 159(1) or (2).
+CHAPTER XII
+MODE OF PAYMENT IN CERTAIN CASES ETC.
+Mode of taking
+or accepting
+certain loans,
+deposits and
+specified sum.
+
+185.(1) No person shall take or accept from another person any loan or deposit
+or specified sum, except through—
+
+5
+
+(a) an account payee cheque;
+(b) account payee bank draft;
+(c) electronic clearing system through a bank account; or
+(d) any other prescribed electronic mode,
+10
+
+if,––
+(i) the amount or the aggregate amount of such loan, deposit, or specified
+sum; or
+(ii) the amount or the aggregate amount of any previously taken or
+accepted loan or deposit or specified sum by such person from such
+another person, which is remaining unpaid, whether due for repayment
+or not, as on the date of taking or accepting such amount as referred to in
+clause (i); or
+
+15
+
+(iii) the aggregate of the amounts referred to in of clauses (i) and (ii),
+is twenty thousand rupees or more.
+(2) Sub-section (1) shall not apply to loans or deposits or specified sums taken
+or accepted from or by,––
+
+20
+
+(a) the Government;
+(b) any banking company, post office savings bank, or co-operative
+bank;
+(c) any corporation established by a Central, State or Provincial Act;
+
+25
+
+(d) any Government company as defined under section 2(45) of the
+Companies Act, 2013;
+
+18 of 2013.
+
+(e) any institution, association, or body or class of institutions,
+associations or bodies notified by the Central Government.
+(3) The provisions of sub-section (1) shall not apply to any loan or deposit or
+specified sum where, the person taking or accepting such loan or deposit or specified
+sum and person from whom such loan or deposit or specified sum is taken or
+accepted, both, have agricultural income and neither has any income chargeable to
+tax under this Act.
+(4) In sub-section (1), “two lakh rupees” shall be substituted for “twenty
+thousand rupees” in the case of any deposit or loan, where—
+
+30
+
+35
+
+(a) such deposit is accepted by a primary agricultural credit society or a
+primary co-operative agricultural and rural development bank from its
+member; or
+(b) such loan is taken from a primary agricultural credit society or
+primary co-operative agricultural and development bank by its member.
+(5) In this section, “loan or deposit” means loan or deposit of money.
+
+40
+
+

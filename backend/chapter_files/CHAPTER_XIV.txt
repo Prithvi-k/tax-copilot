@@ -1,0 +1,1590 @@
+270
+
+but does not include—
+(A) a seagoing ship or vessel or inland vessel, as the case may be,
+if the main purpose for which it is used is the provision of goods or
+services of a kind normally provided on land;
+(B) fishing vessels;
+
+5
+
+(C) factory ships;
+(D) pleasure crafts;
+(E) harbour and river ferries;
+(F) offshore installations; and
+(G) a qualifying ship which is used as a fishing vessel for more
+than thirty days during a tax year;
+
+10
+
+(j) “seagoing ship” means a ship, if it is certified as such by the
+competent authority of any country;
+(k) “tonnage income” means the income of a tonnage tax company
+computed as per the provisions of this Part;
+
+15
+
+(l) “tonnage tax activities” means the activities referred to in section 228(3)
+and (7);
+(m) “tonnage tax business” means the business of operating qualifying
+ships giving rise to relevant shipping income as referred to in section 228(1);
+(n) “tonnage tax company” means a qualifying company in relation to
+which tonnage tax option is in force;
+
+20
+
+(o) “tonnage tax scheme” means a scheme for computation of profits and
+gains of business of operating qualifying ships under the provisions of this Part
+CHAPTER XIV
+TAX ADMINISTRATION
+
+25
+
+A.—Authorities, jurisdiction and functions
+Income-tax
+authorities.
+
+236. For the purposes of this Act, there shall be the following classes of
+income-tax authorities:—
+(a) the Central Board of Direct Taxes constituted under the Central
+Boards of Revenue Act, 1963;
+
+30 54 of 1963.
+
+(b) Principal Directors General of Income-tax or Principal Chief
+Commissioners of Income-tax;
+(c) Directors General of Income-tax or Chief Commissioners of
+Income-tax;
+(d) Principal Directors of Income-tax or Principal Commissioners of
+Income-tax;
+
+35
+
+(e) Directors of Income-tax or Commissioners of Income-tax or
+Commissioners of Income-tax (Appeals);
+(f) Additional Directors of Income-tax or Additional Commissioners of
+Income-tax or Additional Commissioners of Income-tax (Appeals);
+(g) Joint Directors of Income-tax or Joint Commissioners of Income-tax
+or Joint Commissioners of Income-tax (Appeals);
+(h) Deputy Directors of Income-tax or Deputy Commissioners of
+Income-tax;
+
+40
+
+271
+
+(i) Assistant Directors of Income-tax or Assistant Commissioners of
+Income-tax;
+(j) Income-tax Officers;
+(k) Tax Recovery Officers; and
+5
+
+(l) Inspectors of Income-tax.
+237. (1) The Central Government may appoint such persons as it thinks fit to
+be income-tax authorities.
+
+10
+
+(2) The Central Government may, subject to the rules and its orders regulating
+the conditions of service of persons in public services and posts, authorise the Board,
+or a Principal Director General or Director General, or a Principal Chief
+Commissioner or Chief Commissioner, or a Principal Director or Director, or a
+Principal Commissioner or Commissioner, to appoint income-tax authorities below
+the rank of a Deputy Commissioner or Assistant Commissioner.
+
+15
+
+(3) Subject to the rules and orders of the Central Government regulating the
+conditions of service of persons in public services and posts, an income-tax
+authority authorised in this behalf by the Board, may appoint such executive or
+ministerial staff as may be necessary to assist it in the execution of its functions.
+
+20
+
+25
+
+238. The Board may, by notification, direct that any income-tax authority or
+authorities specified in the notification shall be subordinate to such other
+income-tax authority or authorities as specified in such notification.
+
+Control of
+income-tax
+authorities.
+
+239. (1) The Board may issue such orders, instructions and directions to other
+income-tax authorities as it considers fit for the proper administration of this Act,
+and such authorities and all other persons employed in the execution of this Act shall
+observe and follow such orders, instructions and directions.
+
+Instructions to
+subordinate
+authorities.
+
+(2) No orders, instructions or directions under sub-section (1) shall be
+issued to—
+(a) require any income-tax authority to make a particular assessment or
+to dispose of a particular case in a particular manner; or
+
+30
+
+(b) interfere with the discretion of the Joint Commissioner (Appeals) or
+Commissioner (Appeals) in the exercise of his appellate functions.
+(3) Without prejudice to the foregoing power, the Board may,—
+
+35
+
+40
+
+45
+
+Appointment of
+income-tax
+authorities.
+
+(a) if it considers necessary or expedient so to do for the proper and
+efficient management of the work of assessment and collection of revenue,
+issue, from time to time (whether by way of relaxation of any of the provisions
+of section 263, 270, 271, 279, 280, 287, 298, 398(3), 406, 407, 423, 424, 425,
+427, 428, 439, 448, 449 or otherwise), general or special orders in respect of
+any class of incomes or class of cases,––
+(i) setting forth directions or instructions (not being prejudicial to
+assessees) as to the guidelines, principles or procedures to be followed
+by other income-tax authorities in the work relating to assessment or
+collection of revenue or the initiation of proceedings for the imposition
+of penalties; and
+(ii) any such order may, if the Board is of the opinion that it is
+necessary in the public interest so to do, be published and circulated in
+the prescribed manner for general information;
+
+272
+
+(b) if it considers desirable or expedient so to do for avoiding genuine
+hardship in any case or class of cases, by general or special order, authorise
+any income-tax authority, not being a Joint Commissioner (Appeals) or a
+Commissioner (Appeals) to admit an application or claim for any exemption,
+deduction, refund or any other relief under this Act after the expiry of the
+period specified in this Act for making such application or claim and deal with
+the same on merits as per law;
+(c) if it considers desirable or expedient so to do for avoiding genuine
+hardship in any case or class of cases, by general or special order for reasons
+to be specified therein, relax any requirement contained in any of the
+provisions of Chapter IV or VIII, where the assessee has failed to comply with
+any requirement specified in such provision for claiming deduction
+thereunder, subject to the following conditions:—
+(i) the default in complying with such requirement was due to
+circumstances beyond the control of the assessee; and
+
+5
+
+10
+
+15
+
+(ii) the assessee has complied with such requirement before the
+completion of assessment in relation to the tax year in which such
+deduction is claimed.
+(4) The Central Government shall cause every order issued under
+sub-section (3)(c) to be laid before each House of Parliament.
+Taxpayer’s
+Charter.
+
+240. The Board shall adopt and declare a Charter for Taxpayers and issue such
+orders, instructions, directions or guidelines to other income-tax authorities as it
+considers fit for the administration of such Charter.
+
+Jurisdiction of
+income-tax
+authorities.
+
+241. (1) The income-tax authorities shall exercise all or any of the powers and
+perform all or any of the functions conferred on, or assigned to, such authorities
+under this Act as per such directions as the Board may issue for the exercise of the
+powers and performance of the functions by all or any of those authorities.
+(2) Any income-tax authority, being an authority higher in rank, may, if so
+directed by the Board, exercise the powers and perform the functions of an
+income-tax authority lower in rank and any such direction issued by the Board shall
+be deemed to be a direction issued under sub-section (1).
+(3) The directions of the Board under sub-section (1) may authorise any other
+income-tax authority to issue orders in writing for the exercise of the powers and
+performance of the functions by all or any of the other income-tax authorities who
+are subordinate to it.
+
+20
+
+25
+
+30
+
+35
+
+(4) In issuing the directions or orders referred to in sub-sections (1), (2) and (3),
+the Board or other income-tax authority authorised by it may have regard to any one
+or more of the following criteria:—
+(a) territorial area;
+(b) persons or classes of persons;
+
+40
+
+(c) incomes or classes of income; and
+(d) cases or classes of cases.
+(5) Without prejudice to sub-sections (1), (2) and (3), the Board may, by
+general or special order, subject to such conditions, restrictions or limitations as
+specified therein––
+(a) authorise any Principal Director General or Director General or
+Principal Director or Director to perform such functions of any other
+income-tax authority as may be assigned to him by the Board;
+
+45
+
+273
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+(b) empower the specified income-tax authority to issue orders in writing
+that the powers and functions assigned to the Assessing Officer under this Act
+in respect of any specified area, or persons or classes of persons, or incomes
+or classes of income, or cases or classes of cases, shall be exercised or
+performed by an Additional Commissioner or an Additional Director or a Joint
+Commissioner or a Joint Director.
+(6) Where any order is made under sub-section (5)(b), references in any other
+provision of this Act or in any rule made thereunder, to the Assessing Officer shall
+be deemed to be references to such Additional Commissioner or Additional Director
+or Joint Commissioner or Joint Director by whom the powers and functions are to
+be exercised or performed under such order, and any provision of this Act requiring
+approval or sanction of the Joint Commissioner shall not apply.
+(7) The directions and orders referred to in sub-sections (1), (2) and (3) may,
+wherever considered necessary or appropriate for the proper management of work,
+require two or more Assessing Officers (whether or not of the same class) to exercise
+and perform, concurrently, the powers and functions in respect of any area, or
+persons or classes of persons, or incomes or classes of income, or cases or classes
+of cases, and––
+(a) where such powers and functions are exercised and performed
+concurrently by the Assessing Officers of different classes, any authority
+lower in rank amongst them shall exercise the powers and perform the
+functions as any higher authority amongst them may direct; and
+(b) references in any other provision of this Act or in any rule made
+thereunder to the Assessing Officer shall be deemed to be references to such
+higher authority and any provision of this Act requiring approval or sanction
+of any such authority shall not apply.
+(8) Irrespective of anything contained in any direction or order issued under
+this section, or in section 242, the Board may, by notification, issue any direction
+for the purposes of furnishing of the return of income or the doing of any other act
+or thing under this Act or any rule made thereunder by any person or class of
+persons.
+(9) The income-tax authority exercising and performing the powers and
+functions in relation to the person or class of persons referred to in sub-section
+(8) shall be such authority as specified in the notification issued under that
+sub-section.
+242. (1) Where an Assessing Officer has been vested with jurisdiction over
+any area by virtue of any direction or order issued under section 241(1) or (2) or (3),
+he shall have jurisdiction within the limits of such area,—
+
+40
+
+(a) in respect of any person carrying on a business or profession, if the
+place at which he carries on his business or profession is situated within the
+area, or where his business or profession is carried on in more places than one,
+if the principal place of his business or profession is situated within the
+area; and
+(b) in respect of any other person residing within the area.
+
+45
+
+(2) Where a question arises under this section as to whether an Assessing
+Officer has jurisdiction to assess any person, the question shall be determined by the
+specified income-tax authority.
+
+Jurisdiction of
+Assessing
+Officers.
+
+274
+
+(3) Where under this section, a question arises relating to areas within the
+jurisdiction of different specified income-tax authorities, the question shall be
+determined––
+(a) by the concerned specified income-tax authority concerned; or
+(b) if they are not in agreement, by the Board or by such specified
+income-tax authority as the Board may, by notification, specify.
+
+5
+
+(4) No person shall call in question the jurisdiction of an Assessing Officer,––
+(a) where he has made a return under section 263(1), after the expiry of
+one month from the date on which he was served with a notice under
+section 268(1) or 270(8) or after the completion of the assessment, whichever
+is earlier;
+(b) where he has made no such return, after the expiry of the time
+allowed by the notice under section 268(1) or 280(2) for the making of the
+return or by the notice under section 271(2) to show cause why the assessment
+should not be completed to the best of the judgment of the Assessing Officer,
+whichever is earlier;
+(c) where an action has been taken under section 247 or 248, after the
+expiry of one month from the date on which he was served with a notice under
+section 153C(2) of the Income-tax Act, 1961 or section 294(1)(a) or after the
+completion of the assessment, whichever is earlier.
+
+10
+
+15
+
+20
+
+(5) Subject to the provisions of sub-section (4), where an assessee calls in
+question the jurisdiction of an Assessing Officer, then the Assessing Officer shall,
+if not satisfied with the correctness of the claim, refer the matter for determination
+under sub-section (2) or (3) before the assessment is made.
+(6) Irrespective of anything contained in this section or in any direction or
+order issued under section 241, every Assessing Officer shall have all the powers
+conferred under this Act on an Assessing Officer in respect of the income accruing
+or arising or received within the area, if any, over which he has been vested with
+jurisdiction by virtue of the directions or orders issued under section 241(1) or.
+(2) or (3) or section (4).
+Power to transfer
+cases.
+
+25
+
+30
+
+243. (1) The specified income-tax authority may transfer any case from one or
+more Assessing Officers subordinate to him (whether with or without concurrent
+jurisdiction) to any other Assessing Officer or Assessing Officers (whether with or
+without concurrent jurisdiction) subordinate to him.
+(2) If the Assessing Officer or Assessing Officers, from whom the case is to
+be transferred and the Assessing Officer or Assessing Officers, to whom the case is
+to be transferred are not subordinate to the same specified income-tax authority, and
+the concerned specified income-tax authorities––
+(a) are in agreement, then the specified income-tax authority from whose
+jurisdiction the case is to be transferred may pass the order;
+
+35
+
+40
+
+(b) are not in agreement, the order transferring the case may be passed
+by the Board or any such specified income-tax authority as the Board may, by
+notification, specify.
+(3) The order of transfer under sub-section (1) or (2) may be passed by the
+specified income-tax authority after giving the assessee a reasonable opportunity of
+being heard wherever it is possible to do so and after recording his reasons therefor.
+
+45
+
+275
+
+5
+
+10
+
+(4) Nothing in sub-section (1) or (2) or (3) shall be considered to require any
+opportunity of being heard to be given, where the transfer is from any Assessing
+Officer or Assessing Officers (whether with or without concurrent jurisdiction) to
+any other Assessing Officer or Assessing Officers (whether with or without
+concurrent jurisdiction) and the offices of all such officers are situated in the same
+city, locality or place.
+(5) The transfer of a case under sub-section (1) or (2) may be made at any
+stage of the proceedings, and it shall not be necessary to re-issue any notice already
+issued by the Assessing Officer or Assessing Officers from whom the case is
+transferred.
+(6) For the purposes of section 241 and this section, “case”, in relation to any
+person whose name is specified in any order or direction issued thereunder, means
+all proceedings under this Act in respect of any year, which may—
+(a) be pending on the date of that order or direction; or
+
+15
+
+(b) have been completed on or before such date; or
+(c) be commenced after the date of such order or direction in respect of
+any year.
+
+20
+
+25
+
+(7) For the purposes of sections 241, 242 and this section, “specified incometax authority” means the Principal Director General or Director General or Principal
+Chief Commissioner or Chief Commissioner or Principal Commissioner or
+Commissioner.
+244. (1) Whenever, in respect of any proceeding under this Act, an
+income-tax authority ceases to exercise jurisdiction and is succeeded by another
+who has and exercises jurisdiction, the income-tax authority so succeeding may
+continue the proceeding from the stage at which the proceeding was left by his
+predecessor.
+
+Change of
+incumbent of an
+office.
+
+(2) Before the proceeding referred to in sub-section (1) is so continued, the
+assessee concerned may demand that––
+(a) the previous proceeding or any part thereof be reopened; or
+30
+
+(b) he be reheard before any order of assessment is passed against him.
+245. (1) The exercise of following powers for the purposes mentioned in
+sub-section (2) shall be as per a Scheme made by the Central Government:––
+
+35
+
+(a) all or any of the powers and performance of all or any of the functions
+conferred on, or, assigned to, income-tax authorities under this Act referred to
+in section 241; or
+(b) vesting the jurisdiction with the Assessing Officer under
+section 242; or
+(c) power to transfer cases under section 243; or
+
+40
+
+(d) exercise of jurisdiction in case of change of incumbency under
+section 244.
+(2) The purposes of the Scheme referred to in sub-section (1) shall be to impart
+greater efficiency, transparency and accountability by—
+(a) eliminating the interface between the income-tax authority and the
+assessee or any other person, to the extent technologically feasible;
+
+45
+
+(b) optimising utilisation of the resources through economies of scale
+and functional specialisation;
+
+Faceless
+jurisdiction of
+income-tax
+authorities.
+
+276
+
+(c) introducing a team-based exercise of powers and performance of
+functions by two or more income-tax authorities, concurrently, in respect of
+any area, or persons or classes of persons, or incomes or classes of income, or
+cases or classes of cases, with dynamic jurisdiction.
+(3) The Central Government may, for the purpose of giving effect to the
+Scheme made under sub-section (1), by notification, direct that any of the provisions
+of this Act shall not apply or shall apply with such exceptions, modifications and
+adaptations as specified in such notification.
+(4) Every notification issued under sub-sections (1) and (3) shall, as soon as
+may be after the notification is issued, be laid before each House of Parliament.
+
+5
+
+10
+
+B.—Powers
+Power regarding
+discovery,
+production of
+evidence, etc.
+
+246. (1) The Assessing Officer, Joint Commissioner, Joint Commissioner
+(Appeals), Commissioner (Appeals), Commissioner or Principal Commissioner, or
+Chief Commissioner or Principal Chief Commissioner and the Dispute Resolution
+Panel referred to in section 275(17)(a), shall, for the purposes of this Act, have the
+same powers as are vested in a court under the Code of Civil Procedure, 1908, when
+trying a suit in respect of the following matters:––
+
+15
+5 of 1908.
+
+(a) discovery and inspection;
+(b) enforcing the attendance of any person, including any officer of a
+banking company and examining him on oath;
+
+20
+
+(c) compelling the production of books of account and other
+documents; and
+(d) issuing commissions.
+(2) The powers conferred under sub-section (1) may also be exercised, in
+respect of any person or class of persons, even when there are no proceedings
+pending with respect to such person or class of persons, by the following
+income-tax authorities:––
+(a) any income-tax authority (not below the rank of Assistant
+Commissioner of Income-tax) notified by the Board, for the purposes of
+making any inquiry or investigation in relation to an agreement referred to in
+section 159;
+(b) the Principal Director General or Director General or Principal
+Director or Director or Joint Director or Assistant Director for the purposes of
+making any inquiry or investigation, if he has the reason to suspect that any
+income has been concealed, or is likely to be concealed; and
+
+25
+
+30
+
+35
+
+(c) the authorised officer referred to in section 247(1), before taking
+action under section 247(1)(b)(i) to (viii), or during the course of such action.
+(3) Any income-tax authority exercising the powers referred to in
+sub-sections (1) and (2) may, subject to the rules made in this behalf, impound any
+books of account or other documents produced before it in any proceeding under
+this Act.
+(4) The Assessing Officer or the Assistant Director shall record the reasons
+for impounding any books of account or other documents under sub-section (3) and
+may retain such impounded books of account or other documents up to fifteen days
+(exclusive of holidays), or for such further period, with the prior sanction of the
+approving authority.
+
+40
+
+45
+
+277
+
+247. (1) Where the competent authority, in consequence of information in his
+possession, has reason to believe that—
+(a) any person to whom a summons under section 246(1) or a notice
+under section 268(1),––
+5
+
+(i) was issued to produce, or cause to be produced, any books of
+account or other documents or any information stored in any electronic
+media or a computer system, has omitted or failed to produce, or cause
+to be produced, such books of account or other documents or such
+information as required by such summons or notice; or
+
+10
+
+(ii) has been issued or might be issued, will not, or would not,
+produce or cause to be produced, any books of account or other
+documents or any information stored in an electronic media or a
+computer system which will be useful for, or relevant to, any
+proceedings under this Act; or
+
+15
+
+20
+
+(b) any person is in possession of any asset or information in relation to
+any asset and such asset represents either wholly or partly, income or property
+which has not been, or would not be, disclosed, for the purposes of this Act,
+or the Black Money (Undisclosed Foreign Income and Assets) and Imposition
+of Tax Act, 2015, (herein referred to as the undisclosed income or property in
+this section),
+
+25
+
+then the approving authority may authorise any Joint Director or Joint
+Commissioner or Assistant Director or Assistant Commissioner or Income-tax
+Officer, or any Joint Director or Joint Commissioner, so authorised, may authorise
+any Assistant Director or Assistant Commissioner or Income-tax Officer,
+hereinafter referred to as the authorised officer to––
+
+22 of 2015.
+
+(i) enter and search any building, place, vessel, vehicle, aircraft where
+he has reason to suspect that such assets, books of account, other documents,
+or any information stored in an electronic media or computer systems are kept;
+30
+21 of 2000.
+
+35
+
+40
+
+45
+
+50
+
+(ii) require any person, who is found to be in possession or control of
+any books of account or other documents maintained in the form of electronic
+record [as defined in section 2(1)(ha), (i), (j), (k), (l), (r), and (t) of the
+Information Technology Act, 2000], on computer systems, any information
+stored in an electronic media or computer systems, to afford the authorised
+officer with such reasonable technical and other assistance (including access
+code, by whatever name called) as may be necessary to enable the authorised
+officer to inspect any information, electronic records and communication or
+data contained in or available on such computer systems;
+(iii) break open the lock of any door, box, locker, safe, almirah, or other
+receptacle for exercising the powers conferred by clause (i), to enter and
+search any building, place, etc., where the keys thereof or the access to such
+building, place, etc., is not available, or gain access by overriding the access
+code to any said computer system, or virtual digital space, where the access
+code thereof is not available;
+(iv) search any person who has got out of, or is about to get into, or is in,
+the building, place, vessel, vehicle or aircraft, if the authorised officer has
+reason to suspect that such person has secreted about his person any such
+books of account, other documents, computer systems or asset;
+(v) place marks of identification on any books of account or other
+documents or make or cause to be made extracts or copies therefrom and also
+from computer systems;
+(vi) make a note or an inventory of any such asset, and stock-in-trade of
+the business, found as a result of such search;
+
+Search and
+seizure.
+
+278
+
+(vii) seize any such books of account, other documents, computer
+systems, or asset (other than stock-in-trade of the business), found as a result
+of such search;
+(viii) serve an order of deemed seizure, on the owner or the person who
+is in immediate possession or control thereof, of any valuable article or thing,
+which is not stock-in-trade, not to remove, part with or otherwise deal with it,
+except with the previous permission of the authorised officer, if it is not
+possible or practicable to take physical possession or removal to a safe place
+of such article or thing, due to its volume, weight, or other physical
+characteristics or it being of a dangerous nature.
+(2) If any building, place, vessel, vehicle or aircraft referred to in sub-section (1)(i)
+is within the area of jurisdiction of any Principal Chief Commissioner or Chief
+Commissioner or Principal Commissioner or Commissioner, but such income-tax
+authority has no jurisdiction over the person referred to in sub-section (1)(a) or(b), then,
+irrespective of the fact that he has no jurisdiction, it shall be competent for him to
+exercise the powers under sub-section (1), where he has reason to believe that any delay
+in getting the authorisation from the income-tax authority having jurisdiction over such
+person may be prejudicial to the interests of the revenue.
+(3) If any Principal Chief Commissioner or Chief Commissioner or Principal
+Commissioner or Commissioner, in consequence of information in his possession,
+has reason to suspect that any books of account, other documents, or any
+information stored in an electronic media or computer systems, or asset in respect
+of which an officer has been authorised by the competent authority to take action
+under sub-section (1)(i) to (viii) are or is kept in any building, place, vessel, vehicle
+or aircraft not mentioned in the authorisation under sub-section (1), then such
+Principal Chief Commissioner or Chief Commissioner or Principal Commissioner
+or Commissioner may, irrespective of anything contained in section 241, authorise
+the said officer to take action under any of the clauses aforesaid in respect of such
+building, place, vessel, vehicle or aircraft.
+(4) The authorised officer may, where it is not practicable to seize, any such books
+of account, other documents, computer systems, asset, bank locker, bank account, for
+reasons other than deemed seizure under of sub-section (1) (viii),––
+(a) serve an order on the owner or the person who is in immediate
+possession or control thereof, not to remove, part with or otherwise deal with
+it except with the previous permission of such officer and take such steps as
+may be necessary for ensuring compliance with the order; and
+(b) such order shall not remain in force for a period exceeding sixty days
+from the date of the order and serving of such order shall not be deemed to be
+seizure of such books of account, other documents or assets under
+sub-section (1)(vii),
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+(5) The authorised officer may requisition the services of—
+(a) any police officer or any officer of the Central Government, or of
+both; or
+(b) any person or entity as may be approved by the Principal Chief
+Commissioner or the Chief Commissioner or the Principal Director General
+or the Director General, as per with such procedure, as prescribed,
+to assist him for all or any of the purposes specified in sub-sections (1) and (3) and
+it shall be the duty of every such officer or person or entity to comply with such
+requisition.
+
+45
+
+279
+
+(6) The authorised officer may, during the course of any search or seizure,
+examine on oath any person who is found to be in possession or control or access
+holder of any computer systems, books of account, other documents or asset, or any
+other person who is present in the premises or is being searched, and––
+5
+
+10
+
+(a) any statement made by the such person, during such examination
+may thereafter be used in evidence in any proceeding under this Act; and
+(b) the examination of any such person may be not merely in respect of
+any books of account, other documents or assets found as a result of the search,
+but also in respect of all matters relevant for the purposes of any investigation
+connected with any proceeding under this Act.
+(7) Where any books of account (in physical form or electronic form), other
+documents or asset, is found in the possession or control of any person in the course
+of a search, it may be presumed—
+
+15
+
+(a) that such books of account, computer systems, virtual digital space,
+other documents or asset, belong or belongs to such person;
+(b) that the contents of such books of account, other documents,
+electronic content, records or communication found on such computer systems
+or virtual digital space, are true;
+
+20
+
+25
+
+30
+
+35
+
+(c) that the signature and every other part of such books of account and
+other documents which purport to be in the handwriting of any particular
+person or which may reasonably be assumed to have been signed by, or to be
+in the handwriting of, any particular person, are in the handwriting of that
+person; and
+(d) in the case of a document stamped, executed or attested, that it was
+duly stamped and executed or attested by the person by whom it purports to
+have been so executed or attested, and that the electronic records, data,
+communication, and information exchange carried out using such electronic
+devices is presumed to be exchanged between the parties thereto.
+(8) The authorised officer may, by order in writing, provisionally attach any
+property belonging to the assessee, during the course of the search or seizure, or
+within sixty days from the date of execution of the last of the authorisations for the
+search and such provisional attachment shall––
+(a) be made, if the authorised officer is satisfied, after recording the
+reasons in writing, that it is necessary to do so in the interest of the revenue,
+with the prior approval of Principal Director General or Director General or
+the Principal Director or Director;
+(b) be valid for six months from the end of the month in which the order
+of provisional attachment is made, and the rules prescribed as referred to in
+section 413 shall, mutatis mutandis, apply to such provisional attachment.
+
+40
+
+45
+
+(9) The authorised officer may, during the course of the search or seizure, or
+within sixty days from the date on which the last of the authorisations for search was
+executed, make a reference to a Valuation Officer, or any person registered as a value
+under section 514, or any person or entity registered by or under any law enforce,
+requiring him to––
+(a) estimate the fair market value of the property in the manner, as
+prescribed; and
+(b) submit a report of the estimate to the authorised officer or the
+Assessing Officer, within sixty days from the date of receipt of such
+reference.
+
+280
+
+(10) The provisions of the Bharatiya Nagarik Suraksha Sanhita, 2023 relating
+to searches and seizure shall apply, so far as may be, to search and seizure under
+this section.
+(11) The Board may make rules in relation to any search or seizure under this
+section including providing for the procedure to be followed by the authorised
+officer—
+
+46 of 2023.
+
+5
+
+(a) for obtaining ingress into any building, place, vessel, vehicle or
+aircraft to be searched where free ingress thereto is not available; and
+(b) for ensuring safe custody of any books of account or other documents
+or assets seized.
+Powers to
+requisition.
+
+10
+
+248. (1) Where the approving authority, in consequence of information in his
+possession, has reason to believe that—
+(a) any person to whom a summons under section 246(1), or notice under
+section 268(1) was issued to produce, or cause to be produced, any books of
+account or other documents or any information stored in an electronic media
+or a computer systems has omitted or failed to produce, or cause to be
+produced, such books of account or other documents, or any information
+stored in an electronic media or a computer systems as required by such
+summons or notice and the said books of account or other documents or such
+electronic media or computer systems have been taken into custody by any
+officer or authority under any other law in force; or
+(b) any books of account or other documents or any information stored
+in an electronic media or a computer systems will be useful for, or relevant to,
+any proceeding under this Act and any person to whom a summons or notice
+as aforesaid has been or might be issued will not, or would not, produce or
+cause to be produced, such books of account or other documents or any
+information stored in an electronic media or a computer system on the return
+of such books of account or other documents or such electronic media or
+computer system by any officer or authority by whom or which such books of
+account or other documents or such electronic media or computer system have
+been taken into custody under any other law in force; or
+(c) any assets represent either wholly or partly income or property which
+has not been, or would not have been, disclosed for the purposes of this Act
+by any person from whose possession or control such assets have been taken
+into custody by any officer or authority under any other law in force,
+then, the approving authority may authorise any, Joint Director or Joint
+Commissioner or Assistant Director or Assistant Commissioner or Income-tax
+Officer (hereinafter in this section and in section 489(2) referred to as the
+requisitioning officer) to require the officer or authority referred to in clause (a) or
+(b) or (c), to deliver such assets or books of account, other documents or such
+electronic media or computer system to the requisitioning officer.
+(2) On a requisition being made under sub-section (1), the officer or authority
+referred to in clause (a) or (b) or (c), of that sub-section, shall deliver such assets or
+books of account or other documents or electronic media or computer system to the
+requisitioning officer either forthwith or when such officer or authority is of the
+opinion that it is no longer necessary to retain the same in his or its custody.
+(3) Where any assets or books of account or other documents or electronic
+media or computer system have been delivered to the requisitioning officer, the
+provisions of sections 247(7) to (11), 250 and 251shall, so far as may be, apply as
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+281
+
+5
+
+10
+
+43 of 1961.
+22 of 2015.
+
+15
+
+if such books of account or other documents or electronic media or computer system
+or assets had been seized under section 247 by the requisitioning officer from the
+custody of the person referred to in sub-section (1) (a) or (b) or (c), and as if for the
+words “the authorised officer”, occurring in any of the aforesaid sections 247(7) to
+(11), 250and 251, the words “the requisitioning officer” were substituted.
+249. The reason to believe or reason to suspect, as referred to in section 247
+or 248, recorded by the income-tax authority shall not be disclosed to any person or
+authority or the Appellate Tribunal.
+
+Reasons not to
+be disclosed.
+
+250. (1) The Assessing Officer may recover the tax liability (including
+penalty or interest payable other than advance tax) out of the assets seized under
+section 247 or requisitioned under section 248, and such liability shall be the
+aggregate of––
+
+Application of
+seized or
+requisitioned
+assets.
+
+(a) any existing liability under this Act, or under the Income-tax
+Act, 1961 or the Black Money (Undisclosed Foreign Income and Assets) and
+Imposition of Tax Act, 2015;
+(b) any liability determined under this Act or under the Acts referred to in
+clause (a), up to the date of completion of the assessment or reassessment or
+recomputation in consequence to the search or the requisition;
+
+43 of 1961.
+
+20
+
+43 of 1961.
+
+25
+
+(c) any liability in respect of which such person is in default or deemed to
+be in default under this Act or under the Income-tax Act, 1961, determined on or
+after the completion of the assessment or reassessment or recomputation in
+consequence of the search or the requisition, and till the date of release of the
+assets; and
+(d) any liability arising on an application made before the Interim Board
+of Settlement under section 245C(1) of the Income-tax Act, 1961.
+(2) The Assessing Officer may release the assets seized or portion of such asset
+to the person from whose custody the assets were seized, on an application made by
+the person concerned within thirty days from the end of the month in which the asset
+was seized, after fulfilment of the following requirements:––
+
+30
+
+(a) satisfying himself about the nature and source of acquisition of any
+such asset;
+(b) recovering any existing liability referred to in sub-section (1);
+(c) obtaining prior approval of the Principal Chief Commissioner or
+Chief Commissioner or Principal Commissioner or Commissioner.
+
+35
+
+40
+
+45
+
+(3) The assets referred to in sub-section (2) shall be released within one
+hundred and twenty days from the date on which the last of the authorisations for
+the search or requisition was executed.
+(4) If the assets consist solely of money, or partly of money and partly of other
+assets, the Assessing Officer may apply such money in the discharge of the liabilities
+referred to in sub-section (1) and the assessee shall be discharged of such liability
+to the extent of the money so applied.
+(5) The assets, other than money, may also be applied for discharge of
+liabilities referred to in sub-section (1) as remains undischarged and shall be
+deemed to be under distraint as if such distraint was effected by the Assessing
+Officer or Tax Recovery Officer under authorisation from the Principal Chief
+Commissioner or Chief Commissioner or Principal Commissioner or
+Commissioner and the recovery of any liability out of such assets shall be effected
+in the manner as prescribed.
+
+282
+
+(6) The mode of recovery of liabilities under sub-section (1) shall not preclude
+the recovery of liabilities aforesaid by any other mode laid down in this Act.
+(7) Any assets or proceeds thereof, which remain after the liabilities referred
+to in sub-section (1) are discharged shall be forthwith made over or paid to the
+concerned person.
+
+5
+
+(8) The Central Government shall pay simple interest at the rate of 0.5% for
+every month or part of a month for the period on the amount determined in
+accordance with the following formula:––
+(A-B)+(C-D)
+where —
+
+10
+
+A = the aggregate amount of money seized under section 247 or
+requisitioned under section 248;
+B = the amount of money, if any, released under sub-section (2);
+C = the proceeds, if any, of the assets sold towards the discharge of the
+liability under sub-section (1); and
+
+15
+
+D = the aggregate amount required to meet the liabilities referred to in
+sub-section (1).
+(9) The interest referred to in sub-section (8) shall run from the date
+immediately following the expiry of one hundred and twenty days from the date on
+which the last of the authorisations for the search under section 247 or requisition
+under section 248, was executed to the date of completion of the assessment or
+reassessment or recomputation.
+Copying,
+extraction,
+retention and
+release of books
+of account and
+documents
+seized or
+requisitioned.
+
+251. (1) Where, the authorised officer, referred to in section 247(1)(b) has no
+jurisdiction over the person from whom the assets or books of account or other
+documents or electronic media or computer system were seized or requisitioned
+under section 247(1) or 248, he shall hand over the seized or requisitioned assets or
+books of account or other documents or electronic media or computer system to the
+Assessing Officer having jurisdiction over such person and such Assessing Officer
+thereupon shall exercise the powers under sub-sections (2) to (4).
+(2) The authorised officer or the Assessing Officer referred in sub-section (1),
+shall, on an application made by the person referred to therein, allow him to make
+copies or take extracts from, the material seized or requisitioned, at such place and
+time as appointed, and in the presence of a person empowered by such officer in this
+behalf.
+(3) The authorised officer may––
+
+20
+
+25
+
+30
+
+35
+
+(a) retain the material seized or requisitioned, under section 247 or 248,
+up to one month from the end of the quarter in which the order of assessment
+or reassessment or recomputation is made;
+(b) retain such material seized or requisitioned, beyond the period
+specified in clause (a), after recording reasons in writing and obtaining
+approval from the approving authority.
+(4) The approving authority shall not allow the retention of material seized or
+requisitioned, beyond thirty days from the date on which all proceedings under this
+Act in respect of the years for which the material seized or requisitioned are relevant,
+are completed.
+
+40
+
+45
+
+283
+
+5
+
+(5) If a person legally entitled to the material seized or requisitioned under
+section 247(1) or section 248, objects for any reason, to the approval given by
+approving authority under sub-section (3)(b), he may make an application to the
+Board stating therein the reasons for such objection and requesting for the return
+of the material seized or requisitioned and the Board may, after giving the
+applicant an opportunity of being heard, pass such orders as it thinks fit.
+252. (1) The Assessing Officer, the Joint Commissioner or the Joint
+Commissioner (Appeals) or the Commissioner (Appeals) may, for the purposes
+of this Act, require any—
+
+10
+
+15
+
+(a) person, including a banking company or any officer thereof, to
+furnish, within such time, requisite information or to furnish statements of
+account and affairs verified in such manner specified by such authority,
+giving such information in relation to such matters as, in the opinion of such
+authority, will be useful for, or relevant to, any enquiry or proceedings under
+this Act;
+(b) firm to furnish him with a return of the names and addresses of the
+partners of the firm and their respective shares;
+(c) Hindu undivided family to furnish him with a return of the names
+and addresses of the manager and the members of the family;
+
+20
+
+25
+
+30
+
+35
+
+(d) person whom he has reason to believe to be a trustee, guardian or
+agent, to furnish him with a return of the names of the persons for or of
+whom he is trustee, guardian or agent, and of their addresses;
+(e) assessee to furnish a statement of the names and addresses of all
+persons to whom he has paid in any tax year, rent, interest, commission,
+royalty or brokerage, or any annuity, not being any annuity taxable under
+the head “Salaries” amounting to more than ten thousand rupees, or such
+higher amount as prescribed, together with particulars of all such payments
+made;
+(f) dealer, broker or agent or any person concerned in the
+management of a stock or commodity exchange to furnish a statement of
+the names and addresses of all persons to whom he or the exchange has
+paid any sum in connection with the transfer, whether by way of sale,
+exchange or otherwise, of assets, or on whose behalf or from whom he or
+the exchange has received any such sum, together with particulars of all
+such payments and receipts.
+(2) The powers conferred under sub-section (1)(a) may also be exercised by
+the competent authority or the Assistant Director.
+(3) The powers under sub-section (1)––
+
+40
+
+45
+
+(a) shall not be exercised by any income-tax authority below the rank
+of Principal Director or Director or Principal Commissioner or
+Commissioner, other than the Joint Director or Assistant Director, without
+the prior approval of the Principal Director or Director or, as the case may
+be, the Principal Commissioner or Commissioner, in a case where no
+proceeding is pending.
+(b) may be exercised by an income-tax authority notified under
+section 246(2)(a), for the purposes of an agreement referred to in
+section 159, even if no proceedings are pending before it or any other
+income-tax authority.
+
+Power to call for
+information.
+
+284
+
+Powers of
+survey.
+
+253. (1) Irrespective of anything contained in any other provision of this
+Act, an income-tax authority may enter any place at which a business or
+profession, or activity for charitable purpose is carried on, whether such place be
+the principal place or not of such business or profession or of such activity for
+charitable purpose, where such place—
+
+5
+
+(a) is within the limits of the area assigned to such authority; or
+(b) is occupied by any person in respect of whom such authority
+exercises jurisdiction; or
+(c) in respect of which such authority is authorised for the purposes of
+this section by income-tax authority, who is assigned the area within which
+such place is situated or who exercises jurisdiction in respect of any person
+occupying such place,
+and, upon entry into such a place, may require any proprietor, trustee, employee
+or any other person who may at that time and place be attending in any manner
+to, or helping in, the carrying on of such business or profession or such activity
+for charitable purpose—
+(i) to provide the necessary technical and other assistance (including
+access code) to enable the inspection of such books of account or other
+documents, or computer system, or any other material connected with such
+system including virtual digital space, as may be required and which may
+be available at such place;
+
+10
+
+15
+
+20
+
+(ii) to provide the necessary facility to check or verify the asset, stock,
+which may be found therein; and
+(iii) to furnish such information as such authority may require as to any
+matter which may be useful for, or relevant to, any proceeding under this Act.
+(2) For the purposes of this section, a place where a business or profession, or
+activity for charitable purpose is carried on shall also include any other place, whether
+any business or profession or activity for charitable purpose is carried on therein or
+not, in which the person carrying on such business or profession or activity for
+charitable purpose states that any of his books of account or other documents or any
+part of his cash or stock or other valuable article or thing or computer system relating
+to such business or profession or activity for charitable purpose, are or is kept.
+(3) An income-tax authority may enter any place of business or profession
+or activity for charitable purpose referred to in sub-section (1), only during the
+hours at which such place is open for the conduct of business or profession or
+activity for charitable purpose and, in the case of any other place, only after
+sunrise and before sunset.
+(4) An income-tax authority acting under this section may, for the purposes
+of verifying that tax has been deducted or collected at source as per the provisions
+of Chapter XIX-B of this Act, after sunrise and before sunset, enter––
+
+25
+
+30
+
+35
+
+40
+
+(a) any office, or any other place where business or profession or
+activity for charitable purpose is carried on, within the limits of the area
+assigned to such authority; or
+(b) any place in respect of which such authority is authorised for the
+purposes of this section by an income-tax authority who is assigned the area
+within which such place is situated or where books of account or documents
+are kept,
+and on entry to such office or place, the income-tax authority may require the
+deductor or the collector or any other person who may at that time and place be
+attending in any manner to such work—
+
+45
+
+50
+
+285
+
+(i) to provide the necessary facility to inspect such books of account
+or other documents, and access to electronic media or computer system, or
+virtual digital space, as may be required; and
+(ii) to furnish such information as may be required in relation to such matter.
+5
+
+(5) An income-tax authority acting under this section may—
+(a) place marks of identification on the books of account or other
+documents inspected by such authority and make or cause to be made
+extracts or copies therefrom or from electronic media or computer system;
+
+10
+
+(b) record the statement of any person on oath which may be useful
+for, or relevant to, any proceeding under this Act;
+(c) impound and retain in custody any books of account or other
+documents inspected by it, after recording reasons for doing so, for a period––
+(i) of fifteen days (exclusive of holidays); or
+
+15
+
+(ii) exceeding fifteen days (exclusive of holidays) with the prior
+approval of the approving authority;
+(d) make an inventory of any asset or stock checked or verified by such
+authority.
+(6) The income-tax authority acting under sub-section (4) shall only
+undertake the actions referred under sub-sections (5)(a) and (5)(b).
+
+20
+
+25
+
+30
+
+(7) An income-tax authority acting under this section shall, on no account,
+remove or cause to be removed from the place wherein it has entered, any asset
+or stock.
+(8) The income-tax authority having regard to the nature and scale of
+expenditure incurred, for the purposes of verifying the expenditure made by the person
+in connection with any function, ceremony or event, if it is of the opinion that it is
+necessary and expedient to do so, after such function, ceremony or event, may—
+(a) require the person by whom such expenditure has been incurred or
+any other person who is likely to possess the information regarding such
+expenditure, to furnish such information which may be useful for, or
+relevant to, any proceeding under this Act;
+(b) record the statements of the person or any other person on oath in
+this behalf; and
+(c) any statement so recorded may thereafter be used as evidence in
+any proceeding under this Act.
+
+35
+
+40
+
+(9) If a person is required to provide facility to the income-tax authority to
+inspect books of account or other documents in any form or to check or verify any
+cash, stock or other valuable article or thing or to furnish any information or to
+have his statement recorded, either refuses or evades to do so, the income-tax
+authority shall have all the powers under section 246(1) for enforcing compliance
+with the requirement.
+(10) The action under this section shall be taken by an income-tax authority
+with the prior approval of the Principal Director General or the Director General
+or the Principal Chief Commissioner or the Chief Commissioner.
+(11) In this section, “income-tax authority” means—
+
+45
+
+(a) a Principal Commissioner or Commissioner, a Principal Director
+or Director, a Joint Commissioner or Joint Director, an Assistant Director or
+a Deputy Director or an Assessing Officer, or a Tax Recovery Officer; and
+
+286
+
+(b) includes an Inspector of Income-tax, for the purposes of
+sub-sections, (1)(i), (5)(a) and (8),
+who is subordinate to the Principal Director General or the Director General or
+the Principal Chief Commissioner or the Chief Commissioner, as specified by the
+Board.
+Power to collect
+certain
+information.
+
+5
+
+254. (1) Irrespective of anything contained in any other provision of this
+Act, an income-tax authority may, for the purposes of collecting any information
+which may be useful for, or relevant to, the purposes of this Act, enter––
+(a) any building or place within the limits of the area assigned to such
+authority; or
+
+10
+
+(b) any building or place occupied by any person in respect of whom
+such authority exercises jurisdiction,
+at which a business or profession is carried on, regardless of the fact that such
+place be the principal place or not of such business or profession and require any
+proprietor or employee or any other person, who may at that time and place, be
+attending in any manner to, or helping in, or carrying on of such business or
+profession, to furnish such information as prescribed.
+(2) The income-tax authority may enter any place of business or profession
+referred to in sub-section (1) only during the hours at which such place is open for
+the conduct of business or profession.
+
+15
+
+20
+
+(3) The income-tax authority acting under this section shall, on no account,
+remove or cause to be removed from the building or place wherein it has entered,
+any books of account or other documents or any cash or stock or other valuable
+article or thing.
+(4) In this section, “income-tax authority” means––
+
+25
+
+(a) a Joint Commissioner, or a Joint Director or an Assistant Director
+or an Assessing Officer; and
+(b) an Inspector of Income-tax, authorised by the Assessing Officer to
+exercise the powers conferred under this section in relation to the area in
+respect of which the Assessing Officer exercises jurisdiction or part thereof.
+Power to inspect
+registers of
+companies.
+
+255. The Assessing Officer, assessment unit, verification unit, the Joint
+Commissioner or the Joint Commissioner (Appeals) or the Commissioner
+(Appeals), or any person subordinate thereof and authorised in writing in this
+behalf by such officer or authority, may inspect, and if necessary, take copies, or
+cause copies to be taken, of any register of the members, debenture holders or
+mortgagees of any company or of any entry in such register.
+
+Power of
+competent
+authority.
+
+256. The competent authority shall be competent to make any enquiry under
+this Act, and for this purpose, shall have all the powers that an Assessing Officer
+has under this Act in relation to the making of enquiries.
+
+Proceedings
+before
+income-tax
+authorities to be
+judicial
+proceedings.
+
+257. (1) Any proceeding under this Act before an income-tax authority shall
+be deemed to be a judicial proceeding within the meaning of sections 229 and 267
+and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023.
+
+Disclosure of
+information
+relating to
+assessees.
+
+258. (1) The Board or any other income-tax authority specified by it by an
+order in this behalf, may furnish or cause to be furnished to—
+
+30
+
+35
+
+40
+45 of 2023.
+
+(2) Every income-tax authority shall be deemed to be a Civil Court for the
+purposes of section 215 of the Bharatiya Nagarik Suraksha Sanhita, 2023.
+
+46 of 2023.
+45
+
+287
+
+(a) any officer, authority or body performing any functions under any
+law relating to the imposition of any tax, duty or cess, or dealings in foreign
+exchange as defined in section 2(n) of the Foreign Exchange Management
+Act, 1999; or
+
+42 of 1999.
+5
+
+10
+
+15
+
+(b) such officer, authority or body performing functions under any
+other law, if in the opinion of the Central Government it is necessary so to
+do in the public interest, as it may specify by notification in this behalf,
+any such information received or obtained by any income-tax authority in the
+performance of its functions under this Act, as may, in the opinion of the Board
+or other income-tax authority, be necessary for the purpose of enabling the officer,
+authority or body, to perform his or its functions under that law.
+(2) The Principal Chief Commissioner or Chief Commissioner or Principal
+Commissioner or Commissioner may furnish or cause to be furnished to a person,
+the information relating to any assessee received or obtained by any income-tax
+authority in the performance of his functions under this Act,––
+(a) on an application made by such person to the aforesaid authorities
+in the prescribed form and on being satisfied that it is in the public interest
+so to do; and
+
+20
+
+25
+
+30
+
+(b) the decision of the Principal Chief Commissioner or Chief
+Commissioner or Principal Commissioner or Commissioner in this behalf,
+shall be final and shall not be called in question in any court of law.
+(3) Irrespective of anything contained in sub-section (1) or (2) or any other
+law in force, the Central Government may, having regard to the practices and
+usages, customary or any other relevant factors, by notification, direct that no
+information or document shall be furnished or produced by a public servant in
+respect of such matters relating to such class of assessees except to such
+authorities as specified in that notification.
+259. (1) For the purposes of verification of information in the possession of
+the prescribed income-tax authority, such authority may issue a notice requiring
+any person to furnish any information as may be useful for, or relevant to, any
+inquiry or proceeding under this Act in such form and manner and within such
+time, as specified in such notice.
+
+Power to call for
+information by
+prescribed
+income-tax
+authority.
+
+(2) The prescribed income-tax authority may process and utilise such information
+and document received by him as per the scheme notified under section 260.
+35
+
+40
+
+260. (1) The Central Government may make a scheme, by notification, for the
+purposes of calling for information under section 252, collecting certain information
+under section 254, or calling for information by prescribed income-tax authority
+under section 259, or exercise of power to inspect register of companies under
+section 255, or exercise of power of Assessing Officer under section 256 so as to
+impart greater efficiency, transparency and accountability by—
+(a) eliminating the interface between the income-tax authority and the
+assessee or any other person to the extent technologically feasible;
+(b) optimising utilisation of the resources through economies of scale
+and functional specialisation;
+
+45
+
+50
+
+(c) introducing a team-based exercise of powers, including to call for,
+or collect, or process, or utilise, the information, with dynamic jurisdiction.
+(2) The Central Government may, for the purpose of giving effect to this
+scheme made under sub-section (1), by notification, direct that any of the
+provisions of this Act shall not apply or shall apply with such exceptions,
+modifications and adaptations as specified in the notification.
+(3) Every notification issued under sub-sections (1) and (2) shall, as soon as
+may be after the notification is issued, be laid before each House of Parliament.
+
+Faceless
+collection of
+information.
+
+288
+
+Interpretation.
+
+261. For the purposes of this Chapter, the expressions—
+(a) “approving authority” means––
+(i) the Principal Director General or the Director General; or
+(ii) the Principal Chief Commissioner or the Chief Commissioner; or
+5
+
+(iii) the Principal Director or the Director; or
+(iv) the Principal Commissioner or the Commissioner;
+(b) “asset” includes any money, bullion, jewellery or other valuable
+article or thing, held in physical or virtual form;
+(c) “authorised officer” means––
+
+10
+
+(i) the Joint Director or the Additional Director;
+(ii) the Joint Commissioner or the Additional Commissioner;
+(iii) the Assistant Director or the Deputy Director;
+(iv) the Assistant Commissioner or the Deputy Commissioner; or
+(v) the Income-tax Officer or the Tax Recovery Officer;
+
+15
+
+(d) “competent authority” means––
+(i) the Principal Director General or the Director General; or
+(ii) the Principal
+Commissioner; o
+
+Chief
+
+Commissioner
+
+or
+
+the
+
+Chief
+
+(iii) the Principal Director or the Director; or
+(iv) the Principal Commissioner or the Commissioner; or
+
+20
+
+(v) the Joint Director or the Additional Director; or
+(vi) the Joint Commissioner or the Additional Commissioner;
+(e) “computer system” means computers, computer systems, computer
+networks, computer resources, communication devices, digital or electronic
+data storage devices, used on stand-alone mode or part of a computer
+system, linked through a network, or utilised through intermediaries for
+information creation or processing or storage or exchange, and includes the
+remote server or cloud server or virtual digital space;
+(f) “date on which the last of the authorisations for search was
+executed” means—
+
+25
+
+]
+
+30
+
+(i) in the case of search, the date of conclusion of search as
+recorded in the last panchnama drawn in relation to any person in
+whose case the warrant of authorisation has been issued; or
+(ii) in the case of requisition under section 248, the date of actual
+receipt of the books of account or other documents or assets by the
+requisitioning officer;
+(g) “material seized” means books of account or other documents or
+digital data storage devices, computer systems, and extracts seized from a
+person during the course of search under section 247 or requisitioned under
+section 248, and includes seizure of backup taken from any specialised
+programs like tally software, excel sheets, word files and all electronic
+records including data and information in the electronic form containing
+figures and any other relevant noting, and shall be construed to mean as
+book of accounts maintained by the said person;
+
+35
+
+40
+
+289
+
+43 of 1961.
+
+5
+43 of 1961.
+
+10
+
+15
+
+(h) “proceeding” means any proceeding in respect of any year, whether
+under the Income-tax Act, 1961or under this Act, which may be pending on
+the date on which a search under section 247 or requisition under
+section 248 is authorised or powers under section 253 are exercised, as the
+case may be, or which may have been completed on or before such date and
+includes all proceedings under this Act or the Income-tax Act, 1961which
+may be commenced after such date in respect of any year;
+(i) “virtual digital space” means an environment, area or realm, that is
+constructed and experienced through computer technology and not the
+physical, tangible world which encompasses any digital realm that allows
+users to interact, communicate and perform activities using computer
+systems, computer networks, computer resources, communication devices,
+cyberspace, internet, worldwide web and emerging technologies, using data
+and information in the electronic form for creation or storage or exchange
+and includes––
+(i) email servers;
+(ii) social media account;
+(iii) online investment account, trading account, banking
+account, etc.;
+
+20
+
+(iv) any website used for storing details of ownership of any asset;
+(v) remote server or cloud servers;
+(vi) digital application platforms; and
+(vii) any other space of similar nature.
+CHAPTER XV
+
+25
+
+RETURN OF INCOME
+A.—Allotment of Permanent Account Number
+262.(1) Every person who has not been allotted a Permanent Account
+Number shall, within such time as prescribed, apply to the Assessing Officer for
+its allotment if he fulfils any of the following conditions:—
+
+30
+
+(a) his total income or the total income of any other person for which
+he is assessable under this Act during any tax year exceeded the maximum
+amount not chargeable to income-tax;
+(b) he is carrying on any business or profession whose total sales, turnover
+or gross receipts are or is likely to exceed five lakh rupees in any tax year;
+
+35
+
+(c) he is required to furnish a return of income under section 263 for
+any tax year; or
+(d) he is a resident, other than an individual, which enters into a
+financial transaction aggregating to two lakh fifty thousand rupees or more
+in a tax year; or
+
+40
+
+(e) he is the managing director, director, partner, trustee, author,
+founder, karta, chief executive officer, principal officer or office bearer of
+the person referred to in clause (d) or any person competent to act on behalf
+of the person referred to in clause (d).
+
+Permanent
+Account
+Number.
+
+

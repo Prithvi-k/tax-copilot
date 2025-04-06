@@ -1,0 +1,413 @@
+186
+
+(ii) a co-operative society engaged in carrying on the business of
+banking (including a co-operative land mortgage bank or a co-operative
+land development bank); or
+(iii) a Post Office as defined in section 2(k) of the Post Office Act, 2023.
+(2) The deduction under sub-section (1) shall be allowed for a tax year as follows:—
+
+43 of 2023.
+5
+
+(a) in case of assessee mentioned in sub-section 1(a) or (c), the whole of
+the interest up to a maximum amount of ten thousand rupees on deposits in a
+savings account, excluding time deposits;
+(b) in case of assessee mentioned in sub-section (1)(b), the whole of the
+interest up to a maximum amount of fifty thousand rupess on deposits in a
+savings account, including time deposits.
+(3) Where the income referred to in this section is derived from any deposit in
+a savings account held by, or on behalf of, a firm, an association of persons or a
+body of individuals, no deduction shall be allowed under this section in respect of
+such income in computing the total income of any partner of the firm or any member
+of the association or any individual of the body.
+
+10
+
+15
+
+(4) In this section, “time deposits” means the deposits repayable on expiry of
+fixed periods.
+E.—Other deductions
+Deduction in
+case of a person
+with disability.
+
+154. (1) An individual, being resident in India, who is certified by a medical
+authority, at any time during the tax year, as a person with disability or person with
+severe disability, shall be allowed a deduction of seventy-five thousand rupees or
+one lakh and twenty-five thousand rupees, respectively, while computing his total
+income.
+
+20
+
+(2) The deduction under sub-section (1) shall be allowed only if all of the
+following conditions are fulfilled:––
+
+25
+
+(a) the individual furnishes a copy of the certificate issued by the medical
+authority;
+(b) if the certificate specifies that the disability needs reassessment of its
+extent after a period stipulated in it, the deduction shall not be allowed for any
+tax year succeeding the tax year in which the certificate expires, unless a new
+disability certificate is obtained and submitted; and
+(c) the certificate referred to in clauses (a) and (b) of this sub-section shall be
+furnished in the form and manner, as prescribed, along with the return of income
+under section 263 for the tax year in which the deduction is claimed.
+
+30
+
+]
+
+35
+
+(3) For the purposes of this section, “disability”, “medical authority”, “person
+with disability” or “person with severe disability” shall have the same meanings as
+provided in section 127.
+CHAPTER IX
+REBATES AND RELIEFS
+
+40
+
+A.—Rebates and reliefs
+Rebate to be
+allowed in
+computing
+income-tax.
+
+155. (1) In computing income-tax on the total income of an assessee with which
+he is chargeable for any tax year, there shall be allowed from income-tax (as computed
+before allowing the deductions under this Chapter), subject to the provisions of
+section 156, the deductions specified therein.
+(2) The deduction under section 156, shall not, in any case, exceed
+income-tax (as computed before allowing the deductions under this Chapter) on the
+total income of the assessee with which he is chargeable for any tax year.
+
+45
+
+187
+
+5
+
+156. (1) A resident individual assessee shall be entitled to a deduction of 100%
+of income-tax payable or twelve thousand five hundred rupees, whichever is less,
+from the income-tax (computed before allowing the deduction under this section)
+chargeable on the total income for any tax year if the total income does not exceed
+five lakh rupees.
+
+Rebate of
+income-tax in
+case of certain
+individuals.
+
+(2) Where the total income of a resident individual assessee for any tax year is
+chargeable to tax under section 202(1), then from income-tax (computed before
+allowing the deduction under this section) following deductions shall be allowed, if—
+10
+
+(a) the income does not exceed twelve lakh rupees, 100% of the
+income-tax payable or sixty thousand rupees, whichever is less;
+(b) the income exceeds twelve lakh rupees, the income-tax payable on the
+total income, reduced by total income which is in excess of twelve lakh rupees.
+(3) The deduction under sub-section (2), shall not exceed income-tax payable as
+per the rates provided in section 202(1).
+
+15
+
+157. (1) Where the total income of an assessee is assessed at a rate higher than the
+rate at which it would otherwise have been assessed, due to the following receipts,—
+(a) a sum in the nature of arrear or advance salary; or
+
+Relief when
+salary, etc., is
+paid in arrears or
+in advance.
+
+(b) salary for more than twelve months in any one tax year; or
+20
+
+(c) a payment in the nature of “profits in lieu of salary” under
+section 18(1); or
+(d) arrears of “family pension” as defined in section 93(1)(d),
+the Assessing Officer shall on an application made to him by the assessee in this
+behalf, grant such relief, as prescribed.
+
+25
+
+(2) No relief shall be granted on any income on which deduction has been
+claimed by the assessee in section 19(1)(Table: Sl. No. 12) for any amount
+mentioned therein, for such, or any other, tax year.
+158. (1) The income accrued in a specified account, maintained in a notified
+country by a specified person, shall be taxed in a tax year, as prescribed.
+(2) In this section,—
+
+30
+
+(a) “notified country” means a country as notified by the Central Government;
+
+Relief from
+taxation in
+income from
+retirement
+benefit account
+maintained in a
+notified country.
+
+(b) “specified account” means an account maintained in a notified country
+by the specified person for his retirement benefits, which is taxed by that notified
+country at the time of withdrawal or redemption and, not on accrual basis;
+35
+
+(c) “specified person” means a person resident in India having opened a
+specified account in a notified country while being non-resident in India and
+resident in that country.
+B.—Double taxation relief
+159. (1) The Central Government may enter into an agreement with the
+Government of—
+
+40
+
+(a) any other country;or
+(b) any specified territory,
+for the purposes mentioned in sub-section (3), and may, by notification, make such
+provisions as necessary for implementing the agreement.
+
+Agreement with
+foreign countries
+or specified
+territories and
+adoption by
+Central
+Government of
+agreement
+between
+specified
+associations for
+double taxation
+relief.
+
+188
+
+(2) Any specified association in India may enter into an agreement with any
+specified association in the specified territory for the purposes mentioned in
+sub-section (3) and the Central Government may, by notification, make such
+provisions as may be necessary for adopting and implementing such agreement.
+(3) The agreement mentioned in sub-section (1) or (2) may be entered for—
+
+5
+
+(a) the granting of relief in respect of—
+(i) income on which income-tax has been paid both under this Act
+and income-tax in that country or specified territory, as the case may
+be; or
+(ii) income-tax chargeable under this Act and under the
+corresponding law in force in that country or specified territory, as the
+case may be, to promote mutual economic relations, trade and
+investment; or
+(b) the avoidance of double taxation of income under this Act and under
+the corresponding law in force in that country or specified territory, as the case
+may be, without creating opportunities for non-taxation or reduced taxation
+through tax evasion or avoidance (including through treaty-shopping
+arrangements aimed at obtaining reliefs provided in the said agreement for the
+indirect benefit to residents of any other country or territory);
+(c) exchange of information for––
+
+10
+
+15
+
+20
+
+(i) the prevention of evasion or avoidance of income-tax
+chargeable under this Act or under the corresponding law in force in that
+country or specified territory, as the case may be; or
+(ii) investigation of cases of such evasion or avoidance; or
+(d) recovery of income-tax under this Act and under the corresponding
+law in force in that country or specified territory, as the case may be.
+
+25
+
+(4) Where,––
+(a) the Central Government has entered into an agreement with the
+Government of any country or specified territory, as the case may be, under
+sub-section (1); or
+
+30
+
+(b) a specified association in India has entered into an agreement with a
+specified association of any specified territory under sub-section (2) and such
+agreement has been notified under that sub-section,
+for granting relief of tax, or avoidance of double taxation, then, in relation to the
+assessee to whom such agreement applies, the provisions of this Act shall apply to
+the extent they are more beneficial to that assessee.
+
+35
+
+(5) The charge of tax,––
+(a) in respect of a foreign company at a rate higher than the rate at which
+a domestic company is chargeable; or
+(b) in respect of a company incorporated in the specified territory at a
+rate higher than the rate at which a domestic company is chargeable,
+
+40
+
+shall not be regarded as less favourable charge or levy of tax in respect of such
+foreign company or such company incorporated in the specified territory, as the case
+may be.
+(6) Irrespective of anything contained in sub-section (4), the provisions of
+Chapter XI shall apply to the assessee, even if such provisions are not beneficial to
+him.
+
+45
+
+189
+
+(7) Where, any––
+
+5
+
+10
+
+15
+
+(a) term used in an agreement entered into under sub-section (1) or (2),
+is defined under the said agreement, the said term shall have the same meaning
+as assigned to it in that agreement and where the term is not defined in that
+agreement, but defined in this Act, it shall have the same meaning as assigned
+to it in this Act and the explanation, if any, given to it by the Central
+Government, and shall be deemed to have effect from the date on which that
+agreement came into force; or
+(b) term is used but not defined in this Act or in the agreement referred to in
+sub-section (1) or (2), it shall, unless the context otherwise requires, and is not
+inconsistent with the provisions of this Act or the said agreement, have the same
+meaning as assigned to it in the notification issued by the Central Government in
+this behalf, and the meaning assigned to such term shall be deemed to have effect
+from the date on which that agreement came into force; or
+(c) term is used in any agreement entered into under sub-section (1) or
+(2), and not defined under the said agreement or this Act, or in any notification
+issued under clause (b), then, unless the context otherwise requires, it shall
+have the same meaning as assigned to it––
+(i) in any Act of the Central Government related to taxes; and
+
+20
+
+(ii) in any other case, in any other law of the Central Government,
+and shall be deemed to have effect from the date on which the said agreement came
+into force.
+(8) An assessee, not being a resident, shall be entitled to claim any relief under
+an agreement mentioned in sub-section (1) or (2), only when––
+
+25
+
+(a) a certificate of his being a resident in any country or specified
+territory, is obtained by him from the Government of that country or
+Government of that specified territory, as the case may be, and
+(b) he provides such other documents and information, as prescribed.
+(9) In this section,––
+
+30
+
+(a) “specified associations” means any institution, association or body,
+whether incorporated or not––
+(A) functioning under any law for the time being in force in India
+or the laws of the specified territory; and
+(B) which may be notified as such by the Central Government; and
+
+35
+
+40
+
+(b) “specified territory” means any area outside India which may be
+notified as such by the Central Government.
+160. (1) If any person who is resident in India in any tax year proves that, in respect
+of his income which accrued or arose during that tax year outside India (and which is
+not deemed to accrue or arise in India), he has paid in any country with which there is
+no agreement under section 159 for the relief or avoidance of double taxation,
+income-tax, by deduction or otherwise, under the law in force in that country, he shall
+be entitled to the deduction from the Indian income-tax payable by him of a sum
+calculated on such doubly taxed income,––
+
+Countries with
+which no
+agreement
+exists.
+
+190
+
+(a) at the Indian rate of tax or the rate of tax of the said country, whichever
+is the lower; or
+(b) at the Indian rate of tax, if both the rates are equal.
+(2) If any non-resident person is assessed on his share in the income of a
+registered firm assessed as resident in India in any tax year and such share includes
+any income accruing or arising outside India during that tax year (and which is not
+deemed to accrue or arise in India) in a country with which there is no agreement
+under section 159 for the relief or avoidance of double taxation and he proves that
+he has paid income-tax by deduction or otherwise under the law in force in that
+country in respect of the income so included he shall be entitled to a deduction from
+the Indian income-tax payable by him of a sum calculated on such doubly taxed
+income so included,––
+
+5
+
+10
+
+(a) at the Indian rate of tax or the rate of tax of the said country, whichever
+is the lower; or
+(b) at the Indian rate of tax, if both the rates are equal.
+
+15
+
+(3) In this section,—
+(a) “income-tax” in relation to any country includes any excess profits tax
+or business profits tax charged on the profits by the Government of any part of
+that country or a local authority in that country;
+(b) “Indian income-tax” means income-tax charged as per this Act;
+
+20
+
+(c) “Indian rate of tax” means the rate determined by dividing Indian
+income-tax after deduction of any relief due under the provisions of this Act but
+before deduction of any relief due under this section, by the total income; and
+(d) “rate of tax of the said country” means income-tax and super-tax
+actually paid in the said country as per the corresponding laws in force in the
+said country after deduction of all relief due, but before deduction of any relief
+due in the said country in respect of double taxation, divided by the whole
+amount of the income as assessed in the said country.
+
+25
+
+CHAPTER X
+SPECIAL PROVISIONS RELATING TO AVOIDANCE OF TAX
+Computation of
+income from
+international
+transaction and
+specified
+domestic
+transaction
+having regard to
+arm’s length
+price.
+
+30
+
+161. (1) Any income arising from an international transaction or a specified
+domestic transaction shall be determined having regard to the arm’s length price.
+(2) Any allowance for any expense or interest arising from an international
+transaction or a specified domestic transaction shall also be determined having regard to
+the arm’s length price.
+
+35
+
+(3) If in an international transaction or specified domestic transaction, two or more
+associated enterprises enter into a mutual agreement or arrangement for––
+(a) allocation or apportionment of any cost or expense incurred or to be
+incurred in connection with a benefit, service or facility provided or to be provided
+to any one or more of such enterprises; or
+(b) any contribution to any cost or expense incurred or to be incurred in
+connection with a benefit, service or facility provided or to be provided to any one
+or more of such enterprises,
+
+40
+
+

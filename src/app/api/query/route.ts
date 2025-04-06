@@ -33,24 +33,21 @@ export async function POST(req: NextRequest) {
             return NextResponse.json({ error: 'Failed to save query' }, { status: 500 });
         }
 
-        const response = {
-            response: `Heres a mock reply for your prompt: ${prompt}`,
-            sources: [
-                {
-                    name: "India Code",
-                    tag: "official",
-                    excerpt: "Mock excerpt from law.",
-                    sourcelink: "https://indiacode.nic.in"
-                }, {
-                    name: "Tax Code",
-                    tag: "official",
-                    excerpt: "Mock excerpt v2",
-                    sourcelink: "https://indiataxcode.nic.in"
-                }
-            ]
-        };
+        console.log('DEBUG', prompt, user_name);
 
-        return NextResponse.json(response, { status: 200 });
+        const response = await fetch('http://localhost:8000/api/query', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ prompt, user_name }),
+        });
+
+        const responseData = await response.json();
+
+        console.log('Response from external API:', responseData);
+
+        return NextResponse.json(responseData, { status: 200 });
     } catch (err) {
         console.error('Server error:', err);
         return NextResponse.json({ error: 'Internal server error' }, { status: 500 });

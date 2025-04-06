@@ -1,0 +1,3654 @@
+339
+
+(i) in the case of search, on the conclusion of search as recorded
+in the last panchnama drawn in relation to any person in whose case
+the warrant of authorisation has been issued, irrespective of whether
+or not any seizure is recorded in such panchnama;
+5
+
+(ii) in the case of requisition, on the actual receipt of the books
+of account or other documents or assets by the Authorised Officer; and
+(g) “undisclosed income” includes––
+
+10
+
+15
+
+(i) any money, bullion, jewellery, virtual digital asset or other
+valuable article or thing or any expenditure or any income based on any
+entry in the books of account or other documents or transactions, where
+such money, bullion, jewellery, virtual digital asset, valuable article,
+thing, entry in the books of account or other document or transaction
+represents wholly or partly income or property which has not been or
+would not have been disclosed for the purposes of this Act, in respect of
+the block period; or
+(ii) any expense, exemption, deduction or allowance claimed under
+this Act which is found to be incorrect, in respect of the block period.
+CHAPTER XVII
+SPECIAL PROVISIONS RELATING TO CERTAIN PERSONS
+
+20
+
+A.—Association of persons, firm, Hindu undivided family, etc.
+1.—Legal representatives
+302. (1) Where a person dies, his legal representative shall be liable to pay
+any sum which the deceased would have been liable to pay if he had not died, in
+the like manner and to the same extent as the deceased.
+
+25
+
+30
+
+(2) For the purposes of making an assessment (including an assessment,
+reassessment or recomputation under section 279) of the income of the deceased
+and for the purpose of levying any sum in the hands of the legal representative as
+per the provisions of sub-section (1), any proceeding––
+(a) taken against the deceased before his death shall be deemed to have
+been taken against the legal representative and may be continued against the
+legal representative from the stage at which it stood on the date of the death
+of the deceased;
+(b) which could have been taken against the deceased if he had
+survived, may be taken against the legal representative; and
+
+35
+
+(c) all the provisions of this Act shall apply accordingly.
+(3) The legal representative of the deceased shall be deemed to be an
+assessee for the purposes of this Act.
+
+40
+
+(4) Subject to the provisions of sub-sections (5), (6) and (7), the liability of
+a legal representative referred to in sub-section (1) shall be limited to the extent
+to which the estate of the deceased is capable of meeting the liability.
+(5) Every legal representative shall be personally liable for any sum payable
+by him in his capacity as legal representative if, while such liability remains
+undischarged, he creates a charge on or disposes of or parts with any assets of the
+estate of the deceased, which are in, or may come into, his possession.
+
+45
+
+(6) The liability of a legal representative referred to in sub-section (5) shall
+be limited to the value of the asset so charged, disposed of or parted with.
+
+Legal
+representative.
+
+340
+
+(7) The provisions of sections 304(2) and (5) and 305, so far as may be and
+to the extent to which they are not inconsistent with the provisions of this section,
+apply in relation to a legal representative.
+2.—Representative assessees—General provisions
+Representative
+assessee.
+
+303. (1) For the purposes of this Act, “representative assessee” means—
+
+5
+
+(a) in respect of the income of a non-resident specified in section 9,
+the agent of the non-resident, including a person who is treated as an agent
+under section 306;
+(b) in respect of the income of a minor or a person who is mentally ill
+or of unsound mind, the guardian or manager who is entitled to receive or is
+in receipt of such income on behalf of such minor or a person who is
+mentally ill or of unsound mind ;
+(c) in respect of income which the Court of Wards, the
+Administrator-General, the Official Trustee or any receiver or manager
+(including any person, by whatever name called, who in fact manages
+property on behalf of another) appointed by or under any order of a court,
+receives or is entitled to receive, on behalf or for the benefit of any person,
+such Court of Wards, Administrator-General, Official Trustee, receiver or
+manager;
+
+10
+
+15
+
+(d) in respect of income which a trustee appointed under a trust
+declared by a duly executed instrument in writing whether testamentary or
+otherwise (including any wakf deed which is valid under the Mussalman
+Wakf Validating Act, 1913) receives or is entitled to receive on behalf or
+for the benefit of any person, such trustee or trustees;
+
+20
+
+(e) in respect of income which a trustee appointed under an oral trust
+receives or is entitled to receive on behalf or for the benefit of any person,
+such trustee or trustees.
+
+25
+
+(2) For the purposes of sub-section (1)(d), a trust which is not declared by a
+duly executed instrument in writing (including any wakf deed which is valid under
+the Mussalman Wakf Validating Act, 1913) shall be deemed to be a trust declared
+by a duly executed instrument in writing if a statement in writing, signed by the
+trustee or trustees, setting out the purpose or purposes of the trust, particulars as
+to the trustee or trustees, the beneficiary or beneficiaries and the trust property, is
+forwarded to the Assessing Officer,—
+(a) where the trust has been declared before the 1st June, 1981, within
+three months from that day; and
+
+6 of 1913.
+
+30
+
+6 of 1913.
+
+35
+
+(b) in any other case, within three months from the date of
+declaration of the trust.
+(3) For the purposes of sub-section (1)(e), “oral trust” means a trust which
+is not declared by a duly executed instrument in writing (including any wakf deed
+which is valid under the Mussalman Wakf Validating Act, 1913) and which is not
+deemed under sub-section (2) to be a trust declared by a duly executed instrument
+in writing.
+(4) Every representative assessee shall be deemed to be an assessee for the
+purposes of this Act.
+Liability of
+representative
+assessee.
+
+304. (1) Every representative assessee, as regards the income in respect of
+which he is a representative assessee, shall be subject to the same duties,
+responsibilities and liabilities as if the income were income received by or
+accruing to or in favour of him beneficially and for this purpose,––
+
+40
+6 of 1913.
+
+45
+
+341
+
+(a) the representative assessee shall be liable to assessment and any
+other proceedings under this Act, in his own name in respect of that income
+and any such proceedings shall be deemed to be made upon him in his
+representative capacity only; and
+5
+
+10
+
+15
+
+(b) the tax on such income shall, subject to the other provisions
+contained in this Chapter, be levied upon and recovered from the
+representative assessee in like manner and to the same extent as it would be
+leviable upon and recoverable from the person represented by him.
+(2) If any person, in respect of any income is assessable under this Chapter
+in the capacity of a representative assessee, then he shall not, in respect of that
+income, be assessed under any other provisions of this Act.
+(3) Irrespective of the provisions of this Chapter, the Assessing Officer may
+directly assess the person on whose behalf or for whose benefit income therein
+referred to is receivable, or may recover from such person the tax payable in
+respect of such income.
+(4) If only part of the income of a trust is chargeable under this Act, then the
+proportion of income receivable by a beneficiary from such trust derived from the
+chargeable part shall be determined as follows:—
+
+20
+
+A x C,
+B
+Where,—
+A = the chargeable part of the income of the trust;
+B = the whole income of the trust; and
+C = the income receivable by the beneficiary from the trust.
+
+25
+
+(5) The Assessing Officer shall have the same remedies in the same manner
+against all property of any kind vested in or under the control or management of
+any representative assessee as he would have against the property of any person
+liable to pay any tax, whether the demand is raised against the representative
+assessee or against the beneficiary direct.
+
+30
+
+305. (1) Every representative assessee who, as such, pays any sum under this
+Act, shall be entitled to recover the sum so paid from the person on whose behalf it
+is paid, or to retain out of any moneys that may be in his possession or may come
+to him in his representative capacity, an amount equal to the sum so paid.
+
+35
+
+40
+
+45
+
+(2) Any representative assessee, or any person who apprehends that he may
+be assessed as a representative assessee, may retain out of any money payable by
+him to the person on whose behalf he is liable to pay tax (herein referred to as the
+principal), a sum equal to his estimated liability under this Chapter.
+(3) In the event of any disagreement between such principal and such
+representative assessee or person with regard to the amount to be so retained as
+referred to in sub-section (2), such representative assessee or person may secure
+from the Assessing Officer a certificate stating the amount to be so retained
+pending final settlement of the liability, and the certificate so obtained shall be his
+warrant for retaining that amount.
+(4) The amount recoverable from such representative assessee or person
+shall not exceed the amount specified in such certificate, except to the extent to
+which such representative assessee or person may at such time have in his hands
+additional assets of the principal.
+
+Right of
+representative
+assessee to
+recover tax
+paid.
+
+342
+
+3.—Representative assesses—Special cases
+Who may be
+regarded as
+agent.
+
+306. (1) For the purposes of this Act, “agent”, in relation to a non-resident,
+includes––
+(a) any person in India—
+(i) who is employed by or on behalf of the non-resident; or
+
+5
+
+(ii) who has any business connection with the non-resident; or
+(iii) from or through whom the non-resident is in receipt of any
+income, whether directly or indirectly; or
+(iv) who is the trustee of the non-resident;
+(b) any other person who, whether a resident or non-resident, has
+acquired by means of a transfer, a capital asset in India.
+(2) A broker in India who, in respect of any transactions, does not deal
+directly with or on behalf of a non-resident principal, but deals with or through a
+non-resident broker shall not be deemed to be an agent under this section, in
+respect of such transactions, if the following conditions are fulfilled:—
+
+10
+
+15
+
+(a) the transactions are carried on in the ordinary course of business
+through the first-mentioned broker; and
+(b) the non-resident broker is carrying on such transactions in the
+ordinary course of his business and not as a principal.
+(3) A person shall not be treated as the agent of a non-resident unless he has
+had an opportunity of being heard by the Assessing Officer as to his liability to be
+treated as such.
+
+20
+
+(4) In this section, “business connection” shall have the meaning assigned
+to it in section 9(8)(b).
+Charge of tax
+where share of
+beneficiaries
+unknown.
+
+307. (1) Subject to the other provisions of this section, the income or any
+part thereof, in respect of the person mentioned in sections 303(1)(c) and (d) shall
+be chargeable to tax at the maximum marginal rate, if––
+
+25
+
+(a) such income or such part thereof is not specifically receivable on
+behalf or for the benefit of any one person; or
+(b) the individual shares of the persons on whose behalf or for whose
+benefit such income or such part thereof is receivable are indeterminate or
+unknown.
+
+30
+
+(2) The income or any part thereof as referred to in sub-section (1), shall be
+chargeable to tax at the rate applicable to an association of persons, if,—
+(a) none of the beneficiaries has any other income chargeable under
+this Act exceeding the maximum amount not chargeable to tax in case of an
+association of persons, or is a beneficiary under any other trust; or
+
+35
+
+(b) such income or part of such income is receivable under a trust declared
+by any person by will and such trust is the only trust declared by him; or
+(c) such income or part of such income is receivable under a trust
+created before the 1st March, 1970, by a non-testamentary instrument and
+the Assessing Officer is satisfied, having regard to all the circumstances
+existing at the relevant time, that the trust was created bona fide––
+(i) exclusively for the benefit of the relatives of the settlor; or
+
+40
+
+343
+
+(ii) exclusively for the benefit of the members of such family,
+where the settlor is a Hindu undivided family,
+in circumstances where such relatives or members were mainly dependent
+on the settlor for their support and maintenance; or
+5
+
+10
+
+15
+
+(d) such income is receivable by the trustees on behalf of a provident
+fund, superannuation fund, gratuity fund, pension fund or any other fund
+created bona fide by a person carrying on a business or profession exclusively
+for the benefit of persons employed in such business or profession.
+(3) Subject to the provisions of sub-section (4), where the income in respect
+of the person mentioned in section 303(1)(d) consists of, or includes, profits and
+gains of business, tax shall be charged at the maximum marginal rate on the whole
+of the income.
+(4) Where the profits and gains referred to in sub-section (3) are receivable
+under a trust declared by any person by will exclusively for the benefit of any
+relative dependent on him for support and maintenance, and such trust is the only
+trust so declared by him, tax shall be charged at the rate applicable to an
+association of persons.
+(5) For the purposes of this section,––
+
+20
+
+25
+
+30
+
+(a) such income or any part thereof shall be deemed as being not
+specifically receivable on behalf or for the benefit of any one person unless
+the person on whose behalf or for whose benefit such income or such part
+thereof is receivable during the tax year is expressly stated in the order of
+the court or the instrument of trust or wakf deed, as the case may be, and is
+identifiable as such on the date of such order, instrument or deed;
+(b) the individual shares of the persons on whose behalf or for whose
+benefit such income or such part thereof is received shall be deemed to be
+indeterminate or unknown unless the individual shares of the persons on whose
+behalf or for whose benefit such income or such part thereof is receivable, are
+expressly stated in the order of the court or the instrument of trust or wakf deed
+and are ascertainable as such on the date of such order, instrument or deed.
+308. (1) The income of the person appointed under an oral trust as mentioned
+in section 303(1)(e) shall be chargeable to tax at the maximum marginal rate,
+irrespective of anything contained in any other provision of this Act.
+
+35
+
+Charge of tax
+in case of oral
+trust.
+
+(2) For the purposes of this section, “oral trust” shall have the meaning
+assigned to it in section 303(3).
+4.—Association of persons and body of individuals
+
+21 of 1860.
+40
+
+309. (1) For the purposes of this section, sections 310 and 311, an association
+of persons or body of individuals shall not include a company or a co-operative
+society or a society registered under the Societies Registration Act, 1860, or under
+any law corresponding to that Act in force in any part of India.
+(2) In computing the total income of an assessee who is a member of an
+association of persons or a body of individuals wherein the shares of the members
+are determinate and known, the share of a member in the income or loss of such
+association or body shall be computed in the following manner,––
+
+45
+
+(a) any interest, salary, bonus, commission or remuneration, by
+whatever name called, paid to any member in respect of the tax year shall
+be deducted from the total income of the association or body and the balance
+ascertained and apportioned among the members in the proportions in which
+they are entitled to share in the income of the association or body;
+
+Method of
+computing a
+member’s share
+in income of
+association of
+persons or
+body of
+individuals.
+
+344
+
+(b) the interest, salary, bonus, commission or remuneration referred to
+in clause (a), shall be,—
+(i) added to the apportioned amount referred to in clause (a), if
+such apportioned amount is a profit; or
+(ii) adjusted against the apportioned amount referred to in
+clause (a), if such apportioned amount is a loss,
+
+5
+
+and the resultant amount shall be treated as the share of the member in the income
+of such association or body.
+(3) The share of a member in the income or loss of the association or body, as
+computed under sub-section (2), shall, for the purposes of assessment, be apportioned
+under the various heads of income in the same manner in which the income or loss of
+the association or body has been determined under each head of income.
+(4) Any interest paid by a member on capital borrowed by him for the
+purposes of investment in the association or body shall, in computing his share
+chargeable under the head “Profits and gains of business or profession” in respect
+of his share in the income of the association or body, be deducted from his share.
+
+10
+
+15
+
+(5) For the purposes of this section, “paid” means actually paid or incurred
+according to the method of accounting upon the basis of which the profits or gains
+are computed under the head “Profits and gains of business or profession”.
+Share of
+member of
+association of
+persons or
+body of
+individuals in
+income of
+association or
+body.
+
+310. (1) Income-tax shall not be payable by an assessee (who is a member
+of an association of persons or body of individuals) in respect of his share in the
+income of the association of persons or body of individuals computed in the
+manner provided in section 309, except in a case referred to in sub-section (2).
+(2) Where no income-tax is chargeable on the total income of the association
+of persons or body of individuals, the share of a member computed as aforesaid
+shall be chargeable to tax as part of his total income.
+
+20
+
+25
+
+(3) Where no income-tax is payable by an assessee under sub-section (1),––
+(a) if the association of persons or body of individuals is chargeable
+to tax on its total income at the maximum marginal rate or any higher rate
+under any of the provisions of this Act, the share of a member computed as
+aforesaid shall not be included in his total income;
+
+30
+
+(b) in any other case, the share of a member computed as aforesaid
+shall form part of his total income.
+Charge of tax
+where shares
+of members in
+association of
+persons or
+body of
+individuals
+unknown, etc.
+
+311. (1) Where the individual shares of the members of an association of
+persons or body of individuals in the whole or any part of the income of such
+association or body are indeterminate or unknown,—
+
+35
+
+(a) tax shall be charged on the total income of the association or body
+at the maximum marginal rate; or
+(b) where the total income of any member of such association or body
+is chargeable to tax at a rate which is higher than the maximum marginal
+rate, tax shall be charged on the total income of the association or body at
+such higher rate.
+(2) Where the individual shares of the members of an association of persons
+or body of individuals in the whole or any part of the income of such association
+or body are determinate or known,––
+
+40
+
+45
+
+345
+
+5
+
+(a) the total income of any member thereof for the tax year (excluding
+his share from such association or body) exceeds the maximum amount
+which is not chargeable to tax in the case of that member under the Finance
+Act of the relevant year, tax shall be charged on the total income of the
+association or body at the maximum marginal rate;
+(b) any member or members thereof is or are chargeable to tax at a rate
+or rates which is or are higher than the maximum marginal rate,—
+
+10
+
+(i) tax shall be charged on that portion or portions of the total
+income of the association or body which is or are relatable to the share
+or shares of such member or members at such higher rate or rates, as the
+case may be; and
+(ii) the balance of the total income of the association or body
+shall be taxed at the maximum marginal rate.
+
+15
+
+20
+
+(3) For the purposes of this section, the individual shares of the members of
+an association of persons or body of individuals in the whole or any part of the
+income of such association or body shall be deemed to be indeterminate or
+unknown if such shares (in relation to the whole or any part of such income) are
+indeterminate or unknown on the date of formation of such association or body or
+at any time thereafter.
+5.—Executors
+312. (1) The income of the estate of a deceased person shall be chargeable
+to tax in the hands of the executor as an individual, if there is only one executor,
+or as an association of persons, if the executors are more than one.
+
+Executor.
+
+25
+
+(2) The executor shall be deemed to be resident or non-resident according
+to the residential status of the deceased person for the tax year in which his death
+took place.
+(3) For the purposes of this section, “executor” includes an administrator or
+other person administering the estate of the deceased person.
+
+30
+
+(4) The assessment of an executor under this section shall be made
+separately from any assessment that may be made on him in respect of his own
+income.
+
+35
+
+(5) Separate assessments shall be made under this section on the total
+income of each completed tax year or part thereof as is included in the period from
+the date of the death to the date of complete distribution to the beneficiaries of the
+estate according to their several interests.
+
+40
+
+(6) In computing the total income of any tax year under this section, any
+income of the estate of that tax year distributed to, or applied to the benefit of, any
+specific legatee of the estate during that tax year shall be excluded; but the income
+so excluded, shall be included in the total income of the tax year of such specific
+legatee.
+(7) The provisions of section 305 shall, so far as may be, apply in the case
+of an executor in respect of tax paid or payable by him, as they apply in the case
+of a representative assessee.
+6.—Succession to business or profession
+
+Succession to
+business or
+profession
+otherwise than
+on death.
+
+45
+
+313. (1) Where a person carrying on any business or profession (herein
+referred to as the predecessor) has been succeeded therein by any other person
+(herein referred to as the successor) who continues to carry on that business or
+profession,—
+
+346
+
+(a) the predecessor shall be assessed in respect of the income of the
+tax year in which the succession took place up to the date of succession;
+(b) the successor shall be assessed in respect of the income of the tax
+year after the date of succession.
+(2) Irrespective of anything contained in sub-section (1), when the
+predecessor cannot be found, the assessment of the income of the tax year in
+which the succession took place up to the date of succession and of the tax year
+preceding that year shall be made on the successor in like manner and to the same
+extent as it would have been made on the predecessor, and all the provisions of
+this Act shall, so far as may be, apply accordingly.
+(3) Irrespective of anything contained in sub-sections (1) and (2), where
+there is succession, the assessment or reassessment or any other proceedings,
+made or initiated on the predecessor during the course of pendency of such
+succession, shall be deemed to have been made or initiated on the successor and
+all the provisions of this Act shall, so far as may be, apply accordingly.
+
+5
+
+10
+
+15
+
+(4) When any sum payable under this section in respect of the income of
+such business or profession assessed on the predecessor,––
+(a) for the tax year in which the succession took place up to the date
+of succession; or
+(b) for the tax year preceding the year in which the succession took place,
+
+20
+
+cannot be recovered from him, the Assessing Officer shall record a finding to that
+effect and the sum payable by the predecessor shall thereafter be payable by and
+recoverable from the successor, and the successor shall be entitled to recover from
+the predecessor any sum so paid.
+(5) Without prejudice to the provisions of this section, where any business or
+profession carried on by a Hindu undivided family is succeeded to, and
+simultaneously with the succession or after the succession there has been a partition
+of the joint family property between the members or groups of members, the tax due
+in respect of the income of the business or profession succeeded to, up to the date of
+succession, shall be assessed and recovered in the manner provided in section 315.
+
+25
+
+30
+
+(6) In this section,—
+(a) “income” includes any gain accruing from the transfer, in any manner,
+of the business or profession as a result of the succession; and
+(b) “pendency” means the period commencing from the date of filing of
+application for such succession of business before the High Court or tribunal or
+the date of admission of an application for corporate insolvency resolution by
+the Adjudicating Authority as defined in section 5(1) of the Insolvency and
+Bankruptcy Code, 2016 and ending with the date on which the order of such
+High Court or tribunal or such Adjudicating Authority, is received by the
+Principal Commissioner or the Commissioner.
+Effect of order
+of tribunal or
+court in respect
+of business
+reorganisation.
+
+314. (1) Irrespective of anything to the contrary contained in section 263, if
+prior to the date of order in respect of business reorganisation, any return of
+income has been furnished under the provisions of the said section by an entity
+for any tax year to which such order applies, the successor shall furnish, within
+six months from the end of the month in which the order was issued, a modified
+return in such form and manner, as prescribed, in accordance with and limited to
+the said order.
+
+35
+
+31 of 2016.
+40
+
+45
+
+347
+
+(2) Where the assessment or reassessment proceedings for a tax year to
+which the order in respect of the business reorganisation applies,––
+
+5
+
+(a) have been completed on the date of furnishing of the modified
+return as per the provisions of sub-section (1), the Assessing Officer
+shall pass an order modifying the total income of the relevant tax year
+determined in such assessment or reassessment, in accordance with such
+order and taking into account the modified return so furnished;
+
+10
+
+(b) are pending on the date of furnishing of the modified return as
+per sub-section (1), the Assessing Officer shall pass an order assessing
+or reassessing the total income of the relevant tax year as per the order
+of the business reorganisation and taking into account the modified
+return so furnished.
+
+15
+
+(3) Subject to any other provisions of this section, in an assessment or
+reassessment made in respect of a tax year under this section, all other
+provisions of this Act shall apply and the tax shall be chargeable at the rate or
+rates as applicable to such tax year.
+(4) In this section,—
+
+20
+
+(a) “business reorganisation” means the reorganisation of business
+involving the amalgamation or demerger or merger of business of one
+or more persons;
+(b) “order in respect of business reorganisation” means an order of
+a High Court or tribunal or an Adjudicating Authority as defined in
+section 5(1) of the Insolvency and Bankruptcy Code, 2016; and
+
+31 of 2016.
+
+25
+
+(c) “successor” means all resulting companies in a business
+reorganisation, whether or not the company was in existence prior to
+such business reorganisation.
+7.—Partition
+
+30
+
+35
+
+315. (1) A Hindu family, hitherto assessed as undivided, shall be deemed for
+the purposes of this Act to continue to be a Hindu undivided family, except where
+and in so far as a finding of partition has been given under this section in respect of
+the Hindu undivided family.
+(2) Where, at the time of making an assessment under section 270 or
+section 271, it is claimed by or on behalf of any member of a Hindu family assessed
+as undivided that a partition, whether total or partial, has taken place among the
+members of such family, the Assessing Officer shall make an inquiry thereinto after
+giving notice of the inquiry to all the members of the family.
+(3) On the completion of the inquiry, the Assessing Officer shall record a
+finding as to whether there has been a total or partial partition of the joint family
+property, and, if there has been such a partition, the date on which it has taken place.
+
+40
+
+(4) Where a finding of total or partial partition has been recorded by the
+Assessing Officer under this section, and the partition took place during the tax
+year,—
+(a) the total income of the joint family in respect of the period up to the
+date of partition shall be assessed as if no partition had taken place; and
+
+45
+
+(b) each member or group of members shall, in addition to any tax for
+which he or it may be separately liable and irrespective of anything contained
+against Schedule III (Table: Sl. No. 2), be jointly and severally liable for the
+tax on the income so assessed.
+
+Assessment after
+partition of
+Hindu undivided
+family.
+
+348
+
+(5) Where a finding of total or partial partition has been recorded by the
+Assessing Officer under this section, and the partition took place after the expiry of
+the tax year, the total income of the tax year of the joint family shall be assessed as
+if no partition had taken place, and the provisions of sub-section (4)(b), so far as
+may be, apply to the case.
+(6) Irrespective of anything contained in this section, if the Assessing Officer
+finds after completion of the assessment of a Hindu undivided family that the family
+has already effected a partition, whether total or partial, the Assessing Officer shall
+proceed to recover the tax from every person who was a member of the family before
+the partition, and every such person shall be jointly and severally liable for the tax
+on the income so assessed.
+(7) The provisions of this section shall, so far as may be, apply in relation to
+the levy and collection of any penalty, interest, fine or other sum in respect of any
+period up to the date of the partition, whether total or partial, of a Hindu undivided
+family as they apply in relation to the levy and collection of tax in respect of any
+such period.
+
+5
+
+10
+
+15
+
+(8) Irrespective of anything contained in the foregoing provisions of this
+section, where a partial partition has taken place after the 31st December, 1978,
+among the members of a Hindu undivided family hitherto assessed as undivided,—
+(a) a claim that such partial partition has taken place shall not be
+inquired into under sub-section (2) and no finding shall be recorded under
+sub-section (3) that such partial partition had taken place and any finding
+recorded under sub-section (3) to that effect at any time, shall be
+null and void;
+
+20
+
+(b) such family shall continue to be liable to be assessed under this Act
+as if no such partial partition had taken place; and
+
+25
+
+(c) each member or group of members of such family immediately
+before such partial partition and the family shall be jointly and severally liable
+for any tax, penalty, interest, fine or other sum payable under this Act by the
+family in respect of any period, whether before or after such partial partition.
+
+30
+
+(9) For the purposes of this section, the several liability of any member or
+group of members thereunder shall be computed according to the portion of the joint
+family property allotted to him or it at the partition, whether total or partial and the
+provisions of this Act shall apply accordingly.
+(10) In this section,—
+
+35
+
+(a) “partition” means,—
+(i) where the property admits of a physical division, a physical
+division of the property, but a physical division of the income without a
+physical division of the property producing the income shall not be
+deemed to be a partition; or
+
+40
+
+(ii) where the property does not admit of a physical division, then
+such division as the property admits of, but a mere severance of status
+shall not be deemed to be a partition;
+(b) “partial partition” means a partition which is partial as regards the
+persons constituting the Hindu undivided family, or the properties belonging
+to the Hindu undivided family, or both.
+
+45
+
+349
+
+8.—Profits of non-residents from occasional shipping business
+
+5
+
+316. (1) Irrespective of anything in the other provisions of this Act, the
+provisions of this section shall apply for the purpose of levy and recovery of tax in
+the case of any ship, belonging to or chartered by a non-resident, which carries
+passengers, livestock, mail or goods shipped at a port in India.
+(2) Where such a ship carries passengers, livestock, mail or goods shipped at
+a port in India,––
+
+10
+
+(a) 7.5 % of the amount paid or payable on account of such carriage shall
+be deemed to be income accruing in India to the owner or charterer or to any
+person on his behalf, on account of such carriage, whether that amount is paid
+or payable in or out of India; and
+(b) the amount referred to in clause (a) shall include the amount paid or
+payable by way of demurrage charge or handling charge or any other amount
+of similar nature.
+
+15
+
+20
+
+(3) Before the departure from any port in India of any such ship, the master of
+the ship shall prepare and furnish to the Assessing Officer a return of the full amount
+paid or payable to the person as mentioned in sub-section (2) on account of such
+carriage shipped at that port, since the last arrival of the ship thereat.
+(4) The requirement of furnishing the return as per sub-section (3) shall be
+deemed to have been complied with, if––
+(a) the Assessing Officer is satisfied that––
+(i) it is not possible for the master of the ship to furnish the return
+before the departure of the ship from the port; and
+
+25
+
+(ii) the master of the ship has made satisfactory arrangements for
+filing of the return and payment of tax by any other person on his behalf;
+and
+(b) the return is filed within thirty days of the departure of the ship by
+any person so authorised by the master.
+(5) On receipt of the return, the Assessing Officer shall—
+
+30
+
+(a) assess the income referred to in sub-section (2); and
+(b) determine the sum payable as tax thereon at the rate or rates in force
+applicable to the total income of a company which has not made the
+arrangements referred to in section 393(1)(Table: Sl. No. 7) and such sum shall
+be payable by the master of the ship.
+
+35
+
+(6) No order assessing the income and determining the sum of tax payable
+thereon shall be made under sub-section (5) after the expiry of nine months from the
+end of the tax year in which the return under sub-section (3) is furnished.
+(7) For the purposes of determining the tax payable under sub-section (5), the
+Assessing Officer may call for such accounts or documents as he may require.
+
+40
+
+45
+
+(8) A port clearance shall not be granted to the ship until the Commissioner of
+Customs, or other officer duly authorised to grant the same, is satisfied that the tax
+assessable under this section has been duly paid or that satisfactory arrangements
+have been made for the payment thereof.
+(9) Nothing in this section shall prevent the owner or charterer of a ship from
+claiming, before the end of the year following the tax year in which the date of
+departure of the ship from Indian port falls, that an assessment be made of his total
+income of the tax year as per other provisions of this Act, and tax payable be
+determined on the basis of such assessment.
+
+Shipping
+business of nonresidents.
+
+350
+
+(10) In a case falling under sub-section (9), any payment made under this
+section during the tax year, if so claimed, shall be treated as––
+(a) tax paid in advance with respect to that year and adjusted against tax
+payable by such person; and
+(b) the difference between the sum so paid and the amount of tax found
+so payable by him on such assessment shall be paid by him or refunded to him.
+
+5
+
+9.—Persons leaving India
+Assessment of
+persons leaving
+India.
+
+317. (1) Irrespective of anything contained in section 4, when it appears to the
+Assessing Officer that any individual may leave India during the current tax year or
+shortly after its expiry, with no present intention of returning to India, the total
+income of such individual for the period beginning from the first day of that current
+tax year up to the probable date of departure from India (referred to as specified
+period in this section) shall be chargeable to tax in that current tax year.
+(2) The total income of each completed tax year or part of any tax year
+included in the specified period shall be chargeable to tax at the rate or rates in force
+in that tax year, and separate assessments shall be made in respect of each such
+completed tax year or part of any tax year.
+
+10
+
+15
+
+(3) The Assessing Officer may estimate the income of such individual for such
+specified period or any part thereof, where it cannot be readily determined in the
+manner provided in this Act.
+
+20
+
+(4) For the purposes of making an assessment under sub-section (1), the
+Assessing Officer may serve a notice upon such individual requiring him to furnish
+within such time, not being less than seven days, as specified in the notice, a return
+in the same form and verified in the same manner as a return under section 268(1),
+setting forth his––
+
+25
+
+(a) total income for each completed tax year comprised in such specified
+period referred to therein; and
+(b) estimated total income for any part of the tax year comprised in such
+specified period,
+and the provisions of this Act shall, so far as may be, and subject to the provisions
+of this section, apply as if the notice were a notice issued under section 268(1).
+(5) Irrespective of anything contained in section 268(1) or 280, where the
+provisions of sub-section (1) are applicable, the Assessing Officer may issue any
+notice under section 268(1) or 280, requiring the furnishing of the return by such
+individual in respect of any tax chargeable under any other provisions of this Act,
+within such period, not being less than seven days, as the Assessing Officer may
+think proper.
+
+30
+
+35
+
+(6) The tax chargeable under this section shall be in addition to the tax, if any,
+chargeable under any other provisions of this Act.
+10.—Association of persons or body of individuals or artificial juridical person
+formed for a particular event or purpose
+Assessment of
+association of
+persons or body
+of individuals or
+artificial juridical
+person formed for
+a particular event
+or purpose.
+
+318. (1) Irrespective of anything contained in the section 4, where it appears
+to the Assessing Officer that any association of persons or a body of individuals or
+an artificial juridical person, formed or established or incorporated for a particular
+event or purpose in a tax year is likely to be dissolved in the same year or
+immediately after such year, the total income of such association or body or juridical
+person for the period beginning from the first day of that tax year up to the date of
+its dissolution shall be chargeable to tax in that tax year.
+
+40
+
+45
+
+351
+
+(2) For the purpose of sub-section (1), the provisions of section 317(2) to (6)
+shall, so far as may be, apply to any proceedings in the case of any such person as
+they apply in the case of persons leaving India.
+11.—Persons trying to alienate their assets
+5
+
+10
+
+319. (1) Irrespective of anything contained in section 4, where it appears to
+the Assessing Officer during any current tax year that any person is likely to charge,
+sell, transfer, dispose of or otherwise part with any of his assets with a view to
+avoiding payment of any liability under the provisions of this Act, the total income
+of such person for the period beginning from the first day of that current tax year up
+to the date when the Assessing Officer commences proceedings under this section
+shall be chargeable to tax in current tax year.
+
+Assessment of
+persons likely to
+transfer property
+to avoid tax.
+
+(2) For the purpose of sub-section (1), the provisions of section 317(2) to (6)
+shall, so far as may be, apply to any proceedings in the case of any such person as
+they apply in the case of persons leaving India.
+15
+
+12.—Discontinuance of business, or dissolution
+320. (1) Irrespective of anything contained in section 4, where any business or
+profession is discontinued in any tax year, the income of the period beginning from
+the first day of that tax year up to the date of such discontinuance may, at the
+discretion of the Assessing Officer, be charged to tax in that tax year.
+
+20
+
+(2) The total income of each completed tax year or part of any tax year
+included in such period shall be chargeable to tax at the rate or rates in force in that
+tax year, and separate assessments shall be made in respect of each such completed
+tax year or part of any tax year.
+
+25
+
+(3) Any person discontinuing any business or profession shall give to the
+Assessing Officer notice of such discontinuance within fifteen days thereof.
+
+30
+
+(4) Where any business is discontinued in any year, any sum received after the
+discontinuance shall be deemed to be the income of the recipient and charged to tax
+accordingly in the year of receipt, if such sum would have been included in the total
+income of the person who carried on the business had such sum been received before
+such discontinuance.
+
+35
+
+40
+
+45
+
+(5) Where any profession is discontinued in any year on account of the
+cessation of the profession by, or the retirement or death of, the person carrying on
+the profession, any sum received after the discontinuance shall be deemed to be the
+income of the recipient and charged to tax accordingly in the year of receipt, if such
+sum would have been included in the total income of the said person, had it been
+received before such discontinuance.
+(6) Where an assessment is to be made under the provisions of this section,
+the Assessing Officer may serve on the person whose income is to be assessed or,
+in the case of a firm, on any person who was a partner of such firm at the time of its
+discontinuance or, in the case of a company, on the principal officer thereof, a notice
+containing all or any of the requirements which may be included in a notice under
+section 268(1) and the provisions of this Act shall, so far as may be, apply
+accordingly as if the notice were a notice issued under section 268.
+(7) Irrespective of anything contained in section 268 or 280, where the
+provisions of sub-section (1) are applicable, the Assessing Officer may issue any
+notice under section 268 or 280, requiring the furnishing of the return by the person
+whose income is to be assessed in respect of any tax chargeable under any other
+provisions of this Act, within such period, not being less than seven days, as the
+Assessing Officer may think proper.
+
+Discontinued
+business.
+
+352
+
+(8) The tax chargeable under this section shall be in addition to the tax, if any,
+chargeable under any other provision of this Act.
+Association
+dissolved or
+business
+discontinued.
+
+321. (1) Where any business or profession carried on by an association of
+persons has been discontinued or where an association of persons is dissolved, the
+Assessing Officer shall make an assessment of the total income of the association
+of persons as if no such discontinuance or dissolution had taken place, and all the
+provisions of this Act, including the provisions relating to the levy of a penalty or
+any other sum chargeable under any provision of this Act shall apply, so far as may
+be, to such assessment.
+(2) Regardless of the generality of sub-section (1), if the Assessing Officer or
+the Joint Commissioner (Appeals) or the Commissioner (Appeals) in the course of
+any proceeding under this Act in respect of any such association of persons as is
+referred to in that sub-section is satisfied that the association of persons was guilty
+of any of the acts specified in Chapter XXI, he may impose or direct the imposition
+of a penalty as per the provisions of that Chapter.
+
+5
+
+10
+
+15
+
+(3) Every person who was at the time of such discontinuance or dissolution a
+member of the association of persons, and the legal representative of any such
+person who is deceased, shall be jointly and severally liable for the amount of tax,
+penalty or other sum payable, and all the provisions of this Act, so far as may be,
+shall apply to any such assessment or imposition of penalty or other sum.
+
+20
+
+(4) Where such discontinuance or dissolution takes place after any
+proceedings in respect of a tax year have commenced, the proceedings may be
+continued against the persons referred to in sub-section (3) from the stage at which
+the proceedings stood at the time of such discontinuance or dissolution, and all the
+provisions of this Act shall, so far as may be, apply accordingly.
+
+25
+
+(5) Nothing in this section shall affect the provisions of section 302(4).
+Company in
+liquidation.
+
+322. (1) Every person,—
+(a) who is the liquidator of any company which is being wound up,
+whether under the orders of a court or otherwise; or
+(b) who has been appointed the receiver of any assets of a company,
+(herein referred to as the liquidator),
+
+30
+
+shall, within thirty days after he has become such liquidator, give notice of his
+appointment as such to the Assessing Officer who is entitled to assess the income
+of the company.
+(2) The Assessing Officer shall, after making such inquiries or calling for such
+information as he may deem fit, notify to the liquidator within three months from
+the date on which he receives notice of the appointment of the liquidator the amount
+which, in the opinion of the Assessing Officer, would be sufficient to provide for
+any tax which is then, or is likely thereafter to become, payable by the company.
+(3) The liquidator—
+
+35
+
+40
+
+(a) shall not, without the leave of the Principal Chief Commissioner or
+Chief Commissioner or Principal Commissioner or Commissioner, part with
+any of the assets of the company or the properties in his hands until he has
+been notified by the Assessing Officer under sub-section (2); and
+(b) on being so notified, shall set aside an amount, equal to the amount
+notified and, until he so sets aside such amount, shall not part with any of the
+assets of the company or the properties in his hands.
+(4) The provisions of sub-section (3) shall not debar the liquidator from parting
+with such assets or properties for the purpose of––
+
+45
+
+353
+
+(a) the payment of the tax payable by the company; or
+(b) making any payment to secured creditors whose debts are entitled
+under law to priority of payment over debts due to Government on the date of
+liquidation; or
+5
+
+(c) meeting such costs and expenses of the winding up of the company,
+as are in the opinion of the Principal Chief Commissioner or Chief Commissioner
+or Principal Commissioner or Commissioner, reasonable.
+
+10
+
+15
+
+(5) If the liquidator fails to give the notice as per sub-section (1), or fails to set
+aside the amount as required by sub-section (3), or parts with any of the assets of
+the company or the properties in his hands in contravention of the provisions of that
+sub-section, he shall be personally liable for the payment of the tax which the
+company would be liable to pay.
+(6) In relation to sub-section (5), if the amount of any tax payable by the
+company is notified under sub-section (2), the personal liability of the liquidator
+under that sub-section shall be to the extent of such amount.
+(7) Where there are more liquidators than one, the obligations and liabilities
+attached to the liquidator under this section shall attach to all the liquidators jointly
+and severally.
+
+20
+31 of 2016.
+
+(8) The provisions of this section shall have effect irrespective of anything to
+the contrary contained in any other law in force, except the provisions of the
+Insolvency and Bankruptcy Code, 2016.
+13.—Private companies
+
+18 of 2013.
+
+323. (1) Irrespective of anything contained in the Companies Act, 2013, where
+any tax due from—
+25
+
+(a) a private company in respect of any income of any tax year; or
+
+Liability of
+directors of
+private
+company.
+
+(b) any other company in respect of any income of any tax year during
+which such other company was a private company,
+
+30
+
+35
+
+40
+
+cannot be recovered, then, every person, who was a director of the private company
+at any time during the relevant tax year, shall be jointly and severally liable for the
+payment of such tax unless he proves that the non-recovery cannot be attributed to
+any gross neglect, misfeasance or breach of duty on his part in relation to the affairs
+of the company.
+(2) Where a private company is converted into a public company and the tax
+assessed in respect of any income of any tax year during which such company was
+a private company cannot be recovered, then, nothing contained in sub-section (1)
+shall apply to any person who was a director of such private company in relation to
+any tax due in respect of any income of such private company assessable for any tax
+year commencing before the 1st April, 1961.
+(3) In this section, “tax due” includes penalty, interest, fees or any other sum
+payable under the Act.
+14.—Assessment of firms
+324. In the case of a firm which is assessable as a firm, tax shall be charged
+on its total income at the rate as specified in the Finance Act of the relevant year.
+325. (1) A firm shall be assessed as a firm for the purposes of this Act, if—
+
+45
+
+(a) the partnership is evidenced by an instrument; and
+
+Charge of tax in
+case of a firm.
+Assessment as a
+Firm.
+
+354
+
+(b) the individual shares of the partners are specified in that instrument.
+(2) A certified copy of the instrument of partnership referred to in
+sub-section (1) shall accompany the return of income of the firm of the tax year in
+respect of which assessment as a firm is first sought.
+(3) For the purposes of sub-section (2), the copy of the instrument of
+partnership shall be certified in writing by all the partners (not being minors) or,
+where the return is made after the dissolution of the firm, by all persons (not being
+minors), who were partners in the firm immediately before its dissolution and by the
+legal representative of any such partner who is deceased.
+
+5
+
+(4) Where a firm is assessed as such for any tax year, it shall be assessed in
+the same capacity for every subsequent year, if there is no change in the constitution
+of the firm or the shares of the partners as evidenced by the instrument of partnership
+on the basis of which the assessment as a firm was first sought.
+
+10
+
+(5) Where any such change had taken place in the tax year, the firm shall
+furnish a certified copy of the revised instrument of partnership along with the return
+of income for such tax year, and all the provisions of this section shall apply
+accordingly.
+(6) Irrespective of anything contained in any other provision of this Act,
+where, in respect of any tax year, there is on the part of a firm any such failure as is
+mentioned in section 271,—
+(a) the firm shall be so assessed that no deduction by way of any payment
+of interest, salary, bonus, commission or remuneration, by whatever name
+called, made by such firm to any partner of such firm shall be allowed in
+computing the income chargeable under the head “Profits and gains of
+business or profession”; and
+
+15
+
+20
+
+25
+
+(b) such payment shall not be chargeable to income-tax under
+section 26(2)(f).
+Assessment
+when
+section 325 not
+complied with.
+
+326. Irrespective of anything contained in any other provision of this Act, where
+a firm does not comply with the provisions of section 325 for any tax year,—
+(a) no deduction by way of any payment of interest, salary, bonus,
+commission or remuneration, by whatever name called, made by such firm to
+any partner of such firm shall be allowed in computing its income chargeable
+under the head “Profits and gains of business or profession”; and
+(b) such interest, salary, bonus, commission or remuneration shall not be
+chargeable to income-tax under section 26(2)(g) in the hands of partners of
+such firm.
+
+30
+
+35
+
+15.—Change in constitution, succession and dissolution
+Change in
+constitution of a
+firm.
+
+327. (1) Where at the time of making an assessment under section 270 or 271,
+it is found that a change has occurred in the constitution of a firm, the assessment
+shall be made on the firm as constituted at the time of making the assessment.
+(2) For the purposes of this section, there is a change in the constitution of the
+firm—
+(a) if one or more of the partners cease to be partners; or
+
+40
+
+355
+
+(b) one or more new partners are admitted, subject to the condition that
+at least one person who was partner of the firm before the change continues as
+partner after such change; or
+5
+
+(c) where all the partners continue with a change in their respective
+shares or in the shares of some of them.
+(3) The provisions of sub-section 2(a) shall not apply to a case where the firm
+is dissolved on the death of any of its partners.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+328. Where a firm carrying on a business or profession is succeeded by another
+firm, except in a case covered by section 327, separate assessments shall be made
+on the predecessor firm and the successor firm as per the provisions of section 313.
+
+Succession of
+one firm by
+another firm.
+
+329. Every person who was, during the tax year, a partner of a firm, and the
+legal representative of any such person who is deceased, shall be jointly and
+severally liable along with the firm for the amount of tax, penalty or other sum
+payable by the firm for the tax year, and all the provisions of this Act, so far as may
+be, shall apply to the assessment of such tax or imposition or levy of such penalty
+or other sum.
+
+Joint and several
+liability of
+partners for tax
+payable by firm.
+
+330. (1) Where a firm is dissolved or any business or profession carried on by
+it has been discontinued, the Assessing Officer shall make an assessment of the total
+income of the firm, as if no such dissolution or discontinuance had taken place, and
+all the provisions of this Act, including the provisions relating to the levy of a
+penalty or any other sum chargeable under any provision of this Act, shall apply, so
+far as may be, to such assessment.
+
+Firm dissolved
+or business
+discontinued.
+
+(2) Regardless of the generality of sub-section (1), if the Assessing Officer or
+Joint Commissioner (Appeals) or Commissioner (Appeals), in the course of any
+proceeding under this Act in respect of any such firm as referred to in that
+sub-section, is satisfied that the firm was guilty of any of the acts specified in
+Chapter XXI, he may impose or direct the imposition of a penalty as per the
+provisions of that Chapter.
+(3) Every person who was at the time of such dissolution or discontinuance a
+partner of the firm, and the legal representative of any such person who is deceased,
+shall be jointly and severally liable for the amount of tax, penalty or other sum
+payable, and all the provisions of this Act, so far as may be, shall apply to any such
+assessment or imposition of penalty or other sum.
+(4) Where such dissolution or discontinuance takes place after any
+proceedings in respect of a tax year have commenced, the proceedings may be
+continued against the person referred to in sub-section (3) from the stage at which
+the proceedings stood at the time of such dissolution or discontinuance, and all the
+provisions of this Act shall, so far as may be, apply accordingly.
+(5) The provisions of this section shall not affect the provisions of
+section 302(4).
+16.—Liability of partners of limited liability partnership in liquidation
+331. Irrespective of anything contained in the Limited Liability Partnership
+Act, 2008, where any tax including penalty, interest, fees or any other sum payable
+under the Act is due, and cannot be recovered, from––
+
+6 of 2009.
+
+45
+
+(a) the limited liability partnership in respect of any income of any tax
+year; or
+(b) any other person in respect of any income of any tax year during
+which such other person was a limited liability partnership,
+
+Liability of
+partners of
+limited liability
+partnership in
+liquidation.
+
+356
+
+then, in such case, every such person who was a partner of such partnership at any
+time during the relevant tax year, shall be jointly and severally liable for the payment
+of such due amount, unless he proves that the non-recovery cannot be attributed to
+any gross neglect, misfeasance or breach of duty on his part in relation to the affairs
+of the limited liability partnership.
+
+5
+
+B.—Special provisions for registered non-profit organisation
+I.––Registration
+Application for
+registration.
+
+332. (1) The following persons may, for claiming benefits under this Part
+as a registered non-profit organisation, make an application for registration in
+such form and manner, as prescribed, to the Principal Commissioner or
+Commissioner:––
+
+10
+
+(a) a public trust;
+(b) a society registered under the Societies Registration Act, 1860, or
+under any law in force in India;
+
+21 of 1860.
+
+(c) a company registered under section 8 of the Companies Act, 2013 or
+the companies registered under section 25 of the Companies Act, 1956 and
+deemed to have been registered in pursuance of section 465 (2)(g) of the
+Companies Act, 2013;
+
+15 18 of 2013.
+1 of 1956.
+
+(d) a University established by law or any other educational institution
+affiliated thereto or recognised by the Government;
+
+20
+
+(e) an institution financed wholly or in part by the Government or a local
+authority;
+(f) any person as referred to in Schedule III (Table: Sl. No. 27) to
+(Table: Sl. No. 29) and (Table: Sl. No. 36) and in Schedule VII (Table: Sl. No. 10)
+to (Table: Sl. No. 19) and (Table: Sl. No. 42); or
+
+25
+
+(g) any other person notified by the Board.
+(2) A person referred to in sub-section (1) shall be eligible for
+registration, if––
+(a) such person is constituted or registered or incorporated in India for
+carrying out one or more charitable purposes, as referred to in section 2(23) or
+one or more public religious purposes, or both; and
+
+30
+
+(b) the properties of such person are held under an irrevocable trust for
+the benefit of the general public,––
+(i) wholly for charitable or religious purposes; or
+(ii) partly for charitable or religious purposes in India, if such
+person was constituted or registered or incorporated prior to the
+commencement of the Income-tax Act, 1961.
+(3) Every application in respect of the cases specified in column B
+of the Table below shall be made to the Principal Commissioner or
+Commissioner within the time provided in column C of the said Table,
+who shall, on receipt of such application, follow the procedure provided
+in sub-sections (6) and (7) and shall pass an order within the time
+specified in column D of the said Table, and registration, if granted, shall
+be valid for a period specified in column E thereof.
+
+35
+43 of 1961.
+
+40
+
+357
+
+Table
+
+5
+
+Sl. No.
+
+Case
+
+Time limit for
+furnishing
+application
+
+Time limit for
+passing order
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1.
+
+Where
+the activities
+of
+the
+applicant have
+not
+commenced
+and it has not
+been
+registered
+under
+any
+specified
+provision at
+any
+time
+before making
+the
+application.
+
+At
+any
+time during the
+tax
+year
+beginning from
+which
+registration is
+sought.
+
+Three
+months from
+the end of the
+month
+in
+which
+application is
+made.
+
+Three tax
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+
+2.
+
+Where
+the activities
+of
+the
+applicant have
+commenced
+and it has not
+been
+registered
+under
+any
+specified
+provision at
+any
+time
+before making
+the
+application.
+
+At
+any
+time during the
+tax
+year,
+beginning from
+which
+registration is
+sought.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+
+3.
+
+Where
+the applicant
+has
+been
+granted
+provisional
+registration
+and activities
+have
+commenced.
+
+Within
+six months of
+the
+commencement
+of activities.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+Five tax
+
+Where
+the provisional
+registration of
+the applicant is
+due to expire
+and activities
+have
+not
+commenced.
+
+At least
+six
+months
+prior to the
+expiry of the
+provisional
+registration.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+4.
+
+50
+
+Validity of
+registration
+
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+Five tax
+years
+following the
+tax year in
+which
+such
+application is
+made.
+
+358
+
+A
+
+B
+
+C
+
+D
+
+E
+
+5.
+
+Where
+the registration
+of the applicant
+is due to expire,
+other than cases
+mentioned at
+serial number
+4.
+
+At least
+six
+months
+prior to the
+expiry of the
+registration.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+following the
+tax year in
+which
+such
+application is
+made.
+
+Where
+the registration
+of the applicant
+has
+become
+inoperative
+due
+to
+switching over
+of
+regime
+under
+section 333.
+
+At
+any
+time during the
+tax
+year
+beginning from
+which
+the
+registration is
+sought to be
+made operative.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+
+10
+
+Where
+the applicant,
+being
+a
+registered
+non-profit
+organisation,
+has adopted or
+undertaken
+modification
+of its objects.
+
+Within
+thirty days of
+the date of such
+adoption
+or
+modification.
+
+Six
+months from
+the end of the
+quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+commencing
+from
+commencement
+of the tax year
+in which such
+application is
+made.
+
+20
+
+6.
+
+7.
+
+5
+
+15
+
+25
+
+(4) In case the application under sub-section (3) is made beyond the time
+allowed in column C of the Table specified in the said sub-section, the Principal
+Commissioner or Commissioner may, if he considers that there is a reasonable cause
+for delay in furnishing the application, condone such delay and such application
+shall be deemed to have been made within time.
+
+30
+
+(5) In case the application is made under sub-section (3)(Table: Sl. Nos. 3 to 7),
+and the total income of such applicant, without giving effect to the provisions of this
+Part, does not exceed five crore rupees during each of the two tax years, preceding the
+tax year in which such application is made, the provisions of (Table: Sl. Nos. 3.E to 7.E)
+of the said sub-section, shall have effect as if for the words “five years”, the words
+“ten years” had been substituted.
+
+35
+
+40
+
+(6) If any application for registration is not made within the time specified in
+sub-section (3)(Table: Sl. No. 3.C, 4.C, 5.C or 7.C) and the delay in filing such
+application is not condoned under sub-section (4), such person shall be liable to pay
+tax on accreted income under section 352.
+(7) The Principal Commissioner or Commissioner shall, on an application made by
+an applicant in any of the cases specified in sub-section (3)(Table: Sl. Nos. 2 to 7), call for
+such documents or information or make such inquiries as he thinks necessary in order to
+satisfy himself as to the compliance of such requirements of any other law as are material
+for the purpose of achieving its objects, and the genuineness of activities and––
+
+45
+
+(a) if he is so satisfied about the objects and the genuineness of the
+activities and compliance of the requirements of any other law in force, shall
+pass an order granting registration; or
+
+50
+
+(b) if he is not so satisfied, after affording a reasonable opportunity of
+being heard to the applicant shall,––
+
+359
+
+(i) pass an order rejecting the application, where the application
+was made in the any of the cases specified in sub-section (3)
+(Table: Sl. No. 2 or 6); or
+5
+
+(ii) pass an order in writing rejecting the application and also
+cancelling the registration in any other case specified in
+sub-section (3)(Table: Sl. Nos. 3, 4, 5 or 7),
+and send a copy of the said order to the applicant and the Assessing Officer.
+
+10
+43 of 1961.
+
+15
+
+20
+
+(8) Where an application has been made in any of the cases specified in
+sub-section (3)(Table: Sl. No. 1), the Principal Commissioner or Commissioner
+shall grant provisional registration.
+(9) Where the registration of a person, registered prior to the 1st April, 2021
+under the specified provision of the Income-tax Act, 1961 has expired and such
+person makes an application for registration under this Part, the Principal
+Commissioner or Commissioner may, if he considers that there is a reasonable cause
+for delay in making such application, condone such delay and grant registration to
+such person under this Part within three months from the end of the month in which
+the application is made, which shall be valid for five years from the commencement
+of the tax year 2021-2022.
+(10) The order under sub-sections (7), (8) and (9) shall be passed in the form
+and manner, as prescribed.
+333. (1) Nothing contained in section 11, other than Schedule II
+(Table: Sl. No. 1), Schedule III (Table: Sl. Nos. 27 to 29 and 36) and Schedule VII
+(Table: Sl. Nos. 10 to 19 and 42 to 45), shall exclude any income of a registered
+non-profit organisation from its total income for any tax year.
+
+25
+
+(2) The registration under section 332 shall cease to operate from the date on
+which the registered non-profit organisation is notified as specified in Schedule III
+(Table: Sl. No. 27, 28, 29 or 36) or Schedule VII (Table: Sl. No. 42), or from the 1st
+day of April of the tax year for a registered non-profit organisation which claims
+exemption under Schedule VII (Table: Sl. No. 43, 44 or 45).
+
+30
+
+(3) A person, whose registration ceases to operate under sub-section (2), may
+apply for registration under section 332 subject to the condition that the notification
+granting exemption to such person under Schedule III (Table: Sl. No. 27, 28, 29 or 36)
+or Schedule VII (Table: Sl. No. 42) ceases to have effect from the date on which the
+said registration is granted and thereafter shall not be entitled to exemption under
+the respective serial numbers of the said Schedules.
+
+.
+
+35
+
+Switching over
+of regimes.
+
+2.––Income of registered non-profit organisation
+334. (1) The Income-tax payable by a registered non-profit organisation on its
+total income for any tax year shall be the aggregate of the amounts calculated––
+(a) at the rate of 30% on specified income for such tax year; and
+40
+
+Tax on income
+of registered
+non-profit
+organisation.
+
+(b) at the rate applicable on taxable regular income and any residual
+income for such tax year under other provisions of this Act.
+(2) The provisions of this Chapter shall apply irrespective of anything to the
+contrary contained in any other provision of this Act other than section 96 to 98.
+
+45
+
+335. Regular income of any tax year of a registered non-profit organisation
+means––
+(a) receipts from any charitable or religious activity, for which it is
+registered, carried out by such registered non-profit organisation in such tax year;
+
+50
+
+(b) receipts, other than those specified in clause (d), whether capital or
+revenue, derived from any property or investment held by such registered
+non-profit organisation in such tax year;
+
+Regular income.
+
+360
+
+(c) voluntary contributions received by such registered non-profit
+organisation in such tax year; and
+(d) gains of any commercial activity, other than the commercial
+activities restricted under sections 345 and 346, carried out by such registered
+non-profit organisation in such tax year, computed in such manner, as
+prescribed.
+Taxable regular
+income.
+
+5
+
+336. The taxable regular income of a registered non-profit organisation for any
+tax year shall be––
+(a) nil, where 85% or more of the regular income for such tax year has
+been applied or accumulated under section 342 for charitable or religious
+purposes, in such tax year as per the provisions of this Part; and
+
+10
+
+(b) in any other case, 85% of the regular income for such tax year as
+reduced by its application for charitable or religious purposes or accumulation
+thereof under section 342 in such tax year as per the provisions of this Part.
+Specified
+income.
+
+337. The specified income of a registered non-profit organisation shall mean
+the income as specified in column B of the Table below and shall be taxable in the
+year provided in the column C thereof:––
+
+15
+
+Table
+Sl. No.
+
+Specified income
+
+Tax year
+
+A
+
+B
+
+C
+
+1.
+
+2.
+
+3.
+
+4.
+
+Any anonymous donation received by
+Tax year in which
+a registered non-profit organisation (other such anonymous donation
+than a registered non-profit organisation is received.
+created or established wholly for religious
+purposes) excluding the anonymous
+donations up to ₹1,00,000 or 5% of the such
+donations received by it during the tax year,
+whichever is higher.
+Any portion of income applied by it,
+Tax year in which
+directly or indirectly, for the benefit of any such application is made.
+related person, computed in the manner, as
+prescribed.
+
+20
+
+25
+
+30
+
+Any portion of income applied by it
+Tax year in which
+outside India in contravention to the such application of income
+provisions of section 338(a).
+is made.
+
+35
+
+Any
+investment
+made
+in
+Tax year in which
+contravention to the provisions of such investment is made.
+section 350 out of any income, accumulated
+income, deemed accumulated income,
+corpus, deemed corpus, or any other fund.
+
+40
+
+5.
+
+Any deemed corpus donation in
+Tax year in which
+respect of which any of the conditions such violation is made.
+specified in the section 340 is violated.
+
+6.
+
+Any portion of accumulated income,
+Tax year in which
+if it is applied to purposes other than it is so applied.
+charitable or religious purposes for which it
+is accumulated or set apart.
+
+45
+
+361
+
+A
+
+B
+
+C
+
+7.
+
+Any portion of accumulated income,
+if it ceases to be accumulated or set apart
+for application to such purposes as
+specified under section 342(1).
+
+Tax year in which
+it ceases to be so
+accumulated or set apart.
+
+8.
+
+Any portion of accumulated income,
+if it is not utilised for the purpose, for
+which it is accumulated or set apart within
+the period for which it was accumulated or
+set apart as specified in section 342(1).
+
+Last of the tax
+years for which income
+was so accumulated or
+set apart.
+
+9.
+
+Any portion of accumulated income,
+if it is credited or paid to any other
+registered non-profit organisation.
+
+Tax year in which
+it is so credited or paid.
+
+10.
+
+Any income applied to purposes
+Tax year in which
+other than charitable or religious purposes it is so applied.
+for which it is registered.
+
+11.
+
+Any income determined by the
+Assessing Officer under section 344 in
+excess of income shown in the books of
+account of such business undertaking.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Tax year to which
+such income relates.
+
+338. While computing the regular income of a registered non-profit
+organisation, the following income shall not be included:––
+(a) income applied outside India, where the Board, by general or special
+order, directs that such income shall not be so included in its total income in
+case of a registered non-profit organisation––
+(i) created before the 1st April, 1952 for charitable or religious
+purposes; or
+(ii) created on or after the 1st April, 1952 for charitable purposes
+where such application of income outside India tends to promote
+international welfare in which India is interested;
+(b) the corpus donation received by the registered non-profit
+organisation under section 339.
+339. Corpus donation means any donation made with a specific direction by
+the donor that it shall form part of the corpus of the registered non-profit
+organisation where such donation is invested or deposited in any of the modes
+permitted under section 350 maintained specifically for such corpus.
+340. Where the property of a registered non-profit organisation includes any
+temple, mosque, gurdwara, church or other place notified under
+section 133(1)(b)(vii), any sum or sums received by such registered non-profit
+organisation as donation for the purpose of renovation or repair of such temple,
+mosque, gurdwara, church or other place, may, at its option, be deemed as forming
+part of the corpus under section 339, if it—
+(a) maintains such corpus as separate identifiable;
+(b) applies such corpus only for the purpose for which the contribution
+was made;
+(c) invests or deposits such corpus in any of the modes permitted under
+section 350; and
+(d) does not apply such corpus for making donation to any person.
+341. (1) The following sums shall be allowed as application of income to a
+registered non-profit organisation:––
+(a) any sum applied by it for charitable or religious purpose in India for
+which it is registered where such sum is,––
+
+Income not to be
+included in
+regular income.
+
+Corpus donation.
+
+Deemed corpus
+donation.
+
+Application of
+income.
+
+362
+
+(i) paid during such tax year; and
+(ii) such payment is allowable under sections 36(4), (5), (6) and
+(7) and 35(b)(i);
+(b) 85% of the sum paid by way of donation made to any other registered
+non-profit organisation; and
+
+5
+
+(c) nil, with respect to any sum paid as a corpus donation to any other
+registered non-profit organisation.
+(2) The application of income under sub-section (1) shall include the
+following:––
+(a) the amount invested or deposited back during the tax year, in the
+modes permitted under section 350 maintained specifically for such corpus,
+if––
+(i) such investment or depositing back is made within five years
+from the end of the tax year in which such application of income was
+made from the corpus; and
+
+10
+
+15
+
+(ii) the application of income from the corpus is made after the
+31st March, 2021 and there was no violation of any provision of this
+Part, or any corresponding provision of the Income-tax Act, 1961 with
+respect to such application;
+(b) the amount repaid, during the tax year, towards any loan or
+borrowing where,––
+
+43 of 1961.
+
+20
+
+(i) such repayment is within five years from the end of the tax year
+in which such application of income was made from the loan or
+borrowing; and
+(ii) the application of income from the loan or borrowing is made
+after the 31st March, 2021 and there was no violation of any provision
+of this Part, or any corresponding provision of the Income-tax Act, 1961
+with respect to such application.
+(3) The following claims shall not be allowed as application of income under
+sub-sections (1) and (2):––
+
+25
+43 of 1961.
+
+30
+
+(a) the deduction or allowance by way of depreciation or otherwise
+claimed in respect of an asset acquisition of which has been claimed as an
+application of income in the same or any other tax year under this Part or under
+any corresponding provision of the Income-tax Act, 1961; or
+(b) a claim of set off or deduction or allowance of any excess application
+of any of the years preceding the tax year.
+
+43 of 1961.
+35
+
+(4) An application from corpus, loan or borrowing, accumulated income,
+specified income or deemed accumulated income shall not be considered as
+application for the purpose of sub-sections (1) and (2).
+Accumulated
+income.
+
+342. (1) A registered non-profit organisation may accumulate or set apart any
+part of its regular income during any tax year by furnishing a statement to the
+Assessing Officer in such form and manner, as prescribed, on or before the due date
+specified in section 263(1) for furnishing the return of income for such tax year
+stating therein the purpose and period, not exceeding five years, for which the
+income is being accumulated or set apart.
+
+40
+
+45
+
+363
+
+(2) The amount credited or paid by a registered non-profit organisation to any
+other registered non-profit organisation out of its income accumulated or set apart,
+shall not be treated as application of income.
+5
+
+(3) The period during which the income is not be applied for the purpose for
+which it is so accumulated or set apart pursuant to an order or injunction of any
+court, shall be excluded from said period of five years.
+(4) The income accumulated or set apart under sub-section (1) shall be
+invested or deposited in any of the modes permitted under section 350, or applied
+for the purposes as stated in the prescribed form referred to in sub-section (1).
+
+10
+
+15
+
+20
+
+(5) The registered non-profit organisation may, for the change of purpose for
+which income has been accumulated or set apart, make an application to the
+Assessing Officer, in such form and manner, as prescribed.
+(6) The Assessing Officer may, on an application under sub-section (5) and
+subject to sub-section (2), allow the registered non-profit organisation to apply its
+income for such other charitable or religious purposes in India which are in
+conformity with its objects.
+(7) Where a registered non-profit organisation is dissolved, the Assessing
+Officer may, on an application made by such registered non-profit organisation in
+such form and manner, as prescribed, allow application of such income to be made
+to any other registered non-profit organisation for the year in which it is dissolved.
+343. (1) The regular income, as reduced by the application of income and
+accumulated income under section 342, to the extent of 15% of regular income, shall
+be considered as deemed accumulated income and shall be invested or deposited in
+any of the modes permitted under section 350.
+
+25
+
+Deemed
+accumulated
+income.
+
+(2) The deemed accumulated income under this section shall not be considered
+as accumulated income for the purposes of section 342.
+3.––Commercial activities by registered non-profit organisation
+
+30
+
+35
+
+344. Where the property held by a registered non-profit organisation includes
+a business undertaking, and where a claim is made that the income of any such
+undertaking is eligible for benefits under this Part, then the Assessing Officer shall
+have the power to determine the income of such business undertaking as per the
+provisions of this Act.
+
+Business
+undertaking
+held as
+property.
+
+345. No registered non-profit organisation, other than a registered non-profit
+organisation, carrying out advancement of any other object of general public utility,
+shall carry out any commercial activity unless—
+
+Restriction on
+commercial
+activities by a
+registered
+non-profit
+organisation.
+
+(a) such commercial activity is incidental to the attainment of the
+objectives of the registered non-profit organisation; and
+(b) separate books of account are maintained for such activities.
+40
+
+346. No registered non-profit organisation, carrying out advancement of any
+other object of general public utility, shall carry out any commercial activity
+unless,—
+(a) such commercial activity is undertaken in the course of actual
+carrying out of advancement of any object of the general public utility;
+
+45
+
+(b) the aggregate receipts from such commercial activity or activities do
+not exceed 20% of the total receipts of such registered non-profit organisation
+of the relevant tax year; and
+
+Restriction on
+commercial
+activities by
+registered
+non-profit
+organisation,
+carrying out
+advancement of
+any other object
+of general public
+utility.
+
+364
+
+(c) separate books of account are maintained by such registered
+non-profit organisation for such activities.
+4.––Compliances
+Books of
+account.
+
+347. Where the total income of a registered non-profit organisation, without
+giving effect to the provisions of this Part, exceeds the maximum amount which is
+not chargeable to income-tax in any tax year, such registered non-profit organisation
+shall be required to keep and maintain the books of account and other documents in
+such form and manner and at such place, as prescribed.
+
+Audit.
+
+348. Where the total income of a registered non-profit organisation, without
+giving effect to the provisions of this Part, exceeds the maximum amount which is
+not chargeable to income-tax in any tax year, the accounts of such registered
+non-profit organisation for that tax year shall be audited by an accountant and the
+person in receipt of the income shall be required to furnish a report of an audit of
+such income by such date in the prescribed form, duly signed and verified by such
+accountant and setting forth such particulars, as prescribed.
+
+Return of
+income.
+
+Permitted modes
+of investment.
+
+349. Where the total income of a registered non-profit organisation, without
+giving effect to the provisions of this Part, exceeds the maximum amount which is
+not chargeable to income-tax in any tax year, it shall furnish the return of income
+for such tax year as per the provisions of section 263(1)(a)(iii), within the time limit
+allowed under sub-section (1)(b) of that section.
+
+5
+
+10
+
+15
+
+20
+
+350. (1) The modes of investing or depositing the money under this Part, shall
+be such as specified in Schedule XVI.
+(2) The modes of investing or depositing money under this Part, other than the
+modes specified in Schedule XVI, shall be specified by the Central Government, by
+notification.
+
+25
+
+5.––Violations
+Specified
+violation.
+
+351. (1) The following shall constitute specified violation by a registered
+non-profit organisation:––
+(a) where any income of the registered non-profit organisation has been
+applied, other than for its objects; or
+
+30
+
+(b) it carries out any commercial activity in contravention of the
+provisions of section 345; or
+(c) where it has applied any part of its total income for private religious
+purposes, which does not enure for the benefit of the public; or
+(d) where a registered non-profit organisation, created or established
+after the commencement of this Act for charitable purpose, has applied any
+part of its income for the benefit of any particular religious community or caste
+other than the Scheduled Castes or the Scheduled Tribes or backward classes
+or women and children; or
+
+35
+
+(e) where any activity being carried out by the registered non-profit
+organisation is not genuine or is not being carried out in accordance with all
+or any of the conditions subject to which it was registered; or
+
+40
+
+(f) the registered non-profit organisation has not complied with the
+requirements under section 332(7) and the order, direction or decree, holding
+that such non-compliance has occurred, has either not been disputed, or has
+attained finality; or
+(g) the application referred to in section 332(1) contains any false or
+incorrect information.
+
+45
+
+365
+
+(2) Where during any tax year,––
+(a) the Principal Commissioner or Commissioner has noticed occurrence
+of one or more specified violations;
+5
+
+(b) the Principal Commissioner or Commissioner has received a reference
+from the Assessing Officer under section 270(13) for any tax year; or
+(c) a registered non-profit organisation has been selected as per the risk
+management strategy formulated by the Board,
+the Principal Commissioner or Commissioner shall—
+
+10
+
+(i) call for such documents or information from the registered non-profit
+organisation, or make such inquiry as he thinks necessary in order to satisfy
+himself about the occurrence of any specified violation;
+(ii) pass an order,––
+
+15
+
+20
+
+(A) either cancelling the registration of such registered non-profit
+organisation, after affording a reasonable opportunity of being heard, for
+such tax year during which such specified violation took place and all
+subsequent tax years, if he is satisfied that one or more specified
+violations have taken place; or
+(B) not cancelling the registration of such registered non-profit
+organisation, if he is not satisfied about the occurrence of any specified
+violation; and
+(iii) forward a copy of the order passed under clause (ii) to the Assessing
+Officer and such registered non-profit organisation.
+
+25
+
+30
+
+(3) The order under sub-section (2)(ii), shall be passed before the expiry of six
+months, calculated from the end of the quarter in which the first notice is issued by
+the Principal Commissioner or Commissioner, calling for any document or
+information, or for making any inquiry, under clause (i) of the said sub-section.
+352. (1) Every specified person shall, in addition to the income-tax chargeable
+in respect of his total income, be liable to pay additional income-tax on accreted
+income at the maximum marginal rate in any of the cases specified in column B of
+the Table in sub-section (5).
+(2) The Assessing Officer shall compute the accreted income on the date,
+specified in column C of the Table in sub-section (5) and after affording a reasonable
+opportunity of being heard to the assessee, pass on order that such income shall be
+charged to tax under sub-section (1).
+
+35
+
+(3) The accreted income referred to in sub-section (1) shall be computed using
+the following formula:––
+A = B-C
+where,––
+A = Accreted income;
+
+40
+
+45
+
+B = Aggregate fair market value of the total assets of the specified
+person, as on the date specified, in column C of the Table in
+sub-section (5), computed in accordance with such method of valuation,
+as prescribed;
+C = Total liability of such specified person, as on the date specified
+in column C of the said Table, computed in accordance with such
+method of valuation, as prescribed.
+
+Tax on accreted
+income.
+
+366
+
+(4) The accreted income, computed as per the provisions of sub-section (3)
+shall be reduced by such amount of accreted income as is attributable to specified
+assets, and liabilities, if any, related to such assets.
+(5) The specified person and the principal officer or trustee of such
+specified person shall be liable to pay the tax on accreted income to the credit
+of the Central Government within fourteen days from the due date specified in
+column D of the Table below, or the date of order passed under
+sub-section (2).
+
+5
+
+Table
+Sl.
+No.
+
+Case
+
+Specified date
+
+Due date for
+the payment of
+tax on accreted
+income
+
+A
+
+B
+
+C
+
+D
+
+(i)
+1.
+
+2.
+
+3.
+
+The registration
+granted to the
+specified
+person
+under any specified
+provision has been
+cancelled
+or
+withdrawn.
+
+The registration
+granted to the
+specified
+person
+under any specified
+provision has been
+cancelled
+or
+withdrawn.
+
+(a)
+The
+specified
+person
+has adopted or
+undertaken
+modification of its
+objects during any
+tax year; and
+(b)
+such
+modified objects
+do not conform to
+the conditions of
+registration.
+
+(ii)
+The
+specified
+person
+has
+preferred an
+appeal against
+the order of
+cancellation.
+
+The
+specified
+person has not
+preferred an
+appeal against
+such order of
+cancellation.
+
+The
+specified
+person has not
+applied
+for
+fresh
+registration
+under
+any
+specified
+provision
+in
+such tax year.
+
+10
+
+15
+
+The date of
+the
+order
+cancelling the
+registration.
+
+The date of
+the
+order
+cancelling the
+registration.
+
+The date of
+adoption
+or
+modification of
+any object.
+
+Date
+of
+receipt of the
+order in any
+appeal,
+confirming the
+cancellation of
+the
+registration, by
+the specified
+person.
+The date on
+which
+the
+period
+for
+filing appeal
+under
+section
+362
+against
+the
+order
+cancelling the
+registration
+expires.
+
+20
+
+25
+
+30
+
+35
+
+The end of
+such tax year.
+40
+
+45
+
+367
+
+A
+
+B
+(i)
+
+4.
+5
+
+(a)
+The
+specified
+person
+has adopted or
+undertaken
+modification of its
+objects during any
+tax year; and
+(b)
+such
+modified objects
+do not conform to
+the conditions of
+registration.
+
+10
+
+15
+
+20
+
+5.
+
+25
+
+(a)
+The
+specified
+person
+has adopted or
+undertaken
+modification of its
+objects during any
+tax year; and
+(b)
+such
+modified objects
+do not conform to
+the conditions of
+registration.
+
+30
+
+35
+
+40
+
+45
+
+50
+
+6.
+
+The
+specified
+person fails to make
+an application as
+per the provisions
+of––
+
+C
+
+D
+
+The
+specified
+person
+has
+applied
+for
+fresh
+registration
+under
+any
+specified
+provision in
+such tax year
+and
+where
+such
+application has
+been rejected
+and appeal has
+been preferred
+against such
+order
+of
+rejection.
+
+The date of
+adoption
+or
+modification of
+any object.
+
+The date of
+receipt of the
+order in any
+appeal,
+confirming the
+cancellation of
+the registration
+by
+the
+specified
+person.
+
+The
+specified
+person
+has
+applied
+for
+fresh
+registration
+under
+any
+specified
+provision
+in
+the said tax
+year and where
+such
+application has
+been rejected
+and no appeal
+has
+been
+preferred
+against such
+order
+of
+rejection.
+
+The date of
+adoption
+or
+modification of
+any object.
+
+The date on
+which
+the
+period
+for
+filing appeal
+under section
+362 against the
+order
+cancelling the
+registration
+expires.
+
+The period
+specified in the
+respective
+clause
+or
+sub-clauses or
+Table, as the
+case may be,
+expires in the
+tax year in
+which the said
+application is
+to be made.
+
+The last date
+for making an
+application for
+registration.
+
+The end of
+such tax year.
+
+(ii)
+
+368
+
+A
+
+B
+(i)
+
+C
+
+D
+
+(ii)
+
+(a) sub-clause (i)
+or (ii) or (iii) of the
+first proviso to
+section 10 (23C) of
+the Income-tax Act,
+1961 (43 of 1961); or
+
+5
+
+(b) sub-clause (i)
+or (ii) or (iii) of
+section 12(1)(ac) of
+the Income-tax Act,
+1961 (43 of 1961);
+or
+
+10
+
+(c) as specified in
+section
+332(3)
+(Table: Sl. No. 3, 4,
+5 or 7).
+7.
+
+8.
+
+9.
+
+15
+
+Where
+a
+specified
+person
+converts itself into
+a form which is not
+eligible for grant of
+registration during
+any tax year.
+
+The date of
+such
+conversion.
+
+The specified
+person has merged
+with any other
+entity other than a
+registered
+nonprofit organisation
+having the same or
+similar objects and
+the said merger
+does not fulfil such
+conditions,
+as
+prescribed.
+
+The date of
+merger.
+
+The
+specified
+person has failed to
+transfer
+upon
+dissolution, all its
+assets to any other
+registered non-profit
+organisation within
+twelve months from
+the end of the month
+in
+which
+the
+dissolution
+takes
+place.
+
+The date of
+dissolution.
+
+The end of
+such tax year.
+
+20
+
+25
+
+The date of
+merger.
+
+30
+
+[
+
+35
+
+The date on
+which
+such
+period
+of
+twelve months
+expires.
+
+40
+
+45
+
+369
+
+5
+
+(6) The payment of tax on the accreted income by the specified person under
+this section shall be deemed as the final payment of tax in respect of the said income
+and no further credit therefor shall be claimed by, or any deduction be allowed to,
+the specified person or any other person in respect of the amount of tax so paid under
+any other provision of this Act.
+
+10
+
+(7) Where the specified person, or the principal officer or trustee of such
+specified person, fails to pay the whole or any part of the tax on the accreted income
+within the time allowed under sub-section (5), such specified person, principal
+officer or trustee shall be liable to pay simple interest, computed as per the following
+formula:––
+I = 1% of (T*P)
+where,––
+I = interest;
+T = tax on accreted income; and
+
+15
+
+20
+
+P = number of months beginning on the date immediately
+after the last date on which such tax was payable and ending with
+the date on which the tax is actually paid including part thereof.
+(8) All the provisions of this Act shall apply for the collection and recovery of
+income-tax in respect of the amount of tax payable by the specified person, principal
+officer or trustee and the following persons shall be deemed to be assessee in default:––
+(a) the specified person and principal officer or the trustee of such
+specified person;
+
+25
+
+(b) the person to whom any asset forming part of the computation of
+accreted income under sub-section (3) has been transferred, where the tax on
+accreted income is payable under the cases specified in sub-section (5)
+(Table: Sl. No. 9).
+(9) Subject to the provisions of sub-section (8), the liability of the person
+referred to in clause (b) of the said sub-section shall be limited to the extent to which
+the asset received by him is capable of meeting the liability.
+
+30
+
+353. (1) Where any registered non-profit organisation––
+(a) fails to maintain books of account under section 347; or
+(b) fails to get books of account audited under section 348; or
+(c) fails to furnish its return of income under section 349; or
+
+35
+
+(d) any registered non-profit organisation, carrying out advancement of
+any other object of general public utility, carries out any commercial activity
+in contravention of the provisions of section 346,
+during any tax year, its regular income for such tax year as reduced by the expenditure
+referred to in sub-section (3) shall be taxable regular income which shall be chargeable
+to tax as per the provisions of section 334.
+
+40
+
+(2) In addition to the tax referred to in sub-section (1), the specified income
+and residual income of the registered non-profit organisation shall also be
+chargeable to tax under the provisions of section 334, to the extent not covered under
+taxable regular income under the said sub-section, and the provisions of section 338
+shall not apply.
+
+45
+
+(3) The expenditure referred in sub-section (1) shall be computed subject to
+the following conditions:––
+(a) capital expenditure shall not be allowed;
+
+Other violations.
+
+370
+
+(b) such expenditure shall be incurred in India;
+(c) such expenditure shall be for the objects of the registered
+non-profit organisation;
+(d) such expenditure is not made from the corpus standing to the credit
+of the registered non-profit organisation as on the end of the tax year
+immediately preceding the tax year for which income is being computed;
+
+5
+
+(e) such expenditure is not out of any loan or borrowing;
+(f) the claim of depreciation is not in respect of an asset, acquisition of
+which has been claimed as application of income, in the same or any other tax
+year;
+
+10
+
+(g) such expenditure is not in the form of any contribution or donation
+to any person;
+(h) such expenditure is not on account of a payment or aggregate of
+payments made to a person in contravention to the provisions of
+sections 36(4), (5), (6) and (7);
+
+15
+
+(i) such payment is allowable under section 35(b)(i); and
+(j) set off or deduction or allowance of any application or
+expenditure other than those referred to in clauses (a) to (i) shall not be
+allowed.
+Application for
+approval for
+purpose of
+section
+133(1)(b)(ii).
+
+6.––Approval for purpose of deduction under section 133(1)(b)(ii)
+
+20
+
+354. (1) A registered non-profit organisation or a person referred to in
+Schedule III (Table: Sl. No. 1) may, for the purpose of section 133(1)(b)(ii), make
+an application for approval in such form and manner, as prescribed, to the Principal
+Commissioner or Commissioner, subject to the following conditions:––
+(a) it is not expressed to be for the benefit of any particular religious
+community or caste;
+
+25
+
+(b) it is established in India for a charitable purpose and does not incur
+any expenditure of an amount being 5% or more of its total income during a
+tax year which is of a religious nature;
+(c) the instrument under which it is constituted does not, or the rules
+governing it do not, contain any provision for the transfer at any time of the
+whole or any part of its assets for any purpose other than a charitable
+purpose;
+
+30
+
+(d) it maintains regular accounts of its receipts and expenditure;
+(e) it prepares such statement for such period, as prescribed, and deliver
+or cause to be delivered to the prescribed income-tax authority or the person
+authorised by such authority such statement in such form and verified in such
+manner and setting forth such particulars and within such time, as prescribed;
+(f) it delivers to the said prescribed authority, a correction statement for
+rectification of any mistake or to add, delete or update the information
+furnished in the statement delivered under clause (e) in such form and verified
+in such manner, as prescribed; and
+(g) it furnishes a certificate to the donor specifying the amount of
+donation within such period from the date of receipt of the donation containing
+the requisite particulars in the manner, as prescribed.
+
+35
+
+40
+
+50
+
+371
+
+5
+
+(2) The application under sub-section (1) shall be made in respect of the cases
+referred to in column B of the Table below within the time limit provided in column
+C of the said Table and the Principal Commissioner or Commissioner, on receipt of
+such application, shall follow the procedure provided in sub-sections (3) and (4),
+and shall pass an order in writing within the time limit provided in column D and
+approval, if granted, shall be valid for a period provided in column E of the said
+Table.
+Table
+Sl. No.
+
+Case
+
+Time limit for
+furnishing
+application
+
+Time limit
+for passing
+the order
+
+Validity of
+approval
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1.
+
+Where the
+activities of the
+applicant have
+not
+commenced.
+
+At any time
+during the tax
+year from which
+approval
+is
+sought.
+
+One
+months from
+the end of the
+month
+in
+which
+application is
+made.
+
+Three tax
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+
+2.
+
+Where the
+activities of the
+applicant have
+commenced.
+
+At any time
+during the tax
+year from which
+approval
+is
+sought.
+
+Six months
+Five
+tax
+from the end years
+of the quarter commencing
+in
+which from the tax
+application is year in which
+such application
+made.
+is made.
+
+3.
+
+Where the
+applicant has
+provisional
+approval and
+activities have
+commenced.
+
+Within
+six
+months of the
+commencement
+of activities.
+
+Six months
+from the end
+of the quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+commencing
+from the tax
+year in which
+such
+application is
+made.
+
+4.
+
+Where the
+provisional
+approval of the
+applicant is due
+to expire and
+activities have
+not
+commenced.
+
+At least six
+months prior to
+the expiry of the
+provisional
+approval.
+
+Six months
+from the end
+of the quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+following the
+tax year in
+which such
+application is
+made.
+
+5.
+
+Where the
+period
+for
+approval of a
+registered
+non-profit
+organisation is
+due to expire.
+
+At least six
+months prior to
+the expiry of the
+said approval.
+
+Six months
+from the end
+of the quarter
+in
+which
+application is
+made.
+
+Five tax
+years
+following the
+tax year in
+which such
+application is
+made.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+372
+
+(3) Where an application has been made in any of the cases specified under
+sub-section (2) (Table: Sl. No. 2) to (Table: Sl. No. 5), the Principal Commissioner
+or Commissioner shall call for such documents or information or make such
+inquiries as he thinks necessary in order to satisfy himself as to the compliance of
+such requirements of any other law in force, as are material for the purpose of
+achieving its objects, and the genuineness of activities and––
+
+5
+
+(a) if he is so satisfied about the objects and the genuineness of the
+activities and compliance of the requirements of any other law in force, he
+shall pass an order in writing approving it; or
+(b) if he is not so satisfied, after affording a reasonable opportunity of
+being heard,––
+
+10
+
+(i) shall pass an order in writing rejecting the application, where
+the application was made in any of the cases specified in
+sub-section (2) (Table: Sl. No. 2); and
+(ii) in any other case, shall pass an order rejecting the application
+and also cancelling the approval,
+
+15
+
+and send a copy of the order to the applicant and the Assessing Officer.
+(4) Where an application has been made in any of the cases specified in
+sub-section (2) (Table: Sl. No. 1), the Principal Commissioner or Commissioner
+shall pass an order granting provisional approval.
+
+20
+
+7.—Interpretation
+Interpretation.
+
+355. In this Part,––
+(a) “anonymous donation” means any voluntary contribution referred to
+in section 2(49)(c), where a person receiving such contribution does not
+maintain a record of the identity indicating the name and address of the person
+making such contribution and such other particulars, as prescribed;
+
+25
+
+(b) “approval” means an approval under the second proviso to section
+80G(5) of the Income-tax Act, 1961or section 354;
+
+43 of 1961.
+
+(c) “cancellation” includes withdrawal;
+(d) “donation” means any voluntary contribution received by a
+registered non-profit organisation from any person;
+(e) “commercial activity” means any activity in the nature of trade, commerce
+or business, or any activity of rendering any service in relation to any trade,
+commerce or business, for a cess or fee or any other consideration, irrespective of
+the nature of use or application, or retention, of the income from such activity;
+(f) “registration” includes provisional registration, provisional
+approval or approval, as referred to in the second proviso to sections 10(23C)
+or 12AB(1) of the Income-tax Act, 1961 and under section 332, but shall not
+include approval under the second proviso to section 80G(5) of the said Act
+or section 354;
+
+30
+
+35
+
+43 of 1961.
+40
+
+(g) “registered non-profit organisation” means any person having a
+valid registration under any specified provision and such registration has not
+been cancelled;
+(h) “related person” means any of the following persons:—
+(i) the author or the founder of the registered non-profit organisation;
+(ii) any person whose total contribution to such registered
+non-profit organisation, during the relevant tax year exceeds one lakh
+rupees, or, in aggregate up to the end of the relevant tax year exceeds
+ten lakh rupees, as the case may be;
+
+45
+
+373
+
+(iii) where such author, founder or person is a Hindu undivided
+family, a member of the family;
+(iv) any trustee or manager (by whatever name called) of the
+registered non-profit organisation;
+5
+
+(v) any relative of any persons referred to in sub-clause (i), (iii) or (iv);
+(vi) any concern in which any of the persons referred to in
+sub-clauses (i), (iii) or (iv) has a substantial interest;
+(i) “relative”, in relation to an individual, means—
+(i) spouse of the individual;
+
+10
+
+(ii) brother or sister of the individual;
+(iii) brother or sister of the spouse of the individual;
+(iv) any lineal ascendant or descendant of the individual;
+
+15
+
+20
+
+25
+43 of 1961.
+
+30
+
+35
+43 of 1961.
+
+40
+
+43 of 1961.
+45
+
+50
+
+(v) any lineal ascendant or descendant of the spouse of the individual;
+(vi) spouse of a person referred to in sub-clause (ii), (iii), (iv) or (v);
+(vii) any lineal descendant of a brother or sister of either the
+individual or of the spouse of the individual;
+(j) “residual income” means the total income, as reduced by regular
+income and specified income;
+(k) “specified asset” means any asset which is established to have been
+directly acquired by the specified person––
+(i) out of its income of the nature referred to in Schedule II
+(Table: Sl. No. 1);
+(ii) during the period beginning from the date of its creation or
+establishment and ending on the date from which the registration under
+specified provision became effective, if the specified person has not been
+allowed any benefit under this Part or under sections 11 and 12 or
+section 10(23C)(iv) or (v) or (vi) or (via) of the Income-tax Act, 1961
+during the said period, where provisions of the first proviso or the second
+proviso to sub-section 12A(2) or the eighth proviso to clause 10(23C) of
+the said Act, are not applicable;
+(iii) during the period beginning from the date of its creation or
+establishment and ending on the date from which the registration under
+specified provision became effective due to the provisions of the first
+proviso or the second proviso to section 12A(2) or the eighth proviso to
+section 10(23C), where provisions of the first proviso or the second
+proviso to section 12A(2) or the eighth proviso to section 10(23C), of
+the Income-tax Act, 1961, are applicable; and
+(iv) which has been transferred to any other specified person within
+twelve months from the end of the month in which the dissolution takes
+place in respect of a case specified in section 352(5) (Table: Sl. No. 9);
+(l) “specified person” means any person which is registered under any
+specified provision at any time since its incorporation or creation;
+(m) “specified provision” means section 12A, 12AA or 12AB or
+section 10(23C) of the Income-tax Act, 1961 or section 332;
+(n) “substantial interest”, in relation to a person in a concern, means––
+(i) where the concern is a company, its shares (not being shares
+entitled to a fixed rate of dividend whether with or without a further right
+to participate in profits) carrying not less than 20% of the voting power
+are, at any time during the tax year, owned beneficially by such person
+or partly by such person and partly by one or more of the other related
+persons; or
+
+374
+
+(ii) in the case of any other concern, if such person is entitled, or
+such person and one or more of the other related persons are entitled in
+the aggregate at any time during the tax year, to not less than 20% of the
+profits of such concern; and
+(o) “value” means the value of any benefit or facility granted or provided
+free of cost or at concessional rate to any related person.
+
+5
+
+CHAPTER XVIII
+APPEALS, REVISIONS AND ALTERNATE DISPUTE RESOLUTIONS
+A.—Appeals
+I.—Appeals to Joint Commissioner (Appeals) and Commissioner (Appeals)
+Appealable
+orders before
+Joint
+Commissioner
+(Appeals).
+
+10
+
+356. (1) Any assessee, aggrieved by any of the following orders of an
+Assessing Officer (below the rank of Joint Commissioner) may appeal to the Joint
+Commissioner (Appeals) against––
+(a) an order being an intimation under section 270(1) or 399(1), where
+the assessee objects to the making of adjustments; or
+
+15
+
+(b) an order under section 270(10) or 271, where the assessee objects to
+the amount of income assessed, or to the amount of tax determined, or to the
+amount of loss computed, or to the status under which he is assessed; or
+(c) an order of assessment, reassessment or recomputation under
+section 279; or
+
+20
+
+(d) an order under section 398; or
+(e) an order imposing penalty under Chapter XXI; or
+(f) an order under section 287 or 288 amending any of the orders or
+intimations in clauses (a) to (e).
+(2) No appeal shall be filed before the Joint Commissioner (Appeals) if an
+order referred to in sub-section (1) is passed by or with the prior approval of, an
+income-tax authority above the rank of Deputy Commissioner.
+
+25
+
+(3) The Board or an income-tax authority so authorised by the Board in this
+regard, may transfer—
+(a) any appeal filed against an order referred to in sub-section (1) and
+any matter arising out of or connected with such appeal, which is pending
+before the Commissioner (Appeals), to the Joint Commissioner (Appeals); or
+(b) any appeal which is pending before a Joint Commissioner (Appeals)
+and any matter arising out of or connected with such appeal and which is so
+pending, to the Commissioner (Appeals), regardless of anything contained in
+sub-sections (1) and (3)(a),
+
+30
+
+35
+
+who may proceed with such appeal or matter, from the stage at which it was before
+it was so transferred.
+(4) Where an appeal is transferred under sub-section (3), the appellant shall be
+given an opportunity of being reheard.
+(5) For the disposal of appeal under this section, the Central Government may
+notify a scheme, so as to dispose of appeals in an expedient manner with transparency
+and accountability, by eliminating the interface between the Joint Commissioner
+(Appeals) and the appellant, to the extent technologically feasible and direct that any of
+the provisions of this Act relating to jurisdiction and procedure for disposal of such
+appeals, shall not apply or shall apply with exceptions, modifications and adaptations.
+
+40
+
+45
+
+(6) The Board may specify that any provisions of this section shall not apply
+to any case or class of cases.
+(7) In this section, “status” means the category of person as defined in
+section 2(77) under which the assessee is assessed.
+
+50
+
+
